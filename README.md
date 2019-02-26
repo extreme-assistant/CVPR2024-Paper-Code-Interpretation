@@ -102,3 +102,7 @@ Related paper links:
 作者：Yawei Luo, Liang Zheng, Tao Guan, Junqing Yu, Yi Yang<br>
 论文链接：https://arxiv.org/abs/1809.09478
 <br><br>
+24.MAN: Moment Alignment Network for Natural Language Moment Retrieval via Iterative Graph Adjustment <br>
+作者：Da Zhang, Xiyang Dai, Xin Wang, Yuan-Fang Wang, Larry S. Davis <br>
+论文链接：https://arxiv.org/pdf/1812.00087.pdf
+<br><br>
