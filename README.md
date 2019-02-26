@@ -102,3 +102,7 @@ Related paper links:
 作者：Yawei Luo, Liang Zheng, Tao Guan, Junqing Yu, Yi Yang<br>
 论文链接：https://arxiv.org/abs/1809.09478
 <br><br>
+24.Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving<br>
+作者：Yan Wang, Wei-Lun Chao, Divyansh Garg, Bharath Hariharan, Mark Campbell, Kilian Q. Weinberger<br>
+论文链接：https://arxiv.org/abs/1812.07179
+<br><br>
