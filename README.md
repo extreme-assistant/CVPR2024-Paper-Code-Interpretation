@@ -9,6 +9,34 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 <br><br>
 Related paper links:
 <br>
+35.Disentangled Representation Learning for 3D Face Shape<br>
+作者：Zi-Hang Jiang, Qianyi Wu, Keyu Chen, Juyong Zhang<br>
+论文链接：https://arxiv.org/abs/1902.09887<br><br>
+
+34.RepNet: Weakly Supervised Training of an Adversarial Reprojection Network for 3D Human Pose Estimation<br>
+作者：Bastian Wandt, Bodo Rosenhahn<br>
+论文链接：https://arxiv.org/abs/1902.09868<br><br>
+
+33.Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding（开源）<br>
+作者：Zehao Yu, Jia Zheng, Dongze Lian, Zihan Zhou, Shenghua Gao<br>
+论文链接：https://arxiv.org/abs/1902.09777<br>
+代码链接：https://github.com/svip-lab/PlanarReconstruction<br>
+来源：https://mp.weixin.qq.com/s/mamDhLUw6O9v8gldyIOPUA<br><br>
+32.Learning a Deep ConvNet for Multi-label Classification with Partial Labels(分类)<br>
+作者：Thibaut Durand, Nazanin Mehrasa, Greg Mori<br>
+论文链接：https://arxiv.org/abs/1902.09720<br>
+来源：https://mp.weixin.qq.com/s/mamDhLUw6O9v8gldyIOPUA<br><br>
+
+31.Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression(检测）<br>
+作者：Hamid Rezatofighi, Nathan Tsoi, JunYoung Gwak, Amir Sadeghian, Ian Reid, Silvio Savarese<br>
+论文链接：https://arxiv.org/abs/1902.09630<br>
+来源：https://mp.weixin.qq.com/s/mamDhLUw6O9v8gldyIOPUA<br><br>
+
+
+30.Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression(检测）<br>
+作者：Hamid Rezatofighi, Nathan Tsoi, JunYoung Gwak, Amir Sadeghian, Ian Reid, Silvio Savarese<br>
+论文链接：https://arxiv.org/abs/1902.09630<br>
+来源：https://mp.weixin.qq.com/s/mamDhLUw6O9v8gldyIOPUA<br><br>
 
 29.Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving<br>
 作者：Yan Wang, Wei-Lun Chao, Divyansh Garg, Bharath Hariharan, Mark Campbell, Kilian Q. Weinberger<br>
@@ -20,15 +48,16 @@ Related paper links:
 <br><br>
 
 
-27.Associatively Segmenting Instances and Semantics in Point Clouds<br>
+27.Associatively Segmenting Instances and Semantics in Point Clouds（点云分割，开源）<br>
 作者：Xinlong Wang, Shu Liu, Xiaoyong Shen, Chunhua Shen, Jiaya Jia<br>
-论文链接：https://arxiv.org/abs/1902.09852<br><br>
+论文链接：https://arxiv.org/abs/1902.09852<br>
+代码链接：https://github.com/WXinlong/ASIS<br><br>
 
 26.MUREL: Multimodal Relational Reasoning for Visual Question Answering<br>
 作者：Remi Cadene, Hedi Ben-younes, Matthieu Cord, Nicolas Thome<br>
 论文链接：https://arxiv.org/abs/1902.09487<br><br>
 
-25.Stereo R-CNN based 3D Object Detection for Autonomous Driving<br>
+25.Stereo R-CNN based 3D Object Detection for Autonomous Driving（3D检测）<br>
 作者：Peiliang Li, Xiaozhi Chen, Shaojie Shen<br>
 论文链接：https://arxiv.org/abs/1902.09738<br><br>
 24.Image-Question-Answer Synergistic Network for Visual Dialog<br>
