@@ -10,6 +10,11 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 Related paper links:
 <br>
 
+28.MAN: Moment Alignment Network for Natural Language Moment Retrieval via Iterative Graph Adjustment <br>
+作者：Da Zhang, Xiyang Dai, Xin Wang, Yuan-Fang Wang, Larry S. Davis <br>
+论文链接：https://arxiv.org/pdf/1812.00087.pdf
+<br><br>
+
 
 27.Associatively Segmenting Instances and Semantics in Point Clouds<br>
 作者：Xinlong Wang, Shu Liu, Xiaoyong Shen, Chunhua Shen, Jiaya Jia<br>
