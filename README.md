@@ -10,6 +10,10 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 Related paper links:
 <br>
 
+29.Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving<br>
+作者：Yan Wang, Wei-Lun Chao, Divyansh Garg, Bharath Hariharan, Mark Campbell, Kilian Q. Weinberger<br>
+论文链接：https://arxiv.org/abs/1812.07179<br><br>
+
 28.MAN: Moment Alignment Network for Natural Language Moment Retrieval via Iterative Graph Adjustment <br>
 作者：Da Zhang, Xiyang Dai, Xin Wang, Yuan-Fang Wang, Larry S. Davis <br>
 论文链接：https://arxiv.org/pdf/1812.00087.pdf
