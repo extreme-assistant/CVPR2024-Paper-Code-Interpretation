@@ -9,6 +9,11 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 <br><br>
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来）
 <br>
+39.3D-SIS: 3D Semantic Instance Segmentation of RGB-D Scans<br>
+作者：Ji Hou    Angela Dai    Matthias Nießner<br>
+论文链接：https://niessnerlab.org/projects/hou20183dsis.html<br>
+YouTube视频：https://youtu.be/IH9rNLD1-JE
+<br><br>
 38.MUREL: Multimodal Relational Reasoning for Visual Question Answering<br>
 作者：Remi Cadene, Hedi Ben-younes, Matthieu Cord, Nicolas Thome<br>
 论文链接：https://arxiv.org/abs/1902.09487<br>
