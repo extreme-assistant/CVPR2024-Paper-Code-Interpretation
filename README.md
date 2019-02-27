@@ -1,14 +1,31 @@
 # cvpr2019
-原文链接：https://mp.weixin.qq.com/s/SmS-guwg6oUqPYwfeC6iiw<br>
+原文链接：https://mp.weixin.qq.com/s/SmS-guwg6oUqPYwfeC6iiw<br><br>
 cvpr2019 accepted papers list:<br>
 http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
-<br>
+<br><br>
 论文PDF下载（更新中）<br>
 链接：https://pan.baidu.com/s/1s4FuLscWcslN5rQQvP92JA 
 提取码：osvy 
 <br><br>
 Related paper links:
 <br>
+
+
+27.Associatively Segmenting Instances and Semantics in Point Clouds<br>
+作者：Xinlong Wang, Shu Liu, Xiaoyong Shen, Chunhua Shen, Jiaya Jia<br>
+论文链接：https://arxiv.org/abs/1902.09852<br><br>
+
+26.MUREL: Multimodal Relational Reasoning for Visual Question Answering<br>
+作者：Remi Cadene, Hedi Ben-younes, Matthieu Cord, Nicolas Thome<br>
+论文链接：https://arxiv.org/abs/1902.09487<br><br>
+
+25.Stereo R-CNN based 3D Object Detection for Autonomous Driving<br>
+作者：Peiliang Li, Xiaozhi Chen, Shaojie Shen<br>
+论文链接：https://arxiv.org/abs/1902.09738<br><br>
+24.Image-Question-Answer Synergistic Network for Visual Dialog<br>
+作者：Dalu Guo, Chang Xu, Dacheng Tao<br>
+论文链接：https://arxiv.org/abs/1902.09774<br><br>
+
 1、Attention-guided Unified Network for Panoptic Segmentation<br>
 作者：Yanwei Li, Xinze Chen, Zheng Zhu, Lingxi Xie, Guan Huang, Dalong Du, Xingang Wang<br>
 论文链接：https://arxiv.org/abs/1812.03904
@@ -86,7 +103,7 @@ Related paper links:
 作者：Xin Wang, Qiuyuan Huang, Asli Celikyilmaz, Jianfeng Gao, Dinghan Shen, Yuan-Fang Wang, William Yang Wang, Lei Zhang<br>
 论文链接：https://arxiv.org/abs/1811.10092
 <br><br>
-20、GANFIT: Generative Adversarial Network Fitting for High Fidelity 3D Face Reconstruction<br>
+20、Disentangled Representation Learning for 3D Face Shape<br>
 作者：Baris Gecer, Stylianos Ploumpis, Irene Kotsia, Stefanos Zafeiriou<br>
 论文链接：https://arxiv.org/abs/1902.05978
 <br><br>
@@ -102,3 +119,5 @@ Related paper links:
 作者：Yawei Luo, Liang Zheng, Tao Guan, Junqing Yu, Yi Yang<br>
 论文链接：https://arxiv.org/abs/1809.09478
 <br><br>
+
+
