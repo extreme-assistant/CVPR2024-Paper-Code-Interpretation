@@ -7,8 +7,22 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 链接：https://pan.baidu.com/s/1s4FuLscWcslN5rQQvP92JA 
 提取码：osvy 
 <br><br>
-Related paper links:
+Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来）
 <br>
+38.MUREL: Multimodal Relational Reasoning for Visual Question Answering<br>
+作者：Remi Cadene, Hedi Ben-younes, Matthieu Cord, Nicolas Thome<br>
+论文链接：https://arxiv.org/abs/1902.09487<br>
+github链接：https://github.com/Cadene/murel.bootstrap.pytorch<br><br>
+
+37.ROI-10D: Monocular Lifting of 2D Detection to 6D Pose and Metric Shape
+作者：Fabian Manhardt, Wadim Kehl, Adrien Gaidon<br>
+论文链接：https://arxiv.org/abs/1812.02781<br><br>
+
+36.GANFIT: Generative Adversarial Network Fitting for High Fidelity 3D Face Reconstruction<br>
+作者：Baris Gecer, Stylianos Ploumpis, Irene Kotsia, Stefanos Zafeiriou<br>
+论文链接：https://arxiv.org/abs/1902.05978<br>
+github链接：https://github.com/barisgecer/ganfit<br><br>
+
 35.Disentangled Representation Learning for 3D Face Shape<br>
 作者：Zi-Hang Jiang, Qianyi Wu, Keyu Chen, Juyong Zhang<br>
 论文链接：https://arxiv.org/abs/1902.09887<br><br>
