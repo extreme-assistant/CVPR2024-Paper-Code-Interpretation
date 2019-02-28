@@ -9,6 +9,57 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 <br><br>
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来）
 <br>
+48.Efficient Video Classification Using Fewer Frames<br>
+作者：Shweta Bhardwaj, Mukundhan Srinivasan, Mitesh M. Khapra<br>
+论文链接：https://arxiv.org/abs/1902.10640<br>
+来源：https://mp.weixin.qq.com/s/61C-k3Ijy_7ry5B5lRML6Q
+<br><br>
+
+47.Recurrent MVSNet for High-resolution Multi-view Stereo Depth Inference<br>
+作者：Yao Yao, Zixin Luo, Shiwei Li, Tianwei Shen, Tian Fang, Long Quan<br>
+论文链接：https://arxiv.org/abs/1902.10556<br>
+代码链接：https://github.com/YoYo000/MVSNet<br>
+来源：https://mp.weixin.qq.com/s/61C-k3Ijy_7ry5B5lRML6Q
+<br><br>
+
+46.Single-frame Regularization for Temporally Stable CNNs（视频处理）<br>
+作者：Gabriel Eilertsen, Rafał K. Mantiuk, Jonas Unger<br>
+论文链接：https://arxiv.org/abs/1902.10424<br>
+来源：https://mp.weixin.qq.com/s/61C-k3Ijy_7ry5B5lRML6Q
+<br><br>
+
+
+45.FickleNet: Weakly and Semi-supervised Semantic Image Segmentation using Stochastic Inference<br>
+作者：Jungbeom Lee, Eunji Kim, Sungmin Lee, Jangho Lee, Sungroh Yoon<br>
+论文链接：https://arxiv.org/abs/1902.10421<br>
+来源：https://mp.weixin.qq.com/s/61C-k3Ijy_7ry5B5lRML6Q
+<br><br>
+
+
+44.Spatio-Temporal Dynamics and Semantic Attribute Enriched Visual Encoding for Video Captioning<br>
+作者：Nayyer Aafaq, Naveed Akhtar, Wei Liu, Syed Zulqarnain Gilani, Ajmal Mian<br>
+论文链接：https://arxiv.org/abs/1902.10322<br>
+来源：https://mp.weixin.qq.com/s/61C-k3Ijy_7ry5B5lRML6Q
+<br><br>
+43.Self-Supervised Generative Adversarial Networks<br>
+作者：Ting Chen, Xiaohua Zhai, Marvin Ritter, Mario Lucic, Neil Houlsby<br>
+论文链接：https://arxiv.org/abs/1811.11212<br>
+Github链接：https://github.com/google/compare_gan<br><br>
+
+42.RePr: Improved Training of Convolutional Filters<br>
+作者：Aaditya Prakash, James Storer, Dinei Florencio, Cha Zhang<br>
+论文链接：https://arxiv.org/abs/1811.07275<br><br>
+
+41.Data augmentation using learned transforms for one-shot medical image segmentation<br>
+作者：Amy Zhao, Guha Balakrishnan, Frédo Durand, John V. Guttag, Adrian V. Dalca<br>
+论文链接：https://arxiv.org/abs/1902.09383<br><br>
+
+40.Monocular Total Capture: Posing Face, Body, and Hands in the Wild<br>
+作者：Donglai Xiang, Hanbyul Joo, Yaser Sheikh<br>
+论文链接：https://arxiv.org/pdf/1812.01598.pdf<br>
+项目链接：http://domedb.perception.cs.cmu.edu/monototalcapture.html
+<br><br>
+
 39.3D-SIS: 3D Semantic Instance Segmentation of RGB-D Scans<br>
 作者：Ji Hou    Angela Dai    Matthias Nießner<br>
 论文链接：https://niessnerlab.org/projects/hou20183dsis.html<br>
@@ -46,11 +97,10 @@ github链接：https://github.com/barisgecer/ganfit<br><br>
 论文链接：https://arxiv.org/abs/1902.09720<br>
 来源：https://mp.weixin.qq.com/s/mamDhLUw6O9v8gldyIOPUA<br><br>
 
-31.Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression(检测）<br>
-作者：Hamid Rezatofighi, Nathan Tsoi, JunYoung Gwak, Amir Sadeghian, Ian Reid, Silvio Savarese<br>
-论文链接：https://arxiv.org/abs/1902.09630<br>
-来源：https://mp.weixin.qq.com/s/mamDhLUw6O9v8gldyIOPUA<br><br>
-
+31.3D Hand Shape and Pose from Images in the Wild<br>
+作者：Adnane Boukhayma, Rodrigo de Bem, Philip H.S. Torr<br>
+论文链接：https://arxiv.org/pdf/1902.03451.pdf<br>
+Github链接：https://github.com/boukhayma/3dhand<br><br>
 
 30.Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression(检测）<br>
 作者：Hamid Rezatofighi, Nathan Tsoi, JunYoung Gwak, Amir Sadeghian, Ian Reid, Silvio Savarese<br>
@@ -90,7 +140,8 @@ github链接：https://github.com/barisgecer/ganfit<br><br>
 2、Deep High-Resolution Representation Learning for Human Pose Estimation(目前SOTA,已经开源)<br>
 作者：Ke Sun, Bin Xiao, Dong Liu, Jingdong Wang<br>
 论文链接：https://128.84.21.199/abs/1902.09212<br>
-代码链接：https://github.com/leoxiaobin/deep-high-resolution-net.pytorch
+代码链接：https://github.com/leoxiaobin/deep-high-resolution-net.pytorch<br>
+论文解读：https://mp.weixin.qq.com/s/ZRCzBTBmlEzQCVo1HLWtbQ
 <br><br>
 3、MUREL: Multimodal Relational Reasoning for Visual Question Answering<br><br>
 作者：Remi Cadene, Hedi Ben-younes, Matthieu Cord, Nicolas Thome<br>
