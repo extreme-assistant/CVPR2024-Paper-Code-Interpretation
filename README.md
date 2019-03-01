@@ -9,6 +9,9 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 <br><br>
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来）
 <br>
+54.PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image<br>
+作者：Chen Liu, Kihwan Kim, Jinwei Gu, Yasutaka Furukawa, Jan Kautz<br>
+论文链接：https://arxiv.org/abs/1812.04072<br><br>
 53.Bi-Directional Cascade Network for Perceptual Edge Detection<br>
 作者：Jianzhong He, Shiliang Zhang, Ming Yang, Yanhu Shan, Tiejun Huang<br>
 论文链接：https://arxiv.org/abs/1902.10903<br>
