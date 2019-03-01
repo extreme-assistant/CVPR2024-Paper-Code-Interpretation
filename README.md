@@ -9,6 +9,30 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 <br><br>
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来）
 <br>
+53.Bi-Directional Cascade Network for Perceptual Edge Detection<br>
+作者：Jianzhong He, Shiliang Zhang, Ming Yang, Yanhu Shan, Tiejun Huang<br>
+论文链接：https://arxiv.org/abs/1902.10903<br>
+Github源码：https://github.com/pkuCactus/BDCN<br><br>
+
+52.Dual Attention Network for Scene Segmentation<br>
+作者：Jun Fu, Jing Liu, Haijie Tian, Yong Li, Yongjun Bao, Zhiwei Fang, Hanqing Lu<br>
+论文链接：https://arxiv.org/abs/1809.02983<br>
+Github源码：https://github.com/junfu1115/DANet<br><br>
+
+51.Object-driven Text-to-Image Synthesis via Adversarial Training<br>
+作者：Wenbo Li, Pengchuan Zhang, Lei Zhang, Qiuyuan Huang, Xiaodong He, Siwei Lyu, Jianfeng Gao<br>
+论文链接：https://arxiv.org/abs/1902.10740<br><br>
+
+50.Joint Face Detection and Facial Motion Retargeting for Multiple Faces<br>
+作者：Bindita Chaudhuri, Noranart Vesdapunt, Baoyuan Wang<br>
+论文链接：https://arxiv.org/abs/1902.10744<br><br>
+
+
+49.End-to-End Efficient Representation Learning via Cascading Combinatorial Optimization<br>
+作者：Yeonwoo Jeong, Yoonsuing Kim, Hyun Oh Song<br>
+论文链接：https://arxiv.org/abs/1902.10990
+<br><br>
+
 48.Efficient Video Classification Using Fewer Frames<br>
 作者：Shweta Bhardwaj, Mukundhan Srinivasan, Mitesh M. Khapra<br>
 论文链接：https://arxiv.org/abs/1902.10640<br>
@@ -92,6 +116,7 @@ github链接：https://github.com/barisgecer/ganfit<br><br>
 论文链接：https://arxiv.org/abs/1902.09777<br>
 代码链接：https://github.com/svip-lab/PlanarReconstruction<br>
 来源：https://mp.weixin.qq.com/s/mamDhLUw6O9v8gldyIOPUA<br><br>
+
 32.Learning a Deep ConvNet for Multi-label Classification with Partial Labels(分类)<br>
 作者：Thibaut Durand, Nazanin Mehrasa, Greg Mori<br>
 论文链接：https://arxiv.org/abs/1902.09720<br>
@@ -105,7 +130,8 @@ Github链接：https://github.com/boukhayma/3dhand<br><br>
 30.Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression(检测）<br>
 作者：Hamid Rezatofighi, Nathan Tsoi, JunYoung Gwak, Amir Sadeghian, Ian Reid, Silvio Savarese<br>
 论文链接：https://arxiv.org/abs/1902.09630<br>
-来源：https://mp.weixin.qq.com/s/mamDhLUw6O9v8gldyIOPUA<br><br>
+来源：https://mp.weixin.qq.com/s/mamDhLUw6O9v8gldyIOPUA<br>
+论文解读：https://mp.weixin.qq.com/s/6QsyYtEVjavoLfU_lQF1pw<br><br>
 
 29.Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving<br>
 作者：Yan Wang, Wei-Lun Chao, Divyansh Garg, Bharath Hariharan, Mark Campbell, Kilian Q. Weinberger<br>
@@ -122,9 +148,9 @@ Github链接：https://github.com/boukhayma/3dhand<br><br>
 论文链接：https://arxiv.org/abs/1902.09852<br>
 代码链接：https://github.com/WXinlong/ASIS<br><br>
 
-26.MUREL: Multimodal Relational Reasoning for Visual Question Answering<br>
-作者：Remi Cadene, Hedi Ben-younes, Matthieu Cord, Nicolas Thome<br>
-论文链接：https://arxiv.org/abs/1902.09487<br><br>
+26. Efficient Parameter-free Clustering Using First Neighbor Relations<br>
+作者：M. Saquib Sarfraz, Vivek Sharma, Rainer Stiefelhagen<br>
+论文链接：https://arxiv.org/abs/1902.11266<br><br>
 
 25.Stereo R-CNN based 3D Object Detection for Autonomous Driving（3D检测）<br>
 作者：Peiliang Li, Xiaozhi Chen, Shaojie Shen<br>
