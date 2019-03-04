@@ -9,6 +9,60 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 <br><br>
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来）
 <br>
+
+
+
+63.Mask Scoring R-CNN<br>
+作者：Zhaojin Huang, Lichao Huang, Yongchao Gong, Chang Huang, Xinggang Wang<br>
+论文链接：https://arxiv.org/abs/1903.00241<br><br>
+62.Octree guided CNN with Spherical Kernels for 3D Point Clouds<br>
+作者：Huan Lei, Naveed Akhtar, Ajmal Mian<br>
+论文链接：https://arxiv.org/abs/1903.00343<br><br>
+
+61.Context-Aware Visual Compatibility Prediction<br>
+作者：Guillem Cucurull, Perouz Taslakian, David Vazquez<br>
+论文链接：https://arxiv.org/abs/1902.03646<br><br>
+
+
+60.Competitive Collaboration: Joint Unsupervised Learning of Depth, CameraMotion, Optical Flow and Motion Segmentation <br>
+作者：Anurag Ranjan, Varun Jampani, Kihwan Kim, Deqing Sun, Jonas Wulff, Michael J. Black<br>
+论文链接：https://arxiv.org/pdf/1805.09806.pdf<br>
+Reading Note:Single view depth prediction, camera motion estimation, optical flow, and segmentation of a video into the static scene and moving regions are challenging but coupled problems. Our key insight is that these four fundamental vision problems are coupled through geometric constraints. Thus, we introduce Competitive Collaboration, a framework that facilitates the coordinated training of multiple specialized neural networks to solve complex problems.	<br><br>
+
+59.Neural RGB-D Sensing: Depth estimation from a video<br>
+作者：Chao Liu, Jinwei Gu, Kihwan Kim, Srinivasa Narasimhan, Jan Kautz<br>
+论文链接：https://arxiv.org/pdf/1901.02571.pdf<br>
+project链接：https://research.nvidia.com/publication/2019-06_Neural-RGBD<br>
+Reading Note:In this paper, we propose a deep learning (DL) method to estimate per-pixel depth and its uncertainty continuously from a monocular video stream, with the goal of effectively turning an RGB camera into an RGB-D camera. Unlike prior DL-basedmethods, we estimate a depth probability distribution for each pixel rather than a single depth value, leading to an estimate of a 3D depth probability volume for each input frame. <br><br>
+
+
+
+58.PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image <br>
+作者：Chen Liu, Kihwan Kim, Jinwei Gu, Yasutaka Furukawa, Jan Kautz<br>
+论文链接：https://arxiv.org/pdf/1812.04072.pdf<br>
+project链接：https://research.nvidia.com/publication/2019-06_PlaneRCNN<br>
+Reading Note:This paper proposes a deep neural architecture, PlaneR-CNN, that detects and reconstructs piecewise planar surfaces from a single RGB image. PlaneRCNN employs a variant of Mask R-CNN to detect planes with their plane parameters and segmentation masks. PlaneRCNN then jointly refines all the segmentation masks with a novel loss enforcing the consistency with a nearby view during training.	<br><br>
+
+
+
+57.A General and Adaptive Robust Loss Function(Oral Presentation) <br>
+作者：Jonathan T. Barron <br>
+论文链接：https://arxiv.org/abs/1701.03077<br>
+Reading Note:A single robust loss function is a superset of many other common robust loss functions, and allows training to automatically adapt the robustness of its own loss.<br><br>
+
+
+56.Learning to Synthesize Motion Blur(Oral Presentation)<br>
+作者：Tim Brooks, Jonathan T. Barron<br>
+论文链接：https://arxiv.org/abs/1811.11745<br>
+project链接：http://timothybrooks.com/tech/motion-blur/<br>
+Reading note:Frame interpolation techniques can be used to train a network to directly synthesize linear motion blur.<br><br>
+
+55.Unprocessing Images for Learned Raw Denoising (Oral Presentation)<br>
+作者：Tim Brooks, Ben Mildenhall, Tianfan Xue, Jiawen Chen, Dillon Sharlet, Jonathan T. Barron<br>
+论文链接：https://arxiv.org/abs/1811.11127<br>
+project链接：http://timothybrooks.com/tech/unprocessing/<br>
+Reading note:We can learn a better denoising model by processing and unprocessing images the same way a camera does.<br><br>
+
 54.PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image<br>
 作者：Chen Liu, Kihwan Kim, Jinwei Gu, Yasutaka Furukawa, Jan Kautz<br>
 论文链接：https://arxiv.org/abs/1812.04072<br><br>
@@ -162,9 +216,10 @@ Github链接：https://github.com/boukhayma/3dhand<br><br>
 作者：Dalu Guo, Chang Xu, Dacheng Tao<br>
 论文链接：https://arxiv.org/abs/1902.09774<br><br>
 
-1、Attention-guided Unified Network for Panoptic Segmentation<br>
+1、Attention-guided Unified Network for Panoptic Segmentation（全景分割）<br>
 作者：Yanwei Li, Xinze Chen, Zheng Zhu, Lingxi Xie, Guan Huang, Dalong Du, Xingang Wang<br>
-论文链接：https://arxiv.org/abs/1812.03904
+论文链接：https://arxiv.org/abs/1812.03904<br>
+论文解读：https://mp.weixin.qq.com/s/1tohID6SM3weS476XU5okw
 <br><br>
 2、Deep High-Resolution Representation Learning for Human Pose Estimation(目前SOTA,已经开源)<br>
 作者：Ke Sun, Bin Xiao, Dong Liu, Jingdong Wang<br>
@@ -202,7 +257,9 @@ Github链接：https://github.com/boukhayma/3dhand<br><br>
 <br><br>
 10、DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion<br>
 作者：Chen Wang, Danfei Xu, Yuke Zhu, Roberto Martín-Martín, Cewu Lu, Li Fei-Fei, Silvio Savarese<br>
-论文链接：https://arxiv.org/abs/1901.04780
+论文链接：https://arxiv.org/abs/1901.04780 <br>
+论文解读：https://mp.weixin.qq.com/s/wrND2cocWlPPVXPqpq-Glg
+
 <br><br>
 11、A Neurobiological Evaluation Metric for Neural Network Model Search<br>
 作者：Nathaniel Blanchard, Jeffery Kinnison, Brandon RichardWebster, Pouya Bashivan, Walter J. Scheirer<br>
