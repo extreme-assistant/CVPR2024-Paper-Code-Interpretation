@@ -10,7 +10,82 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 <br><br>
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来）
 <br>
+75.Self-supervised Learning of Dense Shape Correspondence(Oral Presentation)<br>
+作者：Oshri Halimi, Or Litany, Emanuele Rodolà, Alex Bronstein, Ron Kimmel
+<br>
+论文链接：https://arxiv.org/abs/1812.02415<br><br>
 
+
+74.A Kernelized Manifold Mapping to Diminish the Effect of Adversarial Perturbations<br>
+作者：Saeid Asgari Taghanaki   Kumar Abhishek1   Shekoofeh Azizi  and Ghassan Hamarneh
+<br>
+论文链接：http://cs.sfu.ca/~hamarneh/ecopy/cvpr2019.pdf<br><br>
+
+
+
+73.RepMet: Representative-based metric learning for classification and one-shot object detection<br>
+
+作者：Leonid Karlinsky, Joseph Shtok, Sivan Harary, Eli Schwartz, Amit Aides, Rogerio Feris, Raja Giryes, Alex M. Bronstein<br>
+论文链接：https://arxiv.org/abs/1806.04728<br><br>
+
+
+72.Handwriting Recognition in Low-resource Scripts using Adversarial Learning<br>
+作者：Ayan Kumar Bhunia, Abhirup Das, Ankan Kumar Bhunia, Perla Sai Raj Kishore, Partha Pratim Roy<br>
+论文链接：https://arxiv.org/pdf/1811.01396.pdf<br><br>
+
+
+
+71.DeepMapping: Unsupervised Map Estimation From Multiple Point Clouds<br>
+作者：Li Ding, Chen Feng<br>
+论文链接：https://arxiv.org/abs/1811.11397<br><br>
+
+
+
+70.Multi-Step Prediction of Occupancy Grid Maps with Recurrent Neural Networks<br>
+作者：Nima Mohajerin, Mohsen Rohani<br>
+论文链接：https://arxiv.org/pdf/1812.09395.pdf<br><br>
+
+
+69.On the Continuity of Rotation Representations in Neural Networks
+作者：Yi Zhou, Connelly Barnes, Jingwan Lu, Jimei Yang, Hao Li<br>
+论文链接：https://arxiv.org/pdf/1812.07035.pdf<br><br>
+
+68.LaSOT: A High-quality Benchmark for Large-scale Single Object Tracking(目标跟踪）
+<br>
+作者：Heng Fan, Liting Lin, Fan Yang, Peng Chu, Ge Deng, Sijia Yu, Hexin Bai, Yong Xu, Chunyuan Liao, Haibin Ling<br>
+论文链接：https://arxiv.org/pdf/1809.07845.pdf<br>
+project链接：https://cis.temple.edu/lasot/<br><br>
+<br>
+
+
+
+67.Siamese Cascaded Region Proposal Networks for Real-Time Visual Tracking(CRPN,目标跟踪）
+<br>
+作者：Heng Fan, Haibin Ling<br>
+论文链接：https://arxiv.org/pdf/1812.06148.pdf<br>
+<br>
+
+
+
+66.SiamRPN++: Evolution of Siamese Visual Tracking with Very Deep Networks(目标跟踪）
+<br>
+作者：Bo Li, Wei Wu, Qiang Wang, Fangyi Zhang, Junliang Xing, Junjie Yan<br>
+论文链接：https://arxiv.org/pdf/1901.01660.pdf<br>
+Project链接：http://bo-li.info/SiamRPN++/<br>
+论文解读：https://mp.weixin.qq.com/s/dB5u2No8eakLnrjto0kvyQ<br><br>
+
+
+65.Deeper and Wider Siamese Networks for Real-Time Visual Tracking(CIR,目标跟踪）
+<br>
+作者：Zhipeng Zhang, Houwen Peng<br>
+论文链接：https://arxiv.org/pdf/1901.01660.pdf<br>
+Code链接：https://gitlab.com/MSRA_NLPR/deeper_wider_siamese_trackers<br><br>
+
+
+64.Fast Online Object Tracking and Segmentation: A Unifying Approach(SiamMask,目标跟踪）<br>
+作者：Qiang Wang, Li Zhang, Luca Bertinetto, Weiming Hu, Philip H.S. Torr<br>
+论文链接：https://arxiv.org/abs/1812.05050<br>
+project链接：http://www.robots.ox.ac.uk/~qwang/SiamMask/<br><br>
 
 
 63.Mask Scoring R-CNN<br>
