@@ -10,6 +10,51 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 <br><br>
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来）
 <br>
+89.Feature Selective Anchor-Free Module for Single-Shot Object Detection<br>
+作者：Chenchen Zhu, Yihui He, Marios Savvides<br>
+论文链接：https://arxiv.org/abs/1903.00621<br><br>
+
+
+
+88.Feature Selective Anchor-Free Module for Single-Shot Object Detection<br>
+作者：Chenchen Zhu, Yihui He, Marios Savvides<br>
+论文链接：https://arxiv.org/abs/1903.00621<br><br>
+
+
+87.PartNet: A Recursive Part Decomposition Network for Fine-grained and Hierarchical Shape Segmentation<br>
+作者：Fenggen Yu, Kun Liu, Yan Zhang, Chenyang Zhu, Kai Xu<br>
+论文链接：https://arxiv.org/abs/1903.00709<br><br>
+
+86.AIRD: Adversarial Learning Framework for Image Repurposing Detection<br>
+作者：Ayush Jaiswal, Yue Wu, Wael AbdAlmageed, Iacopo Masi, Premkumar Natarajan<br>
+论文链接：https://arxiv.org/abs/1903.00788<br><br>
+
+
+85.3D Hand Shape and Pose Estimation from a Single RGB Image<br>
+作者：Liuhao Ge, Zhou Ren, Yuncheng Li, Zehao Xue, Yingying Wang, Jianfei Cai, Junsong Yuan<br>
+论文链接：https://arxiv.org/abs/1903.00812<br><br>
+
+
+
+
+
+84.Improving Referring Expression Grounding with Cross-modal Attention-guided Erasing<br>
+作者：Xihui Liu, Zihao Wang, Jing Shao, Xiaogang Wang, Hongsheng Li<br>
+论文链接：https://arxiv.org/abs/1903.00839<br><br>
+
+
+
+83.Less is More: Learning Highlight Detection from Video Duration<br>
+作者：Bo Xiong, Yannis Kalantidis, Deepti Ghadiyaram, Kristen Grauman<br>
+论文链接：https://arxiv.org/abs/1903.00859<br><br>
+
+
+
+82.Collaborative Spatio-temporal Feature Learning for Video Action Recognition(行为识别）<br>
+作者：Chao Li, Qiaoyong Zhong, Di Xie, Shiliang Pu<br>
+论文链接：https://arxiv.org/abs/1903.01197<br><br>
+
+
 81.RGBD Based Dimensional Decomposition Residual Network for 3D Semantic Scene Completion<br>
 作者：Jie Li, Yu Liu, Dong Gong, Qinfeng Shi, Xia Yuan, Chunxia Zhao, Ian Reid<br>
 论文链接：https://arxiv.org/abs/1903.00620<br><br>
@@ -58,7 +103,8 @@ Github链接：https://github.com/open-mmlab/mmdetection<br><br>
 74.A Kernelized Manifold Mapping to Diminish the Effect of Adversarial Perturbations<br>
 作者：Saeid Asgari Taghanaki   Kumar Abhishek1   Shekoofeh Azizi  and Ghassan Hamarneh
 <br>
-论文链接：http://cs.sfu.ca/~hamarneh/ecopy/cvpr2019.pdf<br><br>
+论文链接：http://cs.sfu.ca/~hamarneh/ecopy/cvpr2019.pdf<br>
+Arxiv链接：https://arxiv.org/abs/1903.01015<br><br>
 
 
 
@@ -416,7 +462,8 @@ Reading Notes:FINCH, a new clustering algorithm, absolutily no hyperparameters ,
 19、Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation<br>
 作者：Xin Wang, Qiuyuan Huang, Asli Celikyilmaz, Jianfeng Gao, Dinghan Shen, Yuan-Fang Wang, William Yang Wang, Lei Zhang<br>
 论文链接：https://arxiv.org/abs/1811.10092
-<br><br>
+<br>
+论文解读：https://mp.weixin.qq.com/s/LsHWkdwqqrOPFgCNNcBdpg<br><br>
 20、Disentangled Representation Learning for 3D Face Shape<br>
 作者：Baris Gecer, Stylianos Ploumpis, Irene Kotsia, Stefanos Zafeiriou<br>
 论文链接：https://arxiv.org/abs/1902.05978
