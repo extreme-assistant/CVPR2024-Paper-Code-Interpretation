@@ -10,6 +10,45 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 <br><br>
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来）
 <br>
+81.RGBD Based Dimensional Decomposition Residual Network for 3D Semantic Scene Completion<br>
+作者：Jie Li, Yu Liu, Dong Gong, Qinfeng Shi, Xia Yuan, Chunxia Zhao, Ian Reid<br>
+论文链接：https://arxiv.org/abs/1903.00620<br><br>
+
+
+
+80.Show, Control and Tell: A Framework for Generating Controllable and Grounded Captions<br>
+作者：Marcella Cornia, Lorenzo Baraldi, Rita Cucchiara<br>
+论文链接：https://arxiv.org/abs/1811.10652<br>
+代码链接：https://github.com/aimagelab/show-control-and-tell<br><br>
+
+
+
+
+79.Art2Real: Unfolding the Reality of Artworks via Semantically-Aware Image-to-Image Translation<br>
+作者：Matteo Tomei, Marcella Cornia, Lorenzo Baraldi, Rita Cucchiara<br>
+论文链接：https://arxiv.org/abs/1811.10666<br>
+
+
+
+78.Why ReLU networks yield high-confidence predictions far away from the training data and how to mitigate the problem（oral)<br>
+作者：Matthias Hein, Maksym Andriushchenko, Julian Bitterwolf<br>
+论文链接：https://arxiv.org/abs/1812.05720<br>
+Reading Note:In the paper, we give a theoretical argument of why ReLU activation can lead to models with overconfident predictions. Moreover, we propose a robust optimization training scheme that mitigates this problem.<br><br>
+
+
+77.Hybrid Task Cascade for Instance Segmentation（实例分割）<br>
+作者：Kai Chen, Jiangmiao Pang, Jiaqi Wang, Yu Xiong, Xiaoxiao Li, Shuyang Sun, Wansen Feng, Ziwei Liu, Jianping Shi, Wanli Ouyang, Chen Change Loy, Dahua Lin<br>
+论文链接：https://arxiv.org/abs/1901.07518<br>
+论文解读：https://zhuanlan.zhihu.com/p/57629509<br>
+Github链接：https://github.com/open-mmlab/mmdetection<br><br>
+
+76.Region Proposal by Guided Anchoring（检测）<br>
+作者：Jiaqi Wang, Kai Chen, Shuo Yang, Chen Change Loy, Dahua Lin<br>
+论文链接：https://arxiv.org/abs/1901.03278<br>
+论文解读：https://mp.weixin.qq.com/s/Sl958JkcJjy-HW9_c-SH4g<br>
+Github链接：https://github.com/open-mmlab/mmdetection<br><br>
+
+
 75.Self-supervised Learning of Dense Shape Correspondence(Oral Presentation)<br>
 作者：Oshri Halimi, Or Litany, Emanuele Rodolà, Alex Bronstein, Ron Kimmel
 <br>
@@ -85,19 +124,22 @@ Code链接：https://gitlab.com/MSRA_NLPR/deeper_wider_siamese_trackers<br><br>
 64.Fast Online Object Tracking and Segmentation: A Unifying Approach(SiamMask,目标跟踪）<br>
 作者：Qiang Wang, Li Zhang, Luca Bertinetto, Weiming Hu, Philip H.S. Torr<br>
 论文链接：https://arxiv.org/abs/1812.05050<br>
+Github链接：https://github.com/foolwood/SiamMask<br>
 project链接：http://www.robots.ox.ac.uk/~qwang/SiamMask/<br><br>
 
 
 63.Mask Scoring R-CNN<br>
 作者：Zhaojin Huang, Lichao Huang, Yongchao Gong, Chang Huang, Xinggang Wang<br>
-论文链接：https://arxiv.org/abs/1903.00241<br><br>
+论文链接：https://arxiv.org/abs/1903.00241<br>
+Github链接：https://github.com/zjhuang22/maskscoring_rcnn<br><br>
 62.Octree guided CNN with Spherical Kernels for 3D Point Clouds<br>
 作者：Huan Lei, Naveed Akhtar, Ajmal Mian<br>
 论文链接：https://arxiv.org/abs/1903.00343<br><br>
 
 61.Context-Aware Visual Compatibility Prediction<br>
 作者：Guillem Cucurull, Perouz Taslakian, David Vazquez<br>
-论文链接：https://arxiv.org/abs/1902.03646<br><br>
+论文链接：https://arxiv.org/abs/1902.03646<br>
+Reading Note:It proposes a graph convolutional neural network that predicts compatibility between two items based on their visual features, as well as their context<br><br>
 
 
 60.Competitive Collaboration: Joint Unsupervised Learning of Depth, CameraMotion, Optical Flow and Motion Segmentation <br>
@@ -238,6 +280,7 @@ github链接：https://github.com/barisgecer/ganfit<br><br>
 
 35.Disentangled Representation Learning for 3D Face Shape<br>
 作者：Zi-Hang Jiang, Qianyi Wu, Keyu Chen, Juyong Zhang<br>
+Github链接：https://github.com/zihangJiang/DR-Learning-for-3D-Face<br>
 论文链接：https://arxiv.org/abs/1902.09887<br><br>
 
 34.RepNet: Weakly Supervised Training of an Adversarial Reprojection Network for 3D Human Pose Estimation<br>
@@ -283,7 +326,8 @@ Github链接：https://github.com/boukhayma/3dhand<br><br>
 
 26. Efficient Parameter-free Clustering Using First Neighbor Relations<br>
 作者：M. Saquib Sarfraz, Vivek Sharma, Rainer Stiefelhagen<br>
-论文链接：https://arxiv.org/abs/1902.11266<br><br>
+论文链接：https://arxiv.org/abs/1902.11266<br>
+Reading Notes:FINCH, a new clustering algorithm, absolutily no hyperparameters ,  no need to specify no. of clusters. Scalable(Memory O(N)), very fast (ON(logN)) clusters ~8 million samples in 18 minutes on standard CPU. <br><br>
 
 25.Stereo R-CNN based 3D Object Detection for Autonomous Driving（3D检测）<br>
 作者：Peiliang Li, Xiaozhi Chen, Shaojie Shen<br>
