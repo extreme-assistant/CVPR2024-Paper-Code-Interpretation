@@ -1,6 +1,6 @@
-# cvpr2019
-原文链接：https://mp.weixin.qq.com/s/SmS-guwg6oUqPYwfeC6iiw<br><br>
-同步更新地址：http://bbs.cvmart.net/topics/302/cvpr2019paper <br><br>
+# cvpr2019（Papers/Codes/Project/Paper reading）
+Source：https://mp.weixin.qq.com/s/SmS-guwg6oUqPYwfeC6iiw<br><br>
+Updating：http://bbs.cvmart.net/topics/302/cvpr2019paper <br><br>
 cvpr2019 accepted papers list:<br>
 http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 <br><br>
@@ -10,6 +10,40 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 <br><br>
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来）
 <br>
+
+
+94.The Regretful Agent: Heuristic-Aided Navigation through Progress Estimation<br>
+作者：Chih-Yao Ma, Zuxuan Wu, Ghassan AlRegib, Caiming Xiong, Zsolt Kira<br>
+论文链接：https://arxiv.org/abs/1903.01602<br>
+Github:https://github.com/chihyaoma/regretful-agent<br><br>
+
+
+
+93.Variational Autoencoders Pursue PCA Directions (by Accident)<br>
+作者：Michal Rolinek, Dominik Zietlow, Georg Martius<br>
+论文链接：https://arxiv.org/abs/1812.06775<br><br>
+
+
+92.Learning From Noisy Labels By Regularized Estimation Of Annotator Confusion<br>
+作者：Ryutaro Tanno, Ardavan Saeedi, Swami Sankaranarayanan, Daniel C. Alexander, Nathan Silberman<br>
+论文链接：https://arxiv.org/abs/1902.03680<br><br>
+
+
+91.3D Point-Capsule Networks<br>
+作者：Yongheng Zhao, Tolga Birdal, Haowen Deng, Federico Tombari<br>
+论文链接：https://arxiv.org/abs/1812.10775<br>
+<br>
+
+90.Image Super-Resolution by Neural Texture Transfer<br>
+作者：Zhifei Zhang, Zhaowen Wang, Zhe Lin, Hairong Qi<br>
+论文链接：https://arxiv.org/pdf/1903.00834.pdf<br>
+项目链接：http://web.eecs.utk.edu/~zzhang61/project_page/SRNTT/SRNTT.html<br>
+代码链接：https://github.com/ZZUTK/SRNTT<br>
+
+<br>
+
+
+
 89.Feature Selective Anchor-Free Module for Single-Shot Object Detection<br>
 作者：Chenchen Zhu, Yihui He, Marios Savvides<br>
 论文链接：https://arxiv.org/abs/1903.00621<br><br>
@@ -84,7 +118,7 @@ Reading Note:In the paper, we give a theoretical argument of why ReLU activation
 77.Hybrid Task Cascade for Instance Segmentation（实例分割）<br>
 作者：Kai Chen, Jiangmiao Pang, Jiaqi Wang, Yu Xiong, Xiaoxiao Li, Shuyang Sun, Wansen Feng, Ziwei Liu, Jianping Shi, Wanli Ouyang, Chen Change Loy, Dahua Lin<br>
 论文链接：https://arxiv.org/abs/1901.07518<br>
-论文解读：https://zhuanlan.zhihu.com/p/57629509<br>
+论文解读：https://mp.weixin.qq.com/s/xug0xKfc9RgJEUci1a_xog<br>
 Github链接：https://github.com/open-mmlab/mmdetection<br><br>
 
 76.Region Proposal by Guided Anchoring（检测）<br>
@@ -177,7 +211,10 @@ project链接：http://www.robots.ox.ac.uk/~qwang/SiamMask/<br><br>
 63.Mask Scoring R-CNN<br>
 作者：Zhaojin Huang, Lichao Huang, Yongchao Gong, Chang Huang, Xinggang Wang<br>
 论文链接：https://arxiv.org/abs/1903.00241<br>
-Github链接：https://github.com/zjhuang22/maskscoring_rcnn<br><br>
+Github链接：https://github.com/zjhuang22/maskscoring_rcnn<br>
+论文解读：https://mp.weixin.qq.com/s/aP7O7AF6WoynWK_FFHkOTw
+
+<br><br>
 62.Octree guided CNN with Spherical Kernels for 3D Point Clouds<br>
 作者：Huan Lei, Naveed Akhtar, Ajmal Mian<br>
 论文链接：https://arxiv.org/abs/1903.00343<br><br>
