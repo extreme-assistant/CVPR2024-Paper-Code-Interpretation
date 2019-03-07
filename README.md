@@ -12,6 +12,137 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 <br>
 
 
+
+111.Taking a Deeper Look at the Inverse Compositional Algorithm(oral)<br>
+作者：Zhaoyang Lv, Frank Dellaert, James M. Rehg, Andreas Geiger<br>
+论文链接：https://arxiv.org/pdf/1812.06861.pdf<br>
+代码链接：https://github.com/lvzhaoyang/DeeperInverseCompositionalAlgorithm<br>
+<br>
+
+
+
+110.Learning Attraction Field Representation for Robust Line Segment Detection<br>
+作者：Nan Xue, Song Bai, Fudong Wang, Gui-Song Xia, Tianfu Wu, Liangpei Zhang<br>
+论文链接：https://arxiv.org/abs/1812.02122<br>
+代码链接：https://github.com/cherubicXN/afm_cvpr2019<br>
+<br>
+
+
+
+
+
+
+109.Learning Deep Compositional Grammatical Architectures for Visual Recognition<br>
+作者：Xilai Li, Tianfu Wu, Xi Song<br>
+论文链接：https://arxiv.org/abs/1711.05847<br>
+代码链接：https://github.com/xilaili/AOGNet<br>
+<br>
+
+
+
+108.Toward Convolutional Blind Denoising of Real Photographs<br>
+作者：Shi Guo, Zifei Yan, Kai Zhang, Wangmeng Zuo, Lei Zhang<br>
+论文链接：https://arxiv.org/abs/1807.04686<br>
+代码链接：https://github.com/GuoShi28/CBDNet<br>
+<br>
+
+
+
+
+107.Selective Sensor Fusion for Neural Visual-Inertial Odometry<br>
+作者：Changhao Chen, Stefano Rosa, Yishu Miao, Chris Xiaoxuan Lu, Wei Wu, Andrew Markham, Niki Trigoni<br>
+论文链接：https://arxiv.org/abs/1903.01534<br>
+<br>
+
+
+106.Fast and Robust Multi-Person 3D Pose Estimation from Multiple Views<br>
+作者：Junting Dong, Wen Jiang, Qixing Huang, Hujun Bao, Xiaowei Zhou<br>
+论文链接：https://arxiv.org/abs/1901.04111<br>
+项目链接：https://zju-3dv.github.io/mvpose/<br>
+代码链接：https://github.com/zju-3dv/mvpose<br>
+<br>
+
+
+
+
+105.Unsupervised Domain-Specific Deblurring via Disentangled Representations<br>
+作者：Boyu Lu, Jun-Cheng Chen, Rama Chellappa<br>
+论文链接：https://arxiv.org/abs/1903.01594<br>
+<br>
+
+
+
+
+104.Defense Against Adversarial Images using Web-Scale Nearest-Neighbor Search（oral)<br>
+作者：Abhimanyu Dubey, Laurens van der Maaten, Zeki Yalniz, Yixuan Li, Dhruv Mahajan<br>
+论文链接：https://arxiv.org/abs/1903.01612<br>
+<br>
+
+
+103.Leveraging Shape Completion for 3D Siamese Tracking<br>
+作者：Silvio Giancola, Jesus Zarzar, Bernard Ghanem<br>
+论文链接：https://arxiv.org/abs/1903.01784<br>
+<br>
+
+
+
+102.MS-TCN: Multi-Stage Temporal Convolutional Network for Action Segmentation<br>
+作者：Yazan Abu Farha, Juergen Gall<br>
+论文链接：https://arxiv.org/abs/1903.01945<br>
+<br>
+
+
+
+101.Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation（非最终版）<br>
+作者：Zhi Tian, Chunhua Shen, Tong He, Youliang Yanl<br>
+论文链接：https://arxiv.org/abs/1903.02120<br>
+<br>
+
+
+
+
+100.Deep Transfer Learning for Multiple Class Novelty Detection<br>
+作者：Pramuditha Perera, Vishal M. Patel<br>
+论文链接：https://arxiv.org/abs/1903.02196<br>
+<br>
+
+
+
+
+99.Self-Supervised Learning of 3D Human Pose using Multi-view Geometry<br>
+作者：Muhammed Kocabas, Salih Karagoz, Emre Akbas<br>
+论文链接：https://arxiv.org/abs/1903.02330<br>
+Github链接：https://github.com/mkocabas/EpipolarPose<br>
+<br>
+
+
+
+
+98.CANet: Class-Agnostic Segmentation Networks with Iterative Refinement and Attentive Few-Shot Learning<br>
+作者：Chi Zhang, Guosheng Lin, Fayao Liu, Rui Yao, Chunhua Shen<br>
+论文链接：https://arxiv.org/abs/1903.02351<br>
+<br>
+
+
+
+97.Object Counting and Instance Segmentation with Image-level Supervision<br>
+作者：Hisham Cholakkal, Guolei Sun (equal contribution), Fahad Shahbaz Khan, Ling Shao<br>
+论文链接：https://arxiv.org/abs/1903.02494<br>
+<br>
+
+96.Understanding and Visualizing Deep Visual Saliency Models<br>
+作者：Sen He, Hamed R. Tavakoli, Ali Borji, Yang Mi, Nicolas Pugeault<br>
+论文链接：https://arxiv.org/abs/1903.02501<br><br>
+
+
+
+
+95.Tactical Rewind: Self-Correction via Backtracking in Vision-and-Language Navigation<br>
+作者：Liyiming Ke, Xiujun Li, Yonatan Bisk, Ari Holtzman, Zhe Gan, Jingjing Liu, Jianfeng Gao, Yejin Choi, Siddhartha Srinivasa<br>
+论文链接：https://arxiv.org/abs/1903.02547<br>
+YouTube:https://youtu.be/ik9uz06Fcpk<br><br>
+
+
 94.The Regretful Agent: Heuristic-Aided Navigation through Progress Estimation<br>
 作者：Chih-Yao Ma, Zuxuan Wu, Ghassan AlRegib, Caiming Xiong, Zsolt Kira<br>
 论文链接：https://arxiv.org/abs/1903.01602<br>
@@ -44,9 +175,11 @@ Github:https://github.com/chihyaoma/regretful-agent<br><br>
 
 
 
-89.Feature Selective Anchor-Free Module for Single-Shot Object Detection<br>
-作者：Chenchen Zhu, Yihui He, Marios Savvides<br>
-论文链接：https://arxiv.org/abs/1903.00621<br><br>
+89.Representation Flow for Action Recognition<br>
+作者：AJ Piergiovanni, Michael S. Ryoo<br>
+论文链接：https://arxiv.org/abs/1810.01455<br>
+项目链接：https://piergiaj.github.io/rep-flow-site/<br>
+代码链接：https://github.com/piergiaj/representation-flow-cvpr19<br><br>
 
 
 
@@ -288,7 +421,8 @@ Github源码：https://github.com/junfu1115/DANet<br><br>
 
 49.End-to-End Efficient Representation Learning via Cascading Combinatorial Optimization<br>
 作者：Yeonwoo Jeong, Yoonsuing Kim, Hyun Oh Song<br>
-论文链接：https://arxiv.org/abs/1902.10990
+论文链接：https://arxiv.org/abs/1902.10990<br>
+代码链接：https://github.com/maestrojeong/Deep-Hash-Table-CVPR19
 <br><br>
 
 48.Efficient Video Classification Using Fewer Frames<br>
@@ -392,9 +526,11 @@ Github链接：https://github.com/boukhayma/3dhand<br><br>
 来源：https://mp.weixin.qq.com/s/mamDhLUw6O9v8gldyIOPUA<br>
 论文解读：https://mp.weixin.qq.com/s/6QsyYtEVjavoLfU_lQF1pw<br><br>
 
-29.Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving<br>
+29.Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving（自动驾驶）<br>
 作者：Yan Wang, Wei-Lun Chao, Divyansh Garg, Bharath Hariharan, Mark Campbell, Kilian Q. Weinberger<br>
-论文链接：https://arxiv.org/abs/1812.07179<br><br>
+论文链接：https://arxiv.org/abs/1812.07179<br>
+项目链接：https://mileyan.github.io/pseudo_lidar/<br>
+代码链接：https://github.com/mileyan/pseudo_lidar<br><br>
 
 28.MAN: Moment Alignment Network for Natural Language Moment Retrieval via Iterative Graph Adjustment <br>
 作者：Da Zhang, Xiyang Dai, Xin Wang, Yuan-Fang Wang, Larry S. Davis <br>
