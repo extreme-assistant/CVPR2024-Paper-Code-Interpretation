@@ -9,6 +9,30 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 提取码：osvy 
 <br><br>
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来）
+<br><br>
+
+
+115.PVNet: Pixel-wise Voting Network for 6DoF Pose Estimation<br>
+作者：Sida Peng, Yuan Liu, Qixing Huang, Hujun Bao, and Xiaowei Zhou<br>
+论文链接：https://arxiv.org/pdf/1812.11788.pdf<br>
+<br>
+
+114.Learning Transformation Synchronization<br>
+作者：Xiangru Huang, Zhenxiao Liang, Xiaowei Zhou, Yao Xie, Leonidas Guibas, and Qixing Huang<br>
+论文链接：https://arxiv.org/pdf/1901.09458.pdf<br> 
+代码链接: https://github.com/xiangruhuang/Learning2Sync<br>
+<br>
+
+113.Extreme Relative Pose Estimation for RGB-D Scans via Scene Completion (Oral)<br>
+作者：Zhenpei Yang, Jeffrey Z.Pan, Linjie Luo, Xiaowei Zhou, Kristen Grauman and Qixing Huang<br>
+论文链接：https://arxiv.org/pdf/1901.00063.pdf<br>
+代码链接: https://github.com/zhenpeiyang/RelativePose<br> 
+<br>
+
+112.Path-Invariant Map Networks (Oral)<br>
+作者：Zaiwei Zhang, Zhenxiao Liang, Lemeng Wu, Xiaowei Zhou and Qixing Huang<br>
+论文链接：https://arxiv.org/pdf/1812.11647.pdf<br>
+代码链接: https://github.com/zaiweizhang/path_invariance_map_network<br>
 <br>
 
 
@@ -653,5 +677,3 @@ Reading Notes:FINCH, a new clustering algorithm, absolutily no hyperparameters ,
 作者：Yawei Luo, Liang Zheng, Tao Guan, Junqing Yu, Yi Yang<br>
 论文链接：https://arxiv.org/abs/1809.09478
 <br><br>
-
-
