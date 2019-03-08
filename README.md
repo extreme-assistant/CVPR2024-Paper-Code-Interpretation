@@ -12,6 +12,53 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 <br><br>
 
 
+121.RAVEN: A Dataset for Relational and Analogical Visual rEasoNing<br>
+作者：Yansong Tang, Dajun Ding, Yongming Rao, Yu Zheng, Danyang Zhang, Lili Zhao, Jiwen Lu, Jie Zhou<br>
+论文链接：https://arxiv.org/abs/1903.02741<br>
+项目链接：https://wellyzhang.github.io/project/raven.html<br>
+<br>
+
+
+120.SR-LSTM: State Refinement for LSTM towards Pedestrian Trajectory Prediction<br>
+作者：Pu Zhang, Wanli Ouyang, Pengfei Zhang, Jianru Xue, Nanning Zheng<br>
+论文链接：https://arxiv.org/abs/1903.02793<br>
+<br>
+
+
+119.Weakly Supervised Complementary Parts Models for Fine-Grained Image Classification from the Bottom Up<br>
+作者：Weifeng Ge, Xiangru Lin, Yizhou Yu<br>
+论文链接：https://arxiv.org/abs/1903.02827<br>
+<br>
+
+
+
+
+118.COIN: A Large-scale Dataset for Comprehensive Instructional Video Analysis<br>
+作者：Yansong Tang, Dajun Ding, Yongming Rao, Yu Zheng, Danyang Zhang, Lili Zhao, Jiwen Lu, Jie Zhou<br>
+论文链接：https://arxiv.org/abs/1903.02874<br>
+项目链接：https://coin-dataset.github.io/<br>
+代码链接：https://github.com/coin-dataset/code<br>
+<br>
+
+
+
+
+
+117.Cross-Classification Clustering: An Efficient Multi-Object Tracking Technique for 3-D Instance Segmentation in Connectomics（多目标跟踪)<br>
+作者：Yaron Meirovitch, Lu Mi, Hayk Saribekyan, Alexander Matveev, David Rolnick, Casimir Wierzynski, Nir Shavit<br>
+论文链接：https://arxiv.org/abs/1812.01157<br>
+<br>
+
+
+
+116.Latent Space Autoregression for Novelty Detection<br>
+作者：Davide Abati, Angelo Porrello, Simone Calderara, Rita Cucchiara<br>
+论文链接：https://arxiv.org/abs/1807.01653<br> 
+代码链接: https://github.com/aimagelab/novelty-detection<br>
+<br>
+
+
+
 115.PVNet: Pixel-wise Voting Network for 6DoF Pose Estimation<br>
 作者：Sida Peng, Yuan Liu, Qixing Huang, Hujun Bao, and Xiaowei Zhou<br>
 论文链接：https://arxiv.org/pdf/1812.11788.pdf<br>
@@ -159,15 +206,13 @@ Github链接：https://github.com/mkocabas/EpipolarPose<br>
 论文链接：https://arxiv.org/abs/1903.02501<br><br>
 
 
-
-
-95.Tactical Rewind: Self-Correction via Backtracking in Vision-and-Language Navigation<br>
+95.Tactical Rewind: Self-Correction via Backtracking in Vision-and-Language Navigation(oral)<br>
 作者：Liyiming Ke, Xiujun Li, Yonatan Bisk, Ari Holtzman, Zhe Gan, Jingjing Liu, Jianfeng Gao, Yejin Choi, Siddhartha Srinivasa<br>
 论文链接：https://arxiv.org/abs/1903.02547<br>
 YouTube:https://youtu.be/ik9uz06Fcpk<br><br>
 
 
-94.The Regretful Agent: Heuristic-Aided Navigation through Progress Estimation<br>
+94.The Regretful Agent: Heuristic-Aided Navigation through Progress Estimation(oral)<br>
 作者：Chih-Yao Ma, Zuxuan Wu, Ghassan AlRegib, Caiming Xiong, Zsolt Kira<br>
 论文链接：https://arxiv.org/abs/1903.01602<br>
 Github:https://github.com/chihyaoma/regretful-agent<br><br>
