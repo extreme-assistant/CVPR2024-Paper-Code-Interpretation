@@ -1,5 +1,5 @@
 # cvpr2019（Papers/Codes/Project/Paper reading）
-Source：https://mp.weixin.qq.com/s/SmS-guwg6oUqPYwfeC6iiw<br><br>
+Source：https://mp.weixin.qq.com/s/SmS-guwg6oUqPYwfeC6iiw<br>
 Updating：http://bbs.cvmart.net/topics/302/cvpr2019paper <br><br>
 cvpr2019 accepted papers list:<br>
 http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
@@ -10,6 +10,29 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 <br><br>
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来）
 <br><br>
+
+124.FML: Face Model Learning from Videos(Oral)<br>
+作者：A. Tewari	 F. Bernard	 P. Garrido 	 G. Bharaj 	 M. Elgharib   H-P. Seidel  P. Perez  M. Zollhöfer   C.Theobalt
+<br>
+项目链接：http://gvv.mpi-inf.mpg.de/projects/FML19/<br>
+论文链接：http://gvv.mpi-inf.mpg.de/projects/FML19/paper.pdf<br><br>
+
+
+
+
+
+123.FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search(Facebook mobile vision team)<br>
+作者：Bichen Wu, Xiaoliang Dai, Peizhao Zhang, Yanghan Wang, Fei Sun, Yiming Wu, Yuandong Tian, Peter Vajda, Yangqing Jia, Kurt Keutzer<br>
+论文链接：https://arxiv.org/abs/1812.03443<br>
+<br>
+
+
+122.ChamNet: Towards Efficient Network Design through Platform-Aware Model Adaptation(Facebook mobile vision team)<br>
+作者：Xiaoliang Dai, Peizhao Zhang, Bichen Wu, Hongxu Yin, Fei Sun, Yanghan Wang, Marat Dukhan, Yunqing Hu, Yiming Wu, Yangqing Jia, Peter Vajda, Matt Uyttendaele, Niraj K. Jha<br>
+论文链接：https://arxiv.org/abs/1812.08934<br>
+<br>
+
+
 
 
 121.RAVEN: A Dataset for Relational and Analogical Visual rEasoNing<br>
