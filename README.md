@@ -11,6 +11,74 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来）
 <br><br>
 
+131.FlowNet3D: Learning Scene Flow in 3D Point Clouds<br>
+作者：Xingyu Liu, Charles R. Qi, Leonidas J. Guibas
+<br>
+论文链接：https://arxiv.org/abs/1806.01411<br>
+简要：Proposed a novel deep neural network that learns scene flow from point clouds in an end-to-end fashion.<br>
+<br>
+
+
+
+
+
+
+130.Generating 3D Adversarial Point Clouds<br>
+作者：Chong Xiang (1), Charles R. Qi (2), Bo Li (3) ((1) Shanghai Jiao Tong Univerisity, (2) Stanford University, (3) University of Illinois at Urbana-Champaign)
+<br>
+论文链接：https://arxiv.org/abs/1809.07016<br>
+简要：Proposed several novel algorithms to craft adversarial point clouds against 3D deep learning models with adversarial points perturbation and adversarial points generation.<br>
+<br>
+
+
+
+
+129.Adversarial Defense by Stratified Convolutional Sparse Coding<br>
+作者：Bo Sun, Nian-hsuan Tsai, Fangchen Liu, Ronald Yu, Hao Su
+<br>
+论文链接：https://arxiv.org/abs/1812.00037<br>
+简要：An attack-agnostic defense mechanism for neural networks.<br>
+<br>
+
+
+
+
+
+128.Binary Ensemble Neural Network: More Bits per Network or More Networks per Bit?<br>
+作者：Shilin Zhu, Xin Dong, Hao Su
+<br>
+论文链接：https://arxiv.org/abs/1806.07550<br>
+简要：Ensemble of binary neural networks has better stability and robustness, and may perform as well as floating-point networks.<br>
+<br>
+
+
+
+
+127.ApolloCar3D: A Large 3D Car Instance Understanding Benchmark for Autonomous Driving<br>
+作者：Xibin Song, Peng Wang, Dingfu Zhou, Rui Zhu, Chenye Guan, Yuchao Dai, Hao Su, Hongdong Li, Ruigang Yang<br>
+论文链接：https://arxiv.org/abs/1811.12222<br>
+简要：The first large-scale database suitable for 3D car instance understanding, ApolloCar3D, collected by Baidu. The dataset contains 5,277 driving images and over 60K car instances, where each car is fitted with an industry-grade 3D CAD model with absolute model size and semantically labelled keypoints.<br><br>
+
+
+
+126.PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D Object Understanding<br>
+作者：Kaichun Mo, Shilin Zhu, Angel X. Chang, Li Yi, Subarna Tripathi, Leonidas J. Guibas, Hao Su<br>
+项目链接：https://cs.stanford.edu/~kaichun/partnet/<br>
+论文链接：https://arxiv.org/abs/1812.02713<br>
+简要：A 3D object database with fine-grained and hierarchical part annotation. To assist segmentation and affordance research.
+
+<br><br>
+
+
+
+125.A Main/Subsidiary Network Framework for Simplifying Binary Neural Network<br>
+作者：Yinghao Xu, Xin Dong, Yudian Li, Hao Su
+<br>
+论文链接：https://arxiv.org/abs/1812.04210<br>
+简要：A simple learning-based binary neural network pruning scheme.<br>
+<br>
+
+
 124.FML: Face Model Learning from Videos(Oral)<br>
 作者：A. Tewari	 F. Bernard	 P. Garrido 	 G. Bharaj 	 M. Elgharib   H-P. Seidel  P. Perez  M. Zollhöfer   C.Theobalt
 <br>
