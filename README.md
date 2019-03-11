@@ -8,8 +8,59 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 链接：https://pan.baidu.com/s/1s4FuLscWcslN5rQQvP92JA 
 提取码：osvy 
 <br><br>
-Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来）
+Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 <br><br>
+
+
+
+
+137.Anatomical Priors in Convolutional Networks for Unsupervised Biomedical Segmentation<br>
+作者：Adrian V. Dalca, John Guttag, Mert R. Sabuncu
+<br>
+论文链接：https://arxiv.org/abs/1903.03148<br>
+<br>
+
+
+136.Ranked List Loss for Deep Metric Learning<br>
+作者：Xinshao Wang, Yang Hua, Elyor Kodirov, Guosheng Hu, Romain Garnier, Neil M. Robertson
+<br>
+论文链接：https://arxiv.org/abs/1903.03238<br>
+<br>
+
+
+
+135.Learning Regularity in Skeleton Trajectories for Anomaly Detection in Videos<br>
+作者：Romero Morais, Vuong Le, Truyen Tran, Budhaditya Saha, Moussa Mansour, Svetha Venkatesh
+<br>
+论文链接：https://arxiv.org/abs/1903.03295<br>
+<br>
+
+
+134.Knowledge-Embedded Routing Network for Scene Graph Generation<br>
+作者：Qi Wang, Junyu Gao, Wei Lin, Yuan Yuan
+<br>
+论文链接：https://arxiv.org/abs/1903.03303<br>
+<br>
+
+133.Knowledge-Embedded Routing Network for Scene Graph Generation<br>
+作者：Tianshui Chen, Weihao Yu, Riquan Chen, Liang Lin
+<br>
+论文链接：https://arxiv.org/abs/1903.03326<br>
+<br>
+
+
+
+
+
+132.Semantically Tied Paired Cycle Consistency for Zero-Shot Sketch-based Image Retrieval<br>
+作者：Anjan Dutta, Zeynep Akata
+<br>
+论文链接：https://arxiv.org/abs/1903.03372<br>
+<br>
+
+
+
+
 
 131.FlowNet3D: Learning Scene Flow in 3D Point Clouds<br>
 作者：Xingyu Liu, Charles R. Qi, Leonidas J. Guibas
@@ -153,7 +204,8 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 115.PVNet: Pixel-wise Voting Network for 6DoF Pose Estimation<br>
 作者：Sida Peng, Yuan Liu, Qixing Huang, Hujun Bao, and Xiaowei Zhou<br>
 论文链接：https://arxiv.org/pdf/1812.11788.pdf<br>
-<br>
+代码链接：https://github.com/zju-3dv/pvnet
+<br><br>
 
 114.Learning Transformation Synchronization<br>
 作者：Xiangru Huang, Zhenxiao Liang, Xiaowei Zhou, Yao Xie, Leonidas Guibas, and Qixing Huang<br>
