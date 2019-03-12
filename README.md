@@ -1,6 +1,7 @@
 # cvpr2019（Papers/Codes/Project/Paper reading）
 Source：https://mp.weixin.qq.com/s/SmS-guwg6oUqPYwfeC6iiw<br>
-Updating：http://bbs.cvmart.net/topics/302/cvpr2019paper <br><br>
+论文解读汇总：http://bbs.cvmart.net/topics/287/cvpr2019 <br>
+论文分类汇总：http://bbs.cvmart.net/topics/302/cvpr2019paper<br>
 cvpr2019 accepted papers list:<br>
 http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 <br><br>
@@ -10,6 +11,141 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 <br><br>
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 <br><br>
+
+
+
+
+
+
+
+
+
+
+150.Partial Order Pruning: for Best Speed/Accuracy Trade-off in Neural Architecture Search<br>
+作者：Xin Li, Yiming Zhou, Zheng Pan, Jiashi Feng
+<br>
+论文链接：https://arxiv.org/abs/1903.03777<br>
+<br>
+
+
+
+
+149.Video Generation from Single Semantic Label Map<br>
+作者：Junting Pan, Chengyu Wang, Xu Jia, Jing Shao, Lu Sheng, Junjie Yan, Xiaogang Wang
+<br>
+论文链接：https://arxiv.org/abs/1903.04480<br>
+源码链接：https://github.com/junting/seg2vid/tree/master
+<br><br>
+
+
+
+
+
+148.SSN: Learning Sparse Switchable Normalization via SparsestMax<br>
+作者：Wenqi Shao, Tianjian Meng, Jingyu Li, Ruimao Zhang, Yudian Li, Xiaogang Wang, Ping Luo
+<br>
+论文链接：https://arxiv.org/abs/1903.03793<br>
+<br>
+
+
+
+
+
+
+147.Scene Memory Transformer for Embodied Agents in Long-Horizon Tasks<br>
+作者：Kuan Fang, Alexander Toshev, Li Fei-Fei, Silvio Savarese
+<br>
+论文链接：https://arxiv.org/abs/1903.03878<br>
+<br>
+
+
+
+146.Fast Single Image Reflection Suppression via Convex Optimization<br>
+作者：Yang Yang, Wenye Ma, Yin Zheng, Jian-Feng Cai, Weiyu Xu
+<br>
+论文链接：https://arxiv.org/abs/1903.03889<br>
+<br>
+
+
+
+
+
+
+145.Multiview 2D/3D Rigid Registration via a Point-Of-Interest Network for Tracking and Triangulation (POINT^2)<br>
+作者：Haofu Liao, Wei-An Lin, Jiarui Zhang, Jingdan Zhang, Jiebo Luo, S. Kevin Zhou
+<br>
+论文链接：https://arxiv.org/abs/1903.03896<br>
+<br>
+
+
+
+
+
+144.Shape2Motion: Joint Analysis of Motion Parts and Attributes from 3D Shapes<br>
+作者：Xiaogang Wang, Bin Zhou, Yahao Shi, Xiaowu Chen, Qinping Zhao, Kai Xu
+<br>
+论文链接：https://arxiv.org/abs/1903.03911<br>
+<br>
+
+
+
+143.Deep Robust Subjective Visual Property Prediction in Crowdsourcing<br>
+作者：Qianqian Xu, Zhiyong Yang, Yangbangyan Jiang, Xiaochun Cao, Qingming Huang, Yuan Yao
+<br>
+论文链接：https://arxiv.org/abs/1903.03956<br>
+<br>
+
+
+
+
+
+142.Group-wise Correlation Stereo Network<br>
+作者：Xiaoyang Guo, Kai Yang, Wukui Yang, Xiaogang Wang, Hongsheng Li
+<br>
+论文链接：https://arxiv.org/abs/1903.04025<br>
+<br>
+
+
+
+
+
+141.Sliced Wasserstein Discrepancy for Unsupervised Domain Adaptation（领域自适应）<br>
+作者：Chen-Yu Lee, Tanmay Batra, Mohammad Haris Baig, Daniel Ulbricht
+<br>
+论文链接：https://arxiv.org/abs/1903.04064<br>
+<br>
+
+
+
+
+
+
+140.HetConv: Heterogeneous Kernel-Based Convolutions for Deep CNNs<br>
+作者：Pravendra Singh, Vinay Kumar Verma, Piyush Rai, Vinay P. Namboodiri
+<br>
+论文链接：https://arxiv.org/abs/1903.04120<br>
+<br>
+
+
+
+
+
+
+139.Structured Knowledge Distillation for Semantic Segmentation(语义分割）<br>
+作者：Yifan Liu, Ke Chen, Chris Liu, Zengchang Qin, Zhenbo Luo, Jingdong Wang
+<br>
+论文链接：https://arxiv.org/abs/1903.04197<br>
+<br>
+
+
+
+
+
+138.Refine and Distill: Exploiting Cycle-Inconsistency and Knowledge Distillation for Unsupervised Monocular Depth Estimation<br>
+作者：Andrea Pilzer, Stéphane Lathuilière, Nicu Sebe, Elisa Ricci
+<br>
+论文链接：https://arxiv.org/pdf/1903.04202.pdf<br>
+<br>
 
 
 
@@ -609,9 +745,12 @@ Reading note:Frame interpolation techniques can be used to train a network to di
 project链接：http://timothybrooks.com/tech/unprocessing/<br>
 Reading note:We can learn a better denoising model by processing and unprocessing images the same way a camera does.<br><br>
 
-54.PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image<br>
-作者：Chen Liu, Kihwan Kim, Jinwei Gu, Yasutaka Furukawa, Jan Kautz<br>
-论文链接：https://arxiv.org/abs/1812.04072<br><br>
+54.Learning from Synthetic Data for Crowd Counting in the Wild<br>
+作者：Qi Wang, Junyu Gao, Wei Lin, Yuan Yuan
+<br>
+论文链接：https://arxiv.org/abs/1903.03303<br>
+<br>
+
 53.Bi-Directional Cascade Network for Perceptual Edge Detection<br>
 作者：Jianzhong He, Shiliang Zhang, Ming Yang, Yanhu Shan, Tiejun Huang<br>
 论文链接：https://arxiv.org/abs/1902.10903<br>
@@ -778,10 +917,11 @@ Reading Notes:FINCH, a new clustering algorithm, absolutily no hyperparameters ,
 代码链接：https://github.com/leoxiaobin/deep-high-resolution-net.pytorch<br>
 论文解读：https://mp.weixin.qq.com/s/ZRCzBTBmlEzQCVo1HLWtbQ
 <br><br>
-3、MUREL: Multimodal Relational Reasoning for Visual Question Answering<br><br>
-作者：Remi Cadene, Hedi Ben-younes, Matthieu Cord, Nicolas Thome<br>
-论文链接：https://arxiv.org/abs/1902.09487
-<br><br>
+3、Learning from Synthetic Data for Crowd Counting in the Wild<br>
+作者：Qi Wang, Junyu Gao, Wei Lin, Yuan Yuan
+<br>
+论文链接：https://arxiv.org/abs/1903.03303<br><br>
+
 4、End-to-End Multi-Task Learning with Attention<br>
 作者：Shikun Liu, Edward Johns, Andrew J. Davison<br>
 论文链接：https://arxiv.org/abs/1803.10704
@@ -849,7 +989,7 @@ Reading Notes:FINCH, a new clustering algorithm, absolutily no hyperparameters ,
 论文链接：https://arxiv.org/abs/1811.10092
 <br>
 论文解读：https://mp.weixin.qq.com/s/LsHWkdwqqrOPFgCNNcBdpg<br><br>
-20、Disentangled Representation Learning for 3D Face Shape<br>
+20、GANFIT: Generative Adversarial Network Fitting for High Fidelity 3D Face Reconstruction<br>
 作者：Baris Gecer, Stylianos Ploumpis, Irene Kotsia, Stefanos Zafeiriou<br>
 论文链接：https://arxiv.org/abs/1902.05978
 <br><br>
