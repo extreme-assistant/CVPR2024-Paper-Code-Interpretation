@@ -13,6 +13,126 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 <br><br>
 
 
+
+179.Structured Knowledge Distillation for Semantic Segmentation（语义分割）
+<br>
+作者：Yifan Liu, Ke Chen, Chris Liu, Zengchang Qin, Zhenbo Luo, Jingdong Wang
+<br>
+论文链接：https://arxiv.org/abs/1903.04197<br><br>
+
+
+
+
+178.ScratchDet:Exploring to Train Single-Shot Object Detectors from Scratch(Oral)
+<br>
+作者：Rui Zhu, Shifeng Zhang, Xiaobo Wang, Longyin Wen, Hailin Shi, Liefeng Bo, Tao Mei
+<br>
+论文链接：https://arxiv.org/abs/1810.08425v3<br>
+源码链接：https://github.com/KimSoybean/ScratchDet<br><br>
+
+
+177.Scene Categorization from Contours: Medial Axis Based Salience Measures
+<br>
+作者：Morteza Rezanejad, Gabriel Downs, John Wilder, Dirk B. Walther, Allan Jepson, Sven Dickinson, Kaleem Siddiqi
+<br>
+论文链接：https://arxiv.org/abs/1811.10524v1<br>
+
+<br>
+
+
+
+
+176.Point in, Box out: Beyond Counting Persons in Crowds<br>
+作者：待更新
+<br>
+论文链接：https://github.com/xiaofanglegoc/xiaofanglegoc.github.io/blob/master/publications/cvpr2019.pdf<br>
+
+<br>
+
+
+
+175.3D Guided Fine-Grained Face Manipulation
+
+<br>
+作者：Zhenglin Geng, Chen Cao, Sergey Tulyakov
+<br>
+论文链接：https://arxiv.org/abs/1902.08900<br>
+简要：Disentangle shape and texture and can continuously manipulate the facial expression. <br><br>
+
+174.Depth Coefficients for Depth Completion
+<br>
+作者：Saif Imran, Yunfei Long, Xiaoming Liu, Daniel Morris
+<br>
+论文链接：https://arxiv.org/abs/1903.05421v1<br>
+简要：The goal is to obtain high resolution depth images from sparse Lidar + color video.<br>
+<br>
+
+173.LaSO: Label-Set Operations networks for multi-label few-shot learning(oral)
+<br>
+作者：Amit Alfassy, Leonid Karlinsky, Amit Aides, Joseph Shtok, Sivan Harary, Rogerio Feris, Raja Giryes, Alex M. Bronstein
+<br>
+论文链接：https://arxiv.org/abs/1902.09811<br>
+<br>
+
+
+172.Peeking into the Future: Predicting Future Person Activities and Locations in Videos(行为预测）
+<br>
+作者：Junwei Liang, Lu Jiang, Juan Carlos Niebles, Alexander Hauptmann, Li Fei-Fei
+<br>
+论文链接：https://arxiv.org/abs/1902.03748<br>
+<br>
+
+
+
+171.All You Need is a Few Shifts: Designing Efficient Convolutional Neural Networks for Image Classification（分类）
+<br>
+作者：Weijie Chen, Di Xie, Yuan Zhang, Shiliang Pu
+<br>
+论文链接：https://arxiv.org/abs/1903.05285<br>
+<br>
+
+
+
+
+170.Depth Coefficients for Depth Completion<br>
+作者：Saif Imran, Yunfei Long, Xiaoming Liu, Daniel Morris
+<br>
+论文链接：https://arxiv.org/abs/1903.05421<br>
+<br>
+
+
+
+
+
+169.Hardness-Aware Deep Metric Learning（oral)<br>
+作者：Wenzhao Zheng, Zhaodong Chen, Jiwen Lu, Jie Zhou
+<br>
+论文链接：https://arxiv.org/abs/1903.05503<br>
+代码链接：https://github.com/wzzheng/HDML（待更新）<br>
+<br>
+
+
+
+
+168.RVOS: End-to-End Recurrent Network for Video Object Segmentation
+<br>
+作者：Carles Ventura, Miriam Bellver, Andreu Girbau, Amaia Salvador, Ferran Marques, Xavier Giro-i-Nieto
+<br>
+论文链接：https://arxiv.org/abs/1903.05612<br>
+项目链接：https://imatge-upc.github.io/rvos/<br>
+<br>
+
+
+167.Mode Seeking Generative Adversarial Networks for Diverse Image Synthesis<br>
+作者：Qi Mao, Hsin-Ying Lee, Hung-Yu Tseng, Siwei Ma, Ming-Hsuan Yang
+<br>
+论文链接：https://arxiv.org/abs/1903.05628<br>
+代码链接：https://github.com/HelenMao/MSGAN （待更新） <br>
+<br>
+
+
+
+
 166.A Decomposition Algorithm for the Sparse Generalized Eigenvalue Problem<br>
 作者：Ganzhao Yuan, Li Shen, Wei-Shi Zheng
 <br>
@@ -283,6 +403,7 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 作者：Yifan Liu, Ke Chen, Chris Liu, Zengchang Qin, Zhenbo Luo, Jingdong Wang
 <br>
 论文链接：https://arxiv.org/abs/1903.04197<br>
+论文解读：[微软亚研院提出用于语义分割的结构化知识蒸馏](https://mp.weixin.qq.com/s/WvYPf7xHu4TtuDan_Hh_pQ)
 <br>
 
 
@@ -418,7 +539,10 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 作者：A. Tewari	 F. Bernard	 P. Garrido 	 G. Bharaj 	 M. Elgharib   H-P. Seidel  P. Perez  M. Zollhöfer   C.Theobalt
 <br>
 项目链接：http://gvv.mpi-inf.mpg.de/projects/FML19/<br>
-论文链接：http://gvv.mpi-inf.mpg.de/projects/FML19/paper.pdf<br><br>
+论文链接：http://gvv.mpi-inf.mpg.de/projects/FML19/paper.pdf<br>
+论文解读：[这个面部3D重建模型，造出了6000多个名人的数字面具](https://mp.weixin.qq.com/s/wxZXVtzgxzBKqWOyt9Godw)
+
+<br>
 
 
 
@@ -464,7 +588,8 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 论文链接：https://arxiv.org/abs/1903.02874<br>
 项目链接：https://coin-dataset.github.io/<br>
 代码链接：https://github.com/coin-dataset/code<br>
-<br>
+论文解读：[业内最大规模！美图联合清华推出教程类行为数据集 COIN](https://mp.weixin.qq.com/s/YFmgdIEfLCvL5LLGQ0vesw)
+<br><br>
 
 
 
@@ -689,7 +814,9 @@ Github:https://github.com/chihyaoma/regretful-agent<br><br>
 
 88.Feature Selective Anchor-Free Module for Single-Shot Object Detection<br>
 作者：Chenchen Zhu, Yihui He, Marios Savvides<br>
-论文链接：https://arxiv.org/abs/1903.00621<br><br>
+论文链接：https://arxiv.org/abs/1903.00621<br>
+论文解读：[FSAF：来自CMU的Single-Shot目标检测算法](https://mp.weixin.qq.com/s/U45X5kKMw_E4vfHfVmWZTA)
+<br><br>
 
 
 87.PartNet: A Recursive Part Decomposition Network for Fine-grained and Hierarchical Shape Segmentation<br>
@@ -793,7 +920,8 @@ Arxiv链接：https://arxiv.org/abs/1903.01015<br><br>
 
 71.DeepMapping: Unsupervised Map Estimation From Multiple Point Clouds<br>
 作者：Li Ding, Chen Feng<br>
-论文链接：https://arxiv.org/abs/1811.11397<br><br>
+论文链接：https://arxiv.org/abs/1811.11397<br>
+项目链接：https://ai4ce.github.io/DeepMapping/<br><br>
 
 
 
@@ -842,7 +970,8 @@ Code链接：https://gitlab.com/MSRA_NLPR/deeper_wider_siamese_trackers<br><br>
 作者：Qiang Wang, Li Zhang, Luca Bertinetto, Weiming Hu, Philip H.S. Torr<br>
 论文链接：https://arxiv.org/abs/1812.05050<br>
 Github链接：https://github.com/foolwood/SiamMask<br>
-project链接：http://www.robots.ox.ac.uk/~qwang/SiamMask/<br><br>
+project链接：http://www.robots.ox.ac.uk/~qwang/SiamMask/<br>
+论文解读：[SiamMask：视频跟踪最高精度](https://mp.weixin.qq.com/s/tn3DBGQ-bfj8UCuupK-vHg)<br><br>
 
 
 63.Mask Scoring R-CNN<br>
@@ -1057,7 +1186,10 @@ Reading Notes:FINCH, a new clustering algorithm, absolutily no hyperparameters ,
 
 25.Stereo R-CNN based 3D Object Detection for Autonomous Driving（3D检测）<br>
 作者：Peiliang Li, Xiaozhi Chen, Shaojie Shen<br>
-论文链接：https://arxiv.org/abs/1902.09738<br><br>
+论文链接：https://arxiv.org/abs/1902.09738<br>
+论文解读：[Stereo R-CNN 3D 目标检测](https://mp.weixin.qq.com/s/X6XI7L57fGGGkAUug3E6Dg)<br>
+
+<br>
 24.Image-Question-Answer Synergistic Network for Visual Dialog<br>
 作者：Dalu Guo, Chang Xu, Dacheng Tao<br>
 论文链接：https://arxiv.org/abs/1902.09774<br><br>
