@@ -12,7 +12,69 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 <br><br>
 
+185.Neural Scene Decomposition for Multi-Person Motion Capture
+<br>
+作者：Helge Rhodin, Victor Constantin, Isinsu Katircioglu, Mathieu Salzmann, Pascal Fua
+<br>
+论文链接：https://arxiv.org/abs/1903.05684
+<br><br>
 
+
+
+184.Putting Humans in a Scene: Learning Affordance in 3D Indoor Environments
+<br>
+作者：Xueting Li, SIfei Liu, Kihwan Kim, Xiaolong Wang, Ming-Hsuan Yang, Jan Kautz
+<br>
+论文链接：https://arxiv.org/abs/1903.05690
+<br><br>
+
+183.Learning Parallax Attention for Stereo Image Super-Resolution(图像超分辨)
+<br>
+作者：Longguang Wang, Yingqian Wang, Zhengfa Liang, Zaiping Lin, Jungang Yang, Wei An, Yulan Guo
+<br>
+论文链接：https://arxiv.org/abs/1903.05784
+<br><br>
+
+
+
+182.MirrorGAN: Learning Text-to-image Generation by Redescription
+
+<br>
+作者：Tingting Qiao, Jing Zhang, Duanqing Xu, Dacheng Tao
+<br>
+论文链接：https://arxiv.org/abs/1903.05854
+
+
+
+<br><br>
+
+
+
+
+
+181.Dense Relational Captioning: Triple-Stream Networks for Relationship-Based Captioning
+
+<br>
+作者：Dong-Jin Kim, Jinsoo Choi, Tae-Hyun Oh, In So Kweon
+<br>
+论文链接：https://arxiv.org/abs/1903.05942
+
+
+
+<br><br>
+
+
+
+180.Bag of Tricks for Image Classification with Convolutional Neural Networks
+<br>
+作者：Tong He, Zhi Zhang, Hang Zhang, Zhongyue Zhang, Junyuan Xie, Mu Li
+<br>
+论文链接：https://arxiv.org/abs/1812.01187<br>
+源码链接：https://github.com/dmlc/gluon-cv
+
+
+
+<br><br>
 
 179.Structured Knowledge Distillation for Semantic Segmentation（语义分割）
 <br>
