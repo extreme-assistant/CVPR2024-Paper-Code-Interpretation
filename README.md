@@ -781,7 +781,7 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 101.Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation（非最终版）<br>
 作者：Zhi Tian, Chunhua Shen, Tong He, Youliang Yanl<br>
 论文链接：https://arxiv.org/abs/1903.02120<br>
-源码链接：https://github.com/LinZhuoChen/DUpsampling
+源码链接：https://github.com/LinZhuoChen/DUpsampling (an unofficial pytorch implementation)
 <br><br>
 
 
