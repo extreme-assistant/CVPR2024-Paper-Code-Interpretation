@@ -12,6 +12,125 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 <br><br>
 
+198.SIXray : A Large-scale Security Inspection X-ray Benchmark for Prohibited Item Discovery in Overlapping Images（金山云大规模X光违禁品安检数据集）
+<br>
+作者：Caijing Miao, Lingxi Xie, Fang Wan, Chi Su, Hongye Liu, Jianbin Jiao, Qixiang Ye
+<br>
+论文链接：https://arxiv.org/abs/1901.00303
+<br>
+论文简要：本文针对X光安检数据集，提出了类别平衡的分层细化模型处置数据集存在的成绩。<br><br>
+
+197.Iterative Reorganization with Weak Spatial Constraints: Solving Arbitrary Jigsaw Puzzles for Unsupervised Representation Learning（金山云）
+<br>
+作者：Chen Wei, Lingxi Xie, Xutong Ren, Yingda Xia, Chi Su, Jiaying Liu, Qi Tian, Alan L. Yuille
+<br>
+论文链接：https://arxiv.org/abs/1812.00329
+<br>
+论文简要：本文提出一种适用于恣意网格尺寸与维度的“拼图”成绩的新办法，同时提出了一个根本且具有普遍意义的准绳，即在无监视场景中较弱的信息更容易被学习，且具有更好的可迁移性。<br><br>
+
+
+196.Snapshot Distillation: Teacher-Student Optimization in One Generation（金山云）
+<br>
+作者：Chenglin Yang, Lingxi Xie, Chi Su, Alan L. Yuille
+<br>
+论文链接：https://arxiv.org/abs/1812.00123v1
+<br>
+论文简要：本文引见了第一种可以在训练单个模型的条件下完成教员-先生优化的办法——快照蒸馏(Snapshot Distillation)，在不引入过多的计算耗费状况下，完成了继续的功能提升。<br><br>
+
+
+195.Pluralistic Image Completion
+<br>
+作者：Chuanxia Zheng, Tat-Jen Cham, Jianfei Cai
+<br>
+论文链接：https://arxiv.org/abs/1903.04227
+<br>源码链接：https://github.com/lyndonzheng/Pluralistic-Inpainting<br>
+项目链接：http://www.chuanxiaz.com/publication/pluralistic/<br><br>
+
+
+194.Learning to Reconstruct People in Clothing from a Single RGB Camera<br>
+<br>
+作者：Thiemo Alldieck, Marcus Magnor, Bharat Lal Bhatnagar, Christian Theobalt, Gerard Pons-Moll
+<br>
+论文链接：https://arxiv.org/abs/1903.05885
+<br><br>
+
+
+
+
+193.Normalized Object Coordinate Space for Category-Level 6D Object Pose and Size Estimation(oral)<br>
+作者：He Wang, Srinath Sridhar, Jingwei Huang, Julien Valentin, Shuran Song, Leonidas J. Guibas
+<br>
+论文链接：https://arxiv.org/abs/1901.02970
+<br><br>
+
+
+
+192.SimulCap : Single-View Human Performance Capture with Cloth Simulation
+<br>
+作者：Tao Yu, Zerong Zheng, Yuan Zhong, Jianhui Zhao, Qionghai Dai, Gerard Pons-Moll, Yebin Liu
+<br>
+论文链接：https://arxiv.org/abs/1903.06323
+<br><br>
+
+
+
+191.Unsupervised Person Re-identification by Soft Multilabel Learning(行人再识别，Oral)
+<br>
+作者：Hong-Xing Yu, Wei-Shi Zheng, Ancong Wu, Xiaowei Guo, Shaogang Gong, Jian-Huang Lai
+<br>
+论文链接：https://arxiv.org/abs/1903.06325
+<br>
+源码链接：https://github.com/KovenYu/MAR<br><br>
+
+
+190.SceneCode: Monocular Dense Semantic Reconstruction using Learned Encoded Scene Representation
+<br>
+作者：Shuaifeng Zhi, Michael Bloesch, Stefan Leutenegger, Andrew J. Davison
+<br>
+论文链接：https://arxiv.org/abs/1903.06482
+<br><br>
+
+
+189.MFAS: Multimodal Fusion Architecture Search
+<br>
+作者：Juan-Manuel Pérez-Rúa, Valentin Vielzeuf, Stéphane Pateux, Moez Baccouche, Frédéric Jurie
+<br>
+论文链接：https://arxiv.org/abs/1903.06496
+<br><br>
+
+
+
+
+188.Bringing Blurry Alive at High Frame-Rate with an Event Camera
+<br>
+作者：Liyuan Pan, Richard Hartley, Cedric Scheerlinck, Miaomiao Liu, Xin Yu, Yuchao Dai
+<br>
+论文链接：https://arxiv.org/abs/1903.06531
+<br><br>
+
+
+
+
+
+187.Inserting Videos into Videos
+<br>
+作者：Donghoon Lee, Tomas Pfister, Ming-Hsuan Yang
+<br>
+论文链接：https://arxiv.org/abs/1903.06571
+<br><br>
+
+
+
+
+
+
+186.Selective Kernel Networks<br>
+作者：Xiang Li, Wenhai Wang, Xiaolin Hu, Jian Yang
+<br>
+论文链接：https://arxiv.org/abs/1903.06586
+<br>
+源码链接：https://github.com/implus/SKNet<br><br>
+
 185.Neural Scene Decomposition for Multi-Person Motion Capture
 <br>
 作者：Helge Rhodin, Victor Constantin, Isinsu Katircioglu, Mathieu Salzmann, Pascal Fua
