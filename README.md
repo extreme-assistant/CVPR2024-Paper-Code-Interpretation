@@ -11,6 +11,24 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 <br><br>
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 <br><br>
+
+
+212.From Adversarial Training to Generative Adversarial Networks
+<br>
+作者：Xuanqing Liu, Cho-Jui Hsieh
+<br>
+论文链接：https://arxiv.org/pdf/1807.10454.pdf
+<br>
+
+
+211.Learning Linear Transformations for Fast Arbitrary Style Transfer
+<br>
+作者：Xueting Li, Sifei Liu, Jan Kautz, Ming-Hsuan Yang
+<br>
+论文链接：https://arxiv.org/pdf/1808.04537v1.pdf
+<br>
+
+
 210.Domain Generalization by Solving Jigsaw Puzzles
 <br>
 作者：Fabio Maria Carlucci, Antonio D'Innocente, Silvia Bucci, Barbara Caputo, Tatiana Tommasi
