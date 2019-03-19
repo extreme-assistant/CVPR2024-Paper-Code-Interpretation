@@ -19,6 +19,7 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 <br>
 论文链接：https://arxiv.org/pdf/1807.10454.pdf
 <br>
+<br>
 
 
 211.Learning Linear Transformations for Fast Arbitrary Style Transfer
@@ -26,6 +27,7 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 作者：Xueting Li, Sifei Liu, Jan Kautz, Ming-Hsuan Yang
 <br>
 论文链接：https://arxiv.org/pdf/1808.04537v1.pdf
+<br>
 <br>
 
 
