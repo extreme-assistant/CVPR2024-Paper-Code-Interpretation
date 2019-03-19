@@ -11,6 +11,112 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 <br><br>
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 <br><br>
+210.Domain Generalization by Solving Jigsaw Puzzles
+<br>
+作者：Fabio Maria Carlucci, Antonio D'Innocente, Silvia Bucci, Barbara Caputo, Tatiana Tommasi
+<br>
+论文链接：https://arxiv.org/abs/1903.06864
+<br>
+<br>
+
+
+209.Fast Interactive Object Annotation with Curve-GCN<br>
+作者：Huan Ling, Jun Gao, Amlan Kar, Wenzheng Chen, Sanja Fidler
+<br>
+论文链接：https://arxiv.org/abs/1903.06874
+<br>
+<br>
+
+
+208.A Cross-Season Correspondence Dataset for Robust Semantic Segmentation
+<br>
+作者：Måns Larsson, Erik Stenborg, Lars Hammarstrand, Torsten Sattler, Mark Pollefeys, Fredrik Kahl
+<br>
+论文链接：https://arxiv.org/abs/1903.06916
+<br>
+<br>
+
+
+207.Unsupervised Part-Based Disentangling of Object Shape and Appearance(Oral)
+<br>
+作者：Dominik Lorenz, Leonard Bereska, Timo Milbich, Björn Ommer
+<br>
+论文链接：https://arxiv.org/abs/1903.06946
+<br>
+<br>
+
+
+
+206.AdaGraph: Unifying Predictive and ContinuousDomain Adaptation through Graphs(Oral)<br>
+作者：Massimiliano Mancini, Samuel Rota Bulò, Barbara Caputo, Elisa Ricci
+<br>
+论文链接：https://arxiv.org/abs/1903.07062
+<br>
+<br>
+
+
+
+205.Inverse Path Tracing for Joint Material and Lighting Estimation(Oral)
+<br>
+作者：Jiaxin Cheng, Yue Wu, Wael Abd-Almageed, Premkumar Natarajan
+<br>
+论文链接：https://arxiv.org/abs/1903.07145
+<br>
+<br>
+
+
+
+
+
+204.QATM: Quality-Aware Template Matching For Deep Learning<br>
+作者：Jiaxin Cheng, Yue Wu, Wael Abd-Almageed, Premkumar Natarajan
+<br>
+论文链接：https://arxiv.org/abs/1903.07254
+<br>
+<br>
+
+
+
+
+203.Graph Convolutional Label Noise Cleaner: Train a Plug-and-play Action Classifier for Anomaly Detection<br>
+作者：Jia-Xing Zhong, Nannan Li, Weijie Kong, Shan Liu, Thomas H. Li, Ge Li
+<br>
+论文链接：https://arxiv.org/abs/1903.07256
+<br>
+<br>
+
+
+202.Semantic Image Synthesis with Spatially-Adaptive Normalization(Oral, 英伟达)
+<br>
+作者：Taesung Park, Ming-Yu Liu, Ting-Chun Wang, Jun-Yan Zhu
+<br>
+论文链接：https://arxiv.org/abs/1903.07291
+<br>
+<br>
+
+201.Self-calibrating Deep Photometric Stereo Networks(Oral)
+<br>
+作者：Guanying Chen, Kai Han, Boxin Shi, Yasuyuki Matsushita, Kwan-Yee K. Wong
+<br>
+论文链接：https://arxiv.org/abs/1903.07366
+<br>
+项目链接：http://gychen.org/SDPS-Net/<br>
+代码链接：https://github.com/guanyingc/SDPS-Net<br><br>
+
+200.Understanding the Limitations of CNN-based Absolute Camera Pose Regression
+<br>
+作者：Torsten Sattler, Qunjie Zhou, Marc Pollefeys, Laura Leal-Taixe
+<br>
+论文链接：https://arxiv.org/abs/1903.07504
+<br><br>
+
+199.Learning Correspondence from the Cycle-Consistency of Time
+<br>
+作者：Xiaolong Wang, Allan Jabri, Alexei A. Efros
+<br>
+论文链接：https://arxiv.org/abs/1903.07593
+<br>
+项目链接：https://ajabri.github.io/timecycle/<br><br>
 
 198.SIXray : A Large-scale Security Inspection X-ray Benchmark for Prohibited Item Discovery in Overlapping Images（金山云大规模X光违禁品安检数据集）
 <br>
