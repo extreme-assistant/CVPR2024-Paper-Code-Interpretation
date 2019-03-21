@@ -14,6 +14,86 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 
 
 
+
+231.Decoupling Direction and Norm for Efficient Gradient-Based L2 Adversarial Attacks and Defenses(Oral)
+<br>
+作者：Jérôme Rony, Luiz G. Hafemann, Luiz S. Oliveira, Ismail Ben Ayed, Robert Sabourin, Eric Granger<br>
+论文链接：https://arxiv.org/abs/1811.09600<br>
+代码链接：https://github.com/jeromerony/fast_adversarial
+<br>
+<br>
+
+230.Direct Object Recognition Without Line-of-Sight Using Optical Coherence(非视距物体识别技术)
+<br>
+作者：Xin Lei, Liangyu He, Yixuan Tan, Ken Xingze Wang, Xinggang Wang, Yihan Du, Shanhui Fan, Zongfu Yu<br>
+论文链接：https://arxiv.org/abs/1903.07705<br>
+<br>
+<br>
+
+229.Graphical Contrastive Losses for Scene Graph Generation
+<br>
+作者：Ji Zhang, Kevin J. Shih, Ahmed Elgammal, Andrew Tao, Bryan Catanzaro<br>
+论文链接：https://arxiv.org/abs/1903.02728<br>
+代码链接：https://github.com/NVIDIA/ContrastiveLosses4VRD
+<br>
+<br>
+
+
+228.Knowledge Adaptation for Efficient Semantic Segmentation（语义分割）
+<br>
+作者：Tong He, Chunhua Shen, Zhi Tian, Dong Gong, Changming Sun, Youliang Yan<br>
+论文链接：https://arxiv.org/abs/1903.04688
+<br>
+<br>
+
+
+227.Improving Semantic Segmentation via Video Propagation and Label Relaxation(oral)
+<br>
+作者：Yi Zhu, Karan Sapra, Fitsum A. Reda, Kevin J. Shih, Shawn Newsam, Andrew Tao, Bryan Catanzaro<br>
+论文链接：https://arxiv.org/abs/1812.01593
+<br>
+<br>
+
+
+226.Pay attention! - Robustifying a Deep Visuomotor Policy through Task-Focused Attention
+<br>
+作者：Pooya Abolghasemi, Amir Mazaheri, Mubarak Shah, Ladislau Bölöni<br>
+论文链接：https://arxiv.org/abs/1809.10093
+<br>
+<br>
+
+
+225.Cross-task weakly supervised learning from instructional videos
+<br>
+作者：Dimitri Zhukov, Jean-Baptiste Alayrac, Ramazan Gokberk Cinbis, David Fouhey, Ivan Laptev, Josef Sivic<br>
+论文链接：https://arxiv.org/abs/1903.08225
+<br>
+
+<br>
+
+
+224.In Defense of Pre-trained ImageNet Architectures for Real-time Semantic Segmentation of Road-driving Images<br>
+作者：Marin Oršić, Ivan Krešo, Petra Bevandić, Siniša Šegvić<br>
+论文链接：https://arxiv.org/abs/1903.08469<br>
+代码链接：https://github.com/orsic/swiftnet
+<br>
+
+<br>
+
+223.OCGAN: One-class Novelty Detection Using GANs with Constrained Latent Representations<br>
+作者：Pramuditha Perera, Ramesh Nallapati, Bing Xiang<br>
+论文链接：https://arxiv.org/abs/1903.08550
+
+<br><br>
+
+222.An Efficient Schmidt-EKF for 3D Visual-Inertial SLAM
+<br>
+作者：Patrick Geneva, James Maley, Guoquan Huang<br>
+论文链接：https://arxiv.org/abs/1903.08636
+
+<br><br>
+
+
 221.Learning to Compose Dynamic Tree Structures for Visual Contexts（VQA,Oral）
 <br>
 作者：Kaihua Tang, Hanwang Zhang, Baoyuan Wu, Wenhan Luo, Wei Liu<br>
@@ -178,7 +258,9 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 <br>
 论文链接：https://arxiv.org/abs/1903.07291
 <br>
-<br>
+项目链接：https://nvlabs.github.io/SPADE/<br>
+代码链接：https://github.com/NVlabs/SPADE
+<br><br>
 
 201.Self-calibrating Deep Photometric Stereo Networks(Oral)
 <br>
