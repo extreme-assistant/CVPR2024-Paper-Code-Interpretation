@@ -71,7 +71,17 @@ Demo链接：https://github.com/vita-epfl/openpifpafwebdemo
 <br>
  <br>
 
+232.DSFD: Dual Shot Face Detector
+<br>
+作者：Jian Li, Yabiao Wang, Changan Wang, Ying Tai
+<br>
+论文链接：https://arxiv.org/abs/1810.10220
+<br>
+代码链接：https://github.com/TencentYoutuResearch/FaceDetection-DSFD
+<br><br>
+微信公众号介绍链接：https://mp.weixin.qq.com/s/0rTCeHumVSv07hMCaCd7EA
 
+<<<<<<< HEAD
 
 
 
@@ -111,6 +121,9 @@ Demo链接：https://github.com/vita-epfl/openpifpafwebdemo
 
 
 
+=======
+<br><br>
+>>>>>>> af636cf59440f6e43664a80ed78852dfd51455c0
 231.Decoupling Direction and Norm for Efficient Gradient-Based L2 Adversarial Attacks and Defenses(Oral)
 <br>
 作者：Jérôme Rony, Luiz G. Hafemann, Luiz S. Oliveira, Ismail Ben Ayed, Robert Sabourin, Eric Granger<br>
