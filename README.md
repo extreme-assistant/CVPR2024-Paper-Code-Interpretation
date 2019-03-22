@@ -19,10 +19,10 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 论文链接：https://arxiv.org/abs/1810.10220
 <br>
 代码链接：https://github.com/TencentYoutuResearch/FaceDetection-DSFD
-<br>
-微信公众号介绍链接：https://mp.weixin.qq.com/s?src=11&timestamp=1553235028&ver=1499&signature=hbTdp7wGkQjEBK86Zv98DXV*NnoTQ7zZmGz-48UDO3RcaU336GzvhutWLEbmMO5YDsqd5czhIHcxm280Op14LsRe-kZMR-SknTywdPr-RqxISjb*YiJgrePPsC7mnlWb&new=1
+<br><br>
+微信公众号介绍链接：https://mp.weixin.qq.com/s/0rTCeHumVSv07hMCaCd7EA
 
-
+<br><br>
 231.Decoupling Direction and Norm for Efficient Gradient-Based L2 Adversarial Attacks and Defenses(Oral)
 <br>
 作者：Jérôme Rony, Luiz G. Hafemann, Luiz S. Oliveira, Ismail Ben Ayed, Robert Sabourin, Eric Granger<br>
@@ -159,7 +159,7 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 
 
 
-213.Hierarchical Discrete Distribution Decomposition for Match Density Estimation（立体匹配）<br>
+213.Hierarchical Discrete Distribution Decomposition for Match Density Estimation（立体匹配/光流）<br>
 作者：Zhichao Yin, Trevor Darrell, Fisher Yu<br>
 论文链接：https://arxiv.org/abs/1812.06264<br>
 论文简要：在本文中，我们提出了分层离散分布分解，称为HD3，以学习概率点和区域匹配。它不仅可以模拟匹配不确定性，还可以模拟区域传播。<br><br>
