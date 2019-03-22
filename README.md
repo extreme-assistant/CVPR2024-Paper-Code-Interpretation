@@ -19,7 +19,6 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 论文链接：https://arxiv.org/abs/1810.10220
 <br>
 代码链接：https://github.com/TencentYoutuResearch/FaceDetection-DSFD
-<br><br>
 微信公众号介绍链接：https://mp.weixin.qq.com/s/0rTCeHumVSv07hMCaCd7EA
 
 <br><br>
