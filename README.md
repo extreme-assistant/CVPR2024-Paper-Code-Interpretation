@@ -11,7 +11,103 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 <br><br>
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 <br><br>
+243.ArcFace: Additive Angular Margin Loss for Deep Face Recognition（人脸识别）
+<br>
+作者：Jiankang Deng, Jia Guo, Niannan Xue, Stefanos Zafeiriou<br>
+论文链接：https://arxiv.org/abs/1801.07698
+<br>
+Demo链接：https://github.com/vita-epfl/openpifpafwebdemo
+ <br> <br>
 
+
+242.PifPaf: Composite Fields for Human Pose Estimation(姿态估计）<br>
+作者：Sven Kreiss, Lorenzo Bertoni, Alexandre Alahi<br>
+论文链接：https://arxiv.org/abs/1903.06593
+<br>
+Demo链接：https://github.com/vita-epfl/openpifpafwebdemo
+ <br> <br>
+
+
+
+241.Explainable and Explicit Visual Reasoning over Scene Graphs<br>
+作者：Jiaxin Shi, Hanwang Zhang, Juanzi Li<br>
+论文链接：https://arxiv.org/abs/1812.01855
+<br>
+代码链接：https://github.com/shijx12/XNM-Net
+ <br> <br>
+
+
+
+240.Single Image Deraining: A Comprehensive Benchmark Analysis<br>
+作者：Siyuan Li, Iago Breno Araujo, Wenqi Ren, Zhangyang Wang, Eric K. Tokuda, Roberto Hirata Junior, Roberto Cesar-Junior, Jiawan Zhang, Xiaojie Guo, Xiaochun Cao<br>
+论文链接：https://arxiv.org/abs/1903.08558
+<br>
+代码链接：https://github.com/lsy17096535/Single-Image-Deraining
+ <br> <br>
+
+
+
+239.SalGAN: Visual Saliency Prediction with Generative Adversarial Networks（商汤/华为/港中文）
+<br>
+作者：Junting Pan, Cristian Canton Ferrer, Kevin McGuinness, Noel E. O'Connor, Jordi Torres, Elisa Sayrol, Xavier Giro-i-Nieto<br>
+论文链接：https://arxiv.org/abs/1701.01081
+<br>
+代码链接：https://github.com/junting/seg2vid
+ <br> <br>
+
+
+
+
+238.Im2Pencil: Controllable Pencil Illustration from Photographs
+<br>
+作者：Yijun Li, Chen Fang, Aaron Hertzmann, Eli Shechtman, Ming-Hsuan Yang<br>
+论文链接：https://arxiv.org/abs/1903.08682
+<br>
+ <br>
+
+237.LaserNet: An Efficient Probabilistic 3D Object Detector for Autonomous Driving（3D目标检测）<br>
+作者：Gregory P. Meyer, Ankit Laddha, Eric Kee, Carlos Vallespi-Gonzalez, Carl K. Wellington<br>
+论文链接：https://arxiv.org/abs/1903.08701
+<br>
+ <br>
+
+
+
+
+
+236.Networks for Joint Affine and Non-parametric Image Registration
+<br>
+作者：Zhengyang Shen, Xu Han, Zhenlin Xu, Marc Niethammer<br>
+论文链接：https://arxiv.org/abs/1903.08811
+<br>
+ <br>
+
+
+235.Dual Residual Networks Leveraging the Potential of Paired Operations for Image Restoration<br>
+作者：Xing Liu, Masanori Suganuma, Zhun Sun, Takayuki Okatani<br>
+论文链接：https://arxiv.org/abs/1903.08817 
+<br>
+ <br>
+
+
+
+234.Towards Robust Curve Text Detection with Conditional Spatial Expansion
+<br>
+作者：Zichuan Liu, Guosheng Lin, Sheng Yang, Fayao Liu, Weisi Lin, Wang Ling Goh<br>
+论文链接：https://arxiv.org/abs/1903.08836 
+ <br><br>
+
+233.Weakly-Supervised Discovery of Geometry-Aware Representation for 3D Human Pose Estimation(Oral，3D姿态估计) <br>
+作者：Xipeng Chen, Kwan-Yee Lin, Wentao Liu, Chen Qian, Liang Lin <br>
+论文链接：https://arxiv.org/abs/1903.08839 
+ <br><br>
+
+232.DSFD: Dual Shot Face Detector（腾讯优图） <br>
+作者：Jian Li, Yabiao Wang, Changan Wang, Ying Tai <br>
+论文链接：https://arxiv.org/abs/1810.10220 <br>
+代码链接：https://github.com/TencentYoutuResearch/FaceDetection-DSFD <br>
+微信公众号介绍链接：https://mp.weixin.qq.com/s/0rTCeHumVSv07hMCaCd7EA
+<br><br>
 
 
 
@@ -129,12 +225,10 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 论文链接：https://arxiv.org/abs/1903.07788<br>
 <br>
 
-
 216.SSA-CNN: Semantic Self-Attention CNN for Pedestrian Detection（行人检测）<br>
 作者：Chengju Zhou,Meiqing Wu,Siew-Kei Lam<br>
 论文链接：https://arxiv.org/abs/1902.09080v1<br>
 论文简要：本文将语义分割结果作为自我关注线索进行探索，以显着提高行人检测性能。 <br><br>
-
 
 
 
@@ -143,7 +237,6 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 论文链接：https://arxiv.org/abs/1811.10964<br>
 论文简要：本文提出了一种解决单眼视觉测距问题的新框架，称为MagicVO。 基于卷积神经网络（CNN）和双向LSTM（Bi-LSTM），MagicVO在摄像机的每个位置输出6-DoF绝对标度姿势，并以一系列连续单目图像作为输入。 <br><br>
 
-
 214.Deep Rigid Instance Scene Flow<br>
 作者：Wei-Chiu Ma 、Shenlong Wang 、Rui Hu、Yuwen Xiong、 Raquel Urtasun<br>
 论文链接：https://people.csail.mit.edu/weichium/papers/cvpr19-dsisf/paper.pdf<br>
@@ -151,7 +244,7 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 
 
 
-213.Hierarchical Discrete Distribution Decomposition for Match Density Estimation（立体匹配）<br>
+213.Hierarchical Discrete Distribution Decomposition for Match Density Estimation（立体匹配/光流）<br>
 作者：Zhichao Yin, Trevor Darrell, Fisher Yu<br>
 论文链接：https://arxiv.org/abs/1812.06264<br>
 论文简要：在本文中，我们提出了分层离散分布分解，称为HD3，以学习概率点和区域匹配。它不仅可以模拟匹配不确定性，还可以模拟区域传播。<br><br>
@@ -183,7 +276,8 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 <br>
 论文链接：https://arxiv.org/abs/1903.06864
 <br>
-<br>
+代码链接：https://github.com/fmcarlucci/JigenDG
+<br><br>
 
 
 209.Fast Interactive Object Annotation with Curve-GCN<br>
@@ -674,10 +768,10 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 
 
 
-158.A Skeleton-bridged Deep Learning Approach for Generating Meshes of Complex Topologies from Single RGB Images(oral)<br>
-作者：Jiapeng Tang, Xiaoguang Han, Junyi Pan, Kui Jia, Xin Tong
+158.Learning with Batch-wise Optimal Transport Loss for 3D Shape Recognition<br>
+作者：Lin Xu, Han Sun, Yuai Liu
 <br>
-论文链接：https://arxiv.org/abs/1903.04704<br>
+论文链接：https://arxiv.org/abs/1903.08923<br>
 <br>
 
 
@@ -723,7 +817,7 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 153.Real-time self-adaptive deep stereo(oral)<br>
 作者：Alessio Tonioni, Fabio Tosi, Matteo Poggi, Stefano Mattoccia, Luigi Di Stefano
 <br>
-论文链接：https://arxiv.org/abs/1903.04704<br>
+论文链接：https://arxiv.org/abs/1810.05424<br>
 源码链接：https://github.com/CVLAB-Unibo/Real-time-self-adaptive-deep-stereo<br>
 <br>
 
@@ -913,7 +1007,7 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 134.Deep Reinforcement Learning of Volume-guided Progressive View Inpainting for 3D Point Scene Completion from a Single Depth Image(oral)<br>
 作者：Xiaoguang Han, Zhaoxuan Zhang, Dong Du, Mingdai Yang, Jingming Yu, Pan Pan, Xin Yang, Ligang Liu, Zixiang Xiong, Shuguang Cui.
 <br>
-论文链接：https://arxiv.org/abs/1903.04704<br>
+论文链接：https://arxiv.org/abs/1903.04019<br>
 <br>
 
 133.Knowledge-Embedded Routing Network for Scene Graph Generation<br>
@@ -1423,7 +1517,7 @@ project链接：https://cis.temple.edu/lasot/<br><br>
 66.SiamRPN++: Evolution of Siamese Visual Tracking with Very Deep Networks(目标跟踪）
 <br>
 作者：Bo Li, Wei Wu, Qiang Wang, Fangyi Zhang, Junliang Xing, Junjie Yan<br>
-论文链接：https://arxiv.org/pdf/1901.01660.pdf<br>
+论文链接：https://arxiv.org/abs/1812.11703<br>
 Project链接：http://bo-li.info/SiamRPN++/<br>
 论文解读：https://mp.weixin.qq.com/s/dB5u2No8eakLnrjto0kvyQ<br><br>
 
