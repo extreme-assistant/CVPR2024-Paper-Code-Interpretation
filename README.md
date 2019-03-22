@@ -12,7 +12,15 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 <br><br>
 
-
+232.DSFD: Dual Shot Face Detector
+<br>
+作者：Jian Li, Yabiao Wang, Changan Wang, Ying Tai
+<br>
+论文链接：https://arxiv.org/abs/1810.10220
+<br>
+代码链接：https://github.com/TencentYoutuResearch/FaceDetection-DSFD
+<br>
+微信公众号介绍链接：https://mp.weixin.qq.com/s?src=11&timestamp=1553235028&ver=1499&signature=hbTdp7wGkQjEBK86Zv98DXV*NnoTQ7zZmGz-48UDO3RcaU336GzvhutWLEbmMO5YDsqd5czhIHcxm280Op14LsRe-kZMR-SknTywdPr-RqxISjb*YiJgrePPsC7mnlWb&new=1
 
 
 231.Decoupling Direction and Norm for Efficient Gradient-Based L2 Adversarial Attacks and Defenses(Oral)
