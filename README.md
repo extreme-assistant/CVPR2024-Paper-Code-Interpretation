@@ -11,6 +11,64 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 <br><br>
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 <br><br>
+249.Attention-aware Multi-stroke Style Transfer
+
+<br>
+作者：Yuan Yao, Jianqiang Ren, Xuansong Xie, Weidong Liu, Yong-Jin Liu, Jun Wang<br>
+论文链接：https://arxiv.org/abs/1901.05127<br>
+项目链接：https://sites.google.com/view/yuanyao/attention-aware-multi-stroke-style-transfer<br>
+
+<br>
+
+
+
+248.Learning View Priors for Single-view 3D Reconstruction
+<br>
+作者：Hiroharu Kato, Tatsuya Harada<br>
+论文链接：https://arxiv.org/abs/1811.10719<br>
+项目链接：http://hiroharu-kato.com/projects_en/view_prior_learning.html<br>
+
+<br>
+
+
+
+247.Image Generation from Layout
+<br>
+作者：Bo Zhao, Lili Meng, Weidong Yin, Leonid Sigal<br>
+论文链接：https://arxiv.org/abs/1811.11389
+
+<br><br>
+
+246.Text2Scene: Generating Compositional Scenes from Textual Descriptions
+<br>
+作者：Yitong Li, Zhe Gan, Yelong Shen, Jingjing Liu, Yu Cheng, Yuexin Wu, Lawrence Carin, David Carlson, Jianfeng Gao<br>
+论文链接：https://arxiv.org/abs/1809.01110
+<br>
+代码链接：https://github.com/uvavision/Text2Image
+<br><br>
+
+
+
+
+245.StoryGAN: A Sequential Conditional GAN for Story Visualization（图像文本生成）
+<br>
+作者：Yitong Li, Zhe Gan, Yelong Shen, Jingjing Liu, Yu Cheng, Yuexin Wu, Lawrence Carin, David Carlson, Jianfeng Gao<br>
+论文链接：https://arxiv.org/abs/1812.02784
+<br>
+代码链接：https://github.com/yitong91/StoryGAN
+<br><br>
+
+
+244.Discovering Visual Patterns in Art Collections with Spatially-consistent Feature Learning
+<br>
+作者：Xi Shen, Alexei A. Efros, Mathieu Aubry<br>
+论文链接：https://arxiv.org/abs/1903.02678
+<br>
+<br>
+
+
+
+
 243.ArcFace: Additive Angular Margin Loss for Deep Face Recognition（人脸识别）
 <br>
 作者：Jiankang Deng, Jia Guo, Niannan Xue, Stefanos Zafeiriou<br>
@@ -102,7 +160,7 @@ Demo链接：https://github.com/vita-epfl/openpifpafwebdemo
 作者：Jian Li, Yabiao Wang, Changan Wang, Ying Tai <br>
 论文链接：https://arxiv.org/abs/1810.10220 <br>
 代码链接：https://github.com/TencentYoutuResearch/FaceDetection-DSFD <br>
-微信公众号介绍链接：https://mp.weixin.qq.com/s/0rTCeHumVSv07hMCaCd7EA
+论文介绍：https://mp.weixin.qq.com/s/0rTCeHumVSv07hMCaCd7EA
 <br><br>
 
 
@@ -411,7 +469,7 @@ Demo链接：https://github.com/vita-epfl/openpifpafwebdemo
 
 
 194.Learning to Reconstruct People in Clothing from a Single RGB Camera<br>
-<br>
+
 作者：Thiemo Alldieck, Marcus Magnor, Bharat Lal Bhatnagar, Christian Theobalt, Gerard Pons-Moll
 <br>
 论文链接：https://arxiv.org/abs/1903.05885
@@ -527,8 +585,7 @@ Demo链接：https://github.com/vita-epfl/openpifpafwebdemo
 
 
 
-182.MirrorGAN: Learning Text-to-image Generation by Redescription
-
+182.MirrorGAN: Learning Text-to-image Generation by Redescription（图像文本生成）
 <br>
 作者：Tingting Qiao, Jing Zhang, Duanqing Xu, Dacheng Tao
 <br>
@@ -1386,9 +1443,11 @@ Github:https://github.com/chihyaoma/regretful-agent<br><br>
 论文链接：https://arxiv.org/abs/1903.00788<br><br>
 
 
-85.3D Hand Shape and Pose Estimation from a Single RGB Image<br>
+85.3D Hand Shape and Pose Estimation from a Single RGB Image（Oral)<br>
 作者：Liuhao Ge, Zhou Ren, Yuncheng Li, Zehao Xue, Yingying Wang, Jianfei Cai, Junsong Yuan<br>
-论文链接：https://arxiv.org/abs/1903.00812<br><br>
+论文链接：https://arxiv.org/abs/1903.00812<br>
+项目链接：https://sites.google.com/site/geliuhaontu/home/cvpr2019<br>
+代码链接：https://github.com/geliuhao/3DHandShapePosefromRGB<br><br>
 
 
 
@@ -1604,7 +1663,7 @@ Github源码：https://github.com/pkuCactus/BDCN<br><br>
 论文链接：https://arxiv.org/abs/1809.02983<br>
 Github源码：https://github.com/junfu1115/DANet<br><br>
 
-51.Object-driven Text-to-Image Synthesis via Adversarial Training<br>
+51.Object-driven Text-to-Image Synthesis via Adversarial Training（图像文本生成）<br>
 作者：Wenbo Li, Pengchuan Zhang, Lei Zhang, Qiuyuan Huang, Xiaodong He, Siwei Lyu, Jianfeng Gao<br>
 论文链接：https://arxiv.org/abs/1902.10740<br><br>
 
@@ -1664,7 +1723,7 @@ Github链接：https://github.com/google/compare_gan<br><br>
 作者：Amy Zhao, Guha Balakrishnan, Frédo Durand, John V. Guttag, Adrian V. Dalca<br>
 论文链接：https://arxiv.org/abs/1902.09383<br><br>
 
-40.Monocular Total Capture: Posing Face, Body, and Hands in the Wild<br>
+40.Monocular Total Capture: Posing Face, Body, and Hands in the Wild(Oral)<br>
 作者：Donglai Xiang, Hanbyul Joo, Yaser Sheikh<br>
 论文链接：https://arxiv.org/pdf/1812.01598.pdf<br>
 项目链接：http://domedb.perception.cs.cmu.edu/monototalcapture.html
@@ -1709,7 +1768,7 @@ Github链接：https://github.com/zihangJiang/DR-Learning-for-3D-Face<br>
 论文链接：https://arxiv.org/abs/1902.09720<br>
 来源：https://mp.weixin.qq.com/s/mamDhLUw6O9v8gldyIOPUA<br><br>
 
-31.3D Hand Shape and Pose from Images in the Wild<br>
+31.3D Hand Shape and Pose from Images in the Wild(Oral)<br>
 作者：Adnane Boukhayma, Rodrigo de Bem, Philip H.S. Torr<br>
 论文链接：https://arxiv.org/pdf/1902.03451.pdf<br>
 Github链接：https://github.com/boukhayma/3dhand<br><br>
