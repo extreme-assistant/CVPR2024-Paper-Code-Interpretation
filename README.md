@@ -2,41 +2,132 @@
 Source：https://mp.weixin.qq.com/s/SmS-guwg6oUqPYwfeC6iiw<br>
 论文解读汇总：http://bbs.cvmart.net/topics/287/cvpr2019 <br>
 论文分类汇总：http://bbs.cvmart.net/topics/302/cvpr2019paper<br>
+CVPR2019论文直播计划：
+3/28晚20:00-21:30[王鑫龙：联合分割点云中的实例和语义（开源，列表id 27)](<http://bbs.cvmart.net/topics/351/%E8%81%94%E5%90%88%E5%88%86%E5%89%B2%E7%82%B9%E4%BA%91%E4%B8%AD%E7%9A%84%E5%AE%9E%E4%BE%8B%E5%92%8C%E8%AF%AD%E4%B9%89>)<br>
 cvpr2019 accepted papers list:<br>
 http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
-<br><br>
+<br>
+<br>
 论文PDF下载（更新中）<br>
 链接：https://pan.baidu.com/s/1s4FuLscWcslN5rQQvP92JA 
 提取码：osvy 
 <br><br>
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 <br><br>
-249.Attention-aware Multi-stroke Style Transfer
-
+261.DeeperLab: Single-Shot Image Parser
 <br>
+作者：Tien-Ju Yang, Maxwell D. Collins, Yukun Zhu, Jyh-Jing Hwang, Ting Liu, Xiao Zhang, Vivienne Sze, George Papandreou, Liang-Chieh Chen<br>
+论文链接：https://arxiv.org/abs/1902.05093
+<br>
+代码链接：https://github.com/tensorflow/models/tree/master/research/deeplab/evaluation<br>
+<br>
+项目链接：http://deeperlab.mit.edu/
+<br>
+<br>
+
+260.Strong-Weak Distribution Alignment for Adaptive Object Detection
+<br>
+作者：Kuniaki Saito, Yoshitaka Ushiku, Tatsuya Harada, Kate Saenko<br>
+论文链接：https://arxiv.org/abs/1812.04798
+<br>
+<br>
+
+
+259.Patch-based Progressive 3D Point Set Upsampling
+作者：Wang Yifan, Shihao Wu, Hui Huang, Daniel Cohen-Or, Olga Sorkine-Hornung<br>
+论文链接：https://arxiv.org/abs/1811.11286
+<br>
+代码链接：https://github.com/yifita/3PU
+<br>
+<br>
+
+
+258.CrowdPose: Efficient Crowded Scenes Pose Estimation and A New Benchmark<br>
+作者：Jiefeng Li, Can Wang, Hao Zhu, Yihuan Mao, Hao-Shu Fang, Cewu Lu<br>
+论文链接：https://arxiv.org/abs/1812.00324
+<br>
+代码链接：https://github.com/Jeff-sjtu/CrowdPose
+<br>
+<br>
+
+
+257.Recurrent Back-Projection Network for Video Super-Resolution
+<br>
+作者：Muhammad Haris, Greg Shakhnarovich, Norimichi Ukita <br>
+论文链接：https://alterzero.github.io/projects/rbpn_cvpr2019.pdf
+<br>
+代码链接：https://github.com/alterzero/RBPN-PyTorch
+<br>
+项目链接：https://alterzero.github.io/projects/RBPN.html
+<br>
+<br>
+
+256.Im2Pencil: Controllable Pencil Illustration from Photographs(Adobe与谷歌云等）
+<br>
+作者：Yijun Li,Chen Fang, Aaron Hertzmann, Eli Shechtman, Ming-Hsuan Yang<br>
+论文链接：https://drive.google.com/file/d/1sl5IBD36bMWAvKH7Uz7An0mcrIOmlopv/view
+<br>
+代码链接：https://github.com/Yijunmaverick/Im2Pencil
+<br>
+<br>
+
+
+255.Learning for Single-Shot Confidence Calibration in Deep Neural Networks through Stochastic Inferences<br>
+作者：Seonguk Seo, Paul Hongsuck Seo, Bohyung Han<br>
+论文链接：https://arxiv.org/abs/1810.02358
+<br>
+<br>
+
+
+254.Transfer Learning via Unsupervised Task Discovery for Visual Question Answering（VQA)
+<br>
+作者：Hyeonwoo Noh, Taehoon Kim, Jonghwan Mun, Bohyung Han<br>
+论文链接：https://arxiv.org/abs/1810.02358
+<br>
+<br>
+
+253.Multi-person Articulated Tracking with Spatial and Temporal Embeddings
+<br>
+作者：Sheng Jin, Wentao Liu, Wanli Ouyang, Chen Qian<br>
+论文链接：https://arxiv.org/abs/1903.09214
+<br>
+<br>
+
+
+
+252.CityFlow: A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification<br>
+作者：Zheng Tang, Milind Naphade, Ming-Yu Liu, Xiaodong Yang, Stan Birchfield, Shuo Wang, Ratnesh Kumar, David Anastasiu, Jenq-Neng Hwang<br>
+论文链接：https://arxiv.org/abs/1903.09254
+<br>
+<br>
+
+251.Towards Optimal Structured CNN Pruning via Generative Adversarial Learning
+<br>
+作者：Shaohui Lin, Rongrong Ji, Chenqian Yan, Baochang Zhang, Liujuan Cao, Qixiang Ye, Feiyue Huang, David Doermann<br>
+论文链接：https://arxiv.org/abs/1903.09291
+<br>
+<br>
+250.Few-shot Adaptive Faster R-CNN<br>
+作者：Tao Wang, Xiaopeng Zhang, Li Yuan, Jiashi Feng<br>
+论文链接：https://arxiv.org/abs/1903.09372<br>
+<br>
+249.Attention-aware Multi-stroke Style Transfer<br>
 作者：Yuan Yao, Jianqiang Ren, Xuansong Xie, Weidong Liu, Yong-Jin Liu, Jun Wang<br>
 论文链接：https://arxiv.org/abs/1901.05127<br>
 项目链接：https://sites.google.com/view/yuanyao/attention-aware-multi-stroke-style-transfer<br>
-
 <br>
-
-
 
 248.Learning View Priors for Single-view 3D Reconstruction
 <br>
 作者：Hiroharu Kato, Tatsuya Harada<br>
 论文链接：https://arxiv.org/abs/1811.10719<br>
 项目链接：http://hiroharu-kato.com/projects_en/view_prior_learning.html<br>
-
 <br>
-
-
 
 247.Image Generation from Layout
 <br>
 作者：Bo Zhao, Lili Meng, Weidong Yin, Leonid Sigal<br>
 论文链接：https://arxiv.org/abs/1811.11389
-
 <br><br>
 
 246.Text2Scene: Generating Compositional Scenes from Textual Descriptions
@@ -46,10 +137,6 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 <br>
 代码链接：https://github.com/uvavision/Text2Image
 <br><br>
-
-
-
-
 245.StoryGAN: A Sequential Conditional GAN for Story Visualization（图像文本生成）
 <br>
 作者：Yitong Li, Zhe Gan, Yelong Shen, Jingjing Liu, Yu Cheng, Yuexin Wu, Lawrence Carin, David Carlson, Jianfeng Gao<br>
@@ -57,18 +144,12 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 <br>
 代码链接：https://github.com/yitong91/StoryGAN
 <br><br>
-
-
 244.Discovering Visual Patterns in Art Collections with Spatially-consistent Feature Learning
 <br>
 作者：Xi Shen, Alexei A. Efros, Mathieu Aubry<br>
 论文链接：https://arxiv.org/abs/1903.02678
 <br>
 <br>
-
-
-
-
 243.ArcFace: Additive Angular Margin Loss for Deep Face Recognition（人脸识别）
 <br>
 作者：Jiankang Deng, Jia Guo, Niannan Xue, Stefanos Zafeiriou<br>
@@ -76,35 +157,24 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 <br>
 Demo链接：https://github.com/vita-epfl/openpifpafwebdemo
  <br> <br>
-
-
 242.PifPaf: Composite Fields for Human Pose Estimation(姿态估计）<br>
 作者：Sven Kreiss, Lorenzo Bertoni, Alexandre Alahi<br>
 论文链接：https://arxiv.org/abs/1903.06593
 <br>
 Demo链接：https://github.com/vita-epfl/openpifpafwebdemo
  <br> <br>
-
-
-
 241.Explainable and Explicit Visual Reasoning over Scene Graphs<br>
 作者：Jiaxin Shi, Hanwang Zhang, Juanzi Li<br>
 论文链接：https://arxiv.org/abs/1812.01855
 <br>
 代码链接：https://github.com/shijx12/XNM-Net
  <br> <br>
-
-
-
 240.Single Image Deraining: A Comprehensive Benchmark Analysis<br>
 作者：Siyuan Li, Iago Breno Araujo, Wenqi Ren, Zhangyang Wang, Eric K. Tokuda, Roberto Hirata Junior, Roberto Cesar-Junior, Jiawan Zhang, Xiaojie Guo, Xiaochun Cao<br>
 论文链接：https://arxiv.org/abs/1903.08558
 <br>
 代码链接：https://github.com/lsy17096535/Single-Image-Deraining
  <br> <br>
-
-
-
 239.SalGAN: Visual Saliency Prediction with Generative Adversarial Networks（商汤/华为/港中文）
 <br>
 作者：Junting Pan, Cristian Canton Ferrer, Kevin McGuinness, Noel E. O'Connor, Jordi Torres, Elisa Sayrol, Xavier Giro-i-Nieto<br>
@@ -112,39 +182,28 @@ Demo链接：https://github.com/vita-epfl/openpifpafwebdemo
 <br>
 代码链接：https://github.com/junting/seg2vid
  <br> <br>
-
-
-
-
 238.Im2Pencil: Controllable Pencil Illustration from Photographs
 <br>
 作者：Yijun Li, Chen Fang, Aaron Hertzmann, Eli Shechtman, Ming-Hsuan Yang<br>
 论文链接：https://arxiv.org/abs/1903.08682
 <br>
  <br>
-
 237.LaserNet: An Efficient Probabilistic 3D Object Detector for Autonomous Driving（3D目标检测）<br>
 作者：Gregory P. Meyer, Ankit Laddha, Eric Kee, Carlos Vallespi-Gonzalez, Carl K. Wellington<br>
 论文链接：https://arxiv.org/abs/1903.08701
 <br>
  <br>
-
 236.Networks for Joint Affine and Non-parametric Image Registration
 <br>
 作者：Zhengyang Shen, Xu Han, Zhenlin Xu, Marc Niethammer<br>
 论文链接：https://arxiv.org/abs/1903.08811
 <br>
  <br>
-
-
 235.Dual Residual Networks Leveraging the Potential of Paired Operations for Image Restoration<br>
 作者：Xing Liu, Masanori Suganuma, Zhun Sun, Takayuki Okatani<br>
 论文链接：https://arxiv.org/abs/1903.08817 
 <br>
  <br>
-
-
-
 234.Towards Robust Curve Text Detection with Conditional Spatial Expansion
 <br>
 作者：Zichuan Liu, Guosheng Lin, Sheng Yang, Fayao Liu, Weisi Lin, Wang Ling Goh<br>
@@ -355,6 +414,8 @@ Demo链接：https://github.com/vita-epfl/openpifpafwebdemo
 作者：Dominik Lorenz, Leonard Bereska, Timo Milbich, Björn Ommer
 <br>
 论文链接：https://arxiv.org/abs/1903.06946
+<br>
+项目链接：https://compvis.github.io/unsupervised-disentangling/
 <br>
 <br>
 
