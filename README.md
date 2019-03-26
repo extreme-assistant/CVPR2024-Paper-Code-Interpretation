@@ -1189,11 +1189,12 @@ Demo链接：https://github.com/vita-epfl/openpifpafwebdemo
 论文链接：https://arxiv.org/abs/1903.04019<br>
 <br>
 
-133.Knowledge-Embedded Routing Network for Scene Graph Generation<br>
+133.Knowledge-Embedded Routing Network for Scene Graph Generation（开源）<br>
 作者：Tianshui Chen, Weihao Yu, Riquan Chen, Liang Lin
 <br>
 论文链接：https://arxiv.org/abs/1903.03326<br>
-<br>
+代码链接: https://github.com/yuweihao/KERN
+<br><br>
 
 
 
