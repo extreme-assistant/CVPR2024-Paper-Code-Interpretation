@@ -14,13 +14,78 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 <br><br>
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 <br><br>
+
+269.PASSRnet: Parallax Attention Stereo Super-Resolution Network
+<br>
+作者：Longguang Wang, Yingqian Wang, Zhengfa Liang, Zaiping Lin, Jungang Yang, Wei An, Yulan Guo<br>
+论文链接：https://arxiv.org/abs/1903.05784<br>
+代码链接：https://github.com/LongguangWang/PASSRnet
+<br>
+<br>
+
+268.TIN: Transferable Interactiveness Network
+<br>
+作者：Yong-Lu Li, Siyuan Zhou, Xijie Huang, Liang Xu, Ze Ma, Hao-Shu Fang, Yan-Feng Wang, Cewu Lu<br>
+论文链接：https://arxiv.org/abs/1811.08264<br>
+代码链接：https://github.com/DirtyHarryLYL/Transferable-Interactiveness-Network
+<br>
+<br>
+
+
+267.Depth-Aware Video Frame Interpolation 
+<br>
+作者：Wenbo Bao Wei-Sheng Lai, Chao Ma, Xiaoyun Zhang, Zhiyong Gao, and Ming-Hsuan Yang<br>
+论文链接：https://sites.google.com/view/wenbobao/dain<br>
+代码链接：https://github.com/baowenbo/DAIN
+<br>
+<br>
+
+
+266.Unsupervised Image Captioning
+<br>
+作者：Yang Feng, Lin Ma, Wei Liu, Jiebo Luo<br>
+论文链接：https://arxiv.org/abs/1811.10787<br>
+代码链接：https://github.com/fengyang0317/unsupervised_captioning
+<br>
+<br>
+
+
+
+
+265.An End-to-End Network for Generating Social Relationship Graphs
+<br>
+作者：Arushi Goel, Keng Teck Ma, Cheston Tan<br>
+论文链接：https://arxiv.org/abs/1903.09784
+<br>
+<br>
+
+264.Feedback Network for Image Super-Resolution<br>
+作者：Zhen Li, Jinglei Yang, Zheng Liu, Xiaomin Yang, Gwanggil Jeon, Wei Wu<br>
+论文链接：https://arxiv.org/abs/1903.09814
+<br>
+<br>
+
+
+263.f-VAEGAN-D2: A Feature Generating Framework for Any-Shot Learning
+<br>
+作者：Yongqin Xian, Saurabh Sharma, Bernt Schiele, Zeynep Akata<br>
+论文链接：https://arxiv.org/abs/1903.10132
+<br>
+<br>
+
+262.Scale-Adaptive Neural Dense Features: Learning via Hierarchical Context Aggregation
+<br>
+作者：Jaime Spencer, Richard Bowden, Simon Hadfield<br>
+论文链接：https://arxiv.org/abs/1903.10427
+<br>
+<br>
+
 261.DeeperLab: Single-Shot Image Parser
 <br>
 作者：Tien-Ju Yang, Maxwell D. Collins, Yukun Zhu, Jyh-Jing Hwang, Ting Liu, Xiao Zhang, Vivienne Sze, George Papandreou, Liang-Chieh Chen<br>
 论文链接：https://arxiv.org/abs/1902.05093
 <br>
 代码链接：https://github.com/tensorflow/models/tree/master/research/deeplab/evaluation<br>
-<br>
 项目链接：http://deeperlab.mit.edu/
 <br>
 <br>
@@ -486,13 +551,14 @@ Demo链接：https://github.com/vita-epfl/openpifpafwebdemo
 论文链接：https://arxiv.org/abs/1903.07504
 <br><br>
 
-199.Learning Correspondence from the Cycle-Consistency of Time
+199.Learning Correspondence from the Cycle-Consistency of Time（Oral)
 <br>
 作者：Xiaolong Wang, Allan Jabri, Alexei A. Efros
 <br>
 论文链接：https://arxiv.org/abs/1903.07593
 <br>
-项目链接：https://ajabri.github.io/timecycle/<br><br>
+项目链接：https://ajabri.github.io/timecycle/<br>
+代码链接：https://github.com/xiaolonw/TimeCycle<br><br>
 
 198.SIXray : A Large-scale Security Inspection X-ray Benchmark for Prohibited Item Discovery in Overlapping Images（金山云大规模X光违禁品安检数据集）
 <br>
