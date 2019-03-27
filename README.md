@@ -15,6 +15,97 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 <br><br>
 
+280.DynTypo: Example-based Dynamic Text Effects Transfer
+<br>
+作者：Yifang Men Zhouhui Lian Yingmin Tang Jianguo Xiao<br>
+项目链接：https://menyifang.github.io/projects/DynTypo/DynTypo.html
+<br>
+<br>
+
+279.MOTS: Multi-Object Tracking and Segmentation<br>
+作者：Paul Voigtlaender, Michael Krause, Aljosa Osep, Jonathon Luiten, Berin Balachandar Gnana Sekar, Andreas Geiger, Bastian Leibe<br>
+论文链接：https://arxiv.org/abs/1902.03604
+<br>
+<br>
+
+
+
+
+278.Feature Denoising for Improving Adversarial Robustness
+<br>
+作者：Cihang Xie, Yuxin Wu, Laurens van der Maaten, Alan Yuille, Kaiming He<br>
+论文链接：https://arxiv.org/abs/1812.03411v2
+<br>
+代码链接：https://github.com/facebookresearch/ImageNet-Adversarial-Training
+<br>
+<br>
+
+
+277.Learning Attraction Field Reprensentation for Robust Line Segment Detection
+<br>
+作者：Nan Xue, Song Bai, Fudong Wang, Gui-Song Xia, Tianfu Wu, Liangpei Zhang<br>
+论文链接：https://arxiv.org/abs/1812.02122
+<br>
+代码链接：https://github.com/cherubicXN/afm_cvpr2019
+<br>
+<br>
+
+276.Pose2Seg: Detection Free Human Instance Segmentation
+<br>
+作者：Song-Hai Zhang, Ruilong Li, Xin Dong, Paul L. Rosin, Zixi Cai, Han Xi, Dingcheng Yang, Hao-Zhi Huang, Shi-Min Hu<br>
+论文链接：https://arxiv.org/abs/1803.10683
+<br>
+项目链接：http://www.liruilong.cn/Pose2Seg/index.html
+<br>
+代码链接：https://github.com/liruilong940607/OCHumanApi
+<br>
+<br>
+
+
+275.Video Relationship Reasoning using Gated Spatio-Temporal Energy Graph<br>
+作者：Yao-Hung Hubert Tsai, Santosh Divvala, Louis-Philippe Morency, Ruslan Salakhutdinov, Ali Farhadi<br>
+论文链接：https://arxiv.org/abs/1903.10547
+<br>
+<br>
+
+
+274.Semantic Alignment: Finding Semantically Consistent Ground-truth for Facial Landmark Detection<br>
+作者：Zhiwei Liu, Xiangyu Zhu, Guosheng Hu, Haiyun Guo, Ming Tang, Zhen Lei, Neil M. Robertson, Jinqiao Wang<br>
+论文链接：https://arxiv.org/abs/1903.10661
+<br>
+<br>
+
+273.Veritatem Dies Aperit- Temporally Consistent Depth Prediction Enabled by a Multi-Task Geometric and Semantic Scene Understanding Approach
+<br>
+作者：Amir Atapour-Abarghouei, Toby P. Breckon<br>
+论文链接：https://arxiv.org/abs/1903.10764
+<br>
+<br>
+
+272.Large-scale interactive object segmentation with human annotators（对象分割）
+<br>
+作者：Rodrigo Benenson, Stefan Popov, Vittorio Ferrari<br>
+论文链接：https://arxiv.org/abs/1903.10830
+<br>
+<br>
+
+271.Attention Based Glaucoma Detection: A Large-scale Database and CNN Model
+<br>
+作者：Liu Li, Mai Xu, Xiaofei Wang, Lai Jiang, Hanruo Liu<br>
+论文链接：https://arxiv.org/abs/1903.10831
+<br>
+<br>
+
+
+
+270.GS3D: An Efficient 3D Object Detection Framework for Autonomous Driving（3D目标检测）
+<br>
+作者：Buyu Li, Wanli Ouyang, Lu Sheng, Xingyu Zeng, Xiaogang Wang<br>
+论文链接：https://arxiv.org/abs/1903.10955
+<br>
+<br>
+
+
 269.PASSRnet: Parallax Attention Stereo Super-Resolution Network
 <br>
 作者：Longguang Wang, Yingqian Wang, Zhengfa Liang, Zaiping Lin, Jungang Yang, Wei An, Yulan Guo<br>
@@ -2024,9 +2115,9 @@ Reading Notes:FINCH, a new clustering algorithm, absolutily no hyperparameters ,
 论文链接：https://arxiv.org/abs/1811.10092
 <br>
 论文解读：https://mp.weixin.qq.com/s/LsHWkdwqqrOPFgCNNcBdpg<br><br>
-20、GANFIT: Generative Adversarial Network Fitting for High Fidelity 3D Face Reconstruction<br>
-作者：Baris Gecer, Stylianos Ploumpis, Irene Kotsia, Stefanos Zafeiriou<br>
-论文链接：https://arxiv.org/abs/1902.05978
+20、UPSNet: A Unified Panoptic Segmentation Network（Oral)<br>
+作者：Yuwen Xiong, Renjie Liao, Hengshuang Zhao, Rui Hu, Min Bai, Ersin Yumer, Raquel Urtasun<br>
+论文链接：https://arxiv.org/abs/1901.03784
 <br><br>
 21.Iterative Residual CNNs for Burst Photography Applications<br>
 作者：Filippos Kokkinos   Stamatis Lefkimmiatis <br>
