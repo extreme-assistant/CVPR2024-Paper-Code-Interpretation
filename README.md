@@ -2,8 +2,10 @@
 Source：https://mp.weixin.qq.com/s/SmS-guwg6oUqPYwfeC6iiw<br>
 论文解读汇总：http://bbs.cvmart.net/topics/287/cvpr2019 <br>
 论文分类汇总：http://bbs.cvmart.net/topics/302/cvpr2019paper<br>
-CVPR2019论文直播计划：
+CVPR2019论文直播分享计划：<br>
 3/28晚20:00-21:30[王鑫龙：联合分割点云中的实例和语义（开源，列表id 27)](<http://bbs.cvmart.net/topics/351/%E8%81%94%E5%90%88%E5%88%86%E5%89%B2%E7%82%B9%E4%BA%91%E4%B8%AD%E7%9A%84%E5%AE%9E%E4%BE%8B%E5%92%8C%E8%AF%AD%E4%B9%89>)<br>
+4月底目标检测分享（时间待定）<br>
+5月初视频跟踪分享（时间待定）<br>
 cvpr2019 accepted papers list:<br>
 http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 <br>
@@ -14,6 +16,90 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 <br><br>
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 <br><br>
+
+
+292.GeoNet: Deep Geodesic Networks for Point Cloud Analysis（Oral,旷视，根据测地间隔的点云剖析深度网络）<br>
+作者：Tong He, Haibin Huang, Li Yi, Yuqian Zhou, Chihao Wu, Jue Wang, Stefano Soatto<br>
+论文链接：https://arxiv.org/abs/1901.00680
+<br>
+论文解读：https://zhuanlan.zhihu.com/p/60240751
+<br><br>
+
+
+291.Bounding Box Regression with Uncertainty for Accurate Object Detection（目标检测边界框回归损失算法）
+<br>
+作者：Yihui He, Chenchen Zhu, Jianren Wang, Marios Savvides, Xiangyu Zhang<br>
+论文链接：https://arxiv.org/abs/1809.08545<br>
+代码链接：https://github.com/yihui-he/KL-Loss
+<br>
+<br>
+
+290.Progressive Image Deraining Networks: A Better and Simpler Baseline
+<br>
+作者：Dongwei Ren, Wangmeng Zuo, Qinghua Hu, Pengfei Zhu, Deyu Meng<br>
+论文链接：https://arxiv.org/abs/1901.09221<br>
+代码链接：https://github.com/csdwren/PReNet
+<br>
+<br>
+
+289.Transferable Interactiveness Prior for Human-Object Interaction Detection
+<br>
+作者：Yong-Lu Li, Siyuan Zhou, Xijie Huang, Liang Xu, Ze Ma, Hao-Shu Fang, Yan-Feng Wang, Cewu Lu<br>
+论文链接：https://arxiv.org/abs/1811.08264<br>
+代码链接：https://github.com/DirtyHarryLYL/Transferable-Interactiveness-Network
+<br>
+<br>
+
+
+288.Information Maximizing Visual Question Generation(VQA)
+<br>
+作者：Zhongdao Wang, Liang Zheng, Yali Li, Shengjin Wang<br>
+论文链接：https://arxiv.org/abs/1903.11306<br>
+<br>
+
+
+287.Linkage Based Face Clustering via Graph Convolution Network
+<br>
+作者：Zhongdao Wang, Liang Zheng, Yali Li, Shengjin Wang<br>
+论文链接：https://arxiv.org/abs/1903.11306<br>
+<br>
+
+
+
+286.Dense Intrinsic Appearance Flow for Human Pose Transfer<br>
+作者：Yining Li, Chen Huang, Chen Change Loy<br>
+论文链接：https://arxiv.org/abs/1903.11326<br>
+<br>
+
+
+285.Rethinking the Evaluation of Video Summaries（Poster)<br>
+作者：Jacques Manderscheid, Amos Sironi, Nicolas Bourdis, Davide Migliore, Vincent Lepetit<br>
+论文链接：https://arxiv.org/abs/1903.11328<br>
+<br>
+
+284.Speed Invariant Time Surface for Learning to Detect Corner Points with Event-Based Cameras<br>
+作者：Jacques Manderscheid, Amos Sironi, Nicolas Bourdis, Davide Migliore, Vincent Lepetit<br>
+论文链接：https://arxiv.org/abs/1903.11332<br>
+<br>
+
+283.Self-Supervised Learning via Conditional Motion Propagation<br>
+作者：Xiaohang Zhan, Xingang Pan, Ziwei Liu, Dahua Lin, Chen Change Loy<br>
+论文链接：https://arxiv.org/abs/1903.11412 <br>
+<br>
+
+282.Privacy Protection in Street-View Panoramas using Depth and Multi-View Imagery<br>
+作者：Ries Uittenbogaard, Clint Sebastian, Julien Vijverberg, Bas Boom, Dariu M. Gavrila, Peter H.N. de With<br>
+论文链接：https://arxiv.org/abs/1903.11532<br>
+<br>
+
+
+
+281.Dual Encoding for Zero-Example Video Retrieval<br>
+作者：Jianfeng Dong, Xirong Li, Chaoxi Xu, Shouling Ji, Yuan He, Gang Yang and Xun Wang<br>
+论文链接：https://arxiv.org/abs/1809.06181 <br>
+代码链接：https://github.com/danieljf24/dual_encoding<br><br>
+
+
 
 280.DynTypo: Example-based Dynamic Text Effects Transfer
 <br>
@@ -553,7 +639,8 @@ Demo链接：https://github.com/vita-epfl/openpifpafwebdemo
 <br>
 论文链接：https://arxiv.org/abs/1903.06874
 <br>
-<br>
+代码链接：https://github.com/fidler-lab/curve-gcn
+<br><br>
 
 
 208.A Cross-Season Correspondence Dataset for Robust Semantic Segmentation
