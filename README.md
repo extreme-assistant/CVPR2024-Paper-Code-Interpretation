@@ -17,7 +17,6 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 <br><br>
 
-
 292.GeoNet: Deep Geodesic Networks for Point Cloud Analysis（Oral,旷视，根据测地间隔的点云剖析深度网络）<br>
 作者：Tong He, Haibin Huang, Li Yi, Yuqian Zhou, Chihao Wu, Jue Wang, Stefano Soatto<br>
 论文链接：https://arxiv.org/abs/1901.00680
@@ -94,11 +93,11 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 
 
 
+
 281.Dual Encoding for Zero-Example Video Retrieval<br>
 作者：Jianfeng Dong, Xirong Li, Chaoxi Xu, Shouling Ji, Yuan He, Gang Yang and Xun Wang<br>
 论文链接：https://arxiv.org/abs/1809.06181 <br>
 代码链接：https://github.com/danieljf24/dual_encoding<br><br>
-
 
 
 280.DynTypo: Example-based Dynamic Text Effects Transfer
