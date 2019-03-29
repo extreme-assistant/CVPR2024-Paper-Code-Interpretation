@@ -16,12 +16,29 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 <br><br>
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 <br><br>
+295.SIXray : A Large-scale Security Inspection X-ray Benchmark for Prohibited Item Discovery in Overlapping Images
+<br>
+作者：Caijing Miao, Lingxi Xie, Fang Wan, Chi Su, Hongye Liu, Jianbin Jiao, Qixiang Ye<br>
+论文链接：https://arxiv.org/abs/1901.00303
+<br><br>
+
+
+294.Towards Accurate Task Accomplishment with Low-Cost Robotic Arms
+<br>
+作者：Yiming Zuo, Weichao Qiu, Lingxi Xie, Fangwei Zhong, Yizhou Wang, Alan L. Yuille<br>
+论文链接：https://arxiv.org/abs/1812.00725
+<br><br>
+
+293.BubbleNets: Learning to Select the Guidance Frame in Video Object Segmentation by Deep Sorting Frames<br>
+作者：Brent A. Griffin, Jason J. Corso<br>
+论文链接：https://arxiv.org/abs/1903.11779
+<br><br>
 
 292.GeoNet: Deep Geodesic Networks for Point Cloud Analysis（Oral,旷视，根据测地间隔的点云剖析深度网络）<br>
 作者：Tong He, Haibin Huang, Li Yi, Yuqian Zhou, Chihao Wu, Jue Wang, Stefano Soatto<br>
 论文链接：https://arxiv.org/abs/1901.00680
 <br>
-论文解读：https://zhuanlan.zhihu.com/p/60240751
+论文解读：https://mp.weixin.qq.com/s/2dqw6__2k51B4SSkLYRTfw
 <br><br>
 
 
@@ -340,7 +357,8 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 作者：Zheng Tang, Milind Naphade, Ming-Yu Liu, Xiaodong Yang, Stan Birchfield, Shuo Wang, Ratnesh Kumar, David Anastasiu, Jenq-Neng Hwang<br>
 论文链接：https://arxiv.org/abs/1903.09254
 <br>
-<br>
+论文解读：https://mp.weixin.qq.com/s/68OW_7EIkzCF4HnBVcz6qg
+<br><br>
 
 251.Towards Optimal Structured CNN Pruning via Generative Adversarial Learning
 <br>
