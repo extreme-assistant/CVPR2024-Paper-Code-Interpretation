@@ -3,7 +3,7 @@ Source：https://mp.weixin.qq.com/s/SmS-guwg6oUqPYwfeC6iiw<br>
 论文解读汇总：http://bbs.cvmart.net/topics/287/cvpr2019 <br>
 论文分类汇总：http://bbs.cvmart.net/topics/302/cvpr2019paper<br>
 CVPR2019论文直播分享计划：<br>
-3/28晚20:00-21:30[王鑫龙：联合分割点云中的实例和语义（开源，列表id 27)](<http://bbs.cvmart.net/topics/351/%E8%81%94%E5%90%88%E5%88%86%E5%89%B2%E7%82%B9%E4%BA%91%E4%B8%AD%E7%9A%84%E5%AE%9E%E4%BE%8B%E5%92%8C%E8%AF%AD%E4%B9%89>)<br>
+3/28晚分享回放[王鑫龙：联合分割点云中的实例和语义（开源，列表id 27)](<http://bbs.cvmart.net/topics/351/%E8%81%94%E5%90%88%E5%88%86%E5%89%B2%E7%82%B9%E4%BA%91%E4%B8%AD%E7%9A%84%E5%AE%9E%E4%BE%8B%E5%92%8C%E8%AF%AD%E4%B9%89>)<br>
 4月底目标检测分享（时间待定）<br>
 5月初视频跟踪分享（时间待定）<br>
 cvpr2019 accepted papers list:<br>
@@ -15,6 +15,80 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 提取码：osvy 
 <br><br>
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
+<br><br>
+
+305.Rethinking Knowledge Graph Propagation for Zero-Shot Learning（零样本学习/图卷积网络）
+<br>
+作者：Michael Kampffmeyer, Yinbo Chen, Xiaodan Liang, Hao Wang, Yujia Zhang, Eric P. Xing
+<br>
+论文链接：https://arxiv.org/abs/1805.11724v3<br>
+代码链接：https://github.com/cyvius96/adgpm
+<br><br>
+
+304.Meta-SR: A Magnification-Arbitrary Network for Super-Resolution （旷视，超分辨）
+<br>
+作者：Xuecai Hu, Haoyuan Mu, Xiangyu Zhang, Zilei Wang, Tieniu Tan, Jian Sun
+<br>
+论文链接：https://arxiv.org/abs/1903.00875
+<br><br>
+
+303.Shape Robust Text Detection with Progressive Scale Expansion Network（文本检测）
+<br>
+作者：Xiang Li, Wenhai Wang, Wenbo Hou, Ruo-Ze Liu, Tong Lu, Jian Yang
+<br>
+论文链接：https://arxiv.org/abs/1806.02559<br>
+代码链接：https://github.com/whai362/PSENet<br>
+网友复现：https://github.com/liuheng92/tensorflow_PSENet
+<br><br>
+
+
+302.Answer Them All! Toward Universal Visual Question Answering Models（VQA)
+<br>
+作者：Robik Shrestha, Kushal Kafle, Christopher Kanan
+<br>
+论文链接：https://arxiv.org/abs/1903.00366
+<br><br>
+
+301.Zoom to Learn, Learn to Zoom（Oral)
+<br>
+作者：Xuaner Zhang      Qifeng Chen    Ren Ng   Vladlen Koltun
+<br>
+论文链接：https://cqf.io/papers/Zoom_To_Learn_CVPR2019.pdf
+<br><br>
+
+
+
+300.Learning to Transfer Examples for Partial Domain Adaptation（领域适应）
+<br>
+作者：Zhangjie Cao, Kaichao You, Mingsheng Long, Jianmin Wang, Qiang Yang<br>
+论文链接：https://arxiv.org/abs/1903.12230
+<br><br>
+
+299.Revisiting Local Descriptor based Image-to-Class Measure for Few-shot Learning
+<br>
+作者：Wenbin Li, Lei Wang, Jinglin Xu, Jing Huo, Yang Gao, Jiebo Luo<br>
+论文链接：https://arxiv.org/abs/1903.12290
+<br><br>
+
+298.Lending Orientation to Neural Networks for Cross-view Geo-localization
+<br>
+作者：Liu Liu, Hongdong Li<br>
+论文链接：https://arxiv.org/abs/1903.12351<br>
+代码链接：https://github.com/Liumouliu/OriCNN
+<br><br>
+
+
+297.Shape Robust Text Detection with Progressive Scale Expansion Network
+<br>
+作者：Wenhai Wang, Enze Xie, Xiang Li, Wenbo Hou, Tong Lu, Gang Yu, Shuai Shao<br>
+论文链接：https://arxiv.org/abs/1903.12473<br>
+<br>
+
+296.Deep Plug-and-Play Super-Resolution for Arbitrary Blur Kernels
+<br>
+作者：Kai Zhang, Wangmeng Zuo, Lei Zhang<br>
+论文链接：https://arxiv.org/abs/1903.12529<br>
+代码链接：https://github.com/cszn/DPSR
 <br><br>
 295.SIXray : A Large-scale Security Inspection X-ray Benchmark for Prohibited Item Discovery in Overlapping Images
 <br>
@@ -74,7 +148,7 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 <br>
 
 
-287.Linkage Based Face Clustering via Graph Convolution Network
+287.Linkage Based Face Clustering via Graph Convolution Network(人脸聚类)
 <br>
 作者：Zhongdao Wang, Liang Zheng, Yali Li, Shengjin Wang<br>
 论文链接：https://arxiv.org/abs/1903.11306<br>
@@ -715,7 +789,8 @@ Demo链接：https://github.com/vita-epfl/openpifpafwebdemo
 203.Graph Convolutional Label Noise Cleaner: Train a Plug-and-play Action Classifier for Anomaly Detection<br>
 作者：Jia-Xing Zhong, Nannan Li, Weijie Kong, Shan Liu, Thomas H. Li, Ge Li
 <br>
-论文链接：https://arxiv.org/abs/1903.07256
+论文链接：https://arxiv.org/abs/1903.07256<br>
+代码链接：https://github.com/jx-zhong-for-academic-purpose/GCN-Anomaly-Detection
 <br>
 <br>
 
@@ -2060,7 +2135,8 @@ YouTube视频：https://youtu.be/IH9rNLD1-JE
 38.MUREL: Multimodal Relational Reasoning for Visual Question Answering<br>
 作者：Remi Cadene, Hedi Ben-younes, Matthieu Cord, Nicolas Thome<br>
 论文链接：https://arxiv.org/abs/1902.09487<br>
-github链接：https://github.com/Cadene/murel.bootstrap.pytorch<br><br>
+github链接：https://github.com/Cadene/murel.bootstrap.pytorch<br>
+论文解读：https://zhuanlan.zhihu.com/p/60972299<br><br>
 
 37.ROI-10D: Monocular Lifting of 2D Detection to 6D Pose and Metric Shape
 作者：Fabian Manhardt, Wadim Kehl, Adrien Gaidon<br>
