@@ -17,6 +17,120 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 <br><br>
 
+
+319.DVC: An End-to-end Deep Video Compression Framework（Oral）
+<br>
+作者：Guo Lu, Wanli Ouyang, Dong Xu, Xiaoyun Zhang, Chunlei Cai, Zhiyong Gao
+<br>
+论文链接：https://arxiv.org/abs/1812.00101<br>
+代码链接：https://github.com/GuoLusjtu/DVC
+<br><br>
+
+
+318.Multispectral Imaging for Fine-Grained Recognition of Powders on Complex Backgrounds(Oral)
+<br>
+作者：Tiancheng Zhi, Bernardo R. Pires, Martial Hebert and Srinivasa G. Narasimhan
+<br>
+论文链接：http://www.cs.cmu.edu/~ILIM/projects/IM/MSPowder/files/ZPHN-CVPR19.pdf<br>
+代码链接：https://github.com/tiancheng-zhi/ms-powder<br>
+项目链接：http://www.cs.cmu.edu/~ILIM/projects/IM/MSPowder/
+<br><br>
+
+317.Single Image Reflection Removal Exploiting Misaligned Training Data and Network Enhancements
+<br>
+作者：Kaixuan Wei, Jiaolong Yang, Ying Fu, David Wipf, Hua Huang
+<br>
+论文链接：https://arxiv.org/abs/1904.00637<br>
+代码链接：https://github.com/Vandermode/ERRNet
+<br><br>
+
+
+316.Convolutional Neural Networks Deceived by Visual Illusions
+<br>
+作者：Alexander Gomez-Villa, Adrián Martín, Javier Vazquez-Corral, Marcelo Bertalmío
+<br>
+论文链接：https://arxiv.org/abs/1811.10565
+<br><br>
+
+
+315.NM-Net: Mining Reliable Neighbors for Robust Feature Correspondences
+<br>
+作者：Chen Zhao, Zhiguo Cao, Chi Li, Xin Li, Jiaqi Yang
+<br>
+论文链接：https://arxiv.org/abs/1904.00320
+<br><br>
+
+314.Fully Learnable Group Convolution for Acceleration of Deep Neural Networks
+<br>
+作者：Xijun Wang, Meina Kan, Shiguang Shan, Xilin Chen
+<br>
+论文链接：https://arxiv.org/abs/1904.00346
+<br><br>
+
+313.Perceive Where to Focus: Learning Visibility-aware Part-level Features for Partial Person Re-identification
+<br>
+作者：Yifan Sun, Qin Xu, Yali Li, Chi Zhang, Yikang Li, Shengjin Wang, Jian Sun
+<br>
+论文链接：https://arxiv.org/abs/1904.00537
+<br><br>
+
+
+312.Scene Graph Generation with External Knowledge and Image Reconstruction
+<br>
+作者：Jiuxiang Gu, Handong Zhao, Zhe Lin, Sheng Li, Jianfei Cai, Mingyang Ling
+<br>
+论文链接：https://arxiv.org/abs/1904.00560
+<br><br>
+311.Multi-source weak supervision for saliency detection
+<br>
+作者：Yu Zeng, Yunzhi Zhuge, Huchuan Lu, Lihe Zhang, Mingyang Qian, Yizhou Yu
+<br>
+论文链接：https://arxiv.org/abs/1904.00566
+<br><br>
+
+
+310.Single Image Reflection Removal Exploiting Misaligned Training Data and Network Enhancements
+<br>
+作者：Kaixuan Wei, Jiaolong Yang, Ying Fu, David Wipf, Hua Huang
+<br>
+论文链接：https://arxiv.org/abs/1904.00637<br>
+代码链接：https://github.com/Vandermode/ERRNet
+<br><br>
+
+309.End-to-End Time-Lapse Video Synthesis from a Single Outdoor Image
+<br>
+作者：Seonghyeon Nam, Chongyang Ma, Menglei Chai, William Brendel, Ning Xu, Seon Joo Kim
+<br>
+论文链接：https://arxiv.org/abs/1904.00680
+<br><br>
+
+308.JSIS3D: Joint Semantic-Instance Segmentation of 3D Point Clouds with Multi-Task Pointwise Networks and Multi-Value Conditional Random Fields（Oral)
+
+<br>
+作者：Quang-Hieu Pham, Duc Thanh Nguyen, Binh-Son Hua, Gemma Roig, Sai-Kit Yeung
+<br>
+论文链接：https://arxiv.org/abs/1904.00699<br>
+项目链接：https://pqhieu.github.io/cvpr19.html
+<br><br>
+
+
+307.Tightness-aware Evaluation Protocol for Scene Text Detection
+<br>
+作者：Yuliang Liu, Lianwen Jin, Zecheng Xie, Canjie Luo, Shuaitao Zhang, Lele Xie
+<br>
+论文链接：https://arxiv.org/abs/1904.00813
+<br><br>
+
+306.Precise Detection in Densely Packed Scenes
+<br>
+作者：Eran Goldman , Roei Herzig, Aviv Eisenschtat, Jacob Goldberger, Tal Hassner
+<br>
+论文链接：https://arxiv.org/abs/1904.00853
+<br><br>
+
+
+
+
 305.Rethinking Knowledge Graph Propagation for Zero-Shot Learning（零样本学习/图卷积网络）
 <br>
 作者：Michael Kampffmeyer, Yinbo Chen, Xiaodan Liang, Hao Wang, Yujia Zhang, Eric P. Xing
