@@ -15,7 +15,69 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 提取码：osvy 
 <br><br>
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
+
+
 <br><br>
+
+329.Robustness of 3D Deep Learning in an Adversarial Setting
+<br>
+作者：Matthew Wicker, Marta Kwiatkowska<br>
+论文链接：https://arxiv.org/abs/1904.00923<br>
+源码链接：https://github.com/matthewwicker/IterativeSalienceOcclusion<br><br>
+
+328.Depth from a polarisation + RGB stereo pair
+<br>
+作者：Dizhong Zhu, William A.P. Smith<br>
+论文链接：https://arxiv.org/abs/1903.12061<br>
+源码链接：https://github.com/AmosZhu/CVPR2019<br><br>
+
+
+327.Curls & Whey: Boosting Black-Box Adversarial Attacks(Oral)
+<br>
+作者：Yucheng Shi, Siyu Wang, Yahong Han<br>
+论文链接：https://arxiv.org/abs/1904.01160<br><br>
+
+
+326.C2AE: Class Conditioned Auto-Encoder for Open-set Recognition(Oral)
+<br>
+作者：Poojan Oza, Vishal M Patel<br>
+论文链接：https://arxiv.org/abs/1904.01198<br><br>
+
+325.DM-GAN: Dynamic Memory Generative Adversarial Networks for Text-to-Image Synthesis
+<br>
+作者：Minfeng Zhu, Pingbo Pan, Wei Chen, Yi Yang<br>
+论文链接：https://arxiv.org/abs/1904.01310<br><br>
+
+
+324.Effective Aesthetics Prediction with Multi-level Spatially Pooled Features
+<br>
+作者：Vlad Hosu, Bastian Goldlucke, Dietmar Saupe<br>
+论文链接：https://arxiv.org/abs/1904.01382<br><br>
+
+323.Context and Attribute Grounded Dense Captioning
+<br>
+作者：Guojun Yin, Lu Sheng, Bin Liu, Nenghai Yu, Xiaogang Wang, Jing Shao<br>
+论文链接：https://arxiv.org/abs/1904.01410<br><br>
+
+
+322.Good News, Everyone! Context driven entity-aware captioning for news images
+<br>
+作者：Ali Furkan Biten, Lluis Gomez, Marçal Rusiñol, Dimosthenis Karatzas<br>
+论文链接：https://arxiv.org/abs/1904.01475<br><br>
+
+
+
+321.Semantics Disentangling for Text-to-Image Generation（Oral)
+<br>
+作者：Guojun Yin, Bin Liu, Lu Sheng, Nenghai Yu, Xiaogang Wang, Jing Shao<br>
+论文链接：https://arxiv.org/abs/1904.01480<br><br>
+
+
+320.Spatial Attentive Single-Image Deraining with a High Quality Real Rain Dataset<br>
+作者：Tianyu Wang*, Xin Yang*, Ke Xu, Shaozhe Chen, Qiang Zhang, Rynson Lau<br>
+论文链接：https://arxiv.org/abs/1904.01538<br>
+项目链接：https://stevewongv.github.io/derain-project.html <br><br>
+
 
 
 319.DVC: An End-to-end Deep Video Compression Framework（Oral）
@@ -1168,9 +1230,9 @@ Demo链接：https://github.com/vita-epfl/openpifpafwebdemo
 
 
 176.Point in, Box out: Beyond Counting Persons in Crowds<br>
-作者：待更新
+作者：Yuting Liu, Miaojing Shi, Qijun Zhao, Xiaofang Wang
 <br>
-论文链接：https://github.com/xiaofanglegoc/xiaofanglegoc.github.io/blob/master/publications/cvpr2019.pdf<br>
+论文链接：https://arxiv.org/abs/1904.01333<br>
 
 <br>
 
