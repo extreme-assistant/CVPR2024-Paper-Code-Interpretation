@@ -16,8 +16,96 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 <br><br>
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 
-
 <br><br>
+
+343.Searching for A Robust Neural Architecture in Four GPU Hours<br>
+作者：Xuanyi Dong, Yi Yang<br>
+代码链接：https://github.com/D-X-Y/GDAS (will be public soon)<br><br>
+
+
+342.Activity Driven Weakly Supervised Object Detection
+<br>
+作者：Zhenheng Yang, Dhruv Mahajan, Deepti Ghadiyaram, Ram Nevatia, Vignesh Ramanathan<br>
+论文链接：https://arxiv.org/pdf/1904.01665.pdf<br>
+<br>
+341.Monocular 3D Object Detection Leveraging Accurate Proposals and Shape Reconstruction
+<br>
+作者：Jason Ku, Alex D. Pon, Steven L. Waslander<br>
+论文链接：https://arxiv.org/pdf/1904.01690.pdf<br>
+<br>
+
+340.Target-Aware Deep Tracking
+<br>
+作者：Xin Li, Chao Ma, Baoyuan Wu, Zhenyu He, Ming-Hsuan Yang<br>
+论文链接：https://arxiv.org/pdf/1904.01772.pdf<br>
+<br>
+
+339.Conditional Adversarial Generative Flow for Controllable Image Synthesis
+<br>
+作者：Rui Liu, Yu Liu, Xinyu Gong, Xiaogang Wang, Hongsheng Li<br>
+论文链接：https://arxiv.org/pdf/1904.01782.pdf<br>
+<br>
+
+338.SFNet: Learning Object-aware Semantic Correspondence(Oral)
+<br>
+作者：Junghyup Lee, Dohyung Kim, Jean Ponce, Bumsub Ham<br>
+论文链接：https://arxiv.org/pdf/1904.01810.pdf<br>
+<br>
+
+337.Unsupervised Deep Tracking
+<br>
+作者：Ning Wang, Yibing Song, Chao Ma, Wengang Zhou, Wei Liu, Houqiang Li<br>
+论文链接：https://arxiv.org/pdf/1904.01828.pdf<br>
+<br>
+
+
+336.Learning Context Graph for Person Search
+<br>
+作者：Yichao Yan, Qiang Zhang, Bingbing Ni, Wendong Zhang, Minghao Xu, Xiaokang Yang<br>
+论文链接：https://arxiv.org/pdf/1904.01830.pdf<br>
+<br>
+
+
+335.Geometry-Aware Symmetric Domain Adaptation for Monocular Depth Estimation
+<br>
+作者：Shanshan Zhao, Huan Fu, Mingming Gong, Dacheng Tao<br>
+论文链接：https://arxiv.org/abs/1904.01870<br>
+<br>
+
+
+334.Beyond Tracking: Selecting Memory and Refining Poses for Deep Visual Odometry（Oral)
+<br>
+作者：Fei Xue, Xin Wang, Shunkai Li, Qiuyuan Wang, Junqiu Wang, Hongbin Zha<br>
+论文链接：https://arxiv.org/abs/1904.01892<br>
+<br>
+
+333.Character Region Awareness for Text Detection（文本检测）
+<br>
+作者：Youngmin Baek, Bado Lee, Dongyoon Han, Sangdoo Yun, Hwalsuk Lee<br>
+论文链接：https://arxiv.org/abs/1904.01941<br>
+<br>
+
+
+332.Invariance Matters: Exemplar Memory for Domain Adaptive Person Re-identification
+<br>
+作者：Zhun Zhong, Liang Zheng, Zhiming Luo, Shaozi Li, Yi Yang<br>
+论文链接：https://arxiv.org/abs/1904.01990<br>
+代码链接：https://github.com/zhunzhong07/ECN
+<br><br>
+
+
+331.CAM-Convs: Camera-Aware Multi-Scale Convolutions for Single-View Depth
+<br>
+作者：Jose M. Facil, Benjamin Ummenhofer, Huizhong Zhou, Luis Montesano, Thomas Brox, Javier Civera<br>
+论文链接：https://arxiv.org/abs/1904.02028<br>
+项目链接：http://webdiis.unizar.es/~jmfacil/camconvs/<br><br>
+
+
+330.Point Cloud Oversegmentation with Graph-Structured Deep Metric Learning
+<br>
+作者：Loic Landrieu, Mohamed Boussaha<br>
+论文链接：https://arxiv.org/abs/1904.02113<br><br>
+
 
 329.Robustness of 3D Deep Learning in an Adversarial Setting
 <br>
@@ -180,7 +268,8 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 <br>
 作者：Yuliang Liu, Lianwen Jin, Zecheng Xie, Canjie Luo, Shuaitao Zhang, Lele Xie
 <br>
-论文链接：https://arxiv.org/abs/1904.00813
+论文链接：https://arxiv.org/abs/1904.00813<br>
+代码链接：https://github.com/Yuliang-Liu/TIoU-metric
 <br><br>
 
 306.Precise Detection in Densely Packed Scenes
@@ -319,8 +408,8 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 
 288.Information Maximizing Visual Question Generation(VQA)
 <br>
-作者：Zhongdao Wang, Liang Zheng, Yali Li, Shengjin Wang<br>
-论文链接：https://arxiv.org/abs/1903.11306<br>
+作者：Ranjay Krishna, Michael Bernstein, Li Fei-Fei<br>
+论文链接：https://arxiv.org/abs/1903.11207<br>
 <br>
 
 
@@ -624,7 +713,8 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 作者：Yuan Yao, Jianqiang Ren, Xuansong Xie, Weidong Liu, Yong-Jin Liu, Jun Wang<br>
 论文链接：https://arxiv.org/abs/1901.05127<br>
 项目链接：https://sites.google.com/view/yuanyao/attention-aware-multi-stroke-style-transfer<br>
-<br>
+代码链接：https://github.com/JianqiangRen/AAMS
+<br><br>
 
 248.Learning View Priors for Single-view 3D Reconstruction
 <br>
@@ -1215,7 +1305,8 @@ Demo链接：https://github.com/vita-epfl/openpifpafwebdemo
 作者：Rui Zhu, Shifeng Zhang, Xiaobo Wang, Longyin Wen, Hailin Shi, Liefeng Bo, Tao Mei
 <br>
 论文链接：https://arxiv.org/abs/1810.08425v3<br>
-源码链接：https://github.com/KimSoybean/ScratchDet<br><br>
+源码链接：https://github.com/KimSoybean/ScratchDet<br>
+论文解读：https://mp.weixin.qq.com/s/TZj0QzDXE6QbCY5-pT6RNQ<br><br>
 
 
 177.Scene Categorization from Contours: Medial Axis Based Salience Measures
@@ -1284,7 +1375,8 @@ Demo链接：https://github.com/vita-epfl/openpifpafwebdemo
 作者：Khanh Nguyen, Debadeepta Dey, Chris Brockett, Bill Dolan
 <br>
 论文链接：https://arxiv.org/abs/1812.04155<br>
-<br>
+代码链接：https://github.com/debadeepta/vnla
+<br><br>
 
 
 
