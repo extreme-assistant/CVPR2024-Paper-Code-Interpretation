@@ -18,6 +18,117 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 
 <br><br>
 
+
+362.Calibration of Asynchronous Camera Networks for Object Reconstruction Tasks
+<br>
+作者：Amy Tabb, Henry Medeiros<br>
+论文链接：https://arxiv.org/abs/1903.06811<br><br>
+
+
+361.StereoDRNet: Dilated Residual Stereo Net
+<br>
+作者：Rohan Chabra, Julian Straub, Chris Sweeny, Richard Newcombe, Henry Fuchs<br>
+论文链接：https://arxiv.org/abs/1904.02251<br><br>
+
+
+360.Spatiotemporal CNN for Video Object Segmentation
+<br>
+作者：Kai Xu, Longyin Wen, Guorong Li, Liefeng Bo, Qingming Huang<br>
+论文链接：https://arxiv.org/abs/1904.02363<br>
+代码链接：https://github.com/longyin880815/STCNN<br><br>
+
+359.Signal-to-Noise Ratio: A Robust Distance Metric for Deep Metric Learning
+<br>
+作者：Tongtong Yuan, Weihong Deng, Jian Tang, Yinan Tang, Binghui Chen<br>
+论文链接：https://arxiv.org/abs/1904.02616<br><br>
+
+
+358.T-Net: Parametrizing Fully Convolutional Nets with a Single High-Order Tensor
+<br>
+作者：Jean Kossaifi, Adrian Bulat, Georgios Tzimiropoulos, Maja Pantic<br>
+论文链接：https://arxiv.org/abs/1904.02698<br><br>
+
+357.Libra R-CNN: Towards Balanced Learning for Object Detection(目标检测)
+<br>
+作者：Jiangmiao Pang, Kai Chen, Jianping Shi, Huajun Feng, Wanli Ouyang, Dahua Lin<br>
+论文链接：https://arxiv.org/abs/1904.02701<br><br>
+
+356.Learning to Cluster Faces on an Affinity Graph
+<br>
+作者：Lei Yang, Xiaohang Zhan, Dapeng Chen, Junjie Yan, Chen Change Loy, Dahua Lin<br>
+论文链接：https://arxiv.org/abs/1904.02749<br><br>
+
+355.Blind Visual Motif Removal from a Single Image
+<br>
+作者：Amir Hertz, Sharon Fogel, Rana Hanocka, Raja Giryes, Daniel Cohen-Or<br>
+论文链接：https://arxiv.org/abs/1904.02756<br><br>
+
+354.Assessment of Faster R-CNN in Man-Machine collaborative search
+<br>
+作者：Arturo Deza, Amit Surana, Miguel P. Eckstein<br>
+论文链接：https://arxiv.org/abs/1904.02805<br><br>
+
+
+353.Deep Tree Learning for Zero-shot Face Anti-Spoofing(Oral)
+<br>
+作者：Yaojie Liu, Joel Stehouwer, Amin Jourabloo, Xiaoming Liu<br>
+论文链接：https://arxiv.org/abs/1904.02860<br><br>
+
+
+352.Fast Spatio-Temporal Residual Network for Video Super-Resolution<br>
+作者：Sheng Li, Fengxiang He, Bo Du, Lefei Zhang, Yonghao Xu, Dacheng Tao<br>
+论文链接：https://arxiv.org/abs/1904.02870<br><br>
+
+
+351.Evading Defenses to Transferable Adversarial Examples by Translation-Invariant Attacks（Oral)
+<br>
+作者：Yinpeng Dong, Tianyu Pang, Hang Su, Jun Zhu<br>
+论文链接：https://arxiv.org/abs/1904.02884<br><br>
+
+350.High-level Semantic Feature Detection:A New Perspective for Pedestrian Detection（行人检测）<br>
+作者：Wei Liu, Shengcai Liao, Weiqiang Ren, Weidong Hu, Yinan Yu<br>
+论文链接：https://arxiv.org/abs/1904.02948<br><br>
+
+
+349.Learning to Adapt for Stereo
+<br>
+作者：Alessio Tonioni, Oscar Rahnama, Thomas Joy, Luigi Di Stefano, Thalaiyasingam Ajanthan, Philip H. S. Torr<br>
+论文链接：https://arxiv.org/abs/1904.02957<br>
+代码链接：https://github.com/CVLAB-Unibo/Learning2AdaptForStereo<br><br>
+
+
+348.Semantic Attribute Matching Networks
+<br>
+作者：Seungryong Kim, Dongbo Min, Somi Jeong, Sunok Kim, Sangryul Jeon, Kwanghoon Sohn<br>
+论文链接：https://arxiv.org/abs/1904.02969<br><br>
+
+347.What Object Should I Use? - Task Driven Object Detection(目标检测)
+<br>
+作者：Johann Sawatzky, Yaser Souri, Christian Grund, Juergen Gall<br>
+论文链接：https://arxiv.org/abs/1904.03000<br><br>
+
+
+346.Learning to Remember: A Synaptic Plasticity Driven Framework for Continual Learning
+<br>
+作者：Oleksiy Ostapenko, Tassilo Klein, Mihai Puscas, Patrick Jähnichen, Moin Nabi<br>
+论文链接：https://arxiv.org/abs/1904.03137<br><br>
+
+345.Unsupervised Image Matching and Object Discovery as Optimization
+<br>
+作者：Huy V. Vo, Francis Bach, Minsu Cho, Kai Han, Yann LeCun, Patrick Perez, Jean Ponce<br>
+论文链接：https://arxiv.org/abs/1904.03148 <br><br>
+
+
+344.Moving Object Detection under Discontinuous Change in Illumination Using Tensor Low-Rank and Invariant Sparse Decomposition
+<br>
+作者：Moein Shakeri, Hong Zhang<br>
+论文链接：https://arxiv.org/abs/1904.03175 <br><br>
+
+
+
+
+
+
 343.Searching for A Robust Neural Architecture in Four GPU Hours<br>
 作者：Xuanyi Dong, Yi Yang<br>
 代码链接：https://github.com/D-X-Y/GDAS (will be public soon)<br><br>
