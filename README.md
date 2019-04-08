@@ -1844,7 +1844,7 @@ Demo链接：https://github.com/vita-epfl/openpifpafwebdemo
 
 
 121.RAVEN: A Dataset for Relational and Analogical Visual rEasoNing<br>
-作者：Yansong Tang, Dajun Ding, Yongming Rao, Yu Zheng, Danyang Zhang, Lili Zhao, Jiwen Lu, Jie Zhou<br>
+作者：Chi Zhang, Feng Gao, Baoxiong Jia, Yixin Zhu, Song-Chun Zhu<br>
 论文链接：https://arxiv.org/abs/1903.02741<br>
 项目链接：https://wellyzhang.github.io/project/raven.html<br>
 <br>
