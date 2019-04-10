@@ -17,7 +17,209 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 
 <br><br>
+396.Large-Scale Long-Tailed Recognition in an Open World（Oral)
+<br>
+作者：Ziwei Liu*,  Zhongqi Miao*,  Xiaohang Zhan,  Jiayun Wang,  Boqing Gong,  Stella X. Yu<br>
+论文链接：https://github.com/ofsoundof/3D_Appearance_SR/blob/master/code/scripts/3d_appearance_sr.pdf<br>
+源码链接：https://github.com/zhmiao/OpenLongTailRecognition-OLTR<br><br>
 
+395.3D Appearance Super-Resolution with Deep Learning
+<br>
+作者：待补充<br>
+论文链接：https://github.com/ofsoundof/3D_Appearance_SR/blob/master/code/scripts/3d_appearance_sr.pdf<br>
+源码链接：https://github.com/ofsoundof/3D_Appearance_SR<br><br>
+
+394.High-level Semantic Feature Detection: A New Perspective for Pedestrian Detection（行人检测）<br>
+作者：Zhao-Min Chen, Xiu-Shen Wei Peng Wang3Yanwen Guo1<br>
+论文链接：https://github.com/liuwei16/CSP/blob/master/docs/2019CVPR-CSP.pdf<br>
+源码链接：https://github.com/liuwei16/CSP<br><br>
+
+393.Multi-Label Image Recognition with Graph Convolutional Networks（多标记图像识别）
+<br>
+作者：Zhao-Min Chen, Xiu-Shen Wei, Peng Wang, Yanwen Guo<br>
+论文链接：https://arxiv.org/abs/1904.03582<br>
+源码链接：https://github.com/chenzhaomin123/ML_GCN<br>
+简介：本工作针对多标记识别的核心问题，即“如何有效建模标记间的协同关系”进行探索，提出基于图卷积（GCN）的端到端系统，通过data-driven方式建立标记间有向图（directed graph）并由GCN将类别标记映射（mapping）为对应类别分类器，以此建模类别关系，同时可提升表示学习能力。此外针对GCN中的关键元素correlation matrix进行了深入分析和重设计，使其更胜任多标记问题。
+<br><br>
+392.Cycle-Consistency for Robust Visual Question Answering（VQA)
+<br>
+作者：Gao Peng, Zhengkai Jiang, Haoxuan You, Zhengkai Jiang, Pan Lu, Steven Hoi, Xiaogang Wang, Hongsheng Li<br>
+论文链接：https://arxiv.org/pdf/1812.05252.pdf<br>
+<br>
+
+391.Data augmentation using learned transformsfor one-shot medical image segmentation
+<br>
+作者：Amy Zhao, Guha Balakrishnan, Frédo Durand, John V. Guttag, Adrian V. Dalca<br>
+论文链接：https://arxiv.org/pdf/1902.09383.pdf<br>
+源码链接：https://github.com/xamyzhao/brainstorm
+<br><br>
+
+390.DeepCO3: Deep Instance Co-segmentation by Co-peak Search and Co-saliency (Oral )
+<br>
+作者：Kuang-Jui Hsu, Yen-Yu Lin, Yung-Yu Chuang<br>
+论文链接：http://cvlab.citi.sinica.edu.tw/images/paper/cvpr-hsu19.pdf<br>
+源码链接：https://github.com/KuangJuiHsu/DeepCO3
+<br><br>
+
+389.Calibration of Asynchronous Camera Networks for Object Reconstruction Tasks
+
+<br>
+作者：Amy Tabb, Henry Medeiros<br>
+论文链接：https://arxiv.org/abs/1903.06811<br>
+<br>
+
+388.LP-3DCNN: Unveiling Local Phase in 3D Convolutional Neural Networks
+<br>
+作者：Sudhakar Kumawat, Shanmuganathan Raman<br>
+论文链接：https://arxiv.org/abs/1904.03498<br>
+<br>
+
+387.A Variational Auto-Encoder Model for Stochastic Point Processes
+
+<br>
+作者：Nazanin Mehrasa, Akash Abdu Jyothi, Thibaut Durand, Jiawei He, Leonid Sigal, Greg Mori<br>
+论文链接：https://arxiv.org/abs/1904.03273<br>
+<br>
+
+386.2.5D Visual Sound（FAIR Oral)
+<br>
+作者：Ruohan Gao, Kristen Grauman<br>
+论文链接：https://arxiv.org/abs/1812.04204<br>
+项目链接：http://vision.cs.utexas.edu/projects/2.5D_visual_sound/<br>
+源码链接：https://github.com/facebookresearch/FAIR-Play<br>
+<br>
+385.DeepLight: Learning Illumination for Unconstrained Mobile Mixed Reality
+<br>
+作者：Chloe LeGendre, Wan-Chun Ma, Graham Fyffe, John Flynn, Laurent Charbonnel, Jay Busch, Paul Debevec<br>
+论文链接：https://arxiv.org/abs/1904.01175<br>
+<br>
+
+384.Kervolutional Neural Networks
+<br>
+作者：Chen Wang, Jianfei Yang, Lihua Xie, Junsong Yuan<br>
+论文链接：https://arxiv.org/abs/1904.03955<br>
+<br>
+
+383.SoDeep: a Sorting Deep net to learn ranking loss surrogates
+<br>
+作者：Martin Engilberge, Louis Chevallier, Patrick Pérez, Matthieu Cord<br>
+论文链接：https://arxiv.org/abs/1904.04272<br>
+<br>
+
+
+382.3D Local Features for Direct Pairwise Registration
+<br>
+作者：Haowen Deng, Tolga Birdal, Slobodan Ilic<br>
+论文链接：https://arxiv.org/abs/1904.04281<br>
+<br>
+
+381.Neural Rerendering in the Wild(Oral)<br>
+作者：Moustafa Meshry, Dan B Goldman, Sameh Khamis, Hugues Hoppe, Rohit Pandey, Noah Snavely, Ricardo Martin-Brualla<br>
+论文链接：https://arxiv.org/abs/1904.04290<br>
+<br>
+
+
+380.End-to-end Projector Photometric Compensation<br>
+作者：Bingyao Huang, Haibin Ling<br>
+论文链接：https://arxiv.org/abs/1904.04335<br>
+<br>
+
+379.What and How Well You Performed? A Multitask Learning Approach to Action Quality Assessment<br>
+作者：Paritosh Parmar, Brendan Tran Morris<br>
+论文链接：https://arxiv.org/abs/1904.04346<br>
+<br>
+378.Towards Universal Object Detection by Domain Attention
+<br>
+作者：Xudong Wang, Zhaowei Cai, Dashan Gao, Nuno Vasconcelos<br>
+论文链接：https://arxiv.org/abs/1904.04402<br>
+项目链接：http://www.svcl.ucsd.edu/projects/universal-detection/
+<br><br>
+
+377.Efficient Decision-based Black-box Adversarial Attacks on Face Recognition（人脸识别）
+<br>
+作者：Yinpeng Dong, Hang Su, Baoyuan Wu, Zhifeng Li, Wei Liu, Tong Zhang, Jun Zhu<br>
+论文链接：https://arxiv.org/abs/1904.04433<br>
+<br>
+
+376.Reliable and Efficient Image Cropping: A Grid Anchor based Approach
+<br>
+作者：Hui Zeng, Lida Li, Zisheng Cao, Lei Zhang<br>
+论文链接：https://arxiv.org/abs/1904.04441<br>
+代码链接：https://github.com/HuiZeng/Grid-Anchor-based-Image-Cropping
+<br><br>
+375.SPM-Tracker: Series-Parallel Matching for Real-Time Visual Object Tracking（视觉跟踪）
+<br>
+作者：Guangting Wang, Chong Luo, Zhiwei Xiong, Wenjun Zeng<br>
+论文链接：https://arxiv.org/abs/1904.04452<br>
+<br>
+
+
+374.Graphonomy: Universal Human Parsing via Graph Transfer Learning
+<br>
+作者：Ke Gong, Yiming Gao, Xiaodan Liang, Xiaohui Shen, Meng Wang, Liang Lin<br>
+论文链接：https://arxiv.org/abs/1904.04536<br>
+源码链接：https://github.com/Gaoyiminggithub/Graphonomy<br><br>
+
+
+373.Deep Virtual Networks for Memory Efficient Inference of Multiple Tasks
+<br>
+作者：Eunwoo Kim, Chanho Ahn, Philip H.S. Torr, Songhwai Oh<br>
+论文链接：https://arxiv.org/abs/1904.04562<br><br>
+
+372.Holistic and Comprehensive Annotation of Clinically Significant Findings on Diverse CT Images: Learning from Radiology Reports and Label Ontology（Oral)
+<br>
+作者：Ke Yan, Yifan Peng, Veit Sandfort, Mohammadhadi Bagheri, Zhiyong Lu, Ronald M. Summers<br>
+论文链接：https://arxiv.org/abs/1904.04661<br><br>
+
+371.Domain-Symmetric Networks for Adversarial Domain Adaptation
+<br>
+作者：Yabin Zhang, Hui Tang, Kui Jia, Mingkui Tan<br>
+论文链接：https://arxiv.org/abs/1904.04663<br><br>
+
+370.Action Recognition from Single Timestamp Supervision in Untrimmed Videos（动作识别）<br>
+作者：Davide Moltisanti, Sanja Fidler, Dima Damen<br>
+论文链接：https://arxiv.org/abs/1904.04689<br><br>
+
+
+369.Label Propagation for Deep Semi-supervised Learning
+<br>
+作者：Ahmet Iscen, Giorgos Tolias, Yannis Avrithis, Ondrej Chum<br>
+论文链接：https://arxiv.org/abs/1904.04717<br><br>
+
+368.Cross-Modal Self-Attention Network for Referring Image Segmentation
+<br>
+作者：Linwei Ye, Mrigank Rochan, Zhi Liu, Yang Wang<br>
+论文链接：https://arxiv.org/abs/1904.04745<br><br>
+
+
+367.Leveraging the Invariant Side of Generative Zero-Shot Learning
+<br>
+作者：Jingjing Li, Mengmeng Jin, Ke Lu, Zhengming Ding, Lei Zhu, Zi Huang<br>
+论文链接：https://arxiv.org/abs/1904.04092<br><br>
+
+366.Learning monocular depth estimation infusing traditional stereo knowledge
+<br>
+作者：Fabio Tosi, Filippo Aleotti, Matteo Poggi, Stefano Mattoccia<br>
+论文链接：https://arxiv.org/abs/1904.04144<br>
+代码链接：https://github.com/fabiotosi92/monoResMatch-Tensorflow<br><br>
+
+
+365.Unsupervised learning of action classes with continuous temporal embedding
+<br>
+作者：Anna Kukleva, Hilde Kuehne, Fadime Sener, Juergen Gall<br>
+论文链接：https://arxiv.org/abs/1904.04189<br><br>
+
+364.Pushing the Envelope for RGB-based Dense 3D Hand Pose Estimation via Neural Rendering<br>
+作者：Seungryul Baek, Kwang In Kim, Tae-Kyun Kim<br>
+论文链接：https://arxiv.org/abs/1904.04196<br><br>
+
+
+
+
+363.Relational Action Forecasting(oral)
+<br>
+作者：Chen Sun, Abhinav Shrivastava, Carl Vondrick, Rahul Sukthankar, Kevin Murphy, Cordelia Schmid<br>
+论文链接：https://arxiv.org/abs/1904.04231<br><br>
 
 362.Calibration of Asynchronous Camera Networks for Object Reconstruction Tasks
 <br>
@@ -256,7 +458,8 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 323.Context and Attribute Grounded Dense Captioning
 <br>
 作者：Guojun Yin, Lu Sheng, Bin Liu, Nenghai Yu, Xiaogang Wang, Jing Shao<br>
-论文链接：https://arxiv.org/abs/1904.01410<br><br>
+论文链接：https://arxiv.org/abs/1904.01410<br>
+论文解读：https://zhuanlan.zhihu.com/p/57822460<br><br>
 
 
 322.Good News, Everyone! Context driven entity-aware captioning for news images
@@ -1247,7 +1450,8 @@ Demo链接：https://github.com/vita-epfl/openpifpafwebdemo
 作者：Thiemo Alldieck, Marcus Magnor, Bharat Lal Bhatnagar, Christian Theobalt, Gerard Pons-Moll
 <br>
 论文链接：https://arxiv.org/abs/1903.05885
-<br><br>
+<br>
+源码链接：https://github.com/thmoa/octopus<br><br>
 
 
 
@@ -2609,7 +2813,8 @@ Reading Notes:FINCH, a new clustering algorithm, absolutily no hyperparameters ,
 
 4、End-to-End Multi-Task Learning with Attention<br>
 作者：Shikun Liu, Edward Johns, Andrew J. Davison<br>
-论文链接：https://arxiv.org/abs/1803.10704
+论文链接：https://arxiv.org/abs/1803.10704<br>
+源码链接：https://github.com/lorenmt/mtan
 <br><br>
 5、SpherePHD: Applying CNNs on a Spherical PolyHeDron Representation of 360 degree Images<br><br>
 作者：Yeon Kun Lee, Jaeseok Jeong, Jong Seob Yun, Cho Won June, Kuk-Jin Yoon<br>
