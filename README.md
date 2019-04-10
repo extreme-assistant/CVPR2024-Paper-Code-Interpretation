@@ -17,6 +17,12 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 
 <br><br>
+397.Revisiting Local Descriptor based Image-to-Class Measure for Few-shot Learning
+<br>
+作者：Wenbin Li,  Lei Wang,  Jinglin Xu,  Jing Huo,  Yang Gao,  Jiebo Luo<br>
+论文链接：http://cs.nju.edu.cn/rl/people/liwb/CVPR19.pdf<br>
+源码链接：https://github.com/WenbinLee/DN4.git<br><br>
+
 396.Large-Scale Long-Tailed Recognition in an Open World（Oral)
 <br>
 作者：Ziwei Liu*,  Zhongqi Miao*,  Xiaohang Zhan,  Jiayun Wang,  Boqing Gong,  Stella X. Yu<br>
