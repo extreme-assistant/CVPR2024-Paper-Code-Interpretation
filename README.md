@@ -17,6 +17,190 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 
 <br><br>
+
+430.Gait Recognition via Disentangled Representation Learning（Oral 步态识别）
+<br>
+作者：Ziyuan Zhang, Luan Tran, Xi Yin, Yousef Atoum, Xiaoming Liu, Jian Wan, Nanxin Wang<br>
+论文链接：https://arxiv.org/abs/1904.04925<br>
+<br>
+429.Towards High-fidelity Nonlinear 3D Face Morphable Model
+
+<br>
+作者：Luan Tran, Feng Liu, Xiaoming Liu<br>
+论文链接：https://arxiv.org/abs/1904.04933<br>
+项目链接：http://cvlab.cse.msu.edu/project-nonlinear-3dmm.html
+<br><br>
+428.Weakly Supervised Learning of Instance Segmentation with Inter-pixel Relations(Oral)
+<br>
+作者：Jiwoon Ahn, Sunghyun Cho, Suha Kwak<br>
+论文链接：https://arxiv.org/abs/1904.05044<br>
+<br>
+
+427.Heavy Rain Image Restoration: Integrating Physics Model and Conditional Adversarial Learning
+<br>
+作者：Ruotent Li, Loong Fah Cheong, Robby T. Tan<br>
+论文链接：https://arxiv.org/abs/1904.05050<br>
+<br>
+426.C3AE: Exploring the Limits of Compact Model for Age Estimation
+<br>
+作者：Chao Zhang, Shuaicheng Liu, Xun Xu, Ce Zhu<br>
+论文链接：https://arxiv.org/abs/1904.05059<br>
+<br>
+425.DAVANet: Stereo Deblurring with View Aggregation（Oral)
+
+<br>
+作者：Shangchen Zhou, Jiawei Zhang, Wangmeng Zuo, Haozhe Xie, Jinshan Pan, Jimmy Ren<br>
+论文链接：https://arxiv.org/abs/1904.05065<br>
+<br>
+
+424.Text Guided Person Image Synthesis
+<br>
+作者：Xingran Zhou, Siyu Huang, Bin Li, Yingming Li, Jiachen Li, Zhongfei Zhang<br>
+论文链接：https://arxiv.org/abs/1904.05118<br>
+<br>
+
+423.Actor-Critic Instance Segmentation
+<br>
+作者：Kwang In Kim, Hyung Jin Chang<br>
+论文链接：https://arxiv.org/abs/1904.05126<br>
+<br>
+
+422.Joint Manifold Diffusion for Combining Predictions on Decoupled Observations
+<br>
+作者：Kwang In Kim, Hyung Jin Chang<br>
+论文链接：https://arxiv.org/abs/1904.05159<br>
+<br>
+
+421.Iterative Residual Refinement for Joint Optical Flow and Occlusion Estimation
+<br>
+作者：Junhwa Hur, Stefan Roth<br>
+论文链接：https://arxiv.org/abs/1904.05290<br>
+<br>
+
+420.H+O: Unified Egocentric Recognition of 3D Hand-Object Poses and Interactions(Oral)
+<br>
+作者：Bugra Tekin, Federica Bogo, Marc Pollefeys<br>
+论文链接：https://arxiv.org/abs/1904.05349<br>
+<br>
+419.Pixel-Adaptive Convolutional Neural Networks
+<br>
+作者：Hang Su, Varun Jampani, Deqing Sun, Orazio Gallo, Erik Learned-Miller, Jan Kautz<br>
+论文链接：https://arxiv.org/abs/1904.05373<br>
+<br>
+
+418.Spherical Regression: Learning Viewpoints, Surface Normals and 3D Rotations on n-Spheres
+<br>
+作者：Shuai Liao, Efstratios Gavves, Cees G. M. Snoek<br>
+论文链接：https://arxiv.org/abs/1904.05404<br>
+<br>
+417.Sliced Wasserstein Generative Models<br>
+作者：Jiqing Wu, Zhiwu Huang, Dinesh Acharya, Wen Li, Janine Thoma, Danda Pani Paudel, Luc Van Gool<br>
+论文链接：https://arxiv.org/abs/1904.05408<br>
+源码链接：https://github.com/musikisomorphie/swd<br><br>
+
+
+416.Learning to Generate Synthetic Data via Compositing
+<br>
+作者：Shashank Tripathi, Siddhartha Chandra, Amit Agrawal, Ambrish Tyagi, James M. Rehg, Visesh Chari<br>
+论文链接：https://arxiv.org/abs/1904.05475<br><br>
+
+415.Mitigating Information Leakage in Image Representations: A Maximum Entropy Approach(Oral)
+<br>
+作者：Proteek Chandan Roy, Vishnu Naresh Boddeti<br>
+论文链接：https://arxiv.org/abs/1904.05514<br><br>
+
+414.Unified Visual-Semantic Embeddings: Bridging Vision and Language with Structured Meaning Representations
+<br>
+作者：Hao Wu, Jiayuan Mao, Yufeng Zhang, Yuning Jiang, Lei Li, Weiwei Sun, Wei-Ying Ma<br>
+论文链接：https://arxiv.org/abs/1904.05521<br><br>
+413.Generating Multiple Hypotheses for 3D Human Pose Estimation with Mixture Density Network
+<br>
+作者：Chen Li, Gim Hee Lee<br>
+论文链接：https://arxiv.org/abs/1904.05547<br><br>
+412.Reasoning Visual Dialogs with Structural and Partial Observations(Oral)
+<br>
+作者：Zilong Zheng, Wenguan Wang, Siyuan Qi, Song-Chun Zhu<br>
+论文链接：https://arxiv.org/abs/1904.05548<br><br>
+
+
+411.C-MIL: Continuation Multiple Instance Learning for Weakly Supervised Object Detection
+<br>
+作者：Fang Wan, Chang Liu, Wei Ke, Xiangyang Ji, Jianbin Jiao, Qixiang Ye<br>
+论文链接：https://arxiv.org/abs/1904.05647<br><br>
+
+410.TAFE-Net: Task-Aware Feature Embeddings for Low Shot Learning
+<br>
+作者：Xin Wang, Fisher Yu, Ruth Wang, Trevor Darrell, Joseph E. Gonzalez<br>
+论文链接：https://arxiv.org/abs/1904.05967<br><br>
+
+
+409.Real-Time Dense Stereo Embedded in A UAV for Road Inspection
+<br>
+作者：Rui Fan, Jianhao Jiao, Jie Pan, Huaiyang Huang, Shaojie Shen, Ming Liu<br>
+论文链接：https://arxiv.org/abs/1904.06017<br><br>
+408.Adaptive Weighting Multi-Field-of-View CNN for Semantic Segmentation in Pathology
+<br>
+作者：Hiroki Tokunaga, Yuki Teramoto, Akihiko Yoshizawa, Ryoma Bise<br>
+论文链接：https://arxiv.org/abs/1904.06040<br><br>
+
+407.Unifying Heterogeneous Classifiers with Distillation
+<br>
+作者：Jayakorn Vongkulbhisal, Phongtharin Vinayavekhin, Marco Visentini-Scarzanella<br>
+论文链接：https://arxiv.org/abs/1904.06062<br><br>
+
+406.YUVMultiNet: Real-time YUV multi-task CNN for autonomous driving
+<br>
+作者：Thomas Boulay, Said El-Hachimi, Mani Kumar Surisetti, Pullarao Maddu, Saranya Kandan<br>
+论文链接：https://arxiv.org/abs/1904.05673<br><br>
+
+405.A Relation-Augmented Fully Convolutional Network for Semantic Segmentationin Aerial Scenes
+<br>
+作者：Lichao Mou, Yuansheng Hua, Xiao Xiang Zhu<br>
+论文链接：https://arxiv.org/abs/1904.05730<br><br>
+
+
+404.Learning joint reconstruction of hands and manipulated objects
+<br>
+作者：Yana Hasson, Gül Varol, Dimitrios Tzionas, Igor Kalevatykh, Michael J. Black, Ivan Laptev, Cordelia Schmid<br>
+论文链接：https://arxiv.org/abs/1904.05767<br><br>
+
+403.Probabilistic Permutation Synchronization using the Riemannian Structure of the Birkhoff Polytope(Oral)
+<br>
+作者：Tolga Birdal, Umut Şimşekli<br>
+论文链接：https://arxiv.org/abs/1904.05814<br><br>
+402.Variational Information Distillation for Knowledge Transfer
+<br>
+作者：Sungsoo Ahn, Shell Xu Hu, Andreas Damianou, Neil D. Lawrence, Zhenwen Dai<br>
+论文链接：https://arxiv.org/abs/1904.05835<br><br>
+
+401.Expressive Body Capture: 3D Hands, Face, and Body from a Single Image
+<br>
+作者：Georgios Pavlakos, Vasileios Choutas, Nima Ghorbani, Timo Bolkart, Ahmed A. A. Osman, Dimitrios Tzionas, Michael J. Black<br>
+论文链接：https://arxiv.org/abs/1904.05866<br><br>
+
+400.A Simple Baseline for Audio-Visual Scene-Aware Dialog
+<br>
+作者：Idan Schwartz, Alexander Schwing, Tamir Hazan<br>
+论文链接：https://arxiv.org/abs/1904.05876<br><br>
+
+399.Max-Sliced Wasserstein Distance and its use for GANs
+<br>
+作者：Ishan Deshpande, Yuan-Ting Hu, Ruoyu Sun, Ayis Pyrros, Nasir Siddiqui, Sanmi Koyejo, Zhizhen Zhao, David Forsyth, Alexander Schwing<br>
+论文链接：https://arxiv.org/abs/1904.05877<br><br>
+
+
+398.Two Body Problem: Collaborative Visual Task Completion<br>
+作者：Unnat Jain, Luca Weihs, Eric Kolve, Mohammad Rastegari, Svetlana Lazebnik, Ali Farhadi, Alexander Schwing, Aniruddha Kembhavi<br>
+论文链接：https://arxiv.org/abs/1904.05879<br><br>
+
+
+397.Factor Graph Attention
+<br>
+作者：Idan Schwartz, Seunghak Yu, Tamir Hazan, Alexander Schwing<br>
+论文链接：https://arxiv.org/abs/1904.05880<br><br>
+
+
+
 396.Large-Scale Long-Tailed Recognition in an Open World（Oral)
 <br>
 作者：Ziwei Liu*,  Zhongqi Miao*,  Xiaohang Zhan,  Jiayun Wang,  Boqing Gong,  Stella X. Yu<br>
@@ -478,7 +662,8 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 320.Spatial Attentive Single-Image Deraining with a High Quality Real Rain Dataset<br>
 作者：Tianyu Wang*, Xin Yang*, Ke Xu, Shaozhe Chen, Qiang Zhang, Rynson Lau<br>
 论文链接：https://arxiv.org/abs/1904.01538<br>
-项目链接：https://stevewongv.github.io/derain-project.html <br><br>
+项目链接：https://stevewongv.github.io/derain-project.html <br>
+源码链接：https://github.com/stevewongv/SPANet<br><br>
 
 
 
