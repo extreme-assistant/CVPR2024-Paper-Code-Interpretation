@@ -17,6 +17,7 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 
 <br><br>
+<<<<<<< HEAD
 
 430.Gait Recognition via Disentangled Representation Learning（Oral 步态识别）
 <br>
@@ -200,6 +201,13 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 论文链接：https://arxiv.org/abs/1904.05880<br><br>
 
 
+=======
+397.Revisiting Local Descriptor based Image-to-Class Measure for Few-shot Learning
+<br>
+作者：Wenbin Li,  Lei Wang,  Jinglin Xu,  Jing Huo,  Yang Gao,  Jiebo Luo<br>
+论文链接：http://cs.nju.edu.cn/rl/people/liwb/CVPR19.pdf<br>
+源码链接：https://github.com/WenbinLee/DN4.git<br><br>
+>>>>>>> afad44e60b6dff0a28598f5a5e0be1260fab4724
 
 396.Large-Scale Long-Tailed Recognition in an Open World（Oral)
 <br>
