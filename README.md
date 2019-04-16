@@ -3,24 +3,29 @@ Source：https://mp.weixin.qq.com/s/SmS-guwg6oUqPYwfeC6iiw<br>
 论文解读汇总：http://bbs.cvmart.net/topics/287/cvpr2019 <br>
 论文分类汇总：http://bbs.cvmart.net/topics/302/cvpr2019paper<br>
 CVPR2019论文直播分享计划：<br>
-3/28晚分享回放[王鑫龙：联合分割点云中的实例和语义（开源，列表id 27)](<http://bbs.cvmart.net/topics/351/%E8%81%94%E5%90%88%E5%88%86%E5%89%B2%E7%82%B9%E4%BA%91%E4%B8%AD%E7%9A%84%E5%AE%9E%E4%BE%8B%E5%92%8C%E8%AF%AD%E4%B9%89>)<br>
-4月18日晚目标检测分享<br>
+* 3/28晚分享回放[王鑫龙：联合分割点云中的实例和语义（开源，列表id 27)](<http://bbs.cvmart.net/topics/351/%E8%81%94%E5%90%88%E5%88%86%E5%89%B2%E7%82%B9%E4%BA%91%E4%B8%AD%E7%9A%84%E5%AE%9E%E4%BE%8B%E5%92%8C%E8%AF%AD%E4%B9%89>)<br>
+* 4月18日晚目标检测直播<br>
+[CMU诸宸辰:基于Anchor-free特征选择模块的单阶目标检测(CVPR2019，列表id 88)](https://mp.weixin.qq.com/s/CvzFG63c1bTuWFSIzNSxBA) 
+
 5月初视频跟踪分享（时间待定）<br>
 cvpr2019 accepted papers list:<br>
 http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 <br>
-<br>
+
+所有接收论文title：https://docs.google.com/spreadsheets/d/1RU2y-iuzwtAR_hn4V9yz1qpZSiElm3iaCpUoDJ-vfvQ/edit#gid=2010472999<br><br>
+
 论文PDF下载（更新中）<br>
 链接：https://pan.baidu.com/s/1s4FuLscWcslN5rQQvP92JA 
 提取码：osvy 
 <br><br>
-Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
+
+
+
+<br>Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 
 <br><br>
 
-442.GolfDB: A Video Database for Golf Swing Sequencing
-
-<br>
+442.GolfDB: A Video Database for Golf Swing Sequencing<br>
 作者：William McNally, Kanav Vats, Tyler Pinto, Chris Dulhanty, John McPhee, Alexander Wong<br>
 论文链接：https://arxiv.org/abs/1903.06528v1<br>
 <br>
@@ -54,9 +59,7 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 源码链接：https://github.com/MalongTech/research-ms-loss
 <br><br>
 
-436.Conditional Single-view Shape Generation for Multi-view Stereo Reconstruction
-
-<br>
+436.Conditional Single-view Shape Generation for Multi-view Stereo Reconstruction<br>
 作者：Yi Wei, Shaohui Liu, Wang Zhao, Jiwen Lu, Jie Zhou<br>
 论文链接：https://arxiv.org/abs/1904.06699
 <br><br>
