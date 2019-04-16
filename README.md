@@ -4,7 +4,7 @@ Source：https://mp.weixin.qq.com/s/SmS-guwg6oUqPYwfeC6iiw<br>
 论文分类汇总：http://bbs.cvmart.net/topics/302/cvpr2019paper<br>
 CVPR2019论文直播分享计划：<br>
 3/28晚分享回放[王鑫龙：联合分割点云中的实例和语义（开源，列表id 27)](<http://bbs.cvmart.net/topics/351/%E8%81%94%E5%90%88%E5%88%86%E5%89%B2%E7%82%B9%E4%BA%91%E4%B8%AD%E7%9A%84%E5%AE%9E%E4%BE%8B%E5%92%8C%E8%AF%AD%E4%B9%89>)<br>
-4月底目标检测分享（时间待定）<br>
+4月18日晚目标检测分享<br>
 5月初视频跟踪分享（时间待定）<br>
 cvpr2019 accepted papers list:<br>
 http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
@@ -18,14 +18,88 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 
 <br><br>
 
+442.GolfDB: A Video Database for Golf Swing Sequencing
+
+<br>
+作者：William McNally, Kanav Vats, Tyler Pinto, Chris Dulhanty, John McPhee, Alexander Wong<br>
+论文链接：https://arxiv.org/abs/1903.06528v1<br>
+<br>
+
+441.R2GAN: Cross-modal Recipe Retrieval with Generative Adversarial Network
+<br>
+作者：Bin Zhu, Chong-Wah Ngo, Jingjing Chen, and Yanbin Hao<br>
+论文链接：http://vireo.cs.cityu.edu.hk/papers/R2GAN.pdf<br>
+<br>
+
+440.Look More Than Once: An Accurate Detector for Text of Arbitrary Shapes
+<br>
+作者：Chengquan Zhang, Borong Liang, Zuming Huang, Mengyi En, Junyu Han, Errui Ding, Xinghao Ding<br>
+论文链接：https://arxiv.org/abs/1904.06535<br>
+<br>
+439.GA-Net: Guided Aggregation Net for End-to-end Stereo Matching(Oral)
+<br>
+作者：Feihu Zhang, Victor Prisacariu, Ruigang Yang, Philip H.S. Torr<br>
+论文链接：https://arxiv.org/abs/1904.06587<br>
+<br>
+438.LiveSketch: Query Perturbations for Guided Sketch-based Visual Search
+<br>
+作者：John Collomosse, Tu Bui, Hailin Jin<br>
+论文链接：https://arxiv.org/abs/1904.06611<br>
+<br>
+
+437.Multi-Similarity Loss with General Pair Weighting for Deep Metric Learning
+<br>
+作者：Multi-Similarity Loss with General Pair Weighting for Deep Metric Learning<br>
+论文链接：https://arxiv.org/abs/1904.06627<br>
+源码链接：https://github.com/MalongTech/research-ms-loss
+<br><br>
+
+436.Conditional Single-view Shape Generation for Multi-view Stereo Reconstruction
+
+<br>
+作者：Yi Wei, Shaohui Liu, Wang Zhao, Jiwen Lu, Jie Zhou<br>
+论文链接：https://arxiv.org/abs/1904.06699
+<br><br>
+
+435.VORNet: Spatio-temporally Consistent Video Inpainting for Object Removal
+<br>
+作者：Ya-Liang Chang, Zhe Yu Liu, Winston Hsu<br>
+论文链接：https://arxiv.org/abs/1904.06726
+<br><br>
+
+
+434.Multi-Channel Attention Selection GAN with Cascaded Semantic Guidance for Cross-View Image Translation（Oral)
+<br>
+作者：Hao Tang, Dan Xu, Nicu Sebe, Yanzhi Wang, Jason J. Corso, Yan Yan<br>
+论文链接：https://arxiv.org/abs/1904.06807<br>
+源码链接：https://github.com/Ha0Tang/SelectionGAN
+<br><br>
+
+433.ContactDB: Analyzing and Predicting Grasp Contact via Thermal Imaging（Oral)
+<br>
+作者：Samarth Brahmbhatt, Cusuh Ham, Charles C. Kemp, James Hays<br>
+论文链接：https://arxiv.org/abs/1904.06830<br>
+<br>
+
+432.Pedestrian Detection in Thermal Images using Saliency Maps（行人检测）
+<br>
+作者：Debasmita Ghose, Shasvat Mukeshkumar Desai, Sneha Bhattacharya, Deep Chakraborty, Madalina Fiterau, Tauhidur Rahman<br>
+论文链接：https://arxiv.org/abs/1904.06859<br>
+<br>
+
+431.Self-critical n-step Training for Image Captioning（图像生成）
+<br>
+作者：Junlong Gao, Shiqi Wang, Shanshe Wang, Siwei Ma, Wen Gao<br>
+论文链接：https://arxiv.org/abs/1904.06861<br>
+<br>
+
+
 430.Gait Recognition via Disentangled Representation Learning（Oral 步态识别）
 <br>
 作者：Ziyuan Zhang, Luan Tran, Xi Yin, Yousef Atoum, Xiaoming Liu, Jian Wan, Nanxin Wang<br>
 论文链接：https://arxiv.org/abs/1904.04925<br>
 <br>
-429.Towards High-fidelity Nonlinear 3D Face Morphable Model
-
-<br>
+429.Towards High-fidelity Nonlinear 3D Face Morphable Model<br>
 作者：Luan Tran, Feng Liu, Xiaoming Liu<br>
 论文链接：https://arxiv.org/abs/1904.04933<br>
 项目链接：http://cvlab.cse.msu.edu/project-nonlinear-3dmm.html
@@ -46,9 +120,7 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 作者：Chao Zhang, Shuaicheng Liu, Xun Xu, Ce Zhu<br>
 论文链接：https://arxiv.org/abs/1904.05059<br>
 <br>
-425.DAVANet: Stereo Deblurring with View Aggregation（Oral)
-
-<br>
+425.DAVANet: Stereo Deblurring with View Aggregation（Oral)<br>
 作者：Shangchen Zhou, Jiawei Zhang, Wangmeng Zuo, Haozhe Xie, Jinshan Pan, Jimmy Ren<br>
 论文链接：https://arxiv.org/abs/1904.05065<br>
 <br>
@@ -199,8 +271,6 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 作者：Idan Schwartz, Seunghak Yu, Tamir Hazan, Alexander Schwing<br>
 论文链接：https://arxiv.org/abs/1904.05880<br><br>
 
-
-=======
 397.Revisiting Local Descriptor based Image-to-Class Measure for Few-shot Learning
 <br>
 作者：Wenbin Li,  Lei Wang,  Jinglin Xu,  Jing Huo,  Yang Gao,  Jiebo Luo<br>
@@ -312,7 +382,8 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 380.End-to-end Projector Photometric Compensation<br>
 作者：Bingyao Huang, Haibin Ling<br>
 论文链接：https://arxiv.org/abs/1904.04335<br>
-<br>
+源码链接：https://github.com/BingyaoHuang/compennet
+<br><br>
 
 379.What and How Well You Performed? A Multitask Learning Approach to Action Quality Assessment<br>
 作者：Paritosh Parmar, Brendan Tran Morris<br>
@@ -2891,9 +2962,9 @@ Github链接：https://github.com/google/compare_gan<br><br>
 作者：Aaditya Prakash, James Storer, Dinei Florencio, Cha Zhang<br>
 论文链接：https://arxiv.org/abs/1811.07275<br><br>
 
-41.Data augmentation using learned transforms for one-shot medical image segmentation<br>
-作者：Amy Zhao, Guha Balakrishnan, Frédo Durand, John V. Guttag, Adrian V. Dalca<br>
-论文链接：https://arxiv.org/abs/1902.09383<br><br>
+41.Joint Discriminative and Generative Learning for Person Re-identification(Oral,行人重识别)<br>
+作者：Zhedong Zheng, Xiaodong Yang, Zhiding Yu, Liang Zheng, Yi Yang, Jan Kautz<br>
+论文链接：https://arxiv.org/abs/1904.07223<br><br>
 
 40.Monocular Total Capture: Posing Face, Body, and Hands in the Wild(Oral)<br>
 作者：Donglai Xiang, Hanbyul Joo, Yaser Sheikh<br>
