@@ -23,6 +23,11 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 
 <br><br>
+469.Meta-Transfer Learning for Few-Shot Learning <br>
+作者：Qianru Sun, Yaoyao Liu, Tat-Seng Chua, Bernt Schiele<br>
+论文链接：https://arxiv.org/pdf/1812.02391.pdf<br>
+源码链接：https://github.com/y2l/meta-transfer-learning-tensorflow
+<br><br>
 472.ComDefend: An Efficient Image Compression Model to Defend Adversarial Examples（图像压缩）
 <br>
 作者：Xiaojun Jia, Xingxing Wei, Xiaochun Cao, Hassan Foroosh<br>
