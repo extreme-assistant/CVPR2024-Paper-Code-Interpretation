@@ -5,7 +5,7 @@ Source：https://mp.weixin.qq.com/s/SmS-guwg6oUqPYwfeC6iiw<br>
 CVPR2019论文直播分享计划：<br>
 
 * 3/28晚分享回放[王鑫龙：联合分割点云中的实例和语义（开源，列表id 27)](<http://bbs.cvmart.net/topics/351/%E8%81%94%E5%90%88%E5%88%86%E5%89%B2%E7%82%B9%E4%BA%91%E4%B8%AD%E7%9A%84%E5%AE%9E%E4%BE%8B%E5%92%8C%E8%AF%AD%E4%B9%89>)<br>
-* 4月18日晚目标检测直播<br>
+* 4月18日晚目标检测分享回放<br>
 [CMU诸宸辰:基于Anchor-free特征选择模块的单阶目标检测(CVPR2019，列表id 88)](https://mp.weixin.qq.com/s/CvzFG63c1bTuWFSIzNSxBA) 
 
 5月初视频跟踪分享（时间待定）<br>
@@ -23,6 +23,90 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 
 <br><br>
+
+491.ContactDB: Analyzing and Predicting Grasp Contact via Thermal Imaging(Oral)<br>
+作者： Samarth Brahmbhatt, Cusuh Ham, Charles C. Kemp, and James Hays<br>
+论文链接：https://contactdb.cc.gatech.edu/contactdb_paper.pdf<br>
+源码链接：https://github.com/samarth-robo/contactdb_prediction
+<br><br>
+490.Aggregation Cross-Entropy for Sequence Recognition<br>
+作者：Zecheng Xie, Yaoxiong Huang, Yuanzhi Zhu, Lianwen Jin, Yuliang Liu, Lele Xie<br>
+论文链接：https://arxiv.org/abs/1904.08364<br>
+<br>
+489.Variational Prototyping-Encoder: One-Shot Learning with Prototypical Images<br>
+作者：Junsik Kim, Tae-Hyun Oh, Seokju Lee, Fei Pan, In So Kweon<br>
+论文链接：https://arxiv.org/abs/1904.08482<br>
+<br>
+488.Meta-learning Convolutional Neural Architectures for Multi-target Concrete Defect Classification with the COncrete DEfect BRidge IMage Dataset<br>
+作者：Martin Mundt, Sagnik Majumder, Sreenivas Murali, Panagiotis Panetsos, Visvanathan Ramesh<br>
+论文链接：https://arxiv.org/abs/1904.08486<br>
+<br>
+487.Machine Vision Guided 3D Medical Image Compression for Efficient Transmission and Accurate Segmentation in the Clouds<br>
+作者：Zihao Liu, Xiaowei Xu, Tao Liu, Qi Liu, Yanzhi Wang, Yiyu Shi, Wujie Wen, Meiping Huang, Haiyun Yuan, Jian Zhuang<br>
+论文链接：https://arxiv.org/abs/1904.08487<br>
+<br>
+486.Few-Shot Learning with Localization in Realistic Settings<br>
+作者：Davis Wertheimer, Bharath Hariharan<br>
+论文链接：https://arxiv.org/abs/1904.08502<br>
+<br>
+485.Progressive Attention Memory Network for Movie Story Question Answering<br>
+作者：Junyeong Kim, Minuk Ma, Kyungsu Kim, Sungjin Kim, Chang D. Yoo<br>
+论文链接：https://arxiv.org/abs/1904.08607<br>
+<br>
+484.Unsupervised Open Domain Recognition by Semantic Discrepancy Minimization<br>
+作者：Junbao Zhuo, Shuhui Wang, Shuhao Cui, Qingming Huang<br>
+论文链接：https://arxiv.org/abs/1904.08631<br>
+<br>
+483.DDLSTM: Dual-Domain LSTM for Cross-Dataset Action Recognition<br>
+作者：Toby Perrett, Dima Damen<br>
+论文链接：https://arxiv.org/abs/1904.08634<br>
+<br>
+482.Out-of-Distribution Detection for Generalized Zero-Shot Action Recognition<br>
+作者：Devraj Mandal, Sanath Narayan, Saikumar Dwivedi, Vikram Gupta, Shuaib Ahmed, Fahad Shahbaz Khan, Ling Shao<br>
+论文链接：https://arxiv.org/abs/1904.08703<br>
+<br>
+481.A Theoretically Sound Upper Bound on the Triplet Loss for Improving the Efficiency of Deep Distance Metric Learning<br>
+作者：Thanh-Toan Do, Toan Tran, Ian Reid, Vijay Kumar, Tuan Hoang, Gustavo Carneiro<br>
+论文链接：https://arxiv.org/abs/1904.08720<br>
+<br>
+480.Cascaded Partial Decoder for Fast and Accurate Salient Object Detection<br>
+作者：Zhe Wu, Li Su, Qingming Huang<br>
+论文链接：https://arxiv.org/abs/1904.08739<br>
+<br>
+479.4D Spatio-Temporal ConvNets: Minkowski Convolutional Neural Networks<br>
+作者：Christopher Choy, JunYoung Gwak, Silvio Savarese<br>
+论文链接：https://arxiv.org/abs/1904.08755<br>
+<br>
+
+478.Attentive Single-Tasking of Multiple Tasks<br>
+作者：Kevis-Kokitsi Maninis, Ilija Radosavovic, Iasonas Kokkinos<br>
+论文链接：https://arxiv.org/abs/1904.08918<br>
+<br>
+477.Towards VQA Models that can Read<br>
+作者：Amanpreet Singh, Vivek Natarajan, Meet Shah, Yu Jiang, Xinlei Chen, Dhruv Batra, Devi Parikh, Marcus Rohrbach<br>
+论文链接：https://arxiv.org/abs/1904.08920<br>
+<br>
+476.Listen to the Image<br>
+作者：Di Hu, Dong Wang, Xuelong Li, Feiping Nie, Qi Wang<br>
+论文链接：https://arxiv.org/abs/1904.09115<br>
+<br>
+475.SelFlow: Self-Supervised Learning of Optical Flow
+<br>
+作者：Pengpeng Liu, Michael Lyu, Irwin King, Jia Xu<br>
+论文链接：https://arxiv.org/abs/1904.09117<br>
+<br>
+474.Visualizing the decision-making process in deep neural decision forest
+<br>
+作者：Shichao Li, Kwang-Ting Cheng<br>
+论文链接：https://arxiv.org/abs/1904.09201<br>
+源码链接：https://github.com/Nicholasli1995/VisualizingNDF
+<br><br>
+473.STEP: Spatio-Temporal Progressive Learning for Video Action Detection（Oral,视频动作识别）
+<br>
+作者：Xitong Yang, Xiaodong Yang, Ming-Yu Liu, Fanyi Xiao, Larry Davis, Jan Kautz<br>
+论文链接：https://arxiv.org/abs/1904.09288<br>
+<br>
+
 472.ComDefend: An Efficient Image Compression Model to Defend Adversarial Examples（图像压缩）
 <br>
 作者：Xiaojun Jia, Xingxing Wei, Xiaochun Cao, Hassan Foroosh<br>
