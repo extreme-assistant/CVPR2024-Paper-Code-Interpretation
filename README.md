@@ -23,6 +23,38 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 
 <br><br>
+498.Data-Driven Neuron Allocation for Scale Aggregation Networks<br>
+作者：Yi Li, Zhanghui Kuang, Yimin Chen, Wayne Zhang<br>
+论文链接：https://arxiv.org/abs/1904.09460<br>
+<br>
+497.A Simple Pooling-Based Design for Real-Time Salient Object Detection<br>
+作者：Jiang-Jiang Liu, Qibin Hou, Ming-Ming Cheng, Jiashi Feng, Jianmin Jiang<br>
+论文链接：https://arxiv.org/abs/1904.09569<br>
+源码链接：http://mmcheng.net/poolnet/
+<br><br>
+496.TransGaGa: Geometry-Aware Unsupervised Image-to-Image Translation<br>
+作者：Wayne Wu, Kaidi Cao, Cheng Li, Chen Qian, Chen Change Loy<br>
+论文链接：https://arxiv.org/abs/1904.09571<br>
+<br>
+495.Deep Metric Learning Beyond Binary Supervision（Oral）<br>
+作者：Sungyeon Kim, Minkyo Seo, Ivan Laptev, Minsu Cho, Suha Kwak<br>
+论文链接：https://arxiv.org/abs/1904.09626<br>
+<br>
+494.Fast User-Guided Video Object Segmentation by Interaction-and-Propagation Networks<br>
+作者：Seoung Wug Oh, Joon-Young Lee, Ning Xu, Seon Joo Kim<br>
+论文链接：https://arxiv.org/abs/1904.09791<br>
+<br>
+493.PCAN: 3D Attention Map Learning Using Contextual Information for Point Cloud Based Retrieval<br>
+作者： Wenxiao Zhang, Chunxia Xiao<br>
+论文链接：https://arxiv.org/abs/1904.09793<br>
+<br>
+
+
+492.Superquadrics Revisited: Learning 3D Shape Parsing beyond Cuboids<br>
+作者： Despoina Paschalidou, Ali Osman Ulusoy, Andreas Geiger<br>
+论文链接：https://arxiv.org/abs/1904.09970<br>
+源码链接：https://github.com/paschalidoud/superquadric_parsing
+<br><br>
 
 491.ContactDB: Analyzing and Predicting Grasp Contact via Thermal Imaging(Oral)<br>
 作者： Samarth Brahmbhatt, Cusuh Ham, Charles C. Kemp, and James Hays<br>
@@ -779,7 +811,7 @@ NewVersion：https://arxiv.org/abs/1706.02631<br>
 作者：Jiangmiao Pang, Kai Chen, Jianping Shi, Huajun Feng, Wanli Ouyang, Dahua Lin<br>
 论文链接：https://arxiv.org/abs/1904.02701<br><br>
 
-356.Learning to Cluster Faces on an Affinity Graph
+356.Learning to Cluster Faces on an Affinity Graph(Oral)
 <br>
 作者：Lei Yang, Xiaohang Zhan, Dapeng Chen, Junjie Yan, Chen Change Loy, Dahua Lin<br>
 论文链接：https://arxiv.org/abs/1904.02749<br>
