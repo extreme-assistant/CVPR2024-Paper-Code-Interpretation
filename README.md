@@ -23,6 +23,72 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 
 <br><br>
+510.Unsupervised Person Image Generation with Semantic Parsing Transformation<br>
+作者：Sijie Song, Wei Zhang, Jiaying Liu, Tao Mei<br>
+论文链接：https://arxiv.org/abs/1904.03379<br>
+项目链接：https://github.com/SijieSong/person_generation_spt
+<br><br>
+509.Binary Ensemble Neural Network: More Bits per Network or More Networks per Bit?<br>
+作者：Shilin Zhu, Xin Dong, Hao Su<br>
+论文链接：https://arxiv.org/abs/1806.07550
+<br><br>
+
+508.Self-Supervised GANs via Auxiliary Rotation Loss<br>
+作者：Ting Chen, Xiaohua Zhai, Marvin Ritter, Mario Lucic, Neil Houlsby<br>
+论文链接：https://arxiv.org/abs/1811.11212
+<br><br>
+
+
+507.Multi-Agent Tensor Fusion for Contextual Trajectory Prediction<br>
+作者：Tianyang Zhao, Yifei Xu, Mathew Monfort, Wongun Choi, Chris Baker, Yibiao Zhao, Yizhou Wang, Ying Nian Wu<br>
+论文链接：https://arxiv.org/abs/1904.04776
+<br><br>
+
+506.L3-Net: Towards Learning based LiDAR Localization for Autonomous Driving<br>
+作者：Weixin Lu， Yao Zhou， Guowei Wan，Shenhua Hou，Shiyu Song<br>
+论文链接：https://songshiyu01.github.io/pdf/L3Net_W.Lu_Y.Zhou_S.Song_CVPR2019.pdf
+<br><br>
+
+
+505.Deep Convolutional Networks on 3D Point Clouds
+<br>
+作者：Satwik Acharyya, Zhengwu Zhang, Anirban Bhattacharya, Debdeep Pati<br>
+论文链接：https://arxiv.org/pdf/1811.07246.pdf<br>
+源码链接：https://github.com/DylanWusee/pointconv
+<br><br>
+
+504.CapSal: Leveraging Captioning to Boost Semantics for Salient Object Detection<br>
+作者：Lu Zhang; Huchuan Lu ; Zhe Lin ; Jianming Zhang; You He<br>
+论文链接：https://drive.google.com/open?id=1JcZMHBXEX-7AR1P010OXg_wCCC5HukeZ（需要申请）<br>
+源码链接：https://github.com/zhangludl/code-and-dataset-for-CapSal
+<br><br>
+503.Segmentation-driven 6D Object Pose Estimation<br>
+作者：Yinlin Hu, Joachim Hugonot, Pascal Fua, Mathieu Salzmann<br>
+论文链接：https://arxiv.org/abs/1812.02541<br>
+源码链接：https://github.com/cvlab-epfl/segmentation-driven-pose
+<br><br>
+
+
+502.LBS Autoencoder: Self-supervised Fitting of Articulated Meshes to Point Clouds<br>
+作者：Chun-Liang Li, Tomas Simon, Jason Saragih, Barnabás Póczos, Yaser Sheikh<br>
+论文链接：https://arxiv.org/abs/1904.10037<br>
+<br>
+501.Learning Actor Relation Graphs for Group Activity Recognition<br>
+作者：Jianchao Wu, Limin Wang, Li Wang, Jie Guo, Gangshan Wu<br>
+论文链接：https://arxiv.org/abs/1904.10117<br>
+<br>
+500.Student Becoming the Master: Knowledge Amalgamation for Joint Scene Parsing, Depth Estimation, and More<br>
+作者：Jingwen Ye, Yixin Ji, Xinchao Wang, Kairi Ou, Dapeng Tao, Mingli Song<br>
+论文链接：https://arxiv.org/abs/1904.10167<br>
+<br>
+
+499.Attention-guided Network for Ghost-free High Dynamic Range Imaging
+<br>
+作者：Qingsen Yan, Dong Gong, Qinfeng Shi, Anton van den Hengel, Chunhua Shen, Ian Reid, Yanning Zhang<br>
+论文链接：https://arxiv.org/abs/1904.10293<br>
+<br>
+
+
 498.Data-Driven Neuron Allocation for Scale Aggregation Networks<br>
 作者：Yi Li, Zhanghui Kuang, Yimin Chen, Wayne Zhang<br>
 论文链接：https://arxiv.org/abs/1904.09460<br>
