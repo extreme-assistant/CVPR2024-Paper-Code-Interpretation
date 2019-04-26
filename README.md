@@ -23,6 +23,39 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 
 <br><br>
+
+516.Bidirectional Learning for Domain Adaptation of Semantic Segmentation<br>
+作者：Yunsheng Li, Lu Yuan, Nuno Vasconcelos<br>
+论文链接：https://arxiv.org/abs/1904.10620<br>
+源码链接：https://github.com/liyunsheng13/BDL
+<br><br>
+515.Improving Few-Shot User-Specific Gaze Adaptation via Gaze Redirection Synthesis<br>
+作者：Yu Yu, Gang Liu, Jean-Marc Odobez<br>
+论文链接：https://arxiv.org/abs/1904.10638<br>
+<br>
+514.Learning the Depths of Moving People by Watching Frozen People（Oral）
+<br>
+作者：Zhengqi Li, Tali Dekel, Forrester Cole, Richard Tucker, Noah Snavely, Ce Liu, William T. Freeman<br>
+论文链接：https://arxiv.org/abs/1904.11111<br>
+<br>
+
+513.Transferrable Prototypical Networks for Unsupervised Domain Adaptation（Oral）<br>
+作者：Yingwei Pan, Ting Yao, Yehao Li, Yu Wang, Chong-Wah Ngo, Tao Mei<br>
+论文链接：https://arxiv.org/abs/1904.11227<br>
+<br>
+
+512.Exploring Object Relation in Mean Teacher for Cross-Domain Detection
+<br>
+作者：Qi Cai, Yingwei Pan, Chong-Wah Ngo, Xinmei Tian, Lingyu Duan, Ting Yao<br>
+论文链接：https://arxiv.org/abs/1904.11245<br>
+<br>
+
+511.Pointing Novel Objects in Image Captioning<br>
+作者：Yehao Li, Ting Yao, Yingwei Pan, Hongyang Chao, Tao Mei<br>
+论文链接：https://arxiv.org/abs/1904.11251<br>
+<br>
+
+
 510.Unsupervised Person Image Generation with Semantic Parsing Transformation<br>
 作者：Sijie Song, Wei Zhang, Jiaying Liu, Tao Mei<br>
 论文链接：https://arxiv.org/abs/1904.03379<br>
