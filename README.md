@@ -23,6 +23,21 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 
 <br><br>
+513. Actional-Structural Graph Convolutional Networks for Skeleton-based Action Recognition <br>
+作者：Maosen Li, Siheng Chen, Xu Chen, Ya Zhang, Yanfeng Wang, and Qi Tian <br>
+论文链接：https://arxiv.org/pdf/1904.12659.pdf
+
+<br><br>
+512. Deep Fitting Degree Scoring Network for Monocular 3D Object Detection <br>
+作者：Lijie Liu1, Jiwen Lu, Chunjing Xu, Qi Tian, Jie Zhou <br>
+论文链接：https://arxiv.org/pdf/1904.12681.pdf
+
+<br><br>
+511.Style Transfer by Relaxed Optimal Transport and Self-Similarity <br>
+作者：Nicholas Kolkin, Jason Salavon, Gregory Shakhnarovich <br>
+论文链接：https://arxiv.org/pdf/1904.12785.pdf
+
+<br><br>
 510.Unsupervised Person Image Generation with Semantic Parsing Transformation<br>
 作者：Sijie Song, Wei Zhang, Jiaying Liu, Tao Mei<br>
 论文链接：https://arxiv.org/abs/1904.03379<br>
