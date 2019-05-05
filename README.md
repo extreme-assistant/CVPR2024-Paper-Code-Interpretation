@@ -8,7 +8,7 @@ CVPR2019论文直播分享计划：<br>
 * 4月18日晚目标检测分享回放<br>
 [CMU诸宸辰:基于Anchor-free特征选择模块的单阶目标检测(CVPR2019，列表id 88)](https://mp.weixin.qq.com/s/CvzFG63c1bTuWFSIzNSxBA) 
 
-5月初视频跟踪分享（时间待定）<br>
+5月9日视频跟踪分享（待定）<br>
 cvpr2019 accepted papers list:<br>
 http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 <br>
@@ -23,6 +23,80 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 
 <br><br>
+
+546.Decoders Matter for Semantic Segmentation:Data-Dependent Decoding Enables Flexible Feature Aggregation<br>
+作者：Zhi Tian, Tong He, Chunhua Shen, Youliang Yan<br>
+论文链接：https://arxiv.org/abs/1903.02120
+<br><br>
+545.UnOS: Unified Unsupervised Optical-flow and Stereo-depth Estimation by Watching Videos<br>
+作者：Yang Wang, Peng Wang, Zhenheng Yang, Chenxu Luo, Yi Yang, and Wei Xu<br>
+论文链接：https://arxiv.org/abs/1810.03654
+<br><br>
+544.A Mutual Learning Method for Salient Object Detection with intertwined Multi-Supervision<br>
+作者：Runmin Wu, Mengyang Feng, Wenlong Guan, Dong Wang, Huchuan Lu, Errui Ding<br>
+论文链接：待定<br>
+源码链接：https://github.com/JosephineRabbit/MLMSNet
+<br><br>
+
+543.Improving Transferability of Adversarial Examples with Input Diversity<br>
+作者：Cihang Xie; Yuyin Zhou; Song Bai; Zhishuai Zhang; Jianyu Wang; Zhou Ren; Alan Yuille<br>
+论文链接：https://arxiv.org/abs/1803.06978<br>
+源码链接：https://github.com/cihangxie/DI-2-FGSM
+<br><br>
+542.Contrastive Adaptation Network for Unsupervised Domain Adaptation
+<br>
+作者：Guoliang Kang, Lu Jiang, Yi Yang, Alexander G Hauptmann<br>
+论文链接：https://arxiv.org/pdf/1901.00976.pdf
+<br><br>
+
+541.Occupancy Networks - Learning 3D Reconstruction in Function Space<br>
+作者：Lars Mescheder and Michael Oechsle and Michael Niemeyer and Sebastian Nowozin and Andreas Geiger<br>
+论文链接：https://avg.is.tuebingen.mpg.de/uploads_file/attachment/attachment/490/top.pdf <br>
+源码链接：https://github.com/autonomousvision/occupancy_networks
+<br><br>
+
+
+540.ATOM: Accurate Tracking by Overlap Maximization(Oral,目标跟踪)<br>
+作者：Martin Danelljan, Goutam Bhat, Fahad Shahbaz Khan, Michael Felsberg<br>
+论文链接：https://arxiv.org/abs/1811.07628 <br>
+源码链接：https://github.com/visionml/pytracking
+<br><br>
+
+539.A neural network based on SPD manifold learning for skeleton-based hand gesture recognition<br>
+作者：Xuan Son Nguyen, Luc Brun, Olivier Lézoray, Sébastien Bougleux<br>
+论文链接：https://arxiv.org/abs/1904.12970
+<br><br>
+
+538.Weakly Supervised Open-set Domain Adaptation by Dual-domain Collaboration<br>
+作者：Shuhan Tan, Jiening Jiao, Wei-Shi Zheng<br>
+论文链接：https://arxiv.org/abs/1904.13179
+<br><br>
+
+537.Self-Supervised Convolutional Subspace Clustering Network<br>
+作者：Junjian Zhang, Chun-Guang Li, Chong You, Xianbiao Qi, Honggang Zhang, Jun Guo, Zhouchen Lin<br>
+论文链接：https://arxiv.org/abs/1905.00149
+<br><br>
+536.AdaCos: Adaptively Scaling Cosine Logits for Effectively Learning Deep Face Representations<br>
+作者：Xiao Zhang, Rui Zhao, Yu Qiao, Xiaogang Wang, Hongsheng Li<br>
+论文链接：https://arxiv.org/abs/1905.00292
+<br><br>
+
+535.Pushing the Boundaries of View Extrapolation with Multiplane Images<br>
+作者：Pratul P. Srinivasan, Richard Tucker, Jonathan T. Barron, Ravi Ramamoorthi, Ren Ng, Noah Snavely<br>
+论文链接：https://arxiv.org/abs/1905.00413
+<br><br>
+
+534.Lifting Vectorial Variational Problems: A Natural Formulation based on Geometric Measure Theory and Discrete Exterior Calculus<br>
+作者：Thomas Möllenhoff, Daniel Cremers<br>
+论文链接：https://arxiv.org/abs/1905.00851
+<br><br>
+
+
+533.Learning Unsupervised Video Primary Object Segmentation through Visual Attention<br>
+作者：Wenguan Wang, Hongmei Song, Shuyang Zhao, Jianbing Shen, Sanyuan Zhao, Steven Chu Hong Hoi, and Haibin Ling<br>
+论文链接：http://www.dabi.temple.edu/~hbling/publication/UVOS-cvpr19.pdf
+<br>
+源码链接：https://github.com/wenguanwang/AGS<br><br>
 
 532.Sim-Real Joint Reinforcement Transfer for 3D Indoor Navigation<br>
 作者：Fengda Zhu, Linchao Zhu, Yi Yang<br>
@@ -473,7 +547,8 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 作者：Yongcheng Liu, Bin Fan, Shiming Xiang, Chunhong Pan<br>
 论文链接：https://arxiv.org/abs/1904.07601<br>
 项目链接：https://yochengliu.github.io/Relation-Shape-CNN/<br>
-源码链接：https://github.com/Yochengliu/Relation-Shape-CNN<br><br>
+源码链接：https://github.com/Yochengliu/Relation-Shape-CNN<br>
+论文解读：https://mp.weixin.qq.com/s/KuoHFPpUYHPFacsBWZWVSg<br><br>
 
 445.LBVCNN: Local Binary Volume Convolutional Neural Network for Facial Expression Recognition from Image Sequences(人脸识别)
 <br>
@@ -3962,7 +4037,8 @@ Reading Notes:FINCH, a new clustering algorithm, absolutily no hyperparameters ,
 作者：Hamid Eghbal-zadeh, Werner Zellinger, Gerhard Widmer<br>
 论文链接：https://arxiv.org/abs/1811.00152
 <br><br>
-23.Taking A Closer Look at Domain Shift: Category-level Adversaries for Semantics Consistent Domain Adaptation<br>
+23.Taking A Closer Look at Domain Shift: Category-level Adversaries for Semantics Consistent Domain Adaptation（Oral）<br>
 作者：Yawei Luo, Liang Zheng, Tao Guan, Junqing Yu, Yi Yang<br>
-论文链接：https://arxiv.org/abs/1809.09478
+论文链接：https://arxiv.org/abs/1809.09478<br>
+源码链接：https://github.com/RoyalVane/CLAN
 <br><br>
