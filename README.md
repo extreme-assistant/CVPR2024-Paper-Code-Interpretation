@@ -8,7 +8,7 @@ CVPR2019论文直播分享计划：<br>
 * 4月18日晚目标检测分享回放<br>
 [CMU诸宸辰:基于Anchor-free特征选择模块的单阶目标检测(CVPR2019，列表id 88)](https://mp.weixin.qq.com/s/CvzFG63c1bTuWFSIzNSxBA) 
 
-5月9日视频跟踪分享（待定）<br>
+5月9日直播：[张志鹏:基于siamese网络的单目标跟踪(CVPR2019 Oral)](https://mp.weixin.qq.com/s/lDlijjIUGmzNzcP89IzJnw)<br><br>
 cvpr2019 accepted papers list:<br>
 http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 <br>
@@ -23,6 +23,64 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 
 <br><br>
+559.Learning Cross-Modal Embeddings with Adversarial Networks for Cooking  Recipes and Food Images<br>
+作者：Hao Wang,  Doyen Sahoo,  Chenghao Liu,  Ee-peng Lim,  Steven C. H. Hoi <br>
+论文链接：https://arxiv.org/abs/1905.01273<br>
+<br>
+558.Dissecting Person Re-identification from the Viewpoint of Viewpoint<br>
+作者：Ting Zhao, Xiangqian Wu<br>
+论文链接：https://arxiv.org/abs/1812.02162<br>
+源码链接：https://github.com/sxzrt/Dissecting-Person-Re-ID-from-the-Viewpoint-of-Viewpoint<br><br>
+557.Pyramid Feature Attention Network for Saliency detection<br>
+作者：Ting Zhao, Xiangqian Wu<br>
+论文链接：https://arxiv.org/abs/1903.00179<br>
+源码链接：https://github.com/CaitinZhao/cvpr2019_Pyramid-Feature-Attention-Network-for-Saliency-detection<br><br>
+556.Elastic Boundary Projection for 3D Medical Image Segmentation<br>
+作者：Tianwei Ni, Lingxi Xie, Huangjie Zheng, Elliot K. Fishman, Alan L. Yuille<br>
+论文链接：https://arxiv.org/abs/1812.00518<br>
+源码链接：https://github.com/twni2016/Elastic-Boundary-Projection<br><br>
+555.A Poisson-Gaussian Denoising Dataset with Real Fluorescence Microscopy Images<br>
+作者：Yide Zhang, Yinhao Zhu, Evan Nichols, Qingfei Wang, Siyuan Zhang, Cody Smith, Scott Howard<br>
+论文链接：https://arxiv.org/abs/1812.10366<br>
+源码链接：https://github.com/bmmi/denoising-fluorescence<br><br>
+554.Meta-Transfer Learning for Few-Shot Learning<br>
+作者：Qianru Sun, Yaoyao Liu, Tat-Seng Chua, Bernt Schiele<br>
+论文链接：https://arxiv.org/pdf/1812.02391.pdf<br>
+源码链接：https://github.com/y2l/meta-transfer-learning-tensorflow<br><br>
+553.Shifting More Attention to Video Salient Objection Detection（Oral）<br>
+作者：Deng-Ping Fan, Wenguan Wang, Ming-Ming Cheng, Jianbing Shen<br>
+论文链接：待定<br>
+源码链接：https://github.com/DengPingFan/DAVSOD<br><br>
+
+552.Generating Classification Weights with GNN Denoising Autoencoders for Few-Shot Learning<br>
+作者：Spyros Gidaris, Nikos Komodakis<br>
+论文链接：https://arxiv.org/abs/1905.01102<br>
+源码链接：https://github.com/gidariss/wDAE_GNN_FewShot<br><br>
+
+551.Query-guided End-to-End Person Search<br>
+作者：Bharti Munjal, Sikandar Amin, Federico Tombari, Fabio Galasso<br>
+论文链接：https://arxiv.org/abs/1905.01203<br>
+<br>
+550.Seamless Scene Segmentation<br>
+作者：Lorenzo Porzi, Samuel Rota Bulò, Aleksander Colovic, Peter Kontschieder<br>
+论文链接：https://arxiv.org/abs/1905.01220<br>
+<br>
+549.Learning Cross-Modal Embeddings with Adversarial Networks for Cooking Recipes and Food Images<br>
+作者：Hao Wang, Doyen Sahoo, Chenghao Liu, Ee-peng Lim, Steven C. H. Hoi<br>
+论文链接：https://arxiv.org/abs/1905.01273<br>
+<br>
+548.SCOPS: Self-Supervised Co-Part Segmentation<br>
+作者：Wei-Chih Hung, Varun Jampani, Sifei Liu, Pavlo Molchanov, Ming-Hsuan Yang, Jan Kautz<br>
+论文链接：https://arxiv.org/abs/1905.01298<br>
+项目链接：https://varunjampani.github.io/scops/<br><br>
+
+547.A Poisson-Gaussian Denoising Dataset with Real Fluorescence Microscopy
+Images<br>
+作者：Yide Zhang, Yinhao Zhu, Evan Nichols, Qingfei Wang, Siyuan Zhang,
+Cody Smith, Scott Howard<br>
+论文链接：https://arxiv.org/abs/1812.10366<br>
+源码链接：https://github.com/bmmi/denoising-fluorescence.git<br><br>
+
 
 546.Decoders Matter for Semantic Segmentation:Data-Dependent Decoding Enables Flexible Feature Aggregation<br>
 作者：Zhi Tian, Tong He, Chunhua Shen, Youliang Yan<br>
@@ -1417,7 +1475,8 @@ NewVersion：https://arxiv.org/abs/1706.02631<br>
 <br>
 作者：Eran Goldman , Roei Herzig, Aviv Eisenschtat, Jacob Goldberger, Tal Hassner
 <br>
-论文链接：https://arxiv.org/abs/1904.00853
+论文链接：https://arxiv.org/abs/1904.00853<br>
+源码链接：https://github.com/eg4000/SKU110K_CVPR19
 <br><br>
 
 
@@ -3208,6 +3267,7 @@ Demo链接：https://github.com/vita-epfl/openpifpafwebdemo
 作者：Xingyu Liu, Charles R. Qi, Leonidas J. Guibas
 <br>
 论文链接：https://arxiv.org/abs/1806.01411<br>
+源码链接：https://github.com/xingyul/flownet3d<br>
 简要：Proposed a novel deep neural network that learns scene flow from point clouds in an end-to-end fashion.<br>
 <br>
 
