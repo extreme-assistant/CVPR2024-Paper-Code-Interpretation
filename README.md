@@ -8,7 +8,9 @@ CVPR2019论文直播分享计划：<br>
 * 4月18日晚目标检测分享回放<br>
 [CMU诸宸辰:基于Anchor-free特征选择模块的单阶目标检测(CVPR2019，列表id 88)](https://mp.weixin.qq.com/s/CvzFG63c1bTuWFSIzNSxBA) 
 
-5月9日直播：[张志鹏:基于siamese网络的单目标跟踪(CVPR2019 Oral)](https://mp.weixin.qq.com/s/lDlijjIUGmzNzcP89IzJnw)<br><br>
+* 5月9日直播：[张志鹏:基于siamese网络的单目标跟踪(CVPR2019 Oral)](https://mp.weixin.qq.com/s/lDlijjIUGmzNzcP89IzJnw)<br><br>
+* 5月30日人脸分享
+* 6月13日多人姿态估计分享
 cvpr2019 accepted papers list:<br>
 http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 <br>
@@ -23,6 +25,50 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 
 <br><br>
+
+569.Attention-based Adaptive Selection of Operations for Image Restoration in the Presence of Unknown Combined Distortions<br>
+作者：Masanori Suganuma, Xing Liu, Takayuki Okatani<br>
+论文链接：https://arxiv.org/abs/1812.00733<br>
+源码链接：https://github.com/sg-nm/Operation-wise-attention-network
+<br><br>
+
+568.Edge-labeling Graph Neural Network for Few-shot Learning<br>
+作者：Jongmin Kim, Taesup Kim, Sungwoong Kim, Chang D. Yoo<br>
+论文链接：https://arxiv.org/abs/1905.01436<br>
+<br>
+
+567.Leveraging Crowdsourced GPS Data for Road Extraction from Aerial Imagery<br>
+作者：Tao Sun, Zonglin Di, Pengyu Che, Chun Liu, Yin Wang<br>
+论文链接：https://arxiv.org/abs/1905.01447<br>
+<br>
+566.Deep Video Inpainting<br>
+作者：Dahun Kim, Sanghyun Woo, Joon-Young Lee, In So Kweon<br>
+论文链接：https://arxiv.org/abs/1905.01639<br><br>
+565.Towards Instance-level Image-to-Image Translation<br>
+作者：Zhiqiang Shen, Mingyang Huang, Jianping Shi, Xiangyang Xue, Thomas Huang<br>
+论文链接：https://arxiv.org/abs/1905.01744<br>
+项目链接：http://zhiqiangshen.com/projects/INIT/index.html
+<br><br>
+564.P2SGrad: Refined Gradients for Optimizing Deep Face Models<br>
+作者：Xiao Zhang, Rui Zhao, Junjie Yan, Mengya Gao, Yu Qiao, Xiaogang Wang, Hongsheng Li<br>
+论文链接：https://arxiv.org/abs/1905.02479<br>
+<br>
+563.Deep Flow-Guided Video Inpaintinge<br>
+作者：Rui Xu, Xiaoxiao Li, Bolei Zhou, Chen Change Loy<br>
+论文链接：https://arxiv.org/abs/1905.02884<br>
+<br>
+562.Deep Blind Video Decaptioning by Temporal Aggregation and Recurrence<br>
+作者：Dahun Kim, Sanghyun Woo, Joon-Young Lee, In So Kweon<br>
+论文链接：https://arxiv.org/abs/1905.02949<br>
+<br>
+561.Capture, Learning, and Synthesis of 3D Speaking Styles<br>
+作者：Daniel Cudeiro, Timo Bolkart, Cassidy Laidlaw, Anurag Ranjan, Michael J. Black<br>
+论文链接：https://arxiv.org/abs/1905.03079<br>
+<br>
+560.Convolutional Mesh Regression for Single-Image Human Shape Reconstruction<br>
+作者：Nikos Kolotouros, Georgios Pavlakos, Kostas Daniilidis<br>
+论文链接：https://arxiv.org/abs/1905.03244<br>
+项目链接：https://www.seas.upenn.edu/~nkolot/projects/cmr/<br><br>
 559.Learning Cross-Modal Embeddings with Adversarial Networks for Cooking  Recipes and Food Images<br>
 作者：Hao Wang,  Doyen Sahoo,  Chenghao Liu,  Ee-peng Lim,  Steven C. H. Hoi <br>
 论文链接：https://arxiv.org/abs/1905.01273<br>
@@ -2164,6 +2210,7 @@ Demo链接：https://github.com/vita-epfl/openpifpafwebdemo
 213.Hierarchical Discrete Distribution Decomposition for Match Density Estimation（立体匹配/光流）<br>
 作者：Zhichao Yin, Trevor Darrell, Fisher Yu<br>
 论文链接：https://arxiv.org/abs/1812.06264<br>
+源码链接：https://github.com/ucbdrive/hd3<br>
 论文简要：在本文中，我们提出了分层离散分布分解，称为HD3，以学习概率点和区域匹配。它不仅可以模拟匹配不确定性，还可以模拟区域传播。<br><br>
 
 
@@ -3669,7 +3716,8 @@ Github:https://github.com/chihyaoma/regretful-agent<br><br>
 79.Art2Real: Unfolding the Reality of Artworks via Semantically-Aware Image-to-Image Translation<br>
 作者：Matteo Tomei, Marcella Cornia, Lorenzo Baraldi, Rita Cucchiara<br>
 论文链接：https://arxiv.org/abs/1811.10666<br>
-
+源码链接：https://github.com/aimagelab/art2real
+<br><br>
 
 
 78.Why ReLU networks yield high-confidence predictions far away from the training data and how to mitigate the problem（oral)<br>
