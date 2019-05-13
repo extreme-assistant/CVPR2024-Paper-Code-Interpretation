@@ -26,11 +26,74 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 
 <br><br>
 
+583.Hierarchical Cross-Modal Talking Face Generationwith Dynamic Pixel-Wise Loss<br>
+作者：Lele Chen, Ross K. Maddox, Zhiyao Duan, Chenliang Xu<br>
+论文链接：https://arxiv.org/abs/1905.03820
+<br><br>
+582.Learning Loss for Active Learning<br>
+作者：Donggeun Yoo, In So Kweon<br>
+论文链接：https://arxiv.org/abs/1905.03677
+<br><br>
+581.Multi-Person Pose Estimation with Enhanced Channel-wise and Spatial Information<br>
+作者：Kai Su, Dongdong Yu, Zhenqi Xu, Xin Geng, Changhu Wang<br>
+论文链接：https://arxiv.org/abs/1905.03466 
+<br><br>
+580.PPGNet: Learning Point-Pair Graph for Line Segment Detection<br>
+作者：Ziheng Zhang, Zhengxin Li, Ning Bi, Jia Zheng, Jinlei Wang, Kun Huang, Weixin Luo, Yanyu Xu, Shenghua Gao<br>
+论文链接：https://arxiv.org/abs/1905.03415 <br>
+源码链接：https://github.com/svip-lab/PPGNet
+<br><br>
+579.Deep Sky Modeling for Single Image Outdoor Lighting Estimation<br>
+作者：Yannick Hold-Geoffroy, Akshaya Athawale, Jean-François Lalonde<br>
+论文链接：https://arxiv.org/abs/1905.03897
+<br><br>
+578.Memory-Attended Recurrent Network for Video Captioning<br>
+作者：Wenjie Pei, Jiyuan Zhang, Xiangrong Wang, Lei Ke, Xiaoyong Shen, Yu-Wing Tai<br>
+论文链接：https://arxiv.org/abs/1905.03966
+<br><br>
+577.Exact Adversarial Attack to Image Captioning via Structured Output Learning with Latent Variables<br>
+作者：Yan Xu, Baoyuan Wu, Fumin Shen, Yanbo Fan, Yong Zhang, Heng Tao Shen, Wei Liu<br>
+论文链接：https://arxiv.org/abs/1905.04016
+<br><br>
+576.Exploiting temporal context for 3D human pose estimation in the wild
+<br>
+作者：Anurag Arnab, Carl Doersch, Andrew Zisserman<br>
+论文链接：https://arxiv.org/abs/1905.04266
+<br><br>
+575.Sphere Generative Adversarial Network Based on Geometric Moment Matching<br>
+作者：Sung Woo Park and Junseok Kwon<br>
+论文链接：http://cau.ac.kr/~jskwon/paper/SphereGAN_CVPR2019.pdf <br>
+源码链接：https://github.com/taki0112/SphereGAN-Tensorflow
+<br><br>
+574.Progressive Ensemble Networks for Zero-Shot Recognition<br>
+作者：Meng Ye, Yuhong Guo<br>
+论文链接：https://arxiv.org/pdf/1805.07473.pdf
+<br><br>
+573.Domain-Aware Generalized Zero-Shot Learning<br>
+作者：Yuval Atzmon, Gal Chechik<br>
+论文链接：https://arxiv.org/pdf/1812.09903.pdf
+<br><br>
+572.Generalized Zero-Shot Recognition based on Visually Semantic Embedding<br>
+作者：Pengkai Zhu, Hanxiao Wang, Venkatesh Saligrama<br>
+论文链接：https://arxiv.org/pdf/1811.07993.pdf<br><br>
+
+571.Hybrid-Attention based Decoupled Metric Learning for Zero-Shot Image Retrieval<br>
+作者：Binghui Chen, Weihong Deng<br>
+论文链接：http://www.bhchen.cn/paper/cvpr19.pdf<br>
+源码链接：https://github.com/chenbinghui1/Hybrid-Attention-based-Decoupled-Metric-Learning
+<br><br>
+570.Generative Dual Adversarial Network for Generalized Zero-shot Learning<br>
+作者：He Huang, Changhu Wang, Philip S. Yu, Chang-Dong Wang<br>
+论文链接：https://arxiv.org/abs/1811.04857<br>
+源码链接：https://github.com/stevehuanghe/GDAN
+<br><br>
+
 569.Attention-based Adaptive Selection of Operations for Image Restoration in the Presence of Unknown Combined Distortions<br>
 作者：Masanori Suganuma, Xing Liu, Takayuki Okatani<br>
 论文链接：https://arxiv.org/abs/1812.00733<br>
 源码链接：https://github.com/sg-nm/Operation-wise-attention-network
 <br><br>
+
 
 568.Edge-labeling Graph Neural Network for Few-shot Learning<br>
 作者：Jongmin Kim, Taesup Kim, Sungwoong Kim, Chang D. Yoo<br>
