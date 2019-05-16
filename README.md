@@ -25,6 +25,47 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 
 <br><br>
+601.Learning Shape-Aware Embedding for Scene Text Detection（文本检测）<br>
+作者：Zhuotao Tian, Michelle Shu, Pengyuan Lyu, Ruiyu Li, Chao Zhou, Xiaoyong Shen, Jiaya Jia†<br>
+论文链接：http://jiaya.me/papers/textdetection_cvpr19.pdf<br>
+<br>
+600.Look More Than Once: An Accurate Detector for Text of Arbitrary Shapes Screen reader support enabled（文本检测）<br>
+作者：Chengquan Zhang, Borong Liang, Zuming Huang, Mengyi En, Junyu Han, Errui Ding, Xinghao Ding<br>
+论文链接：https://arxiv.org/pdf/1904.06535.pdf<br>
+<br>
+599.Interactive Full Image Segmentation by Considering All Regions Jointly（全景分割）<br>
+作者：Eirikur Agustsson, Jasper R. R. Uijlings, Vittorio Ferrari<br>
+论文链接：https://arxiv.org/pdf/1812.01888.pdf<br>
+<br>
+598.An End-to-End Network for Panoptic Segmentation（全景分割）<br>
+作者：Huanyu Liu, Chao Peng, Changqian Yu, Jingbo Wang, Xu Liu, Gang Yu, Wei Jiang<br>
+论文链接：https://arxiv.org/pdf/1903.05027.pdf<br>
+<br>
+597.Learning to Fuse Things and Stuff（全景分割）<br>
+作者：Jie Li, Allan Raventos, Arjun Bhargava, Takaaki Tagawa, Adrien Gaidon<br>
+论文链接：https://arxiv.org/pdf/1812.01192.pdf<br>
+<br>
+596.Panoptic Feature Pyramid Networks（Oral，全景分割）<br>
+作者：Alexander Kirillov, Ross Girshick, Kaiming He, Piotr Dollár<br>
+论文链接：https://arxiv.org/pdf/1901.02446.pdf<br>
+<br>
+595.Panoptic Segmentation（全景分割）<br>
+作者：Alexander Kirillov, Kaiming He, Ross Girshick, Carsten Rother, Piotr Dollár<br>
+论文链接：https://arxiv.org/pdf/1801.00868.pdf<br>
+<br>
+594.On Finding Gray Pixels<br>
+作者：Yanlin Qian, Joni-Kristian Kämäräinen, Jarno Nikkanen, Jiri Matas<br>
+论文链接：https://arxiv.org/abs/1901.03198<br>
+源码链接：https://github.com/yanlinqian/Grayness-Index （matlab）
+<br><br>
+593.Diversify and Match: A Domain Adaptive Representation Learning Paradigm for Object Detection<br>
+作者：Taekyung Kim, Minki Jeong, Seunghyeon Kim, Seokeon Choi, Changick Kim<br>
+论文链接：https://arxiv.org/abs/1905.05396<br>
+<br>
+592.DARNet: Deep Active Ray Network for Building Segmentation<br>
+作者：Dominic Cheng, Renjie Liao, Sanja Fidler, Raquel Urtasun<br>
+论文链接：https://arxiv.org/abs/1905.05889<br>
+<br>
 591.In the Wild Human Pose Estimation Using Explicit 2D Features and Intermediate 3D Representations<br>
 作者：Ikhsanul Habibie, Weipeng Xu, Dushyant Mehta, Gerard Pons-Moll, Christian Theobalt<br>
 论文链接：https://arxiv.org/abs/1904.03289<br>
@@ -626,7 +667,7 @@ Cody Smith, Scott Howard<br>
 论文链接：https://arxiv.org/abs/1904.07911<br>
 源码链接：https://github.com/JerryYLi/Dataset-REPAIR/
 <br><br>
-468.Devil is in the Edges: Learning Semantic Boundaries from Noisy Annotations(Oral）<br>
+468.Devil is in the Edges: Learning Semantic Boundaries from Noisy Annotations(Oral,边缘分割）<br>
 作者：David Acuna, Amlan Kar, Sanja Fidler<br>
 论文链接：https://arxiv.org/abs/1904.07934<br>
 项目链接：https://nv-tlabs.github.io/STEAL/
@@ -1622,7 +1663,7 @@ NewVersion：https://arxiv.org/abs/1706.02631<br>
 作者：Yuliang Liu, Lianwen Jin, Zecheng Xie, Canjie Luo, Shuaitao Zhang, Lele Xie
 <br>
 论文链接：https://arxiv.org/abs/1904.00813<br>
-代码链接：https://github.com/Yuliang-Liu/TIoU-metric
+源码链接：https://github.com/Yuliang-Liu/TIoU-metric
 <br><br>
 
 306.Precise Detection in Densely Packed Scenes
@@ -1713,7 +1754,7 @@ NewVersion：https://arxiv.org/abs/1706.02631<br>
 <br>
 作者：Kai Zhang, Wangmeng Zuo, Lei Zhang<br>
 论文链接：https://arxiv.org/abs/1903.12529<br>
-代码链接：https://github.com/cszn/DPSR
+源码链接：https://github.com/cszn/DPSR
 <br><br>
 295.SIXray : A Large-scale Security Inspection X-ray Benchmark for Prohibited Item Discovery in Overlapping Images
 <br>
@@ -1955,7 +1996,8 @@ NewVersion：https://arxiv.org/abs/1706.02631<br>
 
 264.Feedback Network for Image Super-Resolution<br>
 作者：Zhen Li, Jinglei Yang, Zheng Liu, Xiaomin Yang, Gwanggil Jeon, Wei Wu<br>
-论文链接：https://arxiv.org/abs/1903.09814
+论文链接：https://arxiv.org/abs/1903.09814<br>
+源码链接：https://github.com/Paper99/SRFBN_CVPR19
 <br>
 <br>
 
@@ -1979,7 +2021,7 @@ NewVersion：https://arxiv.org/abs/1706.02631<br>
 作者：Tien-Ju Yang, Maxwell D. Collins, Yukun Zhu, Jyh-Jing Hwang, Ting Liu, Xiao Zhang, Vivienne Sze, George Papandreou, Liang-Chieh Chen<br>
 论文链接：https://arxiv.org/abs/1902.05093
 <br>
-代码链接：https://github.com/tensorflow/models/tree/master/research/deeplab/evaluation<br>
+源码链接：https://github.com/tensorflow/models/tree/master/research/deeplab/evaluation<br>
 项目链接：http://deeperlab.mit.edu/
 <br>
 <br>
@@ -2015,7 +2057,7 @@ NewVersion：https://arxiv.org/abs/1706.02631<br>
 作者：Muhammad Haris, Greg Shakhnarovich, Norimichi Ukita <br>
 论文链接：https://alterzero.github.io/projects/rbpn_cvpr2019.pdf
 <br>
-代码链接：https://github.com/alterzero/RBPN-PyTorch
+源码链接：https://github.com/alterzero/RBPN-PyTorch
 <br>
 项目链接：https://alterzero.github.io/projects/RBPN.html
 <br>
@@ -2188,7 +2230,7 @@ Demo链接：https://github.com/vita-epfl/openpifpafwebdemo
 <br>
 作者：Jérôme Rony, Luiz G. Hafemann, Luiz S. Oliveira, Ismail Ben Ayed, Robert Sabourin, Eric Granger<br>
 论文链接：https://arxiv.org/abs/1811.09600<br>
-代码链接：https://github.com/jeromerony/fast_adversarial
+源码链接：https://github.com/jeromerony/fast_adversarial
 <br>
 <br>
 
@@ -3568,7 +3610,7 @@ Demo链接：https://github.com/vita-epfl/openpifpafwebdemo
 115.PVNet: Pixel-wise Voting Network for 6DoF Pose Estimation<br>
 作者：Sida Peng, Yuan Liu, Qixing Huang, Hujun Bao, and Xiaowei Zhou<br>
 论文链接：https://arxiv.org/pdf/1812.11788.pdf<br>
-代码链接：https://github.com/zju-3dv/pvnet
+源码链接：https://github.com/zju-3dv/pvnet
 <br><br>
 
 114.Learning Transformation Synchronization<br>
@@ -4247,7 +4289,8 @@ Reading Notes:FINCH, a new clustering algorithm, absolutily no hyperparameters ,
 论文解读：https://mp.weixin.qq.com/s/LsHWkdwqqrOPFgCNNcBdpg<br><br>
 20、UPSNet: A Unified Panoptic Segmentation Network（Oral)<br>
 作者：Yuwen Xiong, Renjie Liao, Hengshuang Zhao, Rui Hu, Min Bai, Ersin Yumer, Raquel Urtasun<br>
-论文链接：https://arxiv.org/abs/1901.03784
+论文链接：https://arxiv.org/abs/1901.03784 <br>
+源码链接：https://github.com/uber-research/UPSNet
 <br><br>
 21.Iterative Residual CNNs for Burst Photography Applications<br>
 作者：Filippos Kokkinos   Stamatis Lefkimmiatis <br>
