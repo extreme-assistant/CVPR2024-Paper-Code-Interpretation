@@ -25,6 +25,98 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 
 <br><br>
+
+632.Graph Attention Convolution for Point Cloud Segmentation（点云）<br>
+作者：待更新<br>
+论文链接：https://engineering.purdue.edu/~jshan/publications/2018/Lei%20Wang%20Graph%20Attention%20Convolution%20for%20Point%20Cloud%20Segmentation%20CVPR2019.pdf
+<br><br>
+631.GSPN: Generative Shape Proposal Network for 3D Instance Segmentation in Point Cloud（点云）<br>
+作者：Li Yi, Wang Zhao, He Wang, Minhyuk Sung, Leonidas Guibas<br>
+论文链接：https://arxiv.org/abs/1812.03320 
+<br><br>
+630.Nesti-Net: Normal Estimation for Unstructured 3D Point Clouds using Convolutional Neural Networks（点云）<br>
+作者：Yizhak Ben-Shabat, Michael Lindenbaum, Anath Fischer<br>
+论文链接：https://arxiv.org/abs/1812.00709 <br>
+源码链接：https://github.com/sitzikbs/Nesti-Net
+<br><br>
+629.Robust Point Cloud Based Reconstruction of Large-Scale Outdoor Scenes（点云）<br>
+作者：Ziquan Lan, Zi Jian Yew，Gim Hee Lee<br>
+论文链接：https://www.researchgate.net/publication/332240602_Robust_Point_Cloud_Based_Reconstruction_of_Large-Scale_Outdoor_Scenes <br>
+源码链接：https://github.com/ziquan111/RobustPCLReconstruction
+<br><br>
+628.PointNetLK: Robust & Efficient Point Cloud Registration using PointNet（点云）<br>
+作者：Yasuhiro Aoki, Hunter Goforth, Rangaprasad Arun Srivatsan, Simon Lucey<br>
+论文链接：https://arxiv.org/abs/1903.05711 <br>
+源码链接：https://github.com/hmgoforth/PointNetLK
+<br><br>
+627.PointWeb: Enhancing Local Neighborhood Features for Point Cloud Processing（点云）<br>
+作者：Hengshuang Zhao， Li Jiang， Chi-Wing Fu，Jiaya Jia<br>
+论文链接：http://jiaya.me/papers/pointweb_cvpr19.pdf
+<br><br>
+626.ClusterNet: Deep Hierarchical Cluster Network with Rigorously Rotation-Invariant Representation for Point Cloud Analysis（点云）<br>
+作者：Chao Chen， Guanbin Li， Ruijia Xu， Tianshui Chen， Meng Wang， Liang Lin<br>
+论文链接：http://www.linliang.net/wp-content/uploads/2019/04/CVPR2019_PointClound.pdf
+<br><br>
+
+625.FilterReg: Robust and Efficient Probabilistic Point-Set Registration using Gaussian Filter and Twist Parameterization（点云）<br>
+作者：Wei Gao, Russ Tedrake<br>
+论文链接：https://arxiv.org/abs/1811.10136 <br>
+源码链接：https://bitbucket.org/gaowei19951004/poser/src/master/
+<br><br>
+624.Embodied Question Answering in Photorealistic Environments with Point Cloud Perception（点云）<br>
+作者：Erik Wijmans, Samyak Datta, Oleksandr Maksymets, Abhishek Das, Georgia Gkioxari, Stefan Lee, Irfan Essa, Devi Parikh, Dhruv Batra<br>
+论文链接：https://arxiv.org/abs/1904.03461
+<br><br>
+623.SDRSAC: Semidefinite-Based Randomized Approach for Robust Point Cloud Registration without Correspondences（点云）<br>
+作者：Huu Le, Thanh-Toan Do, Tuan Hoang, Ngai-Man Cheung<br>
+论文链接：https://arxiv.org/abs/1904.03483<br>
+源码链接：https://github.com/intellhave/SDRSAC （matlab）
+<br><br>
+622.PointFlowNet: Learning Representations for Rigid Motion Estimation from Point Clouds（点云）<br>
+作者：Aseem Behl, Despoina Paschalidou, Simon Donné, Andreas Geiger<br>
+论文链接：https://arxiv.org/abs/1806.02170<br>
+源码链接：https://github.com/aseembehl/pointflownet
+<br><br>
+621.PointPillars: Fast Encoders for Object Detection from Point Clouds（点云）<br>
+作者：Alex H. Lang, Sourabh Vora, Holger Caesar, Lubing Zhou, Jiong Yang, Oscar Beijbom<br>
+论文链接：https://arxiv.org/abs/1812.05784<br>
+源码链接：https://github.com/nutonomy/second.pytorch
+<br><br>
+620.PointNetLK: Point Cloud Registration using PointNet（点云）<br>
+作者：Yasuhiro Aoki, Hunter Goforth, Rangaprasad Arun Srivatsan, Simon Lucey<br>
+论文链接：https://arxiv.org/abs/1903.05711<br>
+源码链接：https://github.com/hmgoforth/PointNetLK
+<br><br>
+619.Supervised Fitting of Geometric Primitives to 3D Point Clouds（点云，Oral）<br>
+作者：Lingxiao Li, Minhyuk Sung, Anastasia Dubrovina, Li Yi, Leonidas Guibas<br>
+论文链接：https://arxiv.org/abs/1811.08988<br>
+源码链接：https://github.com/csimstu2/SPFN
+<br><br>
+618.PointConv: Deep Convolutional Networks on 3D Point Clouds（点云）<br>
+作者：Wenxuan Wu, Zhongang Qi, Li Fuxin<br>
+论文链接：https://arxiv.org/abs/1811.07246<br>
+源码链接：https://github.com/DylanWusee/pointconv
+<br><br>
+617.Modeling Point Clouds with Self-Attention and Gumbel Subset Sampling（点云）<br>
+作者：Jiancheng Yang, Qiang Zhang, Bingbing Ni, Linguo Li, Jinxian Liu, Mengdie Zhou, Qi Tian<br>
+论文链接：https://arxiv.org/abs/1904.03375v1
+<br><br>
+616.Spherical Fractal Convolutional Neural Networks for Point Cloud Recognition（点云）<br>
+作者：Yongming Rao, Jiwen Lu, Jie Zhou<br>
+论文链接：https://raoyongming.github.io/files/SFCNN.pdf
+<br><br>
+615.FastDraw: Addressing the Long Tail of Lane Detection by Adapting a Sequential Prediction Network<br>
+作者：Jonah Philion<br>
+论文链接：https://arxiv.org/abs/1905.04354
+<br><br>
+614.Side Window Filtering<br>
+作者：Hui Yin, Yuanhao Gong, Guoping Qiu<br>
+论文链接：https://arxiv.org/abs/1905.07177
+<br><br>
+613.Spectral Metric for Dataset Complexity Assessment<br>
+作者：Frederic Branchaud-Charron, Andrew Achkar, Pierre-Marc Jodoin<br>
+论文链接：https://arxiv.org/abs/1905.07299
+<br><br>
 612.Wide-Context Semantic Image Extrapolation<br>
 作者：Yi Wang, Xin Tao, Xiaoyong Shen, Jiaya Jia<br>
 论文链接：http://jiaya.me/papers/imgextrapolation_cvpr19.pdf
@@ -605,7 +697,8 @@ Cody Smith, Scott Howard<br>
 493.PCAN: 3D Attention Map Learning Using Contextual Information for Point Cloud Based Retrieval<br>
 作者： Wenxiao Zhang, Chunxia Xiao<br>
 论文链接：https://arxiv.org/abs/1904.09793<br>
-<br>
+源码链接：https://github.com/XLechter/PCAN
+<br><br>
 
 
 492.Superquadrics Revisited: Learning 3D Shape Parsing beyond Cuboids<br>
@@ -1701,12 +1794,12 @@ NewVersion：https://arxiv.org/abs/1706.02631<br>
 <br><br>
 
 308.JSIS3D: Joint Semantic-Instance Segmentation of 3D Point Clouds with Multi-Task Pointwise Networks and Multi-Value Conditional Random Fields（Oral)
-
 <br>
 作者：Quang-Hieu Pham, Duc Thanh Nguyen, Binh-Son Hua, Gemma Roig, Sai-Kit Yeung
 <br>
 论文链接：https://arxiv.org/abs/1904.00699<br>
-项目链接：https://pqhieu.github.io/cvpr19.html
+项目链接：https://pqhieu.github.io/cvpr19.html <br>
+源码链接：https://github.com/pqhieu/JSIS3D
 <br><br>
 
 
@@ -2090,7 +2183,7 @@ NewVersion：https://arxiv.org/abs/1706.02631<br>
 作者：Wang Yifan, Shihao Wu, Hui Huang, Daniel Cohen-Or, Olga Sorkine-Hornung<br>
 论文链接：https://arxiv.org/abs/1811.11286
 <br>
-代码链接：https://github.com/yifita/3PU
+源码链接：https://github.com/yifita/3PU
 <br>
 <br>
 
@@ -3532,9 +3625,10 @@ Demo链接：https://github.com/vita-epfl/openpifpafwebdemo
 
 
 130.Generating 3D Adversarial Point Clouds<br>
-作者：Chong Xiang (1), Charles R. Qi (2), Bo Li (3) ((1) Shanghai Jiao Tong Univerisity, (2) Stanford University, (3) University of Illinois at Urbana-Champaign)
+作者：Chong Xiang, Charles R. Qi , Bo Li
 <br>
 论文链接：https://arxiv.org/abs/1809.07016<br>
+源码链接：https://github.com/xiangchong1/3d-adv-pc <br>
 简要：Proposed several novel algorithms to craft adversarial point clouds against 3D deep learning models with adversarial points perturbation and adversarial points generation.<br>
 <br>
 
@@ -3573,8 +3667,8 @@ Demo链接：https://github.com/vita-epfl/openpifpafwebdemo
 作者：Kaichun Mo, Shilin Zhu, Angel X. Chang, Li Yi, Subarna Tripathi, Leonidas J. Guibas, Hao Su<br>
 项目链接：https://cs.stanford.edu/~kaichun/partnet/<br>
 论文链接：https://arxiv.org/abs/1812.02713<br>
+源码链接：https://github.com/daerduoCarey/partnet_dataset<br>
 简要：A 3D object database with fine-grained and hierarchical part annotation. To assist segmentation and affordance research.
-
 <br><br>
 
 
@@ -3683,7 +3777,7 @@ Demo链接：https://github.com/vita-epfl/openpifpafwebdemo
 112.Path-Invariant Map Networks (Oral)<br>
 作者：Zaiwei Zhang, Zhenxiao Liang, Lemeng Wu, Xiaowei Zhou and Qixing Huang<br>
 论文链接：https://arxiv.org/pdf/1812.11647.pdf<br>
-代码链接: https://github.com/zaiweizhang/path_invariance_map_network<br>
+源码链接: https://github.com/zaiweizhang/path_invariance_map_network<br>
 <br>
 
 
@@ -3845,7 +3939,8 @@ Github:https://github.com/chihyaoma/regretful-agent<br><br>
 91.3D Point-Capsule Networks<br>
 作者：Yongheng Zhao, Tolga Birdal, Haowen Deng, Federico Tombari<br>
 论文链接：https://arxiv.org/abs/1812.10775<br>
-<br>
+源码链接：https://github.com/yongheng1991/3D-point-capsule-networks
+<br><br>
 
 90.Image Super-Resolution by Neural Texture Transfer<br>
 作者：Zhifei Zhang, Zhaowen Wang, Zhe Lin, Hairong Qi<br>
@@ -3874,7 +3969,8 @@ Github:https://github.com/chihyaoma/regretful-agent<br><br>
 
 87.PartNet: A Recursive Part Decomposition Network for Fine-grained and Hierarchical Shape Segmentation<br>
 作者：Fenggen Yu, Kun Liu, Yan Zhang, Chenyang Zhu, Kai Xu<br>
-论文链接：https://arxiv.org/abs/1903.00709<br><br>
+论文链接：https://arxiv.org/abs/1903.00709<br>
+源码链接：https://github.com/FoggYu/PartNet<br><br>
 
 86.AIRD: Adversarial Learning Framework for Image Repurposing Detection<br>
 作者：Ayush Jaiswal, Yue Wu, Wael AbdAlmageed, Iacopo Masi, Premkumar Natarajan<br>
@@ -3979,7 +4075,7 @@ Arxiv链接：https://arxiv.org/abs/1903.01015<br><br>
 71.DeepMapping: Unsupervised Map Estimation From Multiple Point Clouds<br>
 作者：Li Ding, Chen Feng<br>
 论文链接：https://arxiv.org/abs/1811.11397<br>
-项目链接：https://ai4ce.github.io/DeepMapping/<br><br>
+源码链接：https://ai4ce.github.io/DeepMapping/<br><br>
 
 
 
@@ -4226,7 +4322,7 @@ Github链接：https://github.com/zihangJiang/DR-Learning-for-3D-Face<br>
 作者：Yan Wang, Wei-Lun Chao, Divyansh Garg, Bharath Hariharan, Mark Campbell, Kilian Q. Weinberger<br>
 论文链接：https://arxiv.org/abs/1812.07179<br>
 项目链接：https://mileyan.github.io/pseudo_lidar/<br>
-代码链接：https://github.com/mileyan/pseudo_lidar<br><br>
+源码链接：https://github.com/mileyan/pseudo_lidar<br><br>
 
 28.MAN: Moment Alignment Network for Natural Language Moment Retrieval via Iterative Graph Adjustment <br>
 作者：Da Zhang, Xiyang Dai, Xin Wang, Yuan-Fang Wang, Larry S. Davis <br>
