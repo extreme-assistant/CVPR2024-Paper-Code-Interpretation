@@ -4,11 +4,11 @@ Source：https://mp.weixin.qq.com/s/SmS-guwg6oUqPYwfeC6iiw<br>
 论文分类汇总：http://bbs.cvmart.net/topics/302/cvpr2019paper<br>
 CVPR2019论文直播分享计划：<br>
 
-* 3/28晚分享回放[王鑫龙：联合分割点云中的实例和语义（开源，列表id 27)](<http://bbs.cvmart.net/topics/351/%E8%81%94%E5%90%88%E5%88%86%E5%89%B2%E7%82%B9%E4%BA%91%E4%B8%AD%E7%9A%84%E5%AE%9E%E4%BE%8B%E5%92%8C%E8%AF%AD%E4%B9%89>)<br>
+* 3/28晚点云分割分享回放<br>[王鑫龙：联合分割点云中的实例和语义（开源，列表id 27)](<http://bbs.cvmart.net/topics/351/%E8%81%94%E5%90%88%E5%88%86%E5%89%B2%E7%82%B9%E4%BA%91%E4%B8%AD%E7%9A%84%E5%AE%9E%E4%BE%8B%E5%92%8C%E8%AF%AD%E4%B9%89>)<br>
 * 4月18日晚目标检测分享回放<br>
 [CMU诸宸辰:基于Anchor-free特征选择模块的单阶目标检测(CVPR2019，列表id 88)](https://mp.weixin.qq.com/s/CvzFG63c1bTuWFSIzNSxBA) 
 
-* 5月9日直播：[张志鹏:基于siamese网络的单目标跟踪(CVPR2019 Oral)](https://mp.weixin.qq.com/s/lDlijjIUGmzNzcP89IzJnw)<br><br>
+* 5月9日晚单目标跟踪分享回放<br>[张志鹏:基于siamese网络的单目标跟踪(CVPR2019 Oral，列表id 65)](https://mp.weixin.qq.com/s/3vlVXQDh6ou8Gdhg4xY2Tg)<br><br>
 * 5月30日人脸分享
 * 6月13日多人姿态估计分享
 cvpr2019 accepted papers list:<br>
@@ -24,6 +24,42 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 
+<br><br>
+640.ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation<br>作者：Tuan-Hung Vu, Himalaya Jain, Maxime Bucher, Matthieu Cord, Patrick Pérez<br>
+论文链接：https://arxiv.org/abs/1811.12833 <br>
+源码链接：https://github.com/valeoai/ADVENT
+<br><br>
+639.SceneCode: Monocular Dense Semantic Reconstruction using Learned Encoded Scene Representations<br>作者：Shuaifeng Zhi, Michael Bloesch, Stefan Leutenegger, Andrew J. Davison<br>
+论文链接：https://arxiv.org/abs/1903.06482<br>
+<br>
+638.Neural RGB->D Sensing: Depth and Uncertainty from a Video Camera(Oral,英伟达)<br>作者：Chao Liu, Jinwei Gu, Kihwan Kim, Srinivasa Narasimhan, Jan Kautz<br>
+论文链接：https://arxiv.org/abs/1901.02571<br>
+源码链接：https://github.com/NVlabs/neuralrgbd <br>
+项目链接：https://research.nvidia.com/publication/2019-06_Neural-RGBD
+<br><br>
+637.Collaborative Global-Local Networks for Memory-Efﬁcient Segmentation of Ultra-High Resolution Images(Oral)<br>
+作者：Wuyang Chen, Ziyu Jiang, Zhangyang Wang, Kexin Cui, and Xiaoning Qian<br>
+论文链接：https://arxiv.org/abs/1905.06368<br>
+源码链接：https://github.com/chenwydj/ultra_high_resolution_segmentation
+<br><br>
+636.Learning to Learn How to Learn: Self-Adaptive Visual Navigation Using Meta-Learning<br>
+作者：Mitchell Wortsman, Kiana Ehsani, Mohammad Rastegari, Ali Farhadi, Roozbeh Mottaghi<br>
+论文链接：https://arxiv.org/abs/1812.00971<br>
+源码链接：https://github.com/allenai/savn
+<br><br>
+635.Grounded Video Description (Oral)<br>
+作者：Luowei Zhou, Yannis Kalantidis, Xinlei Chen, Jason J. Corso, Marcus Rohrbach<br>
+论文链接：https://arxiv.org/abs/1812.06587<br>
+源码链接：https://github.com/facebookresearch/grounded-video-description
+<br><br>
+634.Direction-aware Spatial Context Features for Shadow Detection（Oral）<br>
+作者：Xiaowei Hu, Chi-Wing Fu, Lei Zhu, Jing Qin and Pheng-Ann Heng<br>
+论文链接：待更新<br>
+源码链接：https://github.com/xw-hu/DSC
+<br><br>
+633.Learning Video Representations from Correspondence Proposals(Oral)<br>
+作者：Xingyu Liu, Joon-Young Lee, Hailin Jin<br>
+论文链接：https://arxiv.org/abs/1905.07853
 <br><br>
 
 632.Graph Attention Convolution for Point Cloud Segmentation（点云）<br>
@@ -109,9 +145,10 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 作者：Jonah Philion<br>
 论文链接：https://arxiv.org/abs/1905.04354
 <br><br>
-614.Side Window Filtering<br>
+614.Side Window Filtering(Oral)<br>
 作者：Hui Yin, Yuanhao Gong, Guoping Qiu<br>
-论文链接：https://arxiv.org/abs/1905.07177
+论文链接：https://arxiv.org/abs/1905.07177<br>
+源码链接：https://github.com/YuanhaoGong/SideWindowFilter
 <br><br>
 613.Spectral Metric for Dataset Complexity Assessment<br>
 作者：Frederic Branchaud-Charron, Andrew Achkar, Pierre-Marc Jodoin<br>
@@ -277,7 +314,8 @@ Detection(Oral)<br>
 576.Exploiting temporal context for 3D human pose estimation in the wild
 <br>
 作者：Anurag Arnab, Carl Doersch, Andrew Zisserman<br>
-论文链接：https://arxiv.org/abs/1905.04266
+论文链接：https://arxiv.org/abs/1905.04266 <br>
+源码链接：https://github.com/deepmind/Temporal-3D-Pose-Kinetics
 <br><br>
 575.Sphere Generative Adversarial Network Based on Geometric Moment Matching（Oral）<br>
 作者：Sung Woo Park and Junseok Kwon<br>
@@ -322,7 +360,8 @@ Detection(Oral)<br>
 567.Leveraging Crowdsourced GPS Data for Road Extraction from Aerial Imagery<br>
 作者：Tao Sun, Zonglin Di, Pengyu Che, Chun Liu, Yin Wang<br>
 论文链接：https://arxiv.org/abs/1905.01447<br>
-<br>
+源码链接：https://github.com/suniique/Leveraging-Crowdsourced-GPS-Data-for-Road-Extraction-from-Aerial-Imagery
+<br><br>
 566.Deep Video Inpainting<br>
 作者：Dahun Kim, Sanghyun Woo, Joon-Young Lee, In So Kweon<br>
 论文链接：https://arxiv.org/abs/1905.01639<br><br>
@@ -659,7 +698,8 @@ Cody Smith, Scott Howard<br>
 501.Learning Actor Relation Graphs for Group Activity Recognition<br>
 作者：Jianchao Wu, Limin Wang, Li Wang, Jie Guo, Gangshan Wu<br>
 论文链接：https://arxiv.org/abs/1904.10117<br>
-<br>
+源码链接：https://github.com/wjchaoGit/Group-Activity-Recognition
+<br><br>
 500.Student Becoming the Master: Knowledge Amalgamation for Joint Scene Parsing, Depth Estimation, and More<br>
 作者：Jingwen Ye, Yixin Ji, Xinchao Wang, Kairi Ou, Dapeng Tao, Mingli Song<br>
 论文链接：https://arxiv.org/abs/1904.10167<br>
@@ -1334,7 +1374,7 @@ NewVersion：https://arxiv.org/abs/1706.02631<br>
 <br>
 
 
-380.End-to-end Projector Photometric Compensation<br>
+380.End-to-end Projector Photometric Compensation(Oral,亮风台)<br>
 作者：Bingyao Huang, Haibin Ling<br>
 论文链接：https://arxiv.org/abs/1904.04335<br>
 源码链接：https://github.com/BingyaoHuang/compennet
@@ -1361,7 +1401,7 @@ NewVersion：https://arxiv.org/abs/1706.02631<br>
 <br>
 作者：Hui Zeng, Lida Li, Zisheng Cao, Lei Zhang<br>
 论文链接：https://arxiv.org/abs/1904.04441<br>
-代码链接：https://github.com/HuiZeng/Grid-Anchor-based-Image-Cropping
+源码链接：https://github.com/HuiZeng/Grid-Anchor-based-Image-Cropping
 <br><br>
 375.SPM-Tracker: Series-Parallel Matching for Real-Time Visual Object Tracking（视觉跟踪）
 <br>
@@ -1394,7 +1434,9 @@ NewVersion：https://arxiv.org/abs/1706.02631<br>
 
 370.Action Recognition from Single Timestamp Supervision in Untrimmed Videos（动作识别）<br>
 作者：Davide Moltisanti, Sanja Fidler, Dima Damen<br>
-论文链接：https://arxiv.org/abs/1904.04689<br><br>
+论文链接：https://arxiv.org/abs/1904.04689<br>
+源码链接:https://bitbucket.org/dmoltisanti/action_recognition_single_timestamps/src/master/<br>
+项目链接：https://dimadamen.github.io/single_timestamps/<br><br>
 
 
 369.Label Propagation for Deep Semi-supervised Learning
@@ -1418,7 +1460,7 @@ NewVersion：https://arxiv.org/abs/1706.02631<br>
 <br>
 作者：Fabio Tosi, Filippo Aleotti, Matteo Poggi, Stefano Mattoccia<br>
 论文链接：https://arxiv.org/abs/1904.04144<br>
-代码链接：https://github.com/fabiotosi92/monoResMatch-Tensorflow<br><br>
+源码链接：https://github.com/fabiotosi92/monoResMatch-Tensorflow<br><br>
 
 
 365.Unsupervised learning of action classes with continuous temporal embedding
@@ -1556,7 +1598,7 @@ NewVersion：https://arxiv.org/abs/1706.02631<br>
 343.Searching for A Robust Neural Architecture in Four GPU Hours<br>
 作者：Xuanyi Dong, Yi Yang<br>
 论文链接：https://github.com/D-X-Y/GDAS/blob/master/data/GDAS.pdf<br>
-代码链接：https://github.com/D-X-Y/GDAS <br><br>
+源码链接：https://github.com/D-X-Y/GDAS <br><br>
 
 
 342.Activity Driven Weakly Supervised Object Detection
@@ -1721,7 +1763,7 @@ NewVersion：https://arxiv.org/abs/1706.02631<br>
 作者：Tiancheng Zhi, Bernardo R. Pires, Martial Hebert and Srinivasa G. Narasimhan
 <br>
 论文链接：http://www.cs.cmu.edu/~ILIM/projects/IM/MSPowder/files/ZPHN-CVPR19.pdf<br>
-代码链接：https://github.com/tiancheng-zhi/ms-powder<br>
+源码链接：https://github.com/tiancheng-zhi/ms-powder<br>
 项目链接：http://www.cs.cmu.edu/~ILIM/projects/IM/MSPowder/
 <br><br>
 
@@ -1730,7 +1772,7 @@ NewVersion：https://arxiv.org/abs/1706.02631<br>
 作者：Kaixuan Wei, Jiaolong Yang, Ying Fu, David Wipf, Hua Huang
 <br>
 论文链接：https://arxiv.org/abs/1904.00637<br>
-代码链接：https://github.com/Vandermode/ERRNet
+源码链接：https://github.com/Vandermode/ERRNet
 <br><br>
 
 
@@ -1931,7 +1973,8 @@ NewVersion：https://arxiv.org/abs/1706.02631<br>
 <br>
 作者：Yihui He, Chenchen Zhu, Jianren Wang, Marios Savvides, Xiangyu Zhang<br>
 论文链接：https://arxiv.org/abs/1809.08545<br>
-源码链接：https://github.com/yihui-he/KL-Loss
+源码链接：https://github.com/yihui-he/KL-Loss<br>
+论文解读：https://mp.weixin.qq.com/s/1q_DZ_-WswjAsS1qjxvLNg
 <br>
 <br>
 
@@ -1939,7 +1982,7 @@ NewVersion：https://arxiv.org/abs/1706.02631<br>
 <br>
 作者：Dongwei Ren, Wangmeng Zuo, Qinghua Hu, Pengfei Zhu, Deyu Meng<br>
 论文链接：https://arxiv.org/abs/1901.09221<br>
-代码链接：https://github.com/csdwren/PReNet
+源码链接：https://github.com/csdwren/PReNet
 <br>
 <br>
 
@@ -2390,7 +2433,7 @@ Demo链接：https://github.com/vita-epfl/openpifpafwebdemo
 <br>
 作者：Ji Zhang, Kevin J. Shih, Ahmed Elgammal, Andrew Tao, Bryan Catanzaro<br>
 论文链接：https://arxiv.org/abs/1903.02728<br>
-代码链接：https://github.com/NVIDIA/ContrastiveLosses4VRD
+源码链接：https://github.com/NVIDIA/ContrastiveLosses4VRD
 <br>
 <br>
 
@@ -2519,7 +2562,8 @@ Demo链接：https://github.com/vita-epfl/openpifpafwebdemo
 
 211.Learning Linear Transformations for Fast Arbitrary Style Transfer <br>
 作者：Xueting Li, Sifei Liu, Jan Kautz, Ming-Hsuan Yang <br>
-论文链接：<https://arxiv.org/pdf/1808.04537v1.pdf> <br>代码链接：https://github.com/sunshineatnoon/LinearStyleTransfer
+论文链接：<https://arxiv.org/pdf/1808.04537v1.pdf> <br>
+源码链接：https://github.com/sunshineatnoon/LinearStyleTransfer
 
 <br>
 
@@ -3236,7 +3280,7 @@ Demo链接：https://github.com/vita-epfl/openpifpafwebdemo
 作者：Khanh Nguyen, Debadeepta Dey, Chris Brockett, Bill Dolan
 <br>
 论文链接：https://arxiv.org/abs/1812.04155<br>
-代码链接：https://github.com/debadeepta/vnla
+源码链接：https://github.com/debadeepta/vnla
 <br><br>
 
 
@@ -3605,7 +3649,8 @@ Demo链接：https://github.com/vita-epfl/openpifpafwebdemo
 作者：Anjan Dutta, Zeynep Akata
 <br>
 论文链接：https://arxiv.org/abs/1903.03372<br>
-<br>
+源码链接：https://github.com/AnjanDutta/sem-pcyc
+<br><br>
 
 
 
@@ -4162,7 +4207,8 @@ Reading Note:In this paper, we propose a deep learning (DL) method to estimate p
 58.PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image <br>
 作者：Chen Liu, Kihwan Kim, Jinwei Gu, Yasutaka Furukawa, Jan Kautz<br>
 论文链接：https://arxiv.org/pdf/1812.04072.pdf<br>
-project链接：https://research.nvidia.com/publication/2019-06_PlaneRCNN<br>
+项目链接：https://research.nvidia.com/publication/2019-06_PlaneRCNN<br>
+源码链接:https://github.com/NVlabs/planercnn<br>
 Reading Note:This paper proposes a deep neural architecture, PlaneR-CNN, that detects and reconstructs piecewise planar surfaces from a single RGB image. PlaneRCNN employs a variant of Mask R-CNN to detect planes with their plane parameters and segmentation masks. PlaneRCNN then jointly refines all the segmentation masks with a novel loss enforcing the consistency with a nearby view during training.	<br><br>
 
 
@@ -4170,6 +4216,8 @@ Reading Note:This paper proposes a deep neural architecture, PlaneR-CNN, that de
 57.A General and Adaptive Robust Loss Function(Oral Presentation) <br>
 作者：Jonathan T. Barron <br>
 论文链接：https://arxiv.org/abs/1701.03077<br>
+源码链接：https://github.com/google-research/google-research/tree/master/robust_loss （Tensorflow version) <br>
+https://github.com/jonbarron/robust_loss_pytorch (pytorch version)<br>
 Reading Note:A single robust loss function is a superset of many other common robust loss functions, and allows training to automatically adapt the robustness of its own loss.<br><br>
 
 
@@ -4259,7 +4307,8 @@ Github链接：https://github.com/google/compare_gan<br><br>
 
 41.Joint Discriminative and Generative Learning for Person Re-identification(Oral,行人重识别)<br>
 作者：Zhedong Zheng, Xiaodong Yang, Zhiding Yu, Liang Zheng, Yi Yang, Jan Kautz<br>
-论文链接：https://arxiv.org/abs/1904.07223<br><br>
+论文链接：https://arxiv.org/abs/1904.07223<br>
+论文解读：https://mp.weixin.qq.com/s/51X7NIS1UEXJ1sqx54tuwg<br><br>
 
 40.Monocular Total Capture: Posing Face, Body, and Hands in the Wild(Oral)<br>
 作者：Donglai Xiang, Hanbyul Joo, Yaser Sheikh<br>
@@ -4270,7 +4319,7 @@ Github链接：https://github.com/google/compare_gan<br><br>
 39.3D-SIS: 3D Semantic Instance Segmentation of RGB-D Scans<br>
 作者：Ji Hou    Angela Dai    Matthias Nießner<br>
 论文链接：https://niessnerlab.org/projects/hou20183dsis.html<br>
-YouTube视频：https://youtu.be/IH9rNLD1-JE
+源码链接：https://github.com/Sekunde/3D-SIS
 <br><br>
 38.MUREL: Multimodal Relational Reasoning for Visual Question Answering<br>
 作者：Remi Cadene, Hedi Ben-younes, Matthieu Cord, Nicolas Thome<br>
@@ -4315,7 +4364,7 @@ Github链接：https://github.com/zihangJiang/DR-Learning-for-3D-Face<br>
 30.Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression(检测）<br>
 作者：Hamid Rezatofighi, Nathan Tsoi, JunYoung Gwak, Amir Sadeghian, Ian Reid, Silvio Savarese<br>
 论文链接：https://arxiv.org/abs/1902.09630<br>
-来源：https://mp.weixin.qq.com/s/mamDhLUw6O9v8gldyIOPUA<br>
+源码链接：https://github.com/generalized-iou/Detectron.pytorch<br>
 论文解读：https://mp.weixin.qq.com/s/6QsyYtEVjavoLfU_lQF1pw<br><br>
 
 29.Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving（自动驾驶）<br>
