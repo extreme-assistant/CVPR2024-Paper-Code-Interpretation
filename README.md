@@ -21,9 +21,65 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 链接：https://pan.baidu.com/s/1s4FuLscWcslN5rQQvP92JA 
 提取码：osvy 
 <br><br>
-
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 
+<br><br>
+653.Disentangling Adversarial Robustness and Generalization<br>
+作者：David Stutz, Matthias Hein, Bernt Schiele<br>
+论文链接：https://arxiv.org/abs/1812.00740
+<br><br>
+
+652.S4Net: Single Stage Salient-Instance Segmentation(南开大学)<br>
+作者：Ruochen Fan, Ming-Ming Cheng, Qibin Hou, Tai-Jiang Mu, Jingdong Wang, Shi-Min Hu<br>
+论文链接：http://mftp.mmcheng.net/Papers/19cvprS4Net.pdf<br>
+源码链接：https://github.com/RuochenFan/S4Net<br>
+项目链接：https://mmcheng.net/s4net/
+<br><br>
+
+651.An Iterative and Cooperative Top-down and Bottom-up Inference Network for Salient Object Detection(南开大学，目标检测)<br>
+作者：Wenguan Wang, Jianbing Shen, Ming-Ming Cheng, Ling Shao<br>
+论文链接：http://mftp.mmcheng.net/Papers/19cvprIterativeSOD.pdf<br>
+<br>
+650.Deep Face Recognition via Exclusive Regularization(南开大学，人脸识别)<br>
+作者：Kai Zhao, Jingyi Xu, Ming-Ming Cheng<br>
+论文链接：http://mftp.mmcheng.net/Papers/19cvprRegularFace.pdf<br>
+<br>
+649.DMC-Net: Generating Discriminative Motion Cues for Fast Compressed Video Action Recognition(Facebook)<br>
+作者：Zheng Shou, Xudong Lin, Yannis Kalantidis, Laura Sevilla-Lara, Marcus Rohrbach, Shih-Fu Chang, Zhicheng Yan<br>
+论文链接：https://research.fb.com/wp-content/uploads/2019/05/DMC-Net-Generating-Discriminative-Motion-Cues-for-Fast-Compressed-Video-Action-Recognition.pdf<br>
+<br>
+648.Reducing Uncertainty in Undersampled MRI Reconstruction with Active Acquisition(Facebook)<br>
+作者：Zizhao Zhang, Adriana Romero, Matthew J. Muckley, Pascal Vincent, Lin Yang, Michal Drozdzal<br>
+论文链接：https://research.fb.com/wp-content/uploads/2019/05/Reducing-Uncertainty-in-Undersampled-MRI-Reconstruction-with-Active-Acquisition.pdf<br>
+<br>
+647.Kernel Transformer Networks for Compact Spherical Convolution(Facebook)<br>
+作者：Yu-Chuan Su, Kristen Grauman<br>
+论文链接：https://research.fb.com/wp-content/uploads/2019/05/Kernel-Transformer-Networks-for-Compact-Spherical-Convolution.pdf<br>
+<br>
+646.3D human pose estimation in video with temporal convolutions and semi-supervised training(Facebook)<br>
+作者：Dario Pavllo, Christoph Feichtenhofer, David Grangier, Michael Auli<br>
+论文链接：https://research.fb.com/wp-content/uploads/2019/05/3D-human-pose-estimation-in-video-with-temporal-convolutions-and-semi-supervised-training.pdf<br>
+<br>
+645.Graph-Based Global Reasoning Networks(Facebook)<br>作者：Yunpeng Chen, Marcus Rohrbach, Zhicheng Yan, Shuicheng Yan, Jiashi Feng, Yannis Kalantidis<br>
+论文链接：https://research.fb.com/wp-content/uploads/2019/05/Graph-Based-Global-Reasoning-Networks.pdf<br>
+<br>
+644.Learning 3D Human Dynamics from Video<br>作者：Angjoo Kanazawa, Jason Y. Zhang, Panna Felsen, Jitendra Malik<br>
+论文链接：https://arxiv.org/abs/1812.01601<br>
+项目链接：https://akanazawa.github.io/human_dynamics/ <br>
+源码链接：https://github.com/akanazawa/human_dynamics
+<br><br>
+
+643.Multi-Level Context Ultra-Aggregation for Stereo Matching（南开大学）<br>作者：Guang-Yu Nie, Ming-Ming Cheng, Yun Liu, Zhengfa Liang<br>
+论文链接：http://dpfan.net/wp-content/uploads/09CVPR_StereoMatching_CameraReady_V12_final.pdf<br>
+项目链接：http://mmcheng.net/zh/mcua/
+<br><br>
+642.Contrast Prior and Fluid Pyramid Integration for RGBD Salient Object Detection（南开大学）<br>作者：Jiaxing Zhao*, Yang Cao*, Deng-Ping Fan*, Xuan-Yi Li, Le Zhang, Ming-Ming Cheng. (* co-first author)<br>
+论文链接：http://dpfan.net/wp-content/uploads/19cvprRrbdSOD-cameraReady.pdf<br>
+项目链接：https://mmcheng.net/rgbdsalpyr/
+<br><br>
+641.Bridging Stereo Matching and Optical Flow via Spatiotemporal Correspondence<br>作者：Hsueh-Ying Lai, Yi-Hsuan Tsai, Wei-Chen Chiu<br>
+论文链接：https://arxiv.org/abs/1905.09265<br>
+源码链接：https://github.com/lelimite4444/BridgeDepthFlow
 <br><br>
 640.ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation<br>作者：Tuan-Hung Vu, Himalaya Jain, Maxime Bucher, Matthieu Cord, Patrick Pérez<br>
 论文链接：https://arxiv.org/abs/1811.12833 <br>
@@ -99,7 +155,7 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 论文链接：https://arxiv.org/abs/1811.10136 <br>
 源码链接：https://bitbucket.org/gaowei19951004/poser/src/master/
 <br><br>
-624.Embodied Question Answering in Photorealistic Environments with Point Cloud Perception（点云）<br>
+624.Embodied Question Answering in Photorealistic Environments with Point Cloud Perception（点云,Facebook）<br>
 作者：Erik Wijmans, Samyak Datta, Oleksandr Maksymets, Abhishek Das, Georgia Gkioxari, Stefan Lee, Irfan Essa, Devi Parikh, Dhruv Batra<br>
 论文链接：https://arxiv.org/abs/1904.03461
 <br><br>
@@ -364,7 +420,8 @@ Detection(Oral)<br>
 <br><br>
 566.Deep Video Inpainting<br>
 作者：Dahun Kim, Sanghyun Woo, Joon-Young Lee, In So Kweon<br>
-论文链接：https://arxiv.org/abs/1905.01639<br><br>
+论文链接：https://arxiv.org/abs/1905.01639<br>
+源码链接：https://github.com/mcahny/Deep_Video_Inpainting<br><br>
 565.Towards Instance-level Image-to-Image Translation<br>
 作者：Zhiqiang Shen, Mingyang Huang, Jianping Shi, Xiangyang Xue, Thomas Huang<br>
 论文链接：https://arxiv.org/abs/1905.01744<br>
@@ -382,7 +439,8 @@ Detection(Oral)<br>
 562.Deep Blind Video Decaptioning by Temporal Aggregation and Recurrence<br>
 作者：Dahun Kim, Sanghyun Woo, Joon-Young Lee, In So Kweon<br>
 论文链接：https://arxiv.org/abs/1905.02949<br>
-<br>
+源码链接：https://github.com/mcahny/Deep_Blind_Video_Decaptioning
+<br><br>
 561.Capture, Learning, and Synthesis of 3D Speaking Styles<br>
 作者：Daniel Cudeiro, Timo Bolkart, Cassidy Laidlaw, Anurag Ranjan, Michael J. Black<br>
 论文链接：https://arxiv.org/abs/1905.03079<br>
@@ -418,10 +476,10 @@ Detection(Oral)<br>
 作者：Qianru Sun, Yaoyao Liu, Tat-Seng Chua, Bernt Schiele<br>
 论文链接：https://arxiv.org/pdf/1812.02391.pdf<br>
 源码链接：https://github.com/y2l/meta-transfer-learning-tensorflow<br><br>
-553.Shifting More Attention to Video Salient Objection Detection（Oral）<br>
-作者：Deng-Ping Fan, Wenguan Wang, Ming-Ming Cheng, Jianbing Shen<br>
-论文链接：待定<br>
-源码链接：https://github.com/DengPingFan/DAVSOD<br><br>
+553.Shifting More Attention to Video Salient Objection Detection（Oral）作者：Deng-Ping Fan, Wenguan Wang, Ming-Ming Cheng, Jianbing Shen<br>
+论文链接：http://dpfan.net/wp-content/uploads/2019CVPROralSSAVNetDAVSOD-datasetShifting-More-Attention-to-Video-Salient-Object-Detection.pdf<br>
+源码链接：https://github.com/DengPingFan/DAVSOD
+<br><br>
 
 552.Generating Classification Weights with GNN Denoising Autoencoders for Few-Shot Learning<br>
 作者：Spyros Gidaris, Nikos Komodakis<br>
@@ -717,7 +775,7 @@ Cody Smith, Scott Howard<br>
 论文链接：https://arxiv.org/abs/1904.09460<br>
 源码链接：https://github.com/Eli-YiLi/ScaleNet
 <br><br>
-497.A Simple Pooling-Based Design for Real-Time Salient Object Detection<br>
+497.A Simple Pooling-Based Design for Real-Time Salient Object Detection（南开大学，目标检测）<br>
 作者：Jiang-Jiang Liu, Qibin Hou, Ming-Ming Cheng, Jiashi Feng, Jianmin Jiang<br>
 论文链接：https://arxiv.org/abs/1904.09569<br>
 源码链接：http://mmcheng.net/poolnet/
@@ -755,7 +813,8 @@ Cody Smith, Scott Howard<br>
 490.Aggregation Cross-Entropy for Sequence Recognition<br>
 作者：Zecheng Xie, Yaoxiong Huang, Yuanzhi Zhu, Lianwen Jin, Yuliang Liu, Lele Xie<br>
 论文链接：https://arxiv.org/abs/1904.08364<br>
-<br>
+源码链接：https://github.com/summerlvsong/Aggregation-Cross-Entropy
+<br><br>
 489.Variational Prototyping-Encoder: One-Shot Learning with Prototypical Images<br>
 作者：Junsik Kim, Tae-Hyun Oh, Seokju Lee, Fei Pan, In So Kweon<br>
 论文链接：https://arxiv.org/abs/1904.08482<br>
@@ -807,7 +866,7 @@ Cody Smith, Scott Howard<br>
 作者：Kevis-Kokitsi Maninis, Ilija Radosavovic, Iasonas Kokkinos<br>
 论文链接：https://arxiv.org/abs/1904.08918<br>
 <br>
-477.Towards VQA Models that can Read<br>
+477.Towards VQA Models that can Read(Facebook)<br>
 作者：Amanpreet Singh, Vivek Natarajan, Meet Shah, Yu Jiang, Xinlei Chen, Dhruv Batra, Devi Parikh, Marcus Rohrbach<br>
 论文链接：https://arxiv.org/abs/1904.08920<br>
 <br>
@@ -1296,7 +1355,7 @@ NewVersion：https://arxiv.org/abs/1706.02631<br>
 源码链接：https://github.com/chenzhaomin123/ML_GCN<br>
 简介：本工作针对多标记识别的核心问题，即“如何有效建模标记间的协同关系”进行探索，提出基于图卷积（GCN）的端到端系统，通过data-driven方式建立标记间有向图（directed graph）并由GCN将类别标记映射（mapping）为对应类别分类器，以此建模类别关系，同时可提升表示学习能力。此外针对GCN中的关键元素correlation matrix进行了深入分析和重设计，使其更胜任多标记问题。
 <br><br>
-392.Cycle-Consistency for Robust Visual Question Answering（VQA)
+392.Cycle-Consistency for Robust Visual Question Answering（VQA,Facebook)
 <br>
 作者：Gao Peng, Zhengkai Jiang, Haoxuan You, Zhengkai Jiang, Pan Lu, Steven Hoi, Xiaogang Wang, Hongsheng Li<br>
 论文链接：https://arxiv.org/pdf/1812.05252.pdf<br>
