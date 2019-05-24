@@ -24,6 +24,73 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 
 <br><br>
+
+666.DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation<br>
+作者：Jeong Joon Park, Peter Florence, Julian Straub, Richard Newcombe, Steven Lovegrove<br>
+论文链接：https://arxiv.org/abs/1901.05103<br>
+源码链接：https://github.com/Oktosha/DeepSDF-explained
+<br><br>
+665.Learning Implicit Fields for Generative Shape Modeling<br>
+作者：Zhiqin Chen, Hao Zhang<br>
+论文链接：https://arxiv.org/abs/1812.02822<br>
+源码链接：https://github.com/czq142857/implicit-decoder
+<br><br>
+664.Occupancy Networks: Learning 3D Reconstruction in Function Space<br>
+作者：Lars Mescheder and Michael Oechsle and Michael Niemeyer and Sebastian Nowozin and Andreas Geiger<br>
+论文链接：https://avg.is.tuebingen.mpg.de/publications/occupancy-networks<br>
+源码链接：https://github.com/autonomousvision/occupancy_networks
+<br><br>
+663.A Style-Based Generator Architecture for Generative Adversarial Networks<br>
+作者：Tero Karras (NVIDIA), Samuli Laine (NVIDIA), Timo Aila (NVIDIA)<br>
+论文链接：http://stylegan.xyz/paper<br>
+源码链接：https://github.com/NVlabs/stylegan
+<br><br>
+
+662.Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation(Oral)<br>
+作者：Peng Zhang, Fuhao Zou, Zhiwen Wu, Nengli Dai, Skarpness Mark, Michael Fu, Juan Zhao, Kai Li<br>
+论文链接：https://arxiv.org/abs/1901.02985<br>
+源码链接：https://github.com/tensorflow/models/tree/master/research/deeplab
+<br><br>
+661.FeatherNets: Convolutional Neural Networks as Light as Feather for Face Anti-spoofing<br>
+作者：Peng Zhang, Fuhao Zou, Zhiwen Wu, Nengli Dai, Skarpness Mark, Michael Fu, Juan Zhao, Kai Li<br>
+论文链接：https://arxiv.org/abs/1904.09290<br>
+源码链接：https://github.com/SoftwareGift/FeatherNets_Face-Anti-spoofing-Attack-Detection-Challenge-CVPR2019
+<br><br>
+660.A Dataset and Benchmark for Large-scale Multi-modal Face Anti-spoofing<br>
+作者：Sachin Mehta, Mohammad Rastegari, Linda Shapiro, Hannaneh Hajishirzi<br>
+论文链接：https://arxiv.org/abs/1811.11431<br>
+源码链接：https://github.com/sacmehta/ESPNetv2
+<br><br>
+659.ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network<br>
+作者：Sachin Mehta, Mohammad Rastegari, Linda Shapiro, Hannaneh Hajishirzi<br>
+论文链接：https://arxiv.org/abs/1811.11431<br>
+源码链接：https://github.com/sacmehta/ESPNetv2
+<br><br>
+658.ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware<br>
+作者：Han Cai, Ligeng Zhu, Song Han<br>
+论文链接：https://arxiv.org/abs/1812.00332<br>
+源码链接：https://github.com/MIT-HAN-LAB/ProxylessNAS
+<br><br>
+657.Bottom-up Object Detection by Grouping Extreme and Center Points<br>
+作者：Xingyi Zhou, Jiacheng Zhuo, Philipp Krähenbühl<br>
+论文链接：https://arxiv.org/abs/1901.08043<br>
+源码链接：https://github.com/xingyizhou/ExtremeNet
+<br><br>
+656.DeepFashion2: A Versatile Benchmark for Detection, Pose Estimation, Segmentation and Re-Identification of Clothing Images<br>
+作者：Yuying Ge, Ruimao Zhang, Lingyun Wu, Xiaogang Wang, Xiaoou Tang, Ping Luo<br>
+论文链接：https://arxiv.org/abs/1901.07973 <br>
+源码链接：https://github.com/switchablenorms/DeepFashion2
+<br><br>
+655.Detect-to-Retrieve: Efficient Regional Aggregation for Image Search<br>
+作者：Marvin Teichmann, Andre Araujo, Menglong Zhu, Jack Sim<br>
+论文链接：https://arxiv.org/abs/1812.01584 <br>
+源码链接：https://github.com/tensorflow/models/tree/master/research/delf
+<br><br>
+654.Speech2Face: Learning the Face Behind a Voice<br>
+作者：Tae-Hyun Oh, Tali Dekel, Changil Kim, Inbar Mosseri, William T. Freeman, Michael Rubinstein, Wojciech Matusik<br>
+论文链接：https://arxiv.org/abs/1905.09773 <br>
+项目链接：https://speech2face.github.io/
+<br><br>
 653.Disentangling Adversarial Robustness and Generalization<br>
 作者：David Stutz, Matthias Hein, Bernt Schiele<br>
 论文链接：https://arxiv.org/abs/1812.00740
@@ -133,7 +200,7 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 <br><br>
 629.Robust Point Cloud Based Reconstruction of Large-Scale Outdoor Scenes（点云）<br>
 作者：Ziquan Lan, Zi Jian Yew，Gim Hee Lee<br>
-论文链接：https://www.researchgate.net/publication/332240602_Robust_Point_Cloud_Based_Reconstruction_of_Large-Scale_Outdoor_Scenes <br>
+论文链接：https://arxiv.org/abs/1905.09634 <br>
 源码链接：https://github.com/ziquan111/RobustPCLReconstruction
 <br><br>
 628.PointNetLK: Robust & Efficient Point Cloud Registration using PointNet（点云）<br>
@@ -869,7 +936,8 @@ Cody Smith, Scott Howard<br>
 477.Towards VQA Models that can Read(Facebook)<br>
 作者：Amanpreet Singh, Vivek Natarajan, Meet Shah, Yu Jiang, Xinlei Chen, Dhruv Batra, Devi Parikh, Marcus Rohrbach<br>
 论文链接：https://arxiv.org/abs/1904.08920<br>
-<br>
+源码链接：https://github.com/facebookresearch/pythia
+<br><br>
 476.Listen to the Image<br>
 作者：Di Hu, Dong Wang, Xuelong Li, Feiping Nie, Qi Wang<br>
 论文链接：https://arxiv.org/abs/1904.09115<br>
@@ -1943,7 +2011,7 @@ NewVersion：https://arxiv.org/abs/1706.02631<br>
 作者：Xiang Li, Wenhai Wang, Wenbo Hou, Ruo-Ze Liu, Tong Lu, Jian Yang
 <br>
 论文链接：https://arxiv.org/abs/1806.02559<br>
-代码链接：https://github.com/whai362/PSENet<br>
+源码链接：https://github.com/whai362/PSENet<br>
 网友复现：https://github.com/liuheng92/tensorflow_PSENet
 <br><br>
 
@@ -2127,7 +2195,7 @@ NewVersion：https://arxiv.org/abs/1706.02631<br>
 作者：Cihang Xie, Yuxin Wu, Laurens van der Maaten, Alan Yuille, Kaiming He<br>
 论文链接：https://arxiv.org/abs/1812.03411v2
 <br>
-代码链接：https://github.com/facebookresearch/ImageNet-Adversarial-Training
+源码链接：https://github.com/facebookresearch/ImageNet-Adversarial-Training
 <br>
 <br>
 
@@ -2613,334 +2681,6 @@ Demo链接：https://github.com/vita-epfl/openpifpafwebdemo
 论文简要：在本文中，我们提出了分层离散分布分解，称为HD3，以学习概率点和区域匹配。它不仅可以模拟匹配不确定性，还可以模拟区域传播。<br><br>
 
 
-212.From Adversarial Training to Generative Adversarial Networks <br>
-作者：Xuanqing Liu, Cho-Jui Hsieh <br>
-论文链接：<https://arxiv.org/pdf/1807.10454.pdf> <br><br>
-
-
-
-211.Learning Linear Transformations for Fast Arbitrary Style Transfer <br>
-作者：Xueting Li, Sifei Liu, Jan Kautz, Ming-Hsuan Yang <br>
-论文链接：<https://arxiv.org/pdf/1808.04537v1.pdf> <br>
-源码链接：https://github.com/sunshineatnoon/LinearStyleTransfer
-
-<br>
-
-<br>
-
-
-
-
-
-
-
-210.Domain Generalization by Solving Jigsaw Puzzles
-<br>
-作者：Fabio Maria Carlucci, Antonio D'Innocente, Silvia Bucci, Barbara Caputo, Tatiana Tommasi
-<br>
-论文链接：https://arxiv.org/abs/1903.06864
-<br>
-代码链接：https://github.com/fmcarlucci/JigenDG
-<br><br>
-
-
-209.Fast Interactive Object Annotation with Curve-GCN<br>
-作者：Huan Ling, Jun Gao, Amlan Kar, Wenzheng Chen, Sanja Fidler
-<br>
-论文链接：https://arxiv.org/abs/1903.06874
-<br>
-代码链接：https://github.com/fidler-lab/curve-gcn
-<br><br>
-
-
-208.A Cross-Season Correspondence Dataset for Robust Semantic Segmentation
-<br>
-作者：Måns Larsson, Erik Stenborg, Lars Hammarstrand, Torsten Sattler, Mark Pollefeys, Fredrik Kahl
-<br>
-论文链接：https://arxiv.org/abs/1903.06916
-<br>
-<br>
-
-
-207.Unsupervised Part-Based Disentangling of Object Shape and Appearance(Oral)
-<br>
-作者：Dominik Lorenz, Leonard Bereska, Timo Milbich, Björn Ommer
-<br>
-论文链接：https://arxiv.org/abs/1903.06946
-<br>
-项目链接：https://compvis.github.io/unsupervised-disentangling/
-<br>
-<br>
-
-
-
-206.AdaGraph: Unifying Predictive and ContinuousDomain Adaptation through Graphs(Oral)<br>
-作者：Massimiliano Mancini, Samuel Rota Bulò, Barbara Caputo, Elisa Ricci
-<br>
-论文链接：https://arxiv.org/abs/1903.07062
-<br>
-<br>
-
-
-
-205.Inverse Path Tracing for Joint Material and Lighting Estimation(Oral)
-<br>
-作者：Jiaxin Cheng, Yue Wu, Wael Abd-Almageed, Premkumar Natarajan
-<br>
-论文链接：https://arxiv.org/abs/1903.07145
-<br>
-<br>
-
-
-
-
-
-204.QATM: Quality-Aware Template Matching For Deep Learning<br>
-作者：Jiaxin Cheng, Yue Wu, Wael Abd-Almageed, Premkumar Natarajan
-<br>
-论文链接：https://arxiv.org/abs/1903.07254
-<br>
-<br>
-
-
-
-
-203.Graph Convolutional Label Noise Cleaner: Train a Plug-and-play Action Classifier for Anomaly Detection<br>
-作者：Jia-Xing Zhong, Nannan Li, Weijie Kong, Shan Liu, Thomas H. Li, Ge Li
-<br>
-论文链接：https://arxiv.org/abs/1903.07256<br>
-代码链接：https://github.com/jx-zhong-for-academic-purpose/GCN-Anomaly-Detection
-<br>
-<br>
-
-
-202.Semantic Image Synthesis with Spatially-Adaptive Normalization(Oral, 英伟达)
-<br>
-作者：Taesung Park, Ming-Yu Liu, Ting-Chun Wang, Jun-Yan Zhu
-<br>
-论文链接：https://arxiv.org/abs/1903.07291
-<br>
-项目链接：https://nvlabs.github.io/SPADE/<br>
-源码链接：https://github.com/NVlabs/SPADE
-<br><br>
-
-201.Self-calibrating Deep Photometric Stereo Networks(Oral)
-<br>
-作者：Guanying Chen, Kai Han, Boxin Shi, Yasuyuki Matsushita, Kwan-Yee K. Wong
-<br>
-论文链接：https://arxiv.org/abs/1903.07366
-<br>
-项目链接：http://gychen.org/SDPS-Net/<br>
-源码链接：https://github.com/guanyingc/SDPS-Net<br><br>
-
-200.Understanding the Limitations of CNN-based Absolute Camera Pose Regression
-<br>
-作者：Torsten Sattler, Qunjie Zhou, Marc Pollefeys, Laura Leal-Taixe
-<br>
-论文链接：https://arxiv.org/abs/1903.07504
-<br><br>
-
-199.Learning Correspondence from the Cycle-Consistency of Time（Oral)
-<br>
-作者：Xiaolong Wang, Allan Jabri, Alexei A. Efros
-<br>
-论文链接：https://arxiv.org/abs/1903.07593
-<br>
-项目链接：https://ajabri.github.io/timecycle/<br>
-代码链接：https://github.com/xiaolonw/TimeCycle<br><br>
-
-198.SIXray : A Large-scale Security Inspection X-ray Benchmark for Prohibited Item Discovery in Overlapping Images（金山云大规模X光违禁品安检数据集）
-<br>
-作者：Caijing Miao, Lingxi Xie, Fang Wan, Chi Su, Hongye Liu, Jianbin Jiao, Qixiang Ye
-<br>
-论文链接：https://arxiv.org/abs/1901.00303
-<br>
-论文简要：本文针对X光安检数据集，提出了类别平衡的分层细化模型处置数据集存在的成绩。<br><br>
-
-197.Iterative Reorganization with Weak Spatial Constraints: Solving Arbitrary Jigsaw Puzzles for Unsupervised Representation Learning（金山云）
-<br>
-作者：Chen Wei, Lingxi Xie, Xutong Ren, Yingda Xia, Chi Su, Jiaying Liu, Qi Tian, Alan L. Yuille
-<br>
-论文链接：https://arxiv.org/abs/1812.00329
-<br>
-论文简要：本文提出一种适用于恣意网格尺寸与维度的“拼图”成绩的新办法，同时提出了一个根本且具有普遍意义的准绳，即在无监视场景中较弱的信息更容易被学习，且具有更好的可迁移性。<br><br>
-
-
-196.Snapshot Distillation: Teacher-Student Optimization in One Generation（金山云）
-<br>
-作者：Chenglin Yang, Lingxi Xie, Chi Su, Alan L. Yuille
-<br>
-论文链接：https://arxiv.org/abs/1812.00123v1
-<br>
-论文简要：本文引见了第一种可以在训练单个模型的条件下完成教员-先生优化的办法——快照蒸馏(Snapshot Distillation)，在不引入过多的计算耗费状况下，完成了继续的功能提升。<br><br>
-
-
-195.Pluralistic Image Completion
-<br>
-作者：Chuanxia Zheng, Tat-Jen Cham, Jianfei Cai
-<br>
-论文链接：https://arxiv.org/abs/1903.04227
-<br>源码链接：https://github.com/lyndonzheng/Pluralistic-Inpainting<br>
-项目链接：http://www.chuanxiaz.com/publication/pluralistic/<br><br>
-
-
-194.Learning to Reconstruct People in Clothing from a Single RGB Camera<br>
-
-作者：Thiemo Alldieck, Marcus Magnor, Bharat Lal Bhatnagar, Christian Theobalt, Gerard Pons-Moll
-<br>
-论文链接：https://arxiv.org/abs/1903.05885
-<br>
-源码链接：https://github.com/thmoa/octopus<br><br>
-
-
-
-
-193.Normalized Object Coordinate Space for Category-Level 6D Object Pose and Size Estimation(oral)<br>
-作者：He Wang, Srinath Sridhar, Jingwei Huang, Julien Valentin, Shuran Song, Leonidas J. Guibas
-<br>
-论文链接：https://arxiv.org/abs/1901.02970
-<br><br>
-
-
-
-192.SimulCap : Single-View Human Performance Capture with Cloth Simulation
-<br>
-作者：Tao Yu, Zerong Zheng, Yuan Zhong, Jianhui Zhao, Qionghai Dai, Gerard Pons-Moll, Yebin Liu
-<br>
-论文链接：https://arxiv.org/abs/1903.06323
-<br><br>
-
-
-
-191.Unsupervised Person Re-identification by Soft Multilabel Learning(行人再识别，Oral)
-<br>
-作者：Hong-Xing Yu, Wei-Shi Zheng, Ancong Wu, Xiaowei Guo, Shaogang Gong, Jian-Huang Lai
-<br>
-论文链接：https://arxiv.org/abs/1903.06325
-<br>
-源码链接：https://github.com/KovenYu/MAR<br><br>
-
-
-190.SceneCode: Monocular Dense Semantic Reconstruction using Learned Encoded Scene Representation
-<br>
-作者：Shuaifeng Zhi, Michael Bloesch, Stefan Leutenegger, Andrew J. Davison
-<br>
-论文链接：https://arxiv.org/abs/1903.06482
-<br><br>
-
-
-189.MFAS: Multimodal Fusion Architecture Search
-<br>
-作者：Juan-Manuel Pérez-Rúa, Valentin Vielzeuf, Stéphane Pateux, Moez Baccouche, Frédéric Jurie
-<br>
-论文链接：https://arxiv.org/abs/1903.06496
-<br><br>
-
-
-
-
-188.Bringing Blurry Alive at High Frame-Rate with an Event Camera
-<br>
-作者：Liyuan Pan, Richard Hartley, Cedric Scheerlinck, Miaomiao Liu, Xin Yu, Yuchao Dai
-<br>
-论文链接：https://arxiv.org/abs/1903.06531
-<br><br>
-
-
-
-
-
-187.Inserting Videos into Videos
-<br>
-作者：Donghoon Lee, Tomas Pfister, Ming-Hsuan Yang
-<br>
-论文链接：https://arxiv.org/abs/1903.06571
-<br><br>
-
-
-
-
-
-
-186.Selective Kernel Networks<br>
-作者：Xiang Li, Wenhai Wang, Xiaolin Hu, Jian Yang
-<br>
-论文链接：https://arxiv.org/abs/1903.06586
-<br>
-源码链接：https://github.com/implus/SKNet<br><br>
-
-
-
-
-
-
-
-
-185.Neural Scene Decomposition for Multi-Person Motion Capture
-<br>
-作者：Helge Rhodin, Victor Constantin, Isinsu Katircioglu, Mathieu Salzmann, Pascal Fua
-<br>
-论文链接：https://arxiv.org/abs/1903.05684
-<br><br>
-
-
-
-184.Putting Humans in a Scene: Learning Affordance in 3D Indoor Environments
-<br>
-作者：Xueting Li, SIfei Liu, Kihwan Kim, Xiaolong Wang, Ming-Hsuan Yang, Jan Kautz
-<br>
-论文链接：https://arxiv.org/abs/1903.05690 <br>
-项目链接：https://sites.google.com/view/3d-affordance-cvpr19
-<br><br>
-
-183.Learning Parallax Attention for Stereo Image Super-Resolution(图像超分辨)
-<br>
-作者：Longguang Wang, Yingqian Wang, Zhengfa Liang, Zaiping Lin, Jungang Yang, Wei An, Yulan Guo
-<br>
-论文链接：https://arxiv.org/abs/1903.05784<br>
-代码链接：https://github.com/LongguangWang/PASSRnet
-<br><br>
-
-
-
-182.MirrorGAN: Learning Text-to-image Generation by Redescription（图像文本生成）
-<br>
-作者：Tingting Qiao, Jing Zhang, Duanqing Xu, Dacheng Tao
-<br>
-论文链接：https://arxiv.org/abs/1903.05854
-
-
-
-<br><br>
-
-
-
-
-
-181.Dense Relational Captioning: Triple-Stream Networks for Relationship-Based Captioning
-
-<br>
-作者：Dong-Jin Kim, Jinsoo Choi, Tae-Hyun Oh, In So Kweon
-<br>
-论文链接：https://arxiv.org/abs/1903.05942
-
-
-
-<br><br>
-
-
-
-180.Bag of Tricks for Image Classification with Convolutional Neural Networks
-<br>
-作者：Tong He, Zhi Zhang, Hang Zhang, Zhongyue Zhang, Junyuan Xie, Mu Li
-<br>
-论文链接：https://arxiv.org/abs/1812.01187<br>
-源码链接：https://github.com/dmlc/gluon-cv
-
-
-
-<br><br>
-
 
 212.From Adversarial Training to Generative Adversarial Networks
 <br>
@@ -3369,7 +3109,7 @@ Demo链接：https://github.com/vita-epfl/openpifpafwebdemo
 作者：Qi Mao, Hsin-Ying Lee, Hung-Yu Tseng, Siwei Ma, Ming-Hsuan Yang
 <br>
 论文链接：https://arxiv.org/abs/1903.05628<br>
-代码链接：https://github.com/HelenMao/MSGAN （待更新） <br>
+源码链接：https://github.com/HelenMao/MSGAN （待更新） <br>
 <br>
 
 
@@ -3395,7 +3135,8 @@ Demo链接：https://github.com/vita-epfl/openpifpafwebdemo
 作者：Anurag Ranjan, Varun Jampani, Lukas Balles, Kihwan Kim, Deqing Sun, Jonas Wulff, Michael J. Black
 <br>
 论文链接：https://arxiv.org/abs/1805.09806<br>
-<br>
+源码链接：https://github.com/anuragranj/cc
+<br><br>
 
 
 163.ADCrowdNet: An Attention-injective Deformable Convolutional Network for Crowd Understanding<br>
@@ -3993,7 +3734,7 @@ Demo链接：https://github.com/vita-epfl/openpifpafwebdemo
 99.Self-Supervised Learning of 3D Human Pose using Multi-view Geometry<br>
 作者：Muhammed Kocabas, Salih Karagoz, Emre Akbas<br>
 论文链接：https://arxiv.org/abs/1903.02330<br>
-Github链接：https://github.com/mkocabas/EpipolarPose<br>
+源码链接：https://github.com/mkocabas/EpipolarPose<br>
 <br>
 
 
@@ -4222,7 +3963,7 @@ Project链接：http://bo-li.info/SiamRPN++/<br>
 <br>
 作者：Zhipeng Zhang, Houwen Peng<br>
 论文链接：https://arxiv.org/pdf/1901.01660.pdf<br>
-Code链接：https://gitlab.com/MSRA_NLPR/deeper_wider_siamese_trackers<br><br>
+源码链接：https://gitlab.com/MSRA_NLPR/deeper_wider_siamese_trackers<br><br>
 
 
 64.Fast Online Object Tracking and Segmentation: A Unifying Approach(SiamMask,目标跟踪）<br>
@@ -4332,8 +4073,7 @@ Github源码：https://github.com/junfu1115/DANet<br><br>
 47.Recurrent MVSNet for High-resolution Multi-view Stereo Depth Inference<br>
 作者：Yao Yao, Zixin Luo, Shiwei Li, Tianwei Shen, Tian Fang, Long Quan<br>
 论文链接：https://arxiv.org/abs/1902.10556<br>
-代码链接：https://github.com/YoYo000/MVSNet<br>
-来源：https://mp.weixin.qq.com/s/61C-k3Ijy_7ry5B5lRML6Q
+源码链接：https://github.com/YoYo000/MVSNet
 <br><br>
 
 46.Single-frame Regularization for Temporally Stable CNNs（视频处理）<br>
@@ -4505,6 +4245,7 @@ Reading Notes:FINCH, a new clustering algorithm, absolutily no hyperparameters ,
 10、DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion<br>
 作者：Chen Wang, Danfei Xu, Yuke Zhu, Roberto Martín-Martín, Cewu Lu, Li Fei-Fei, Silvio Savarese<br>
 论文链接：https://arxiv.org/abs/1901.04780 <br>
+源码链接：https://github.com/j96w/DenseFusion<br>
 论文解读：https://mp.weixin.qq.com/s/wrND2cocWlPPVXPqpq-Glg
 
 <br><br>
