@@ -24,7 +24,10 @@ http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 
 <br><br>
-
+681.Shifting More Attention to Video Salient Object Detection
+作者：Deng-Ping Fan, Wenguan Wang, Ming-Ming Cheng, Jianbing Shen
+论文链接：http://dpfan.net/wp-content/uploads/2019CVPROralSSAVNetDAVSOD-datasetShifting-More-Attention-to-Video-Salient-Object-Detection.pdf
+源码链接：https://github.com/DengPingFan/DAVSOD
 680.Pedestrian Detection with Autoregressive Network Phases<br>
 作者：Garrick Brazil, Xiaoming Liu<br>
 论文链接：https://arxiv.org/abs/1812.00440<br>
