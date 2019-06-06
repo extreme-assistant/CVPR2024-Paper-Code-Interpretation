@@ -9,13 +9,12 @@ CVPR2019论文直播分享计划：<br>
 [CMU诸宸辰:基于Anchor-free特征选择模块的单阶目标检测(CVPR2019，列表id 88)](https://mp.weixin.qq.com/s/CvzFG63c1bTuWFSIzNSxBA) 
 
 * 5月9日晚单目标跟踪分享回放<br>[张志鹏:基于siamese网络的单目标跟踪(CVPR2019 Oral，列表id 65)](https://mp.weixin.qq.com/s/3vlVXQDh6ou8Gdhg4xY2Tg)<br>
-* [5月30日本周四晚八点人脸识别分享帝国理工邓健康：ArcFace 构建高效的人脸识别系统(已开源)](https://mp.weixin.qq.com/s/5Wzq_MtNXLtF_41DVwDmgg)<br>
+* [5月30日晚人脸识别分享回放<br>[邓健康-CVPR2019:ArcFace 构建高效的人脸识别系统(CVPR2019，列表id 243)](https://mp.weixin.qq.com/s/SIHFTbDc_XjbfYfpgwNYeQ)：<br>
 * 6月13日多人姿态估计分享
 cvpr2019 accepted papers list:<br>
 http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
 <br>
 
-所有接收论文title：https://docs.google.com/spreadsheets/d/1RU2y-iuzwtAR_hn4V9yz1qpZSiElm3iaCpUoDJ-vfvQ/edit#gid=2010472999<br>提供文件下载，文件来源：<https://github.com/hoya012/CVPR-2019-Paper-Statistics><br>
 
 论文PDF下载（更新中）<br>
 链接：https://pan.baidu.com/s/1s4FuLscWcslN5rQQvP92JA 
@@ -2531,6 +2530,7 @@ NewVersion：https://arxiv.org/abs/1706.02631<br>
 <br>
 作者：Jiankang Deng, Jia Guo, Niannan Xue, Stefanos Zafeiriou<br>
 论文链接：https://arxiv.org/abs/1801.07698
+<br>源码链接：https://github.com/deepinsight/insightface
 <br>
 <br>
 Demo链接：https://github.com/vita-epfl/openpifpafwebdemo
@@ -4369,3 +4369,8 @@ Reading Notes:FINCH, a new clustering algorithm, absolutily no hyperparameters ,
 论文链接：https://arxiv.org/abs/1809.09478<br>
 源码链接：https://github.com/RoyalVane/CLAN
 <br><br>
+参考链接<br>
+https://github.com/hoya012/CVPR-2019-Paper-Statistics <br>
+https://github.com/jonahthelion/cvpr_with_code <br>
+https://docs.google.com/spreadsheets/d/1RU2y-iuzwtAR_hn4V9yz1qpZSiElm3iaCpUoDJ-vfvQ/edit#gid=2010472999 <br>
+
