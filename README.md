@@ -10,15 +10,14 @@ CVPR2019论文直播分享计划：<br>
 
 * 5月9日晚单目标跟踪分享回放<br>[张志鹏:基于siamese网络的单目标跟踪(CVPR2019 Oral，列表id 65)](https://mp.weixin.qq.com/s/3vlVXQDh6ou8Gdhg4xY2Tg)<br>
 * [5月30日晚人脸识别分享回放<br>[邓健康-CVPR2019:ArcFace 构建高效的人脸识别系统(CVPR2019，列表id 243)](https://mp.weixin.qq.com/s/SIHFTbDc_XjbfYfpgwNYeQ)：<br>
-* 6月13日多人姿态估计分享
-cvpr2019 accepted papers list:<br>
-http://cvpr2019.thecvf.com/files/cvpr_2019_final_accept_list.txt
-<br>
+* 6月13日晚分享<br>
+[董峻廷：多视角下多人三维姿态估计](https://mp.weixin.qq.com/s/6aDSJ6EzAvj71D4qHqQoPw)<br>
 
 
 论文PDF下载（更新中）<br>
-链接：https://pan.baidu.com/s/1s4FuLscWcslN5rQQvP92JA 
-提取码：osvy 
+全部链接：http://openaccess.thecvf.com/CVPR2019.py <br>
+链接:https://pan.baidu.com/s/1J6qRJgVXWIg4hsLpGRfAiw  
+密码:bei7 
 <br><br>
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 
