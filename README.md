@@ -14,10 +14,12 @@ CVPR2019论文直播分享计划：<br>
 [董峻廷：多视角下多人三维姿态估计](https://mp.weixin.qq.com/s/6aDSJ6EzAvj71D4qHqQoPw)<br>
 
 
-论文PDF下载（已经下载完，全部1294篇）<br>
-全部链接：http://openaccess.thecvf.com/CVPR2019.py <br>
-链接:https://pan.baidu.com/s/1J6qRJgVXWIg4hsLpGRfAiw  
+CVPR2019全部论文PDF下载（已经下载完，全部1294篇）<br>
+* 全部链接：http://openaccess.thecvf.com/CVPR2019.py <br>
+* 下载链接:https://pan.baidu.com/s/1J6qRJgVXWIg4hsLpGRfAiw  
 密码:bei7 
+<br>
+*  [CVPR 2019全部论文开源源码汇总Excel点这里](https://github.com/extreme-assistant/cvpr2019/blob/master/cvpr_2019_githublinks.csv)
 <br><br>
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 
