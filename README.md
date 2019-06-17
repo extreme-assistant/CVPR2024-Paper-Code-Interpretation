@@ -21,6 +21,10 @@ CVPR2019全部论文PDF下载（已经下载完，全部1294篇）<br>
 <br>
 *  [CVPR 2019全部论文开源源码汇总Excel点这里](https://github.com/extreme-assistant/cvpr2019/blob/master/cvpr_2019_githublinks.csv)
 <br><br>
+参考链接<br>
+* https://github.com/hoya012/CVPR-2019-Paper-Statistics <br>
+* https://github.com/jonahthelion/cvpr_with_code <br>
+* https://docs.google.com/spreadsheets/d/1RU2y-iuzwtAR_hn4V9yz1qpZSiElm3iaCpUoDJ-vfvQ/edit#gid=2010472999 <br><br>
 Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及时更新上来,如有问题，欢迎指出）
 
 <br><br>
@@ -4369,9 +4373,5 @@ Reading Notes:FINCH, a new clustering algorithm, absolutily no hyperparameters ,
 作者：Yawei Luo, Liang Zheng, Tao Guan, Junqing Yu, Yi Yang<br>
 论文链接：https://arxiv.org/abs/1809.09478<br>
 源码链接：https://github.com/RoyalVane/CLAN
-<br><br>
-参考链接<br>
-https://github.com/hoya012/CVPR-2019-Paper-Statistics <br>
-https://github.com/jonahthelion/cvpr_with_code <br>
-https://docs.google.com/spreadsheets/d/1RU2y-iuzwtAR_hn4V9yz1qpZSiElm3iaCpUoDJ-vfvQ/edit#gid=2010472999 <br>
+
 
