@@ -1,8 +1,8 @@
 ,title,stars,github/code,paper reading article,project link,Catorgory,Oral day,Oral session,Oral time,Poster day,Poster session,Poster #,First author,Author
 1,Detect-To-Retrieve: Efficient Regional Aggregation for Image Search,53102,https://github.com/tensorflow/models/tree/master/research/delf,,,Retrieve,,,,Wednesday,Poster 2.1,56,Marvin Teichmann,"Marvin Teichmann, Andre Araujo, Menglong Zhu, Jack Sim"
-2,A Style-Based Generator Architecture for Generative Adversarial Networks,6595,https://github.com/NVlabs/stylegan,,,GAN,Wednesday,Oral 2.1A,9:47,Wednesday,Poster 2.1,14,Tero Karras,"Tero Karras (NVIDIA), Samuli Laine (NVIDIA), Timo Aila (NVIDIA)"
+2,A Style-Based Generator Architecture for Generative Adversarial Networks,6595,https://github.com/NVlabs/stylegan,,,GAN,Wednesday,Oral 2.1A,09:47,Wednesday,Poster 2.1,14,Tero Karras,"Tero Karras (NVIDIA), Samuli Laine (NVIDIA), Timo Aila (NVIDIA)"
 3,Semantic Image Synthesis With Spatially-Adaptive Normalization,4425,https://github.com/NVlabs/SPADE,,,,Tuesday,Oral 1.2B,13:40,Tuesday,Poster 1.2,120,Taesung Park,"Taesung Park, Ming-Yu Liu, Ting-Chun Wang, Jun-Yan Zhu"
-4,ArcFace: Additive Angular Margin Loss for Deep Face Recognition,3462,https://github.com/deepinsight/insightface,,,,Wednesday,Oral 2.1C,9:42,Wednesday,Poster 2.1,147,Jiankang Deng,"Jiankang Deng, Jia Guo, Niannan Xue, Stefanos Zafeiriou"
+4,ArcFace: Additive Angular Margin Loss for Deep Face Recognition,3462,https://github.com/deepinsight/insightface,,,,Wednesday,Oral 2.1C,09:42,Wednesday,Poster 2.1,147,Jiankang Deng,"Jiankang Deng, Jia Guo, Niannan Xue, Stefanos Zafeiriou"
 5,"Deformable ConvNets V2: More Deformable, Better Results",2518,https://github.com/msracver/Deformable-ConvNets,,,,,,,Thursday,Poster 3.1,37,Xizhou Zhu,"Xizhou Zhu,?Han Hu,?Stephen Lin,?Jifeng Dai"
 6,Bag of Tricks for Image Classification with Convolutional Neural Networks,2412,https://github.com/dmlc/gluon-cv,,,,,,,Tuesday,Poster 1.1,33,Tong He,"Tong He, Zhi Zhang, Hang Zhang, Zhongyue Zhang, Junyuan Xie, Mu Li"
 7,Towards VQA Models That Can Read,1517,https://github.com/facebookresearch/pythia,,,,,,,Wednesday,Poster 2.2,196,Amanpreet Singh,"Amanpreet Singh, Vivek Natarajan, Meet Shah, Yu Jiang, Xinlei Chen, Dhruv Batra, Devi Parikh, Marcus Rohrbach"
@@ -18,9 +18,9 @@
 17,"DeepFashion2: A Versatile Benchmark for Detection, Pose Estimation, Segmentation and Re-Identification of Clothing Images",629,https://github.com/switchablenorms/DeepFashion2,,,,,,,Wednesday,Poster 2.1,79,Yuying Ge,"Yuying Ge, Ruimao Zhang, Lingyun Wu, Xiaogang Wang, Xiaoou Tang, Ping Luo"
 18,Bottom-Up Object Detection by Grouping Extreme and Center Points,618,https://github.com/xingyizhou/ExtremeNet,,,,,,,Tuesday,Poster 1.1,62,Xingyi Zhou,"Xingyi Zhou, Jiacheng Zhuo, Philipp Kr?henb¨¹hl"
 19,3D Human Pose Estimation in Video With Temporal Convolutions and Semi-Supervised Training,578,https://github.com/facebookresearch/VideoPose3D,,,,,,,Wednesday,Poster 2.2,103,Dario Pavllo,"Dario Pavllo, Christoph Feichtenhofer, David Grangier, Michael Auli"
-20,HAQ: Hardware-Aware Automated Quantization With Mixed Precision,512,https://github.com/MIT-HAN-LAB/ProxylessNAS,,https://hanlab.mit.edu/projects/haq/,,Thursday,Oral 3.1A,9:24,Thursday,Poster 3.1,199,Kuan Wang,"Kuan Wang,?Zhijian Liu,?Yujun Lin,?Ji Lin,?Song Han"
+20,HAQ: Hardware-Aware Automated Quantization With Mixed Precision,512,https://github.com/MIT-HAN-LAB/ProxylessNAS,,https://hanlab.mit.edu/projects/haq/,,Thursday,Oral 3.1A,09:24,Thursday,Poster 3.1,199,Kuan Wang,"Kuan Wang,?Zhijian Liu,?Yujun Lin,?Ji Lin,?Song Han"
 21,Fast Interactive Object Annotation With Curve-GCN,436,https://github.com/fidler-lab/curve-gcn,,,,,,,Wednesday,Poster 2.1,71,Huan Ling,"Huan Ling, Jun Gao, Amlan Kar, Wenzheng Chen, Sanja Fidler?"
-22,ATOM: Accurate Tracking by Overlap Maximization,420,https://github.com/visionml/pytracking,,,,Wednesday,Oral 2.1C,9:24,Wednesday,Poster 2.1,144,Martin Danelljan,"Martin Danelljan, Goutam Bhat, Fahad Shahbaz Khan, Michael Felsberg"
+22,ATOM: Accurate Tracking by Overlap Maximization,420,https://github.com/visionml/pytracking,,,,Wednesday,Oral 2.1C,09:24,Wednesday,Poster 2.1,144,Martin Danelljan,"Martin Danelljan, Goutam Bhat, Fahad Shahbaz Khan, Michael Felsberg"
 23,Shape Robust Text Detection With Progressive Scale Expansion Network,403,https://github.com/whai362/PSENet,,,,,,,Thursday,Poster 3.1,40,Wenhai Wang,"Xiang Li, Wenhai Wang, Wenbo Hou, Ruo-Ze Liu, Tong Lu, Jian Yang"
 24,Data-Driven Neuron Allocation for Scale Aggregation Networks,403,https://github.com/Eli-YiLi/ScaleNet,,,,,,,Thursday,Poster 3.2,56,Yi Li,"Yi Li, Zhanghui Kuang, Yimin Chen, Wayne Zhang"
 25,MnasNet: Platform-Aware Neural Architecture Search for Mobile,371,https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet,,,,,,,Tuesday,Poster 1.2,16,Mingxing Tan,"Mingxing Tan,?Bo Chen,?Ruoming Pang,?Vijay Vasudevan,?Mark Sandler,?Andrew Howard,?Quoc V. Le"
@@ -36,17 +36,17 @@
 35,A Dataset and Benchmark for Large-Scale Multi-Modal Face Anti-Spoofing,269,https://github.com/SoftwareGift/FeatherNets_Face-Anti-spoofing-Attack-Detection-Challenge-CVPR2019,,,,,,,Tuesday,Poster 1.1,69,Shifeng Zhang,"Sachin Mehta, Mohammad Rastegari, Linda Shapiro, Hannaneh Hajishirzi"
 36,Stereo R-CNN Based 3D Object Detection for Autonomous Driving,266,https://github.com/HKUST-Aerial-Robotics/Stereo-RCNN,https://mp.weixin.qq.com/s/X6XI7L57fGGGkAUug3E6Dg,,,,,,Wednesday,Poster 2.2,92,Peiliang Li,"Peiliang Li, Xiaozhi Chen, Shaojie Shen"
 37,From Recognition to Cognition: Visual Commonsense Reasoning,238,https://github.com/rowanz/r2c,,,,Wednesday,Oral 2.2B,14:52,Wednesday,Poster 2.2,191,Rowan Zellers,"Rowan Zellers, Yonatan Bisk, Ali Farhadi, Yejin Choi"
-38,Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation,226,https://github.com/MenghaoGuo/AutoDeeplab,,,,Tuesday,Oral 1.1A,9:46,Tuesday,Poster 1.1,9,Chenxi Liu,"Peng Zhang, Fuhao Zou, Zhiwen Wu, Nengli Dai, Skarpness Mark, Michael Fu, Juan Zhao, Kai Li"
-39,Deeper and Wider Siamese Networks for Real-Time Visual Tracking,221,https://github.com/researchmm/SiamDW,,,,Wednesday,Oral 2.1C,8:40,Wednesday,Poster 2.1,137,Zhipeng Zhang,"Zhipeng Zhang, Houwen Peng"
-40,PlaneRCNN: 3D Plane Detection and Reconstruction From a Single Image,214,https://github.com/NVlabs/planercnn,,https://research.nvidia.com/publication/2019-06_PlaneRCNN,,Wednesday,Oral 2.1B,8:48,Wednesday,Poster 2.1,109,Chen Liu,"Chen Liu, Kihwan Kim, Jinwei Gu, Yasutaka Furukawa, Jan Kautz"
+38,Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation,226,https://github.com/MenghaoGuo/AutoDeeplab,,,,Tuesday,Oral 1.1A,09:46,Tuesday,Poster 1.1,9,Chenxi Liu,"Peng Zhang, Fuhao Zou, Zhiwen Wu, Nengli Dai, Skarpness Mark, Michael Fu, Juan Zhao, Kai Li"
+39,Deeper and Wider Siamese Networks for Real-Time Visual Tracking,221,https://github.com/researchmm/SiamDW,,,,Wednesday,Oral 2.1C,08:40,Wednesday,Poster 2.1,137,Zhipeng Zhang,"Zhipeng Zhang, Houwen Peng"
+40,PlaneRCNN: 3D Plane Detection and Reconstruction From a Single Image,214,https://github.com/NVlabs/planercnn,,https://research.nvidia.com/publication/2019-06_PlaneRCNN,,Wednesday,Oral 2.1B,08:48,Wednesday,Poster 2.1,109,Chen Liu,"Chen Liu, Kihwan Kim, Jinwei Gu, Yasutaka Furukawa, Jan Kautz"
 41,Self-Supervised Learning of 3D Human Pose Using Multi-View Geometry,207,https://github.com/mkocabas/EpipolarPose,,,,,,,Tuesday,Poster 1.1,97,Muhammed Kocabas,"Muhammed Kocabas, Salih Karagoz, Emre Akbas"
-42,PVNet: Pixel-Wise Voting Network for 6DoF Pose Estimation,204,https://github.com/zju3dv/pvnet,,,,Wednesday,Oral 2.1B,9:52,Wednesday,Poster 2.1,120,Sida Peng,"Sida Peng, Yuan Liu, Qixing Huang, Hujun Bao, and Xiaowei Zhou"
+42,PVNet: Pixel-Wise Voting Network for 6DoF Pose Estimation,204,https://github.com/zju3dv/pvnet,,,,Wednesday,Oral 2.1B,09:52,Wednesday,Poster 2.1,120,Sida Peng,"Sida Peng, Yuan Liu, Qixing Huang, Hujun Bao, and Xiaowei Zhou"
 43,Precise Detection in Densely Packed Scenes,201,https://github.com/eg4000/SKU110K_CVPR19,,,,,,,Wednesday,Poster 2.1,68,Eran Goldman,"Eran Goldman , Roei Herzig, Aviv Eisenschtat, Jacob Goldberger, Tal Hassner?"
 44,4D Spatio-Temporal ConvNets: Minkowski Convolutional Neural Networks,200,https://github.com/StanfordVL/MinkowskiEngine,,,,,,,Tuesday,Poster 1.2,60,Christopher Choy,"Christopher Choy, JunYoung Gwak, Silvio Savarese"
 45,PifPaf: Composite Fields for Human Pose Estimation,199,https://github.com/vita-epfl/openpifpaf,,,,,,,Thursday,Poster 3.2,120,Sven Kreiss,"Sven Kreiss, Lorenzo Bertoni, Alexandre Alahi"
 46,PointPillars: Fast Encoders for Object Detection From Point Clouds,197,https://github.com/nutonomy/second.pytorch,,,,,,,Thursday,Poster 3.2,211,Alex H. Lang,"Alex H. Lang, Sourabh Vora, Holger Caesar, Lubing Zhou, Jiong Yang, Oscar Beijbom"
 47,Progressive Pose Attention Transfer for Person Image Generation,196,https://github.com/tengteng95/Pose-Transfer,,,,Tuesday,Oral 1.2B,13:48,Tuesday,Poster 1.2,121,Zhen Zhu,"Zhen Zhu, Tengteng Huang, Baoguang Shi, Miao Yu, Bofei Wang, Xiang Bai"
-48,UPSNet: A Unified Panoptic Segmentation Network,191,https://github.com/uber-research/UPSNet,,,,Thursday,Oral 3.1C,8:30,Thursday,Poster 3.1,55,Yuwen Xiong,"uwen Xiong, Renjie Liao, Hengshuang Zhao, Rui Hu, Min Bai, Ersin Yumer, Raquel Urtasun"
+48,UPSNet: A Unified Panoptic Segmentation Network,191,https://github.com/uber-research/UPSNet,,,,Thursday,Oral 3.1C,08:30,Thursday,Poster 3.1,55,Yuwen Xiong,"uwen Xiong, Renjie Liao, Hengshuang Zhao, Rui Hu, Min Bai, Ersin Yumer, Raquel Urtasun"
 49,Pseudo-LiDAR From Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving,190,https://github.com/mileyan/pseudo_lidar,,https://mileyan.github.io/pseudo_lidar/,,,,,Wednesday,Poster 2.2,209,Yan Wang,"Yan Wang, Wei-Lun Chao, Divyansh Garg, Bharath Hariharan, Mark Campbell, Kilian Q. Weinberger"
 50,Image Super-Resolution by Neural Texture Transfer,165,https://github.com/ZZUTK/SRNTT,,http://web.eecs.utk.edu/~zzhang61/project_page/SRNTT/SRNTT.html,,,,,Wednesday,Poster 2.2,126,Zhifei Zhang,"Zhifei Zhang, Zhaowen Wang, Zhe Lin, Hairong Qi"
 51,Mode Seeking Generative Adversarial Networks for Diverse Image Synthesis,165,https://github.com/HelenMao/MSGAN,,,,,,,Tuesday,Poster 1.1,144,Qi Mao,"Qi Mao, Hsin-Ying Lee, Hung-Yu Tseng, Siwei Ma, Ming-Hsuan Yang?"
@@ -54,8 +54,8 @@
 53,Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation,153,https://github.com/LinZhuoChen/DUpsampling,,,,,,,Tuesday,Poster 1.2,65,Zhi Tian,"Zhi Tian, Chunhua Shen, Tong He, Youliang Yanl"
 54,Toward Convolutional Blind Denoising of Real Photographs,150,https://github.com/GuoShi28/CBDNet,,,,,,,Tuesday,Poster 1.1,173,Shi Guo,"Shi Guo, Zifei Yan, Kai Zhang, Wangmeng Zuo, Lei Zhang"
 55,"Competitive Collaboration: Joint Unsupervised Learning of Depth, Camera Motion, Optical Flow and Motion Segmentation",142,https://github.com/anuragranj/cc,,,,,,,Thursday,Poster 3.2,165,Anurag Ranjan,"Anurag Ranjan, Varun Jampani, Lukas Balles, Kihwan Kim, Deqing Sun, Jonas Wulff, Michael J. Black?"
-56,DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation,141,https://github.com/Oktosha/DeepSDF-explained?,,,,Tuesday,Oral 1.1B,9:23,Tuesday,Poster 1.1,76,Jeong Joon Park,"Jeong Joon Park, Peter Florence, Julian Straub, Richard Newcombe, Steven Lovegrove"
-57,Occupancy Networks: Learning 3D Reconstruction in Function Space,141,https://github.com/LMescheder/Occupancy-Networks,,,,Wednesday,Oral 2.1B,8:53,Wednesday,Poster 2.1,110,Lars Mescheder,Lars Mescheder and Michael Oechsle and Michael Niemeyer and Sebastian Nowozin and Andreas Geiger
+56,DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation,141,https://github.com/Oktosha/DeepSDF-explained?,,,,Tuesday,Oral 1.1B,09:23,Tuesday,Poster 1.1,76,Jeong Joon Park,"Jeong Joon Park, Peter Florence, Julian Straub, Richard Newcombe, Steven Lovegrove"
+57,Occupancy Networks: Learning 3D Reconstruction in Function Space,141,https://github.com/LMescheder/Occupancy-Networks,,,,Wednesday,Oral 2.1B,08:53,Wednesday,Poster 2.1,110,Lars Mescheder,Lars Mescheder and Michael Oechsle and Michael Niemeyer and Sebastian Nowozin and Andreas Geiger
 58,Learning Implicit Fields for Generative Shape Modeling,141,https://github.com/czq142857/implicit-decoder?,,,,,,,Wednesday,Poster 2.1,170,Zhiqin Chen,"Zhiqin Chen, Hao Zhang"
 59,Recurrent Back-Projection Network for Video Super-Resolution,133,https://github.com/alterzero/RBPN-PyTorch,,https://alterzero.github.io/projects/RBPN.html,,,,,Tuesday,Poster 1.2,161,Muhammad Haris,"Muhammad Haris, Greg Shakhnarovich, Norimichi Ukita?"
 60,Pluralistic Image Completion,132,https://github.com/lyndonzheng/Pluralistic-Inpainting,,http://www.chuanxiaz.com/publication/pluralistic/,,,,,Tuesday,Poster 1.1,145,Chuanxia Zheng,"Chuanxia Zheng, Tat-Jen Cham, Jianfei Cai?"
@@ -64,8 +64,8 @@
 63,Rethinking Knowledge Graph Propagation for Zero-Shot Learning,129,https://github.com/cyvius96/adgpm,,,,,,,Thursday,Poster 3.2,52,Michael Kampffmeyer,"Michael Kampffmeyer, Yinbo Chen, Xiaodan Liang, Hao Wang, Yujia Zhang, Eric P. Xing"
 64,Associatively Segmenting Instances and Semantics in Point Clouds,119,https://github.com/WXinlong/ASIS,,,,,,,Tuesday,Poster 1.2,199,Xinlong Wang,"Xinlong Wang, Shu Liu, Xiaoyong Shen, Chunhua Shen, Jiaya Jia"
 65,Feedback Network for Image Super-Resolution,119,https://github.com/Paper99/SRFBN_CVPR19,,,,,,,Tuesday,Poster 1.2,158,Zhen Li,"Zhen Li, Jinglei Yang, Zheng Liu, Xiaomin Yang, Gwanggil Jeon, Wei Wu"
-66,Detailed Human Shape Estimation From a Single Image by Hierarchical Mesh Deformation,111,https://github.com/zhuhao-nju/hmd,,,,Wednesday,Oral 2.1B,9:11,Wednesday,Poster 2.1,113,Hao Zhu,"Hao Zhu, Xinxin Zuo, Sen Wang, Xun Cao, Ruigang Yang"
-67,Data Augmentation Using Learned Transformations for One-Shot Medical Image Segmentation,108,https://github.com/xamyzhao/brainstorm,,,,Thursday,Oral 3.1A,8:40,Thursday,Poster 3.1,192,Amy Zhao,"Amy Zhao,?Guha Balakrishnan,?Fr¨¦do Durand,?John V. Guttag,?Adrian V. Dalca"
+66,Detailed Human Shape Estimation From a Single Image by Hierarchical Mesh Deformation,111,https://github.com/zhuhao-nju/hmd,,,,Wednesday,Oral 2.1B,09:11,Wednesday,Poster 2.1,113,Hao Zhu,"Hao Zhu, Xinxin Zuo, Sen Wang, Xun Cao, Ruigang Yang"
+67,Data Augmentation Using Learned Transformations for One-Shot Medical Image Segmentation,108,https://github.com/xamyzhao/brainstorm,,,,Thursday,Oral 3.1A,08:40,Thursday,Poster 3.1,192,Amy Zhao,"Amy Zhao,?Guha Balakrishnan,?Fr¨¦do Durand,?John V. Guttag,?Adrian V. Dalca"
 68,Panoptic Segmentation,107,https://github.com/cocodataset/panopticapi,,,,,,,Thursday,Poster 3.1,47,Alexander Kirillov,"Huanyu Liu, Chao Peng, Changqian Yu, Jingbo Wang, Xu Liu, Gang Yu, Wei Jiang"
 69,Unsupervised Person Re-Identification by Soft Multilabel Learning,106,https://github.com/KovenYu/MAR,,,,Tuesday,Oral 1.2A,13:35,Tuesday,Poster 1.2,19,Hong-Xing Yu,"Hong-Xing Yu, Wei-Shi Zheng, Ancong Wu, Xiaowei Guo, Shaogang Gong, Jian-Huang Lai?"
 70,GANFIT: Generative Adversarial Network Fitting for High Fidelity 3D Face Reconstruction,106,https://github.com/barisgecer/ganfit,,,,,,,Tuesday,Poster 1.1,105,Baris Gecer,"Baris Gecer, Stylianos Ploumpis, Irene Kotsia, Stefanos Zafeiriou"
@@ -74,8 +74,8 @@
 73,Single-Image Piece-Wise Planar 3D Reconstruction via Associative Embedding,104,https://github.com/svip-lab/PlanarReconstruction,,,,,,,Tuesday,Poster 1.1,92,Zehao Yu,"Zehao Yu, Jia Zheng, Dongze Lian, Zihan Zhou, Shenghua Gao"
 74,Style Transfer by Relaxed Optimal Transport and Self-Similarity,103,https://github.com/nkolkin13/STROTSS,,,,,,,Thursday,Poster 3.1,143,Nicholas Kolkin,"Nicholas Kolkin, Jason Salavon, Gregory Shakhnarovich "
 75,Meta-Learning With Differentiable Convex Optimization,102,https://github.com/kjunelee/MetaOptNet,,,,Thursday,Oral 3.2A,13:48,Thursday,Poster 3.2,4,Kwonjoon Lee,"Kwonjoon Lee, Subhransu Maji, Avinash Ravichandran, Stefano Soatto"
-76,Real-Time Self-Adaptive Deep Stereo,100,https://github.com/CVLAB-Unibo/Real-time-self-adaptive-deep-stereo,,,,Tuesday,Oral 1.1B,9:41,Tuesday,Poster 1.1,79,Alessio Tonioni,"Alessio Tonioni, Fabio Tosi, Matteo Poggi, Stefano Mattoccia, Luigi Di Stefano?"
-77,Hardness-Aware Deep Metric Learning,96,https://github.com/wzzheng/HDML,,,,Tuesday,Oral 1.1A,9:41,Tuesday,Poster 1.1,8,Wenzhao Zheng,"Wenzhao Zheng, Zhaodong Chen, Jiwen Lu, Jie Zhou "
+76,Real-Time Self-Adaptive Deep Stereo,100,https://github.com/CVLAB-Unibo/Real-time-self-adaptive-deep-stereo,,,,Tuesday,Oral 1.1B,09:41,Tuesday,Poster 1.1,79,Alessio Tonioni,"Alessio Tonioni, Fabio Tosi, Matteo Poggi, Stefano Mattoccia, Luigi Di Stefano?"
+77,Hardness-Aware Deep Metric Learning,96,https://github.com/wzzheng/HDML,,,,Tuesday,Oral 1.1A,09:41,Tuesday,Poster 1.1,8,Wenzhao Zheng,"Wenzhao Zheng, Zhaodong Chen, Jiwen Lu, Jie Zhou "
 78,D2-Net: A Trainable CNN for Joint Description and Detection of Local Features,92,https://github.com/mihaidusmanu/d2-net,,https://dsmn.ml/publications/d2-net.html,,,,,Wednesday,Poster 2.2,155,Mihai Dusmanu,"Mihai Dusmanu,?Ignacio Rocco,?Tomas Pajdla,?Marc Pollefeys,?Josef Sivic,?Akihiko Torii,?Torsten Sattler"
 79,Revisiting Self-Supervised Visual Representation Learning,88,https://github.com/google/revisiting-self-supervised,,,,,,,Tuesday,Poster 1.1,194,Alexander Kolesnikov,"Alexander Kolesnikov,?Xiaohua Zhai,?Lucas Beyer"
 80,Learning Attraction Field Representation for Robust Line Segment Detection,87,https://github.com/cherubicXN/afm_cvpr2019,,,,,,,Tuesday,Poster 1.1,161,Nan Xue,"Nan Xue,?Song Bai,?Fudong Wang,?Gui-Song Xia,?Tianfu Wu,?Liangpei Zhang"
@@ -85,7 +85,7 @@
 84,MUREL: Multimodal Relational Reasoning for Visual Question Answering,78,https://github.com/Cadene/murel.bootstrap.pytorch,https://zhuanlan.zhihu.com/p/60972299,,,,,,Tuesday,Poster 1.1,201,Remi Cadene,"Remi Cadene, Hedi Ben-younes, Matthieu Cord, Nicolas Thome"
 85,Fast Human Pose Estimation,77,https://github.com/yuanyuanli85/Fast_Human_Pose_Estimation_Pytorch,,,,,,,Tuesday,Poster 1.2,104,Feng Zhang,"Feng Zhang, Xiatian Zhu, Mao Ye"
 86,RVOS: End-To-End Recurrent Network for Video Object Segmentation,77,https://github.com/imatge-upc/rvos,,,,,,,Wednesday,Poster 2.1,73,Carles Ventura,"Carles Ventura, Miriam Bellver, Andreu Girbau, Amaia Salvador, Ferran Marques, Xavier Giro-i-Nieto"
-87,3D-SIS: 3D Semantic Instance Segmentation of RGB-D Scans,76,https://github.com/Sekunde/3D-SIS,,,,Wednesday,Oral 2.1B,8:30,Wednesday,Poster 2.1,106,Ji Hou,Ji Hou Angela Dai Matthias Nie?ner
+87,3D-SIS: 3D Semantic Instance Segmentation of RGB-D Scans,76,https://github.com/Sekunde/3D-SIS,,,,Wednesday,Oral 2.1B,08:30,Wednesday,Poster 2.1,106,Ji Hou,Ji Hou Angela Dai Matthias Nie?ner
 88,Pose2Seg: Detection Free Human Instance Segmentation,76,https://github.com/liruilong940607/Pose2Seg,,http://www.liruilong.cn/Pose2Seg/index.html?,,,,,Tuesday,Poster 1.1,66,Song-Hai Zhang,"Song-Hai Zhang, Ruilong Li, Xin Dong, Paul L. Rosin, Zixi Cai, Han Xi, Dingcheng Yang, Hao-Zhi Huang, Shi-Min Hu"
 89,PoseFix: Model-Agnostic General Human Pose Refinement Network,75,https://github.com/mks0601/PoseFix_RELEASE,,,,,,,Wednesday,Poster 2.2,105,Gyeongsik Moon,"Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee "
 90,FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search,73,https://github.com/JunrQ/NAS,,,,Thursday,Oral 3.2A,14:34,Thursday,Poster 3.2,12,Bichen Wu,"Bichen Wu, Xiaoliang Dai, Peizhao Zhang, Yanghan Wang, Fei Sun, Yiming Wu, Yuandong Tian, Peter Vajda, Yangqing Jia, Kurt Keutzer"
@@ -93,7 +93,7 @@
 92,Learning Linear Transformations for Fast Image and Video Style Transfer,71,https://github.com/sunshineatnoon/LinearStyleTransfer,,https://sites.google.com/view/linear-style-transfer-cvpr19/,,,,,Tuesday,Poster 1.2,152,Xueting Li,"Xueting Li, Sifei Liu, Jan Kautz, Ming-Hsuan Yang"
 93,PointNetLK: Robust & Efficient Point Cloud Registration Using PointNet,71,https://github.com/hmgoforth/PointNetLK,,,,,,,Wednesday,Poster 2.2,24,Yasuhiro Aoki,"Yasuhiro Aoki, Hunter Goforth, Rangaprasad Arun Srivatsan, Simon Lucey"
 94,Depth-Aware Video Frame Interpolation,71,https://github.com/baowenbo/DAIN,,,,,,,Tuesday,Poster 1.2,141,Wenbo Bao,"Wenbo Bao Wei-Sheng Lai, Chao Ma, Xiaoyun Zhang, Zhiyong Gao, and Ming-Hsuan Yang"
-95,Relation-Shape Convolutional Neural Network for Point Cloud Analysis,70,https://github.com/Yochengliu/Relation-Shape-CNN,https://mp.weixin.qq.com/s/KuoHFPpUYHPFacsBWZWVSg,https://yochengliu.github.io/Relation-Shape-CNN/,,Thursday,Oral 3.1C,9:16,Thursday,Poster 3.1,63,Yongcheng Liu,"Yongcheng Liu, Bin Fan, Shiming Xiang, Chunhong Pan"
+95,Relation-Shape Convolutional Neural Network for Point Cloud Analysis,70,https://github.com/Yochengliu/Relation-Shape-CNN,https://mp.weixin.qq.com/s/KuoHFPpUYHPFacsBWZWVSg,https://yochengliu.github.io/Relation-Shape-CNN/,,Thursday,Oral 3.1C,09:16,Thursday,Poster 3.1,63,Yongcheng Liu,"Yongcheng Liu, Bin Fan, Shiming Xiang, Chunhong Pan"
 96,Tightness-Aware Evaluation Protocol for Scene Text Detection,69,https://github.com/Yuliang-Liu/TIoU-metric,,,,,,,Thursday,Poster 3.1,98,Yuliang Liu,"Yuliang Liu, Lianwen Jin, Zecheng Xie, Canjie Luo, Shuaitao Zhang, Lele Xie "
 97,"Show, Control and Tell: A Framework for Generating Controllable and Grounded Captions",69,https://github.com/aimagelab/show-control-and-tell,,,,,,,Wednesday,Poster 2.2,195,Marcella Cornia,"Marcella Cornia, Lorenzo Baraldi, Rita Cucchiara"
 98,Noise-Tolerant Paradigm for Training Face Recognition CNNs,68,https://github.com/huangyangyu/NoiseFace,,,,,,,Thursday,Poster 3.2,111,Wei Hu,"Wei Hu, Yangyu Huang, Fan Zhang, Ruirui Li"
@@ -108,19 +108,19 @@
 107,Partial Order Pruning: For Best Speed/Accuracy Trade-Off in Neural Architecture Search,59,https://github.com/lixincn2015/Partial-Order-Pruning,,,,,,,Thursday,Poster 3.1,20,Xin Li,"Xin Li, Yiming Zhou, Zheng Pan, Jiashi Feng "
 108,End-To-End Multi-Task Learning With Attention,57,https://github.com/lorenmt/mtan,,,,,,,Tuesday,Poster 1.1,189,Shikun Liu,"Shikun Liu, Edward Johns, Andrew J. Davison"
 109,Video Generation From Single Semantic Label Map,57,https://github.com/junting/seg2vid,,,,,,,Tuesday,Poster 1.2,144,Junting Pan,"Junting Pan, Chengyu Wang, Xu Jia, Jing Shao, Lu Sheng, Junjie Yan, Xiaogang Wang"
-110,Efficient Parameter-Free Clustering Using First Neighbor Relations,56,https://github.com/ssarfraz/FINCH-CLustering,,,,Thursday,Oral 3.1C,9:42,Thursday,Poster 3.1,67,Saquib Sarfraz,"M. Saquib Sarfraz, Vivek Sharma, Rainer Stiefelhagen"
+110,Efficient Parameter-Free Clustering Using First Neighbor Relations,56,https://github.com/ssarfraz/FINCH-CLustering,,,,Thursday,Oral 3.1C,09:42,Thursday,Poster 3.1,67,Saquib Sarfraz,"M. Saquib Sarfraz, Vivek Sharma, Rainer Stiefelhagen"
 111,Attention Branch Network: Learning of Attention Mechanism for Visual Explanation,56,https://github.com/machine-perception-robotics-group/attention_branch_network,,,,Thursday,Oral 3.2A,14:16,Thursday,Poster 3.2,9,Hiroshi Fukui,"Hiroshi Fukui, Tsubasa Hirakawa, Takayoshi Yamashita, Hironobu Fujiyoshi"
 112,FineGAN: Unsupervised Hierarchical Disentanglement for Fine-Grained Object Generation and Discovery,56,https://github.com/kkanshul/finegan,,,,Wednesday,Oral 2.2A,14:24,Wednesday,Poster 2.2,34,Krishna Kumar Singh,"Krishna Kumar Singh, Utkarsh Ojha, Yong Jae Lee"
-113,Filter Pruning via Geometric Median for Deep Convolutional Neural Networks Acceleration,56,https://github.com/he-y/filter-pruning-geometric-median,,,,Wednesday,Oral 2.1A,9:11,Wednesday,Poster 2.1,8,Yang He,"Yang He, Ping Liu, Ziwei Wang, Zhilan Hu, Yi Yang"
+113,Filter Pruning via Geometric Median for Deep Convolutional Neural Networks Acceleration,56,https://github.com/he-y/filter-pruning-geometric-median,,,,Wednesday,Oral 2.1A,09:11,Wednesday,Poster 2.1,8,Yang He,"Yang He, Ping Liu, Ziwei Wang, Zhilan Hu, Yi Yang"
 114,DVC: An End-To-End Deep Video Compression Framework,56,https://github.com/GuoLusjtu/DVC,,,,Thursday,Oral 3.2C,13:40,Thursday,Poster 3.2,149,Guo Lu,"Guo Lu, Wanli Ouyang, Dong Xu, Xiaoyun Zhang, Chunlei Cai, Zhiyong Gao "
 115,Adaptively Connected Neural Networks,53,https://github.com/wanggrun/Adaptively-Connected-Neural-Networks,,,,,,,Tuesday,Poster 1.1,180,Guangrun Wang,"Guangrun Wang, Keze Wang, Liang Lin"
 116,Linkage Based Face Clustering via Graph Convolution Network,52,https://github.com/Zhongdao/gcn_clustering,,,,,,,Tuesday,Poster 1.1,101,Zhongdao Wang,"Zhongdao Wang, Liang Zheng, Yali Li, Shengjin Wang"
 117,Unsupervised Deep Tracking,50,https://github.com/594422814/UDT,,,,,,,Tuesday,Poster 1.1,132,Ning Wang,"Ning Wang, Yibing Song, Chao Ma, Wengang Zhou, Wei Liu, Houqiang Li"
 118,Spatiotemporal CNN for Video Object Segmentation,48,https://github.com/longyin880815/STCNN,,,,,,,Tuesday,Poster 1.1,139,Kai Xu,"Kai Xu, Longyin Wen, Guorong Li, Liefeng Bo, Qingming Huang"
 119,Improving Transferability of Adversarial Examples With Input Diversity,48,https://github.com/cihangxie/DI-2-FGSM,,,,,,,Tuesday,Poster 1.2,7,Cihang Xie,Cihang Xie; Yuyin Zhou; Song Bai; Zhishuai Zhang; Jianyu Wang; Zhou Ren; Alan Yuille
-120,Collaborative Global-Local Networks for Memory-Efficient Segmentation of Ultra-High Resolution Images,48,https://github.com/chenwydj/ultra_high_resolution_segmentation,,,,Thursday,Oral 3.1C,9:34,Thursday,Poster 3.1,66,Wuyang Chen,"Wuyang Chen, Ziyu Jiang, Zhangyang Wang, Kexin Cui, Xiaoning Qian"
+120,Collaborative Global-Local Networks for Memory-Efficient Segmentation of Ultra-High Resolution Images,48,https://github.com/chenwydj/ultra_high_resolution_segmentation,,,,Thursday,Oral 3.1C,09:34,Thursday,Poster 3.1,66,Wuyang Chen,"Wuyang Chen, Ziyu Jiang, Zhangyang Wang, Kexin Cui, Xiaoning Qian"
 121,Learning to Reconstruct People in Clothing From a Single RGB Camera,47,https://github.com/thmoa/octopus,,,,,,,Tuesday,Poster 1.1,107,Thiemo Alldieck,"Thiemo Alldieck, Marcus Magnor, Bharat Lal Bhatnagar, Christian Theobalt, Gerard Pons-Moll "
-122,Decoupling Direction and Norm for Efficient Gradient-Based L2 Adversarial Attacks and Defenses,47,https://github.com/jeromerony/fast_adversarial,,,,Wednesday,Oral 2.1A,8:58,Wednesday,Poster 2.1,6,Jerome Rony,"J¨¦r?me Rony, Luiz G. Hafemann, Luiz S. Oliveira, Ismail Ben Ayed, Robert Sabourin, Eric Granger"
+122,Decoupling Direction and Norm for Efficient Gradient-Based L2 Adversarial Attacks and Defenses,47,https://github.com/jeromerony/fast_adversarial,,,,Wednesday,Oral 2.1A,08:58,Wednesday,Poster 2.1,6,Jerome Rony,"J¨¦r?me Rony, Luiz G. Hafemann, Luiz S. Oliveira, Ismail Ben Ayed, Robert Sabourin, Eric Granger"
 123,Strike (With) a Pose: Neural Networks Are Easily Fooled by Strange Poses of Familiar Objects,46,https://github.com/airalcorn2/strike-with-a-pose,,,,,,,Wednesday,Poster 2.1,29,Michael A. Alcorn,"Michael A. Alcorn, Qi Li, Zhitao Gong, Chengfei Wang, Long Mai, Wei-Shinn Ku, Anh Nguyen"
 124,Video Relationship Reasoning Using Gated Spatio-Temporal Energy Graph,45,https://github.com/yaohungt/GSTEG_CVPR_2019,,,,,,,Thursday,Poster 3.1,181,Yao-Hung Hubert Tsai,"Yao-Hung Hubert Tsai, Santosh Divvala, Louis-Philippe Morency, Ruslan Salakhutdinov, Ali Farhadi"
 125,"Capture, Learning, and Synthesis of 3D Speaking Styles",44,https://github.com/TimoBolkart/voca,,,,,,,Thursday,Poster 3.1,148,Daniel Cudeiro,"Daniel Cudeiro, Timo Bolkart, Cassidy Laidlaw, Anurag Ranjan, Michael J. Black"
@@ -134,7 +134,7 @@
 133,Meta-Transfer Learning for Few-Shot Learning,37,https://github.com/y2l/meta-transfer-learning-tensorflow,,,,,,,Tuesday,Poster 1.1,17,Qianru Sun,"Qianru Sun, Yaoyao Liu, Tat-Seng Chua, Bernt Schiele"
 134,The Perfect Match: 3D Point Cloud Matching With Smoothed Densities,35,https://github.com/zgojcic/3DSmoothNet,,,,,,,Wednesday,Poster 2.1,100,Zan Gojcic,"Zan Gojcic, Caifa Zhou, Jan D. Wegner, Andreas Wieser"
 135,Reliable and Efficient Image Cropping: A Grid Anchor Based Approach,35,https://github.com/HuiZeng/Grid-Anchor-based-Image-Cropping,,,,,,,Wednesday,Poster 2.1,171,Hui Zeng,"Hui Zeng, Lida Li, Zisheng Cao, Lei Zhang"
-136,GA-Net: Guided Aggregation Net for End-To-End Stereo Matching,35,https://github.com/feihuzhang/GANet,,,,Tuesday,Oral 1.1B,9:36,Tuesday,Poster 1.1,78,Feihu Zhang,"Feihu Zhang, Victor Prisacariu, Ruigang Yang, Philip H.S. Torr"
+136,GA-Net: Guided Aggregation Net for End-To-End Stereo Matching,35,https://github.com/feihuzhang/GANet,,,,Tuesday,Oral 1.1B,09:36,Tuesday,Poster 1.1,78,Feihu Zhang,"Feihu Zhang, Victor Prisacariu, Ruigang Yang, Philip H.S. Torr"
 137,HorizonNet: Learning Room Layout With 1D Representation and Pano Stretch Data Augmentation,33,https://github.com/sunset1995/HorizonNet,,https://sunset1995.github.io/HorizonNet/,,,,,Tuesday,Poster 1.1,94,Cheng Sun,"Cheng Sun, Chi-Wei Hsiao, Min Sun, Hwann-Tzong Chen "
 138,Learning Monocular Depth Estimation Infusing Traditional Stereo Knowledge,33,https://github.com/fabiotosi92/monoResMatch-Tensorflow,,,,,,,Thursday,Poster 3.1,117,Fabio Tosi,"Fabio Tosi, Filippo Aleotti, Matteo Poggi, Stefano Mattoccia"
 139,Patch-Based Progressive 3D Point Set Upsampling,32,https://github.com/yifita/3PU,,,,,,,Wednesday,Poster 2.1,172,Wang Yifan,"Wang Yifan, Shihao Wu, Hui Huang, Daniel Cohen-Or, Olga Sorkine-Hornung"
@@ -153,10 +153,10 @@
 152,Latent Space Autoregression for Novelty Detection,29,https://github.com/aimagelab/novelty-detection,,,,,,,Tuesday,Poster 1.1,25,Davide Abati,"Davide Abati, Angelo Porrello, Simone Calderara, Rita Cucchiara"
 153,Single Image Reflection Removal Exploiting Misaligned Training Data and Network Enhancements,28,https://github.com/Vandermode/ERRNet,,,,,,,Wednesday,Poster 2.2,164,Kaixuan Wei,"Kaixuan Wei, Jiaolong Yang, Ying Fu, David Wipf, Hua Huang "
 154,RePr: Improved Training of Convolutional Filters,28,https://github.com/siahuat0727/RePr,,,,Thursday,Oral 3.2A,13:53,Thursday,Poster 3.2,5,Aaditya Prakash,"Aaditya Prakash, James Storer, Dinei Florencio, Cha Zhang"
-155,Taking a Deeper Look at the Inverse Compositional Algorithm,26,https://github.com/lvzhaoyang/DeeperInverseCompositionalAlgorithm,,,,Wednesday,Oral 2.1C,8:35,Wednesday,Poster 2.1,136,Zhaoyang Lv,"Zhaoyang Lv, Frank Dellaert, James M. Rehg, Andreas Geiger"
+155,Taking a Deeper Look at the Inverse Compositional Algorithm,26,https://github.com/lvzhaoyang/DeeperInverseCompositionalAlgorithm,,,,Wednesday,Oral 2.1C,08:35,Wednesday,Poster 2.1,136,Zhaoyang Lv,"Zhaoyang Lv, Frank Dellaert, James M. Rehg, Andreas Geiger"
 156,Learning Metrics From Teachers: Compact Networks for Image Embedding,25,https://github.com/yulu0724/EmbeddingDistillation,,,,,,,Tuesday,Poster 1.2,43,Lu Yu,"Lu Yu, Vacit Oguz Yazici, Xialei Liu, Joost van de Weijer, Yongmei Cheng, Arnau Ramisa"
 157,SIXray: A Large-Scale Security Inspection X-Ray Benchmark for Prohibited Item Discovery in Overlapping Images,25,https://github.com/MeioJane/SIXray,,,,,,,Tuesday,Poster 1.1,214,Caijing Miao,"Caijing Miao, Lingxi Xie, Fang Wan, Chi Su, Hongye Liu, Jianbin Jiao, Qixiang Ye"
-158,TextureNet: Consistent Local Parametrizations for Learning From High-Resolution Signals on Meshes,25,https://github.com/hjwdzh/TextureNet,,,,Wednesday,Oral 2.1B,8:40,Wednesday,Poster 2.1,108,Jingwei Huang,"Jingwei Huang, Haotian Zhang, Li Yi, Thomas Funkhouser, Matthias Niessner, and Leonidas Guibas"
+158,TextureNet: Consistent Local Parametrizations for Learning From High-Resolution Signals on Meshes,25,https://github.com/hjwdzh/TextureNet,,,,Wednesday,Oral 2.1B,08:40,Wednesday,Poster 2.1,108,Jingwei Huang,"Jingwei Huang, Haotian Zhang, Li Yi, Thomas Funkhouser, Matthias Niessner, and Leonidas Guibas"
 159,WarpGAN: Automatic Caricature Generation,24,https://github.com/seasonSH/WarpGAN,,,,Thursday,Oral 3.2A,14:52,Thursday,Poster 3.2,15,Yichun Shi,"Yichun Shi, Debayan Deb, Anil K. Jain"
 160,Camera Lens Super-Resolution,24,https://github.com/ngchc/CameraSR,,,,,,,Tuesday,Poster 1.1,167,Chang Chen,"Chang Chen, Zhiwei Xiong, Xinmei Tian, Zheng-Jun Zha, Feng Wu"
 161,LaSOT: A High-Quality Benchmark for Large-Scale Single Object Tracking,24,https://github.com/HengLan/LaSOT_Evaluation_Toolkit,,https://cis.temple.edu/lasot/,,,,,Wednesday,Poster 2.1,83,Heng Fan,"Heng Fan, Liting Lin, Fan Yang, Peng Chu, Ge Deng, Sijia Yu, Hexin Bai, Yong Xu, Chunyuan Liao, Haibin Ling"
@@ -165,7 +165,7 @@
 164,Superquadrics Revisited: Learning 3D Shape Parsing Beyond Cuboids,23,https://github.com/paschalidoud/superquadric_parsing,,,,,,,Thursday,Poster 3.1,173,Despoina Paschalidou,"Despoina Paschalidou, Ali Osman Ulusoy, Andreas Geiger"
 165,Noise2Void - Learning Denoising From Single Noisy Images,23,https://github.com/juglab/n2v,,,,,,,Tuesday,Poster 1.1,215,Alexander Krull,"Alexander Krull, Tim-Oliver Buchholz, Florian Jug"
 166,Transfer Learning via Unsupervised Task Discovery for Visual Question Answering,23,https://github.com/HyeonwooNoh/vqa_task_discovery,,,,,,,Wednesday,Poster 2.2,203,Hyeonwoo Noh,"Hyeonwoo Noh, Taehoon Kim, Jonghwan Mun, Bohyung Han"
-167,Generating Classification Weights With GNN Denoising Autoencoders for Few-Shot Learning,23,https://github.com/gidariss/wDAE_GNN_FewShot,,,,Tuesday,Oral 1.1A,9:10,Tuesday,Poster 1.1,3,Spyros Gidaris,"Spyros Gidaris, Nikos Komodakis"
+167,Generating Classification Weights With GNN Denoising Autoencoders for Few-Shot Learning,23,https://github.com/gidariss/wDAE_GNN_FewShot,,,,Tuesday,Oral 1.1A,09:10,Tuesday,Poster 1.1,3,Spyros Gidaris,"Spyros Gidaris, Nikos Komodakis"
 168,Generalized Zero- and Few-Shot Learning via Aligned Variational Autoencoders,23,https://github.com/edgarschnfld/CADA-VAE-PyTorch,,,,,,,Wednesday,Poster 2.2,171,Edgar Schonfeld,"Edgar Sch?nfeld, Sayna Ebrahimi, Samarth Sinha, Trevor Darrell, Zeynep Akata"
 169,Semantically Tied Paired Cycle Consistency for Zero-Shot Sketch-Based Image Retrieval,23,https://github.com/AnjanDutta/sem-pcyc,,,,,,,Wednesday,Poster 2.1,54,Anjan Dutta,"Anjan Dutta, Zeynep Akata "
 170,Knowledge-Embedded Routing Network for Scene Graph Generation,22,https://github.com/yuweihao/KERN,,,,,,,Wednesday,Poster 2.1,193,Tianshui Chen,"Tianshui Chen, Weihao Yu, Riquan Chen, Liang Lin "
@@ -184,7 +184,7 @@
 183,Learning to Adapt for Stereo,18,https://github.com/CVLAB-Unibo/Learning2AdaptForStereo,,,,,,,Thursday,Poster 3.1,103,Alessio Tonioni,"Alessio Tonioni, Oscar Rahnama, Thomas Joy, Luigi Di Stefano, Thalaiyasingam Ajanthan, Philip H. S. Torr"
 184,Deep RNN Framework for Visual Sequential Applications,17,https://github.com/BoPang1996/Deep-RNN-Framework,,,,,,,Tuesday,Poster 1.1,19,Bo Pang,"Bo Pang, Kaiwen Zha, Hanwen Cao, Chen Shi, Cewu Lu"
 185,Leveraging Shape Completion for 3D Siamese Tracking,16,https://github.com/SilvioGiancola/ShapeCompletion3DTracking,,,,,,,Tuesday,Poster 1.1,137,Silvio Giancola,"Silvio Giancola, Jesus Zarzar, Bernard Ghanem"
-186,JSIS3D: Joint Semantic-Instance Segmentation of 3D Point Clouds With Multi-Task Pointwise Networks and Multi-Value Conditional Random Fields,16,https://github.com/pqhieu/JSIS3D,,https://pqhieu.github.io/cvpr19.html?,,Thursday,Oral 3.1C,8:35,Thursday,Poster 3.1,56,Quang-Hieu Pham,"Quang-Hieu Pham, Duc Thanh Nguyen, Binh-Son Hua, Gemma Roig, Sai-Kit Yeung "
+186,JSIS3D: Joint Semantic-Instance Segmentation of 3D Point Clouds With Multi-Task Pointwise Networks and Multi-Value Conditional Random Fields,16,https://github.com/pqhieu/JSIS3D,,https://pqhieu.github.io/cvpr19.html?,,Thursday,Oral 3.1C,08:35,Thursday,Poster 3.1,56,Quang-Hieu Pham,"Quang-Hieu Pham, Duc Thanh Nguyen, Binh-Son Hua, Gemma Roig, Sai-Kit Yeung "
 187,Unsupervised Embedding Learning via Invariant and Spreading Instance Feature,16,https://github.com/mangye16/Unsupervised_Embedding_Learning,,,,,,,Wednesday,Poster 2.1,198,Mang Ye,"Mang Ye, Xu Zhang, Pong C. Yuen, Shih-Fu Chang"
 188,SparseFool: A Few Pixels Make a Big Difference,16,https://github.com/LTS4/SparseFool,,,,,,,Thursday,Poster 3.1,14,Apostolos Modas,"Apostolos Modas, Seyed-Mohsen Moosavi-Dezfooli, Pascal Frossard"
 189,Actional-Structural Graph Convolutional Networks for Skeleton-Based Action Recognition,16,https://github.com/limaosen0/AS-GCN,,,,,,,Tuesday,Poster 1.2,112,Maosen Li,"Maosen Li, Siheng Chen, Xu Chen, Ya Zhang, Yanfeng Wang, and Qi Tian "
@@ -197,7 +197,7 @@
 196,AET vs. AED: Unsupervised Representation Learning by Auto-Encoding Transformations Rather Than Data,14,https://github.com/maple-research-lab/AET,,,,Tuesday,Oral 1.2C,13:58,Tuesday,Poster 1.2,171,Liheng Zhang,"Liheng Zhang, Guo-Jun Qi, Liqiang Wang, Jiebo Luo"
 197,Label Efficient Semi-Supervised Learning via Graph Filtering,14,https://github.com/liqimai/Efficient-SSL,,,,,,,Thursday,Poster 3.1,95,Qimai Li,Qimai Li£¬Xiao-Ming Wu£¬Han Liu£¬Xiaotong Zhang
 198,REPAIR: Removing Representation Bias by Dataset Resampling,14,https://github.com/JerryYLi/Dataset-REPAIR,,,,,,,Thursday,Poster 3.1,94,Yi Li,"Yi Li, Nuno Vasconcelos"
-199,BubbleNets: Learning to Select the Guidance Frame in Video Object Segmentation by Deep Sorting Frames,14,https://github.com/griffbr/BubbleNets,,,,Thursday,Oral 3.1C,9:29,Thursday,Poster 3.1,65,Brent A. Griffin,"Brent A. Griffin, Jason J. Corso"
+199,BubbleNets: Learning to Select the Guidance Frame in Video Object Segmentation by Deep Sorting Frames,14,https://github.com/griffbr/BubbleNets,,,,Thursday,Oral 3.1C,09:29,Thursday,Poster 3.1,65,Brent A. Griffin,"Brent A. Griffin, Jason J. Corso"
 200,ELASTIC: Improving CNNs With Dynamic Scaling Policies,14,https://github.com/allenai/elastic,,,,Tuesday,Oral 1.2A,14:42,Tuesday,Poster 1.2,30,Huiyu Wang,"Huiyu Wang, Aniruddha Kembhavi, Ali Farhadi, Alan Yuille, Mohammad Rastegari"
 201,Learning Actor Relation Graphs for Group Activity Recognition,13,https://github.com/wjchaoGit/Group-Activity-Recognition,,,,,,,Thursday,Poster 3.1,134,Jianchao Wu,"Jianchao Wu, Limin Wang, Li Wang, Jie Guo, Gangshan Wu"
 202,Sliced Wasserstein Generative Models,13,https://github.com/musikisomorphie/swd,,,,,,,Tuesday,Poster 1.2,142,Jiqing Wu,"Jiqing Wu, Zhiwu Huang, Dinesh Acharya, Wen Li, Janine Thoma, Danda Pani Paudel, Luc Van Gool"
@@ -211,11 +211,11 @@
 210,Unsupervised Learning of Action Classes With Continuous Temporal Embedding,12,https://github.com/annusha/unsup_temp_embed,,,,,,,Thursday,Poster 3.2,129,Anna Kukleva,"Anna Kukleva, Hilde Kuehne, Fadime Sener, Juergen Gall"
 211,Elastic Boundary Projection for 3D Medical Image Segmentation,11,https://github.com/twni2016/Elastic-Boundary-Projection,,,,,,,Tuesday,Poster 1.1,213,Tianwei Ni,"Tianwei Ni, Lingxi Xie, Huangjie Zheng, Elliot K. Fishman, Alan L. Yuille"
 212,Learning Regularity in Skeleton Trajectories for Anomaly Detection in Videos,11,https://github.com/RomeroBarata/skeleton_based_anomaly_detection,,,,,,,Thursday,Poster 3.2,122,Romero Morais,"Romero Morais, Vuong Le, Truyen Tran, Budhaditya Saha, Moussa Mansour, Svetha Venkatesh "
-213,Timeception for Complex Action Recognition,11,https://github.com/noureldien/timeception,,,,Tuesday,Oral 1.1C,9:05,Tuesday,Poster 1.1,110,Noureldien Hussein,"Noureldien Hussein, Efstratios Gavves, Arnold W.M. Smeulders"
+213,Timeception for Complex Action Recognition,11,https://github.com/noureldien/timeception,,,,Tuesday,Oral 1.1C,09:05,Tuesday,Poster 1.1,110,Noureldien Hussein,"Noureldien Hussein, Efstratios Gavves, Arnold W.M. Smeulders"
 214,Query-Guided End-To-End Person Search,11,https://github.com/munjalbharti/Query-guided-End-to-End-Person-Search,,,,,,,Tuesday,Poster 1.1,58,Bharti Munjal,"Bharti Munjal, Sikandar Amin, Federico Tombari, Fabio Galasso"
 215,Lending Orientation to Neural Networks for Cross-View Geo-Localization,11,https://github.com/Liumouliu/OriCNN,,,,,,,Wednesday,Poster 2.1,123,Liu Liu,"Liu Liu, Hongdong Li"
 216,Conditional Single-View Shape Generation for Multi-View Stereo Reconstruction,10,https://github.com/weiyithu/OptimizeMVS,,,,,,,Thursday,Poster 3.1,102,Yi Wei,"Yi Wei, Shaohui Liu, Wang Zhao, Jiwen Lu, Jie Zhou"
-217,MHP-VOS: Multiple Hypotheses Propagation for Video Object Segmentation,10,https://github.com/shuangjiexu/MHP-VOS,,,,Tuesday,Oral 1.1C,9:41,Tuesday,Poster 1.1,116,Shuangjie Xu,"Shuangjie Xu, Daizong Liu, Linchao Bao, Wei Liu, Pan Zhou"
+217,MHP-VOS: Multiple Hypotheses Propagation for Video Object Segmentation,10,https://github.com/shuangjiexu/MHP-VOS,,,,Tuesday,Oral 1.1C,09:41,Tuesday,Poster 1.1,116,Shuangjie Xu,"Shuangjie Xu, Daizong Liu, Linchao Bao, Wei Liu, Pan Zhou"
 218,BASNet: Boundary-Aware Salient Object Detection,10,https://github.com/NathanUA/BASNet,,,,,,,Wednesday,Poster 2.2,75,Xuebin Qin,"Zichen Zhang, Chenyang Huang, Chao Gao, Masood Dehghan and Martin Jagersand"
 219,Dual Residual Networks Leveraging the Potential of Paired Operations for Image Restoration,10,https://github.com/liu-vis/DualResidualNetworks,,,,,,,Wednesday,Poster 2.2,8,Xing Liu,"Xing Liu, Masanori Suganuma, Zhun Sun, Takayuki Okatani"
 220,Scale-Adaptive Neural Dense Features: Learning via Hierarchical Context Aggregation,10,https://github.com/jspenmar/SAND_features,,,,,,,Wednesday,Poster 2.1,197,Jaime Spencer,"Jaime Spencer, Richard Bowden, Simon Hadfield"
@@ -231,20 +231,20 @@
 230,Iterative Normalization: Beyond Standardization Towards Efficient Whitening,9,https://github.com/huangleiBuaa/IterNorm,,,,,,,Wednesday,Poster 2.1,32,Lei Huang,"Lei Huang, Yi Zhou, Fan Zhu, Li Liu, Ling Shao "
 231,Multi-Source Weak Supervision for Saliency Detection,8,https://github.com/zengxianyu/mws,,,,,,,Wednesday,Poster 2.1,184,Yu Zeng,"Yu Zeng, Yunzhi Zhuge, Huchuan Lu, Lihe Zhang, Mingyang Qian, Yizhou Yu "
 232,A Cross-Season Correspondence Dataset for Robust Semantic Segmentation,8,https://github.com/maunzzz/cross-season-segmentation,,,,,,,Thursday,Poster 3.1,75,Mans Larsson,"M?ns Larsson, Erik Stenborg, Lars Hammarstrand, Torsten Sattler, Mark Pollefeys, Fredrik Kahl "
-233,Edge-Labeling Graph Neural Network for Few-Shot Learning,8,https://github.com/khy0809/fewshot-egnn,,,,Tuesday,Oral 1.1A,9:05,Tuesday,Poster 1.1,2,Jongmin Kim,"Jongmin Kim, Taesup Kim, Sungwoong Kim, Chang D. Yoo"
+233,Edge-Labeling Graph Neural Network for Few-Shot Learning,8,https://github.com/khy0809/fewshot-egnn,,,,Tuesday,Oral 1.1A,09:05,Tuesday,Poster 1.1,2,Jongmin Kim,"Jongmin Kim, Taesup Kim, Sungwoong Kim, Chang D. Yoo"
 234,HetConv: Heterogeneous Kernel-Based Convolutions for Deep CNNs,8,https://github.com/irvinxav/Efficient-HetConv-Heterogeneous-Kernel-Based-Convolutions,,,,,,,Wednesday,Poster 2.1,28,Pravendra Singh,"Pravendra Singh, Vinay Kumar Verma, Piyush Rai, Vinay P. Namboodiri "
 235,Heterogeneous Memory Enhanced Multimodal Attention Model for Video Question Answering,8,https://github.com/fanchenyou/HME-VideoQA,,,,,,,Tuesday,Poster 1.1,202,Chenyou Fan,"Chenyou Fan, Xiaofan Zhang, Shu Zhang, Wensheng Wang, Chi Zhang, Heng Huang"
-236,2.5D Visual Sound,8,https://github.com/facebookresearch/FAIR-Play,,http://vision.cs.utexas.edu/projects/2.5D_visual_sound/,,Tuesday,Oral 1.1C,9:46,Tuesday,Poster 1.1,117,Ruohan Gao,"Ruohan Gao, Kristen Grauman"
+236,2.5D Visual Sound,8,https://github.com/facebookresearch/FAIR-Play,,http://vision.cs.utexas.edu/projects/2.5D_visual_sound/,,Tuesday,Oral 1.1C,09:46,Tuesday,Poster 1.1,117,Ruohan Gao,"Ruohan Gao, Kristen Grauman"
 237,DLOW: Domain Flow for Adaptation and Generalization,8,https://github.com/ETHRuiGong/DLOW,,,,Tuesday,Oral 1.2B,15:05,Tuesday,Poster 1.2,134,Rui Gong,"Rui Gong, Wen Li, Yuhua Chen, Luc Van Gool"
 238,Vision-Based Navigation With Language-Based Assistance via Imitation Learning With Indirect Intervention,8,https://github.com/debadeepta/vnla,,,,,,,Thursday,Poster 3.2,194,Khanh Nguyen,"Khanh Nguyen, Debadeepta Dey, Chris Brockett, Bill Dolan"
 239,Nesti-Net: Normal Estimation for Unstructured 3D Point Clouds Using Convolutional Neural Networks,7,https://github.com/sitzikbs/Nesti-Net,,,,,,,Thursday,Poster 3.1,149,Yizhak Ben-Shabat,"Yizhak Ben-Shabat, Michael Lindenbaum, Anath Fischer"
-240,Kervolutional Neural Networks,7,https://github.com/gan3sh500/kervolution-pytorch,,,,Tuesday,Oral 1.1A,9:18,Tuesday,Poster 1.1,4,Chen Wang,"Chen Wang, Jianfei Yang, Lihua Xie, Junsong Yuan"
+240,Kervolutional Neural Networks,7,https://github.com/gan3sh500/kervolution-pytorch,,,,Tuesday,Oral 1.1A,09:18,Tuesday,Poster 1.1,4,Chen Wang,"Chen Wang, Jianfei Yang, Lihua Xie, Junsong Yuan"
 241,Noise-Aware Unsupervised Deep Lidar-Stereo Fusion,7,https://github.com/AvrilCheng/LidarStereoNet,,,,,,,Wednesday,Poster 2.1,211,Xuelian Cheng,"Xuelian Cheng, Yiran Zhong, Yuchao Dai, Pan Ji, Hongdong Li"
 242,Iterative Reorganization With Weak Spatial Constraints: Solving Arbitrary Jigsaw Puzzles for Unsupervised Representation Learning,6,https://github.com/weichen582/Unsupervised-Visual-Recognition-by-Solving-Arbitrary-Puzzles,,,,,,,Tuesday,Poster 1.1,193,Chen Wei,"Chen Wei, Lingxi Xie, Xutong Ren, Yingda Xia, Chi Su, Jiaying Liu, Qi Tian, Alan L. Yuille "
 243,Variational Prototyping-Encoder: One-Shot Learning With Prototypical Images,6,https://github.com/mibastro/VPE,,,,,,,Thursday,Poster 3.1,53,Junsik Kim,"Junsik Kim, Tae-Hyun Oh, Seokju Lee, Fei Pan, In So Kweon"
 244,Learning Cross-Modal Embeddings With Adversarial Networks for Cooking Recipes and Food Images,6,https://github.com/LARC-CMU-SMU/ACME,,,,,,,Thursday,Poster 3.2,61,Hao Wang,"Hao Wang, Doyen Sahoo, Chenghao Liu, Ee-peng Lim, Steven C. H. Hoi?"
 245,Unsupervised Open Domain Recognition by Semantic Discrepancy Minimization,6,https://github.com/junbaoZHUO/UODTN,,,,,,,Tuesday,Poster 1.1,52,Junbao Zhuo,"Junbao Zhuo, Shuhui Wang, Shuhao Cui, Qingming Huang"
-246,A Generative Appearance Model for End-To-End Video Object Segmentation,6,https://github.com/joakimjohnander/agame-vos,,,,Thursday,Oral 3.1C,9:52,Thursday,Poster 3.1,69,Joakim Johnander,"Joakim Johnander, Martin Danelljan, Emil Brissman, Fahad Shahbaz Khan, Michael Felsberg"
+246,A Generative Appearance Model for End-To-End Video Object Segmentation,6,https://github.com/joakimjohnander/agame-vos,,,,Thursday,Oral 3.1C,09:52,Thursday,Poster 3.1,69,Joakim Johnander,"Joakim Johnander, Martin Danelljan, Emil Brissman, Fahad Shahbaz Khan, Michael Felsberg"
 247,Dance With Flow: Two-In-One Stream Action Detection,6,https://github.com/jiaozizhao/Two-in-One-ActionDetection,,,,,,,Thursday,Poster 3.1,131,Jiaojiao Zhao,"Jiaojiao Zhao, Cees G.M. Snoek"
 248,Towards Visual Feature Translation,6,https://github.com/hujiecpp/VisualFeatureTranslation,,,,,,,Tuesday,Poster 1.2,53,Jie Hu,"Jie Hu, Rongrong Ji, Hong Liu, Shengchuan Zhang, Cheng Deng, Qi Tian"
 249,"Good News, Everyone! Context Driven Entity-Aware Captioning for News Images",6,https://github.com/furkanbiten/GoodNews,,,,,,,Thursday,Poster 3.2,188,Ali Furkan Biten,"Ali Furkan Biten, Lluis Gomez, Mar?al Rusi?ol, Dimosthenis Karatzas"
@@ -261,17 +261,17 @@
 260,Cross-Task Weakly Supervised Learning From Instructional Videos,5,https://github.com/DmZhukov/CrossTask,,,,,,,Tuesday,Poster 1.2,106,Dimitri Zhukov,"Dimitri Zhukov, Jean-Baptiste Alayrac, Ramazan Gokberk Cinbis, David Fouhey, Ivan Laptev, Josef Sivic"
 261,RENAS: Reinforced Evolutionary Neural Architecture Search,4,https://github.com/yukang2017/RENAS,,,,,,,Wednesday,Poster 2.1,23,Yukang Chen,"Yukang Chen, Gaofeng Meng, Qian Zhang, Shiming Xiang, Chang Huang, Lisen Mu, Xinggang Wang"
 262,PCAN: 3D Attention Map Learning Using Contextual Information for Point Cloud Based Retrieval,4,https://github.com/XLechter/PCAN,,,,,,,Thursday,Poster 3.2,185,Wenxiao Zhang,"Wenxiao Zhang, Chunxia Xiao"
-263,Content Authentication for Neural Imaging Pipelines: End-To-End Optimization of Photo Provenance in Complex Distribution Channels,4,https://github.com/pkorus/neural-imaging,,,,Thursday,Oral 3.1A,9:29,Thursday,Poster 3.1,200,Pawel Korus,"Pawel Korus, Nasir Memon"
+263,Content Authentication for Neural Imaging Pipelines: End-To-End Optimization of Photo Provenance in Complex Distribution Channels,4,https://github.com/pkorus/neural-imaging,,,,Thursday,Oral 3.1A,09:29,Thursday,Poster 3.1,200,Pawel Korus,"Pawel Korus, Nasir Memon"
 264,Bringing a Blurry Frame Alive at High Frame-Rate With an Event Camera,4,https://github.com/panpanfei/Bringing-a-Blurry-Frame-Alive-at-High-Frame-Rate-with-an-Event-Camera,,,,Wednesday,Oral 2.2C,14:06,Wednesday,Poster 2.2,136,Liyuan Pan,"Liyuan Pan, Cedric Scheerlinck, Xin Yu, Richard Hartley, Miaomiao Liu, Yuchao Dai"
-265,SDRSAC: Semidefinite-Based Randomized Approach for Robust Point Cloud Registration Without Correspondences,4,https://github.com/intellhave/SDRSAC,,,,Tuesday,Oral 1.1B,9:00,Tuesday,Poster 1.1,72,Huu M. Le,"Huu Le, Thanh-Toan Do, Tuan Hoang, Ngai-Man Cheung"
+265,SDRSAC: Semidefinite-Based Randomized Approach for Robust Point Cloud Registration Without Correspondences,4,https://github.com/intellhave/SDRSAC,,,,Tuesday,Oral 1.1B,09:00,Tuesday,Poster 1.1,72,Huu M. Le,"Huu Le, Thanh-Toan Do, Tuan Hoang, Ngai-Man Cheung"
 266,A Simple Baseline for Audio-Visual Scene-Aware Dialog,4,https://github.com/idansc/simple-avsd,,,,,,,Thursday,Poster 3.2,196,Idan Schwartz,"Idan Schwartz, Alexander Schwing, Tamir Hazan"
 267,Iterative Residual CNNs for Burst Photography Applications,4,https://github.com/cig-skoltech/burst-cvpr-2019,,,,,,,Wednesday,Poster 2.1,169,Filippos Kokkinos,Filippos Kokkinos ? Stamatis Lefkimmiatis 
 268,Art2Real: Unfolding the Reality of Artworks via Semantically-Aware Image-To-Image Translation,4,https://github.com/aimagelab/art2real,,,,,,,Wednesday,Poster 2.1,161,Matteo Tomei,"Matteo Tomei, Marcella Cornia, Lorenzo Baraldi, Rita Cucchiara"
 269,Activity Driven Weakly Supervised Object Detection,3,https://github.com/zhenheny/ADWSOD,,,,,,,Tuesday,Poster 1.2,44,Zhenheng Yang,"Zhenheng Yang, Dhruv Mahajan, Deepti Ghadiyaram, Ram Nevatia, Vignesh Ramanathan"
-270,IP102: A Large-Scale Benchmark Dataset for Insect Pest Recognition,3,https://github.com/xpwu95/IP102,,,,Thursday,Oral 3.1B,9:42,Thursday,Poster 3.1,89,Xiaoping Wu,Xiaoping Wu£¬Chi Zhan£¬Yu-Kun Lai£¬Ming-Ming Cheng£¬Jufeng Yang
+270,IP102: A Large-Scale Benchmark Dataset for Insect Pest Recognition,3,https://github.com/xpwu95/IP102,,,,Thursday,Oral 3.1B,09:42,Thursday,Poster 3.1,89,Xiaoping Wu,Xiaoping Wu£¬Chi Zhan£¬Yu-Kun Lai£¬Ming-Ming Cheng£¬Jufeng Yang
 271,Distilling Object Detectors With Fine-Grained Feature Imitation,3,https://github.com/twangnh/Distilling-Object-Detectors,,,,,,,Wednesday,Poster 2.1,38,Tao Wang,Tao Wang£¬Li Yuan£¬Xiaopeng Zhang£¬Jiashi Feng
 272,Dynamics Are Important for the Recognition of Equine Pain in Video,3,https://github.com/sofiabroome/painface-recognition,,,,,,,Thursday,Poster 3.2,208,Sofia Broome,"Sofia Broom¨¦, Karina Bech Gleerup, Pia Haubro Andersen, Hedvig Kjellstr?m"
-273,ContactDB: Analyzing and Predicting Grasp Contact via Thermal Imaging,3,https://github.com/samarth-robo/contactdb_prediction,,,,Thursday,Oral 3.1B,8:53,Thursday,Poster 3.1,81,Samarth Brahmbhatt,"Samarth Brahmbhatt, Cusuh Ham, Charles C. Kemp, and James Hays"
+273,ContactDB: Analyzing and Predicting Grasp Contact via Thermal Imaging,3,https://github.com/samarth-robo/contactdb_prediction,,,,Thursday,Oral 3.1B,08:53,Thursday,Poster 3.1,81,Samarth Brahmbhatt,"Samarth Brahmbhatt, Cusuh Ham, Charles C. Kemp, and James Hays"
 274,SIGNet: Semantic Instance Aided Unsupervised 3D Geometry Perception,3,https://github.com/mengyuest/SIGNet,,https://mengyuest.github.io/SIGNet/,,,,,Thursday,Poster 3.1,118,Yue Meng,"Y. Meng, Y. Lu, A. Raj, S. Sunarjo, R. Guo, T. Javidi, G. Bansal, D. Bharadia"
 275,Representation Similarity Analysis for Efficient Task Taxonomy & Transfer Learning,3,https://github.com/kshitijd20/RSA-CVPR19-release,,,,,,,Thursday,Poster 3.2,180,Kshitij Dwivedi,"Kshitij Dwivedi, Gemma Roig"
 276,AIRD: Adversarial Learning Framework for Image Repurposing Detection,3,https://github.com/isi-vista/AIRD-Datasets,,,,,,,Thursday,Poster 3.2,36,Ayush Jaiswal,"Ayush Jaiswal, Yue Wu, Wael AbdAlmageed, Iacopo Masi, Premkumar Natarajan"
@@ -292,7 +292,7 @@
 291,Learning Not to Learn: Training Deep Neural Networks With Biased Data,1,https://github.com/feidfoe/learning-not-to-learn,,,,,,,Thursday,Poster 3.1,6,Byungju Kim,"Byungju Kim, Hyunwoo Kim, Kyungsu Kim, Sungjin Kim, Junmo Kim"
 292,A-CNN: Annularly Convolutional Neural Networks on Point Clouds,1,https://github.com/artemkomarichev/a-cnn,,,,,,,Wednesday,Poster 2.2,69,Artem Komarichev,"Artem Komarichev, Zichun Zhong, Jing Hua"
 293,Unsupervised Deep Epipolar Flow for Stationary or Dynamic Scenes,0,https://github.com/yiranzhong/EPIflow.git,,,,,,,Thursday,Poster 3.2,132,Yiran Zhong,"Yiran Zhong, Pan Ji, Jianyuan Wang, Yuchao Dai, Hongdong Li"
-294,Unsupervised Visual Domain Adaptation: A Deep Max-Margin Gaussian Process Approach,0,https://github.com/seqam-lab/GPDA,,,,Wednesday,Oral 2.1A,9:34,Wednesday,Poster 2.1,12,Minyoung Kim,"Minyoung Kim, Pritish Sahu, Behnam Gholami, Vladimir Pavlovic"
+294,Unsupervised Visual Domain Adaptation: A Deep Max-Margin Gaussian Process Approach,0,https://github.com/seqam-lab/GPDA,,,,Wednesday,Oral 2.1A,09:34,Wednesday,Poster 2.1,12,Minyoung Kim,"Minyoung Kim, Pritish Sahu, Behnam Gholami, Vladimir Pavlovic"
 295,Understanding and Visualizing Deep Visual Saliency Models,0,https://github.com/SenHe/uavdvsm,,,,,,,Thursday,Poster 3.1,159,Sen He,"Sen He, Hamed R. Tavakoli, Ali Borji, Yang Mi, Nicolas Pugeault"
 296,Detecting Overfitting of Deep Generative Networks via Latent Recovery,0,https://github.com/ryanwebster90/gen-overfitting-latent-recovery,,,,,,,Thursday,Poster 3.2,30,Ryan Webster,"Ryan Webster,?Julien Rabin,?Loic Simon,?Frederic Jurie"
 297,Understanding the Disharmony Between Dropout and Batch Normalization by Variance Shift,0,https://github.com/rileykwok/Food-Classification,,,,,,,Tuesday,Poster 1.2,2,Xiang Li,"Xiang Li, Shuo Chen, Xiaolin Hu, Jian Yang"
@@ -307,16 +307,16 @@
 306,Unequal-Training for Deep Face Recognition With Long-Tailed Noisy Data,,https://github.com/zhongyy/Unequal-Training-for-Deep-Face-Recognition-with-Long-Tailed-Noisy-Data,,,,,,,Wednesday,Poster 2.2,109,Yaoyao Zhong,"Yaoyao Zhong, Weihong Deng,Mei Wang, Jiani Hu,Jianteng Peng, Xunqiang Tao, Yaohai Huang"
 307,Large-Scale Long-Tailed Recognition in an Open World,,https://github.com/zhmiao/OpenLongTailRecognition-OLTR,,,,Tuesday,Oral 1.2C,13:53,Tuesday,Poster 1.2,170,Ziwei Liu,"Ziwei Liu*, Zhongqi Miao*, Xiaohang Zhan, Jiayun Wang, Boqing Gong, Stella X. Yu"
 308,Disentangling Latent Space for VAE by Label Relevant/Irrelevant Dimensions,,https://github.com/ZhilZheng/Lr-LiVAE,,,,,,,Thursday,Poster 3.2,142,Zhilin Zheng,"Zhilin Zheng, Li Sun"
-309,Extreme Relative Pose Estimation for RGB-D Scans via Scene Completion,,https://github.com/zhenpeiyang/RelativePose,,,,Wednesday,Oral 2.1B,9:34,Wednesday,Poster 2.1,117,Zhenpei Yang,"Zhenpei Yang, Jeffrey Z.Pan, Linjie Luo, Xiaowei Zhou, Kristen Grauman and Qixing Huang"
+309,Extreme Relative Pose Estimation for RGB-D Scans via Scene Completion,,https://github.com/zhenpeiyang/RelativePose,,,,Wednesday,Oral 2.1B,09:34,Wednesday,Poster 2.1,117,Zhenpei Yang,"Zhenpei Yang, Jeffrey Z.Pan, Linjie Luo, Xiaowei Zhou, Kristen Grauman and Qixing Huang"
 310,Learning Spatio-Temporal Representation With Local and Global Diffusion,,https://github.com/ZhaofanQiu/local-and-global-diffusion-networks,,,,,,,Thursday,Poster 3.2,128,Zhaofan Qiu,
-311,Image Generation From Layout,,https://github.com/zhaobozb/layout2im,,,,Thursday,Oral 3.1A,9:06,Thursday,Poster 3.1,196,Bo Zhao,"Bo Zhao, Lili Meng,Weidong Yin, Leonid Sigal"
+311,Image Generation From Layout,,https://github.com/zhaobozb/layout2im,,,,Thursday,Oral 3.1A,09:06,Thursday,Poster 3.1,196,Bo Zhao,"Bo Zhao, Lili Meng,Weidong Yin, Leonid Sigal"
 312,CapSal: Leveraging Captioning to Boost Semantics for Salient Object Detection,,https://github.com/zhangludl/code-and-dataset-for-CapSal?,,,,,,,Wednesday,Poster 2.1,179,Lu Zhang,Lu Zhang; Huchuan Lu ; Zhe Lin ; Jianming Zhang; You He
 313,CRAVES: Controlling Robotic Arm With a Vision-Based Economic System,,https://github.com/zfw1226/craves_control,,,,,,,Tuesday,Poster 1.2,211,Yiming Zuo,"Zuo, Yiming and Qiu, Weichao and Xie, Lingxi and Zhong, Fangwei and Wang, Yizhou and Yuille, Alan L"
 314,Path-Invariant Map Networks,,https://github.com/zaiweizhang/path_invariance_map_network,,,,Thursday,Oral 3.2C,14:29,Thursday,Poster 3.2,157,Zaiwei Zhang,"Zaiwei Zhang, Zhenxiao Liang, Lemeng Wu, Xiaowei Zhou and Qixing Huang"
 315,Connecting Touch and Vision via Cross-Modal Prediction,,https://github.com/YunzhuLi/VisGel,,http://visgel.csail.mit.edu/,,,,,Thursday,Poster 3.1,215,Yunzhu Li,"Yunzhu Li,Jun-Yan Zhu,Russ Tedrake,and Antonio Torralba"
 316,Recursive Visual Attention in Visual Dialog,,https://github.com/yuleiniu/rva,,,,Wednesday,Oral 2.2B,14:29,Wednesday,Poster 2.2,187,Yulei Niu,"Yulei Niu, Hanwang Zhang, Manli Zhang, Jianhong Zhang, Zhiwu Lu, Ji-Rong Wen"
 317,Learning Semantic Segmentation From Synthetic Data: A Geometrically Guided Input-Output Adaptation Approach,,https://github.com/yuhuayc/gio-ada,,,,,,,Tuesday,Poster 1.1,186,Yuhua Chen,
-318,Side Window Filtering,,https://github.com/YuanhaoGong/SideWindowFilter ,,,,Thursday,Oral 3.1B,9:24,Thursday,Poster 3.1,86,Hui Yin,"Hui Yin, Yuanhao Gong, Guoping Qiu"
+318,Side Window Filtering,,https://github.com/YuanhaoGong/SideWindowFilter ,,,,Thursday,Oral 3.1B,09:24,Thursday,Poster 3.1,86,Hui Yin,"Hui Yin, Yuanhao Gong, Guoping Qiu"
 319,Learning to Cluster Faces on an Affinity Graph,,https://github.com/yl-1993/learn-to-cluster?,,,,Tuesday,Oral 1.2A,15:05,Tuesday,Poster 1.2,34,Lei Yang,"Lei Yang, Xiaohang Zhan, Dapeng Chen, Junjie Yan, Chen Change Loy, Dahua Lin"
 320,StoryGAN: A Sequential Conditional GAN for Story Visualization,,https://github.com/yitong91/StoryGAN,,,,,,,Wednesday,Poster 2.1,210,Yitong Li,"Yitong Li, Zhe Gan, Yelong Shen, Jingjing Liu, Yu Cheng, Yuexin Wu, Lawrence Carin, David Carlson, Jianfeng Gao"
 321,Im2Pencil: Controllable Pencil Illustration From Photographs,,https://github.com/Yijunmaverick/Im2Pencil?,,,,,,,Tuesday,Poster 1.1,154,Yijun Li,"Yijun Li,Chen Fang, Aaron Hertzmann, Eli Shechtman, Ming-Hsuan Yang"
@@ -339,10 +339,10 @@
 338,Text2Scene: Generating Compositional Scenes From Textual Descriptions,,https://github.com/uvavision/Text2Image?,,,,Wednesday,Oral 2.2B,14:47,Wednesday,Poster 2.2,190,Fuwen Tan,"Yitong Li, Zhe Gan, Yelong Shen, Jingjing Liu, Yu Cheng, Yuexin Wu, Lawrence Carin, David Carlson, Jianfeng Gao"
 339,TAFE-Net: Task-Aware Feature Embeddings for Low Shot Learning,,https://github.com/ucbdrive/tafe-net,,,,,,,Tuesday,Poster 1.1,185,Xin Wang,"Xin Wang, Fisher Yu, Ruth Wang, Trevor Darrell, Joseph E. Gonzalez"
 340,Large-Scale Distributed Second-Order Optimization Using Kronecker-Factored Approximate Curvature for Deep Convolutional Neural Networks,,https://github.com/tyohei/chainerkfac,,,,,,,Thursday,Poster 3.2,177,Kazuki Osawa,"Kazuki Osawa, Yohei Tsuji, Yuichiro Ueno, Akira Naruse, Rio Yokota, and Satoshi Matsuoka"
-341,Multispectral Imaging for Fine-Grained Recognition of Powders on Complex Backgrounds,,https://github.com/tiancheng-zhi/ms-powder,,http://www.cs.cmu.edu/~ILIM/projects/IM/MSPowder/?,,Thursday,Oral 3.1B,8:48,Thursday,Poster 3.1,80,Tiancheng Zhi,"Tiancheng Zhi, Bernardo R. Pires, Martial Hebert and Srinivasa G. Narasimhan"
+341,Multispectral Imaging for Fine-Grained Recognition of Powders on Complex Backgrounds,,https://github.com/tiancheng-zhi/ms-powder,,http://www.cs.cmu.edu/~ILIM/projects/IM/MSPowder/?,,Thursday,Oral 3.1B,08:48,Thursday,Poster 3.1,80,Tiancheng Zhi,"Tiancheng Zhi, Bernardo R. Pires, Martial Hebert and Srinivasa G. Narasimhan"
 342,Universal Domain Adaptation,,https://github.com/thuml/Universal-Domain-Adaptation?,,,,,,,Tuesday,Poster 1.2,6,Kaichao You,"Kaichao You, Mingsheng Long, Zhangjie Cao, Jianmin Wang, and Michael . Jordan"
 343,Learning to Transfer Examples for Partial Domain Adaptation,,https://github.com/thuml/ETN,,,,,,,Tuesday,Poster 1.2,51,Zhangjie Cao,"Zhangjie Cao, Kaichao You, Mingsheng Long, Jianmin Wang, Qiang Yang"
-344,Sphere Generative Adversarial Network Based on Geometric Moment Matching,,https://github.com/taki0112/SphereGAN-Tensorflow?,,,,Wednesday,Oral 2.1A,8:40,Wednesday,Poster 2.1,3,Sung Woo Park,Sung Woo Park and Junseok Kwon
+344,Sphere Generative Adversarial Network Based on Geometric Moment Matching,,https://github.com/taki0112/SphereGAN-Tensorflow?,,,,Wednesday,Oral 2.1A,08:40,Wednesday,Poster 2.1,3,Sung Woo Park,Sung Woo Park and Junseok Kwon
 345,Image-To-Image Translation via Group-Wise Deep Whitening-And-Coloring Transformation,,https://github.com/taki0112/GDWCT-Tensorflow,,,,Thursday,Oral 3.2A,13:35,Thursday,Poster 3.2,2,Wonwoong Cho,"Wonwoong Cho, Sungha Choi, David Keetae Park, Inkyu Shin, Jaegul Choo"
 346,Dissecting Person Re-Identification From the Viewpoint of Viewpoint,,https://github.com/sxzrt/Dissecting-Person-Re-ID-from-the-Viewpoint-of-Viewpoint,,,,,,,Tuesday,Poster 1.1,38,Xiaoxiao Sun,"Ting Zhao, Xiangqian Wu"
 347,Leveraging Crowdsourced GPS Data for Road Extraction From Aerial Imagery,,https://github.com/suniique/Leveraging-Crowdsourced-GPS-Data-for-Road-Extraction-from-Aerial-Imagery?,,,,,,,Wednesday,Poster 2.2,78,Tao Sun,"Tao Sun, Zonglin Di, Pengyu Che, Chun Liu, Yin Wang"
@@ -357,19 +357,19 @@
 356,Information Maximizing Visual Question Generation,,https://github.com/ranjaykrishna/iq,,,,,,,Tuesday,Poster 1.1,203,Ranjay Krishna,"Krishna, Ranjay and Bernstein, Michael and Fei-Fei, Li"
 357,Describing Like Humans: On Diversity in Image Captioning,,https://github.com/qingzwang/DiversityMetrics,,,,,,,Tuesday,Poster 1.2,209,Qingzhong Wang,"Qingzhong Wang, Antoni B. Chan"
 358,Representation Flow for Action Recognition,,https://github.com/piergiaj/representation-flow-cvpr19,,https://piergiaj.github.io/rep-flow-site/,,,,,Thursday,Poster 3.1,132,AJ Piergiovanni,"AJ Piergiovanni, Michael S. Ryoo"
-359,SiamRPN++: Evolution of Siamese Visual Tracking With Very Deep Networks,,https://github.com/PengBoXiangShang/SiamRPN_plus_plus_PyTorch,https://mp.weixin.qq.com/s/dB5u2No8eakLnrjto0kvyQ,http://bo-li.info/SiamRPN++/,,Wednesday,Oral 2.1A,8:35,Wednesday,Poster 2.1,2,Bo Li,"Bo Li, Wei Wu, Qiang Wang, Fangyi Zhang, Junliang Xing, Junjie Yan"
+359,SiamRPN++: Evolution of Siamese Visual Tracking With Very Deep Networks,,https://github.com/PengBoXiangShang/SiamRPN_plus_plus_PyTorch,https://mp.weixin.qq.com/s/dB5u2No8eakLnrjto0kvyQ,http://bo-li.info/SiamRPN++/,,Wednesday,Oral 2.1A,08:35,Wednesday,Poster 2.1,2,Bo Li,"Bo Li, Wei Wu, Qiang Wang, Fangyi Zhang, Junliang Xing, Junjie Yan"
 360,Hybrid Task Cascade for Instance Segmentation,,https://github.com/open-mmlab/mmdetection,https://mp.weixin.qq.com/s/xug0xKfc9RgJEUci1a_xog,,,,,,Wednesday,Poster 2.1,42,Kai Chen,"Kai Chen, Jiangmiao Pang, Jiaqi Wang, Yu Xiong, Xiaoxiao Li, Shuyang Sun, Wansen Feng, Ziwei Liu, Jianping Shi, Wanli Ouyang, Chen Change Loy, Dahua Lin"
 361,Region Proposal by Guided Anchoring,,https://github.com/open-mmlab/mmdetection,https://mp.weixin.qq.com/s/Sl958JkcJjy-HW9_c-SH4g,,,,,,Tuesday,Poster 1.2,49,Jiaqi Wang,"Jiaqi Wang, Kai Chen, Shuo Yang, Chen Change Loy, Dahua Lin"
 362,3D Appearance Super-Resolution With Deep Learning,,https://github.com/ofsoundof/3D_Appearance_SR,,,,,,,Thursday,Poster 3.1,104,Yawei Li,"Yawei Li, Vagia Tsiminaki, Radu Timofte, Marc Pollefeys, Luc van Gool"
 363,Devil Is in the Edges: Learning Semantic Boundaries From Noisy Annotations,,https://github.com/nv-tlabs/STEAL,,https://nv-tlabs.github.io/STEAL/?,,Thursday,Oral 3.2C,14:24,Thursday,Poster 3.2,156,David Acuna,"David Acuna, Amlan Kar, Sanja Fidler"
 364,Pixel-Adaptive Convolutional Neural Networks,,https://github.com/NVlabs/pacnet,,,,,,,Thursday,Poster 3.2,19,Hang Su,"Hang Su, Varun Jampani, Deqing Sun, Orazio Gallo, Erik Learned-Miller, and Jan Kautz."
-365,Convolutional Mesh Regression for Single-Image Human Shape Reconstruction,,https://github.com/nkolot/GraphCMR,,,,Wednesday,Oral 2.1B,9:16,Wednesday,Poster 2.1,114,Nikos Kolotouros,"Nikos Kolotouros, Georgios Pavlakos, Kostas Daniilidis"
+365,Convolutional Mesh Regression for Single-Image Human Shape Reconstruction,,https://github.com/nkolot/GraphCMR,,,,Wednesday,Oral 2.1B,09:16,Wednesday,Poster 2.1,114,Nikos Kolotouros,"Nikos Kolotouros, Georgios Pavlakos, Kostas Daniilidis"
 366,Unsupervised Face Normalization With Extreme Pose and Expression in the Wild,,https://github.com/mx54039q/fnm,,,,,,,Thursday,Poster 3.1,122,Yichen Qian,"Qian, Yichen and Deng, Weihong and Hu, Jiani"
 367,Deep Modular Co-Attention Networks for Visual Question Answering,,https://github.com/MILVLG/mcan-vqa,,,,,,,Wednesday,Poster 2.1,205,Zhou Yu,"Zhou Yu, Jun Yu, Yuhao Cui, Dacheng Tao, Qi Tian"
 368,Learning to Extract Flawless Slow Motion From Blurry Videos,,https://github.com/MeiguangJin/slow-motion,,,,,,,Wednesday,Poster 2.2,157,Meiguang Jin,"Jin, Meiguang and Hu, Zhe and Favaro, Paolo"
 369,Deep Video Inpainting,,https://github.com/mcahny/Deep_Video_Inpainting,,,,,,,Wednesday,Poster 2.1,155,Dahun Kim,"Dahun Kim, Sanghyun Woo, Joon-Young Lee, In So Kweon"
 370,Deep Blind Video Decaptioning by Temporal Aggregation and Recurrence,,https://github.com/mcahny/Deep_Blind_Video_Decaptioning?,,,,,,,Tuesday,Poster 1.2,216,Dahun Kim,"Dahun Kim, Sanghyun Woo, Joon-Young Lee, In So Kweon"
-371,Why ReLU Networks Yield High-Confidence Predictions Far Away From the Training Data and How to Mitigate the Problem,,https://github.com/max-andr/relu_networks_overconfident,,,,Tuesday,Oral 1.1A,9:23,Tuesday,Poster 1.1,5,Matthias Hein,"Matthias Hein, Maksym Andriushchenko, Julian Bitterwolf"
+371,Why ReLU Networks Yield High-Confidence Predictions Far Away From the Training Data and How to Mitigate the Problem,,https://github.com/max-andr/relu_networks_overconfident,,,,Tuesday,Oral 1.1A,09:23,Tuesday,Poster 1.1,5,Matthias Hein,"Matthias Hein, Maksym Andriushchenko, Julian Bitterwolf"
 372,Light Field Messaging With Deep Photographic Steganography,,https://github.com/mathski/LFM,,,,,,,Tuesday,Poster 1.1,153,Eric Wengrowski,Eric Wengrowski and Kristin Dana
 373,Seamless Scene Segmentation,,https://github.com/mapillary/seamseg,,,,,,,Wednesday,Poster 2.2,174,Lorenzo Porzi,"Lorenzo Porzi, Samuel Rota Bul¨°, Aleksander Colovic, Peter Kontschieder"
 374,Multi-Similarity Loss With General Pair Weighting for Deep Metric Learning,,https://github.com/MalongTech/research-ms-loss?,,,,,,,Wednesday,Poster 2.1,47,Xun Wang,"Xun Wang, Xintong Han, Weilin Huang, Dengke Dong, Matthew R. Scott"
@@ -382,15 +382,15 @@
 381,Bridging Stereo Matching and Optical Flow via Spatiotemporal Correspondence,,https://github.com/lelimite4444/BridgeDepthFlow ,,,,,,,Tuesday,Poster 1.1,191,Hsueh-Ying Lai,"Hsueh-Ying Lai, Yi-Hsuan Tsai, Wei-Chen Chiu"
 382,Hierarchical Cross-Modal Talking Face Generation With Dynamic Pixel-Wise Loss,,https://github.com/lelechen63/ATVGnet?,,,,,,,Wednesday,Poster 2.2,111,Lele Chen,"Lele Chen , Ross K Maddox, Zhiyao Duan, Chenliang Xu"
 383,Deep Metric Learning to Rank,,https://github.com/kunhe/FastAP-metric-learning,,,,,,,Tuesday,Poster 1.1,188,Fatih Cakir,"Fatih Cakir*,?Kun He*,?Xide Xia,?Brian Kulis, and?Stan Sclaroff"
-384,DeepCO3: Deep Instance Co-Segmentation by Co-Peak Search and Co-Saliency Detection,,https://github.com/KuangJuiHsu/DeepCO3?,,,,Thursday,Oral 3.1C,8:48,Thursday,Poster 3.1,58,Kuang-Jui Hsu,"Kuang-Jui Hsu, Yen-Yu Lin, Yung-Yu Chuang"
+384,DeepCO3: Deep Instance Co-Segmentation by Co-Peak Search and Co-Saliency Detection,,https://github.com/KuangJuiHsu/DeepCO3?,,,,Thursday,Oral 3.1C,08:48,Thursday,Poster 3.1,58,Kuang-Jui Hsu,"Kuang-Jui Hsu, Yen-Yu Lin, Yung-Yu Chuang"
 385,A Kernelized Manifold Mapping to Diminish the Effect of Adversarial Perturbations,,https://github.com/kakumarabhishek/KernelizedManifoldMapping-1,,,,,,,Thursday,Poster 3.2,37,Saeid Asgari Taghanaki,"Saeid Asgari Taghanaki, Kumar Abhishek, Shekoofeh Azizi, Ghassan Hamarneh"
 386,Learning to Compose Dynamic Tree Structures for Visual Contexts,,https://github.com/KaihuaTang/VCTree-Visual-Question-Answering,,,,Wednesday,Oral 2.2B,13:53,Wednesday,Poster 2.2,181,Kaihua Tang,"Kaihua Tang, Hanwang Zhang, Baoyuan Wu, Wenhan Luo, Wei Liu"
 387,Contrast Prior and Fluid Pyramid Integration for RGBD Salient Object Detection,,https://github.com/JXingZhao/ContrastPrior,,,,,,,Tuesday,Poster 1.2,164,Jia-Xing Zhao,"Zhao, Jia-Xing and Cao, Yang and Fan, Deng-Ping and Cheng, Ming-Ming and Li, Xuan-Yi and Zhang, Le"
 388,Natural and Realistic Single Image Super-Resolution With Explicit Natural Manifold Discrimination,,https://github.com/JWSoh/NatSR,,,,,,,Wednesday,Poster 2.2,158,Jae Woong Soh,
 389,A Mutual Learning Method for Salient Object Detection With Intertwined Multi-Supervision,,https://github.com/JosephineRabbit/MLMSNet,,,,,,,Wednesday,Poster 2.2,161,Runmin Wu,"Runmin Wu, Mengyang Feng, Wenlong Guan, Dong Wang, Huchuan Lu, Errui Ding"
-390,A General and Adaptive Robust Loss Function,,https://github.com/jonbarron/robust_loss_pytorch,,,,Wednesday,Oral 2.1A,9:06,Wednesday,Poster 2.1,7,Jonathan T. Barron,Jonathan T. Barron 
+390,A General and Adaptive Robust Loss Function,,https://github.com/jonbarron/robust_loss_pytorch,,,,Wednesday,Oral 2.1A,09:06,Wednesday,Poster 2.1,7,Jonathan T. Barron,Jonathan T. Barron 
 391,FastDraw: Addressing the Long Tail of Lane Detection by Adapting a Sequential Prediction Network,,https://github.com/jonahthelion/FastDraw,,,,,,,Thursday,Poster 3.2,62,Jonah Philion,Jonah Philion
-392,Neural Rejuvenation: Improving Deep Network Training by Enhancing Computational Resource Utilization,,https://github.com/joe-siyuan-qiao/NeuralRejuvenation-CVPR19,,,,Tuesday,Oral 1.1A,9:36,Tuesday,Poster 1.1,7,Siyuan Qiao,"Siyuan Qiao, Zhe Lin, Jianming Zhang, Alan Yuille"
+392,Neural Rejuvenation: Improving Deep Network Training by Enhancing Computational Resource Utilization,,https://github.com/joe-siyuan-qiao/NeuralRejuvenation-CVPR19,,,,Tuesday,Oral 1.1A,09:36,Tuesday,Poster 1.1,7,Siyuan Qiao,"Siyuan Qiao, Zhe Lin, Jianming Zhang, Alan Yuille"
 393,Weakly Supervised Learning of Instance Segmentation With Inter-Pixel Relations,,https://github.com/jiwoon-ahn/irn,,,,Tuesday,Oral 1.2A,14:11,Tuesday,Poster 1.2,25,Jiwoon Ahn,"Jiwoon Ahn, Sunghyun Cho, Suha Kwak"
 394,ComDefend: An Efficient Image Compression Model to Defend Adversarial Examples,,https://github.com/jiaxiaojunQAQ/Comdefend,https://zhuanlan.zhihu.com/p/62232536,,,,,,Wednesday,Poster 2.1,185,Xiaojun Jia,"Xiaojun Jia, Xingxing Wei, Xiaochun Cao, Hassan Foroosh"
 395,Adversarial Inference for Multi-Sentence Video Description,,https://github.com/jamespark3922/adv-inf,,,,Wednesday,Oral 2.2B,13:40,Wednesday,Poster 2.2,179,Jae Sung Park,"Jae Sung Park,?Marcus Rohrbach,?Trevor Darrell,?Anna Rohrbach"
@@ -404,7 +404,7 @@
 403,Modulating Image Restoration With Continual Levels via Adaptive Feature Modification Layers,,https://github.com/hejingwenhejingwen/AdaFM,,,,Thursday,Oral 3.2C,14:11,Thursday,Poster 3.2,154,Jingwen He,"Jingwen He, Chao Dong, and Yu Qiao"
 404,Learning Joint Reconstruction of Hands and Manipulated Objects,,https://github.com/hassony2/manopth,,https://www.di.ens.fr/willow/research/obman/,,,,,Thursday,Poster 3.2,85,Yana Hasson,"Yana Hasson, G¨¹l Varol, Dimitrios Tzionas, Igor Kalevatykh, Michael J. Black, Ivan Laptev, Cordelia Schmid"
 405,Multi-Level Multimodal Common Semantic Space for Image-Phrase Grounding,,https://github.com/hassanhub/MultiGrounding,,,,,,,Thursday,Poster 3.2,189,Hassan Akbari,"Hassan Akbari, Svebor Karaman, Surabhi Bhargava, Brian Chen, Carl Vondrick, Shih-Fu Chang"
-406,Self-Calibrating Deep Photometric Stereo Networks,,https://github.com/guanyingc/SDPS-Net,,http://gychen.org/SDPS-Net/,,Thursday,Oral 3.1B,9:11,Thursday,Poster 3.1,84,Guanying Chen,"Guanying Chen, Kai Han, Boxin Shi, Yasuyuki Matsushita, Kwan-Yee K. Wong"
+406,Self-Calibrating Deep Photometric Stereo Networks,,https://github.com/guanyingc/SDPS-Net,,http://gychen.org/SDPS-Net/,,Thursday,Oral 3.1B,09:11,Thursday,Poster 3.1,84,Guanying Chen,"Guanying Chen, Kai Han, Boxin Shi, Yasuyuki Matsushita, Kwan-Yee K. Wong"
 407,Context and Attribute Grounded Dense Captioning,,https://github.com/gjyin91/CAG-Net,https://zhuanlan.zhihu.com/p/57822460,https://gjyin91.github.io/projects/cagnet.html,,,,,Wednesday,Poster 2.1,201,Guojun Yin,"Guojun Yin, Lu Sheng, Bin Liu, Nenghai Yu, Xiaogang Wang, Jing Shao"
 408,Learning From Synthetic Data for Crowd Counting in the Wild,,https://github.com/gjy3035/GCC-CL,,,,,,,Wednesday,Poster 2.2,166,Qi Wang,"Qi Wang, Junyu Gao, Wei Lin, Yuan Yuan"
 409,Hierarchical Deep Stereo Matching on High-Resolution Images,,https://github.com/gengshan-y/high-res-stereo,,http://www.contrib.andrew.cmu.edu/~gengshay/cvpr19stereo,,,,,Wednesday,Poster 2.1,97,Gengshan Yang,Gengshan Yang£¬Joshua Manela£¬ Michael Happold£¬Deva Ramanan
@@ -426,11 +426,11 @@
 425,OICSR: Out-In-Channel Sparsity Regularization for Compact Deep Neural Networks,,https://github.com/dsfour/OICSR,,,,,,,Wednesday,Poster 2.2,12,Jiashi Li,"Jiashi Li, Qi Qi, Jingyu Wang, Ce Ge, Yujian Li, Zhangzhang Yue, Haifeng Sun"
 426,Fast Neural Architecture Search of Compact Semantic Segmentation Models via Auxiliary Cells,,https://github.com/DrSleep/nas-segm-pytorch,,,,,,,Thursday,Poster 3.1,18,Vladimir Nekrasov,"Vladimir Nekrasov, Hao Chen, Chunhua Shen, Ian Reid"
 427,Dense Relational Captioning: Triple-Stream Networks for Relationship-Based Captioning,,https://github.com/Dong-JinKim/DenseRelationalCaptioning,,,,,,,Wednesday,Poster 2.1,204,Dong-Jin Kim,"Done by Dong-Jin Kim, Jinsoo Choi, Tae-Hyun Oh, and In So Kweon"
-428,Shifting More Attention to Video Salient Object Detection,,https://github.com/DengPingFan/DAVSOD,,,,Thursday,Oral 3.1A,8:48,Thursday,Poster 3.1,193,Deng-Ping Fan,"Deng-Ping Fan, Wenguan Wang, Ming-Ming Cheng, Jianbing Shen"
+428,Shifting More Attention to Video Salient Object Detection,,https://github.com/DengPingFan/DAVSOD,,,,Thursday,Oral 3.1A,08:48,Thursday,Poster 3.1,193,Deng-Ping Fan,"Deng-Ping Fan, Wenguan Wang, Ming-Ming Cheng, Jianbing Shen"
 429,Exploiting Temporal Context for 3D Human Pose Estimation in the Wild,,https://github.com/deepmind/Temporal-3D-Pose-Kinetics?,,,,,,,Tuesday,Poster 1.2,92,Anurag Arnab,"Anurag Arnab, Carl Doersch, Andrew Zisserman"
 430,Dual Encoding for Zero-Example Video Retrieval,,https://github.com/danieljf24/dual_encoding,,,,,,,Thursday,Poster 3.1,41,Jianfeng Dong,"Jianfeng Dong, Xirong Li, Chaoxi Xu, Shouling Ji, Yuan He, Gang Yang and Xun Wang"
 431,Second-Order Attention Network for Single Image Super-Resolution,,https://github.com/daitao/SAN,,,,Thursday,Oral 3.2C,14:16,Thursday,Poster 3.2,155,Tao Dai,
-432,Visual Tracking via Adaptive Spatially-Regularized Correlation Filters,,https://github.com/Daikenan/ASRCF ,,,,Wednesday,Oral 2.1C,9:29,Wednesday,Poster 2.1,145,Kenan Dai,"Kenan Dai, Dong Wang, Huchuan Lu, Chong Sun, Jianhua Li"
+432,Visual Tracking via Adaptive Spatially-Regularized Correlation Filters,,https://github.com/Daikenan/ASRCF ,,,,Wednesday,Oral 2.1C,09:29,Wednesday,Poster 2.1,145,Kenan Dai,"Kenan Dai, Dong Wang, Huchuan Lu, Chong Sun, Jianhua Li"
 433,Example-Guided Style-Consistent Image Synthesis From Semantic Labeling,,https://github.com/cxjyxxme/pix2pixSC,,,,,,,Tuesday,Poster 1.1,151,Miao Wang,"Miao Wang1, Guo-Ye Yang2, Ruilong Li2, Run-Ze Liang2, Song-Hai Zhang2, Peter M. Hall3?and Shi-Min Hu"
 434,STGAN: A Unified Selective Transfer Network for Arbitrary Image Attribute Editing,,https://github.com/csmliu/STGAN?,,,,,,,Tuesday,Poster 1.2,138,Ming Liu,"Ming Liu, Yukang Ding, Min Xia, Xiao Liu, Errui Ding, Wangmeng Zuo, Shilei Wen"
 435,Divide and Conquer the Embedding Space for Metric Learning,,https://github.com/CompVis/metric-learning-divide-and-conquer,,,,,,,Tuesday,Poster 1.1,24,Artsiom Sanakoyeu,"Sanakoyeu, Artsiom and Tschernezki, Vadim and B\""uchler, Uta and Ommer, Bj\""orn"
@@ -456,77 +456,77 @@
 455,Depth From a Polarisation + RGB Stereo Pair,,https://github.com/AmosZhu/CVPR2019,,,,,,,Wednesday,Poster 2.2,86,Dizhong Zhu,"Dizhong Zhu, William A.P. Smith"
 456,GPSfM: Global Projective SFM Using Algebraic Constraints on Multi-View Fundamental Matrices,,https://github.com/amnonge/GPSFM-Code,,,,,,,Tuesday,Poster 1.2,79,Yoni Kasten,Yoni Kasten* Amnon Geifman* Meirav Galun Ronen Basri
 457,Bilateral Cyclic Constraint and Adaptive Regularization for Unsupervised Monocular Depth Prediction,,https://github.com/alexklwong/adareg-monodispnet,,,,,,,Wednesday,Poster 2.1,125,Alex Wong,"Alex Wong, Byung-Woo Hong, Stefano Soatto"
-458,Video Action Transformer Network,,https://github.com/alainray/action_transformer,,,,Tuesday,Oral 1.1C,9:00,Tuesday,Poster 1.1,109,Rohit Girdhar,"Rohit Girdhar, Jo?o Carreira, Carl Doersch, Andrew Zisserman"
+458,Video Action Transformer Network,,https://github.com/alainray/action_transformer,,,,Tuesday,Oral 1.1C,09:00,Tuesday,Poster 1.1,109,Rohit Girdhar,"Rohit Girdhar, Jo?o Carreira, Carl Doersch, Andrew Zisserman"
 459,Learning 3D Human Dynamics From Video,,https://github.com/akanazawa/human_dynamics?,,,,,,,Wednesday,Poster 2.1,122,Angjoo Kanazawa,"Angjoo Kanazawa, Jason Y. Zhang, Panna Felsen, Jitendra Malik"
 460,Reflection Removal Using a Dual-Pixel Sensor,,https://github.com/abhijithpunnappurath/dprr,,https://abhijithpunnappurath.github.io/dprr,,,,,Tuesday,Poster 1.1,157,Abhijith Punnappurath,"Abhijith Punnappurath ,Michael S. Brown"
-461,Social-IQ: A Question Answering Benchmark for Artificial Social Intelligence,,https://github.com/A2Zadeh/Social-IQ,,,,Thursday,Oral 3.1B,9:52,Thursday,Poster 3.1,91,Amir Zadeh,
+461,Social-IQ: A Question Answering Benchmark for Artificial Social Intelligence,,https://github.com/A2Zadeh/Social-IQ,,,,Thursday,Oral 3.1B,09:52,Thursday,Poster 3.1,91,Amir Zadeh,
 462,FilterReg: Robust and Efficient Probabilistic Point-Set Registration Using Gaussian Filter and Twist Parameterization,,https://bitbucket.org/gaowei19951004/poser/src/master/ ,,,,Thursday,Oral 3.2C,14:34,Thursday,Poster 3.2,158,Wei Gao,"Wei Gao, Russ Tedrake"
 463,Action Recognition From Single Timestamp Supervision in Untrimmed Videos,,https://bitbucket.org/dmoltisanti/action_recognition_single_timestamps/src/master/,,https://dimadamen.github.io/single_timestamps/,,,,,Thursday,Poster 3.1,129,Davide Moltisanti,"Davide Moltisanti, Sanja Fidler, Dima Damen"
-464,DeepMapping: Unsupervised Map Estimation From Multiple Point Clouds,,https://ai4ce.github.io/DeepMapping/,,,,Thursday,Oral 3.1A,9:47,Thursday,Poster 3.1,203,Li Ding,"Li Ding, Chen Feng"
+464,DeepMapping: Unsupervised Map Estimation From Multiple Point Clouds,,https://ai4ce.github.io/DeepMapping/,,,,Thursday,Oral 3.1A,09:47,Thursday,Poster 3.1,203,Li Ding,"Li Ding, Chen Feng"
 465,A Simple Pooling-Based Design for Real-Time Salient Object Detection,,http://mmcheng.net/poolnet/ ,,,,,,,Tuesday,Poster 1.2,163,Jiang-Jiang Liu,"Jiang-Jiang Liu, Qibin Hou, Ming-Ming Cheng, Jiashi Feng, Jianmin Jiang"
 466,Neural Rerendering in the Wild,,,,,,Wednesday,Oral 2.2C,14:42,Wednesday,Poster 2.2,142,Moustafa Meshry,"Moustafa Meshry, Dan B Goldman, Sameh Khamis, Hugues Hoppe, Rohit Pandey, Noah Snavely, Ricardo Martin-Brualla"
-467,Parallel Optimal Transport GAN,,,,,,Wednesday,Oral 2.1A,9:52,Wednesday,Poster 2.1,15,Gil Avraham,
-468,Learning to Explain With Complemental Examples,,,,,,Thursday,Oral 3.1A,9:16,Thursday,Poster 3.1,198,Atsushi Kanehira,"Atsushi Kanehira, Tatsuya Harada"
+467,Parallel Optimal Transport GAN,,,,,,Wednesday,Oral 2.1A,09:52,Wednesday,Poster 2.1,15,Gil Avraham,
+468,Learning to Explain With Complemental Examples,,,,,,Thursday,Oral 3.1A,09:16,Thursday,Poster 3.1,198,Atsushi Kanehira,"Atsushi Kanehira, Tatsuya Harada"
 469,Textured Neural Avatars,,,,,,Tuesday,Oral 1.2B,14:11,Tuesday,Poster 1.2,125,Aliaksandra Shysheya,"Aliaksandra Shysheya (Samsung AI Center, Skolkovo Institute of Science and Technology), Egor Zakharov (Samsung AI Center, Skolkovo Institute of Science and Technology), Kara-Ali Aliev (Samsung AI Center), Renat Bashirov (Samsung AI Center), Egor Burkov (Samsung AI Center, Skolkovo Institute of Science and Technology), Karim Iskakov (Samsung AI Center), Aleksei Ivakhnenko (Samsung AI Center), Yury Malkov (Samsung AI Center), Igor Pasechnik (Samsung AI Center), Dmitry Ulyanov (Samsung AI Center, Skolkovo Institute of Science and Technology), Alexander Vakhitov (Samsung AI Center, Skolkovo Institute of Science and Technology), Victor Lempitsky (Samsung AI Center, Skolkovo Institute of Science and Technology)"
-470,Improving Semantic Segmentation via Video Propagation and Label Relaxation,,,,,,Thursday,Oral 3.1C,8:53,Thursday,Poster 3.1,59,Yi Zhu,"Yi Zhu, Karan Sapra, Fitsum A. Reda, Kevin J. Shih, Shawn Newsam, Andrew Tao, Bryan Catanzaro"
+470,Improving Semantic Segmentation via Video Propagation and Label Relaxation,,https://github.com/NVIDIA/semantic-segmentation,,,,Thursday,Oral 3.1C,08:53,Thursday,Poster 3.1,59,Yi Zhu,"Yi Zhu, Karan Sapra, Fitsum A. Reda, Kevin J. Shih, Shawn Newsam, Andrew Tao, Bryan Catanzaro"
 471,AE2-Nets: Autoencoder in Autoencoder Networks,,,,,,Tuesday,Oral 1.2C,14:16,Tuesday,Poster 1.2,174,Changqing Zhang,Changqing Zhang £¬Yeqing Liu£¬ Huazhu Fu
-472,Self-Supervised Adaptation of High-Fidelity Face Models for Monocular Performance Tracking,,,,,,Wednesday,Oral 2.1C,8:48,Wednesday,Poster 2.1,138,Jae Shin Yoon,
+472,Self-Supervised Adaptation of High-Fidelity Face Models for Monocular Performance Tracking,,,,,,Wednesday,Oral 2.1C,08:48,Wednesday,Poster 2.1,138,Jae Shin Yoon,
 473,Self-Supervised Representation Learning From Videos for Facial Action Unit Detection,,,,,,Thursday,Oral 3.2B,14:42,Thursday,Poster 3.2,104,Yong Li,
 474,IM-Net for High Resolution Video Frame Interpolation,,,,,,Tuesday,Oral 1.2B,14:16,Tuesday,Poster 1.2,126,Tomer Peleg,
-475,SiCloPe: Silhouette-Based Clothed People,,,,,,Wednesday,Oral 2.1B,9:06,Wednesday,Poster 2.1,112,Ryota Natsume,
+475,SiCloPe: Silhouette-Based Clothed People,,,,,,Wednesday,Oral 2.1B,09:06,Wednesday,Poster 2.1,112,Ryota Natsume,
 476,Towards Social Artificial Intelligence: Nonverbal Social Signal Prediction in a Triadic Interaction,,,,,,Thursday,Oral 3.2B,14:11,Thursday,Poster 3.2,99,Hanbyul Joo,
-477,SelFlow: Self-Supervised Learning of Optical Flow,,,,,,Wednesday,Oral 2.1C,8:30,Wednesday,Poster 2.1,135,Pengpeng Liu,
+477,SelFlow: Self-Supervised Learning of Optical Flow,,https://github.com/ppliuboy/SelFlow,,,,Wednesday,Oral 2.1C,08:30,Wednesday,Poster 2.1,135,Pengpeng Liu,
 478,LaSO: Label-Set Operations Networks for Multi-Label Few-Shot Learning,,,,,,Wednesday,Oral 2.2A,15:00,Wednesday,Poster 2.2,40,Amit Alfassy,
 479,Cycle-Consistency for Robust Visual Question Answering,,,,,,Wednesday,Oral 2.2B,14:11,Wednesday,Poster 2.2,184,Meet Shah,
 480,Efficient Video Classification Using Fewer Frames,,,,,,Tuesday,Oral 1.1C,10:04,Tuesday,Poster 1.1,120,Shweta Bhardwaj,
-481,Diverse Generation for Multi-Agent Sports Games,,,,,,Wednesday,Oral 2.1C,8:53,Wednesday,Poster 2.1,139,Raymond A. Yeh,
-482,Relational Action Forecasting,,,,,,Tuesday,Oral 1.1C,9:18,Tuesday,Poster 1.1,112,Chen Sun,
+481,Diverse Generation for Multi-Agent Sports Games,,,,,,Wednesday,Oral 2.1C,08:53,Wednesday,Poster 2.1,139,Raymond A. Yeh,
+482,Relational Action Forecasting,,,,,,Tuesday,Oral 1.1C,09:18,Tuesday,Poster 1.1,112,Chen Sun,
 483,Barrage of Random Transforms for Adversarially Robust Defense,,,,,,Wednesday,Oral 2.2A,14:47,Wednesday,Poster 2.2,38,Edward Raff,
-484,SOSNet: Second Order Similarity Regularization for Local Descriptor Learning,,,,,,Thursday,Oral 3.2C,13:48,Thursday,Poster 3.2,150,Yurun Tian,
+484,SOSNet: Second Order Similarity Regularization for Local Descriptor Learning,,https://github.com/scape-research/SOSNet,,,,Thursday,Oral 3.2C,13:48,Thursday,Poster 3.2,150,Yurun Tian,
 485,Unsupervised Person Image Generation With Semantic Parsing Transformation,,,,,,Tuesday,Oral 1.2B,13:53,Tuesday,Poster 1.2,122,Sijie Song,
 486,Unified Visual-Semantic Embeddings: Bridging Vision and Language With Structured Meaning Representations,,,,,,Wednesday,Oral 2.2B,13:48,Wednesday,Poster 2.2,180,Hao Wu,
 487,Few-Shot Learning With Localization in Realistic Settings,,,,,,Wednesday,Oral 2.2A,15:05,Wednesday,Poster 2.2,41,Davis Wertheimer,
-488,Shape2Motion: Joint Analysis of Motion Parts and Attributes From 3D Shapes,,,,,,Thursday,Oral 3.1C,9:06,Thursday,Poster 3.1,61,Xiaogang Wang,
-489,GFrames: Gradient-Based Local Reference Frame for 3D Shape Matching,,,,,,Wednesday,Oral 2.1C,9:06,Wednesday,Poster 2.1,141,Simone Melzi,
-490,Learning Structure-And-Motion-Aware Rolling Shutter Correction,,,,,,Wednesday,Oral 2.1B,9:47,Wednesday,Poster 2.1,119,Bingbing Zhuang,
+488,Shape2Motion: Joint Analysis of Motion Parts and Attributes From 3D Shapes,,,,,,Thursday,Oral 3.1C,09:06,Thursday,Poster 3.1,61,Xiaogang Wang,
+489,GFrames: Gradient-Based Local Reference Frame for 3D Shape Matching,,,,,,Wednesday,Oral 2.1C,09:06,Wednesday,Poster 2.1,141,Simone Melzi,
+490,Learning Structure-And-Motion-Aware Rolling Shutter Correction,,,,,,Wednesday,Oral 2.1B,09:47,Wednesday,Poster 2.1,119,Bingbing Zhuang,
 491,Do Better ImageNet Models Transfer Better?,,,,,,Tuesday,Oral 1.2C,15:10,Tuesday,Poster 1.2,183,Simon Kornblith,
-492,Unsupervised Learning of Dense Shape Correspondence,,,,,,Wednesday,Oral 2.1A,9:29,Wednesday,Poster 2.1,11,Oshri Halimi,
+492,Unsupervised Learning of Dense Shape Correspondence,,,,,,Wednesday,Oral 2.1A,09:29,Wednesday,Poster 2.1,11,Oshri Halimi,
 493,Streamlined Dense Video Captioning,,,,,,Wednesday,Oral 2.2B,13:35,Wednesday,Poster 2.2,178,Jonghwan Mun,
 494,Auto-Encoding Scene Graphs for Image Captioning,,,,,,Thursday,Oral 3.2A,14:06,Thursday,Poster 3.2,7,Xu Yang,
-495,Enhancing Diversity of Defocus Blur Detectors via Cross-Ensemble Network,,,,,,Thursday,Oral 3.1C,9:24,Thursday,Poster 3.1,64,Wenda Zhao,
+495,Enhancing Diversity of Defocus Blur Detectors via Cross-Ensemble Network,,,,,,Thursday,Oral 3.1C,09:24,Thursday,Poster 3.1,64,Wenda Zhao,
 496,Neural Illumination: Lighting Prediction for Indoor Environments,,,,,,Wednesday,Oral 2.2C,15:05,Wednesday,Poster 2.2,146,Shuran Song,
 497,Shapes and Context: In-The-Wild Image Synthesis & Manipulation,,,,,,Tuesday,Oral 1.2B,13:30,Tuesday,Poster 1.2,118,Aayush Bansal,
 498,"Fast, Diverse and Accurate Image Captioning Guided by Part-Of-Speech",,,,,,Thursday,Oral 3.2A,14:11,Thursday,Poster 3.2,8,Aditya Deshpande,
-499,"Divergence Triangle for Joint Training of Generator Model, Energy-Based Model, and Inferential Model",,,,,,Thursday,Oral 3.1B,8:30,Thursday,Poster 3.1,77,Tian Han,
+499,"Divergence Triangle for Joint Training of Generator Model, Energy-Based Model, and Inferential Model",,,,,,Thursday,Oral 3.1B,08:30,Thursday,Poster 3.1,77,Tian Han,
 500,Learning to Synthesize Motion Blur,,,,http://timothybrooks.com/tech/motion-blur/,,Wednesday,Oral 2.2C,14:16,Wednesday,Poster 2.2,138,Tim Brooks,"Tim Brooks, Jonathan T. Barron"
-501,Beyond Tracking: Selecting Memory and Refining Poses for Deep Visual Odometry,,,,,,Thursday,Oral 3.1A,8:58,Thursday,Poster 3.1,195,Fei Xue,
-502,Defense Against Adversarial Images Using Web-Scale Nearest-Neighbor Search,,,,,,Thursday,Oral 3.1B,9:29,Thursday,Poster 3.1,87,Abhimanyu Dubey,
-503,Gaussian Temporal Awareness Networks for Action Localization,,,,,,Tuesday,Oral 1.1C,9:59,Tuesday,Poster 1.1,119,Fuchen Long,
+501,Beyond Tracking: Selecting Memory and Refining Poses for Deep Visual Odometry,,,,,,Thursday,Oral 3.1A,08:58,Thursday,Poster 3.1,195,Fei Xue,
+502,Defense Against Adversarial Images Using Web-Scale Nearest-Neighbor Search,,,,,,Thursday,Oral 3.1B,09:29,Thursday,Poster 3.1,87,Abhimanyu Dubey,
+503,Gaussian Temporal Awareness Networks for Action Localization,,,,,,Tuesday,Oral 1.1C,09:59,Tuesday,Poster 1.1,119,Fuchen Long,
 504,Photon-Flooded Single-Photon 3D Cameras,,,,,,Wednesday,Oral 2.2C,13:30,Wednesday,Poster 2.2,130,Anant Gupta,
-505,NM-Net: Mining Reliable Neighbors for Robust Feature Correspondences,,,,,,Tuesday,Oral 1.1B,9:54,Tuesday,Poster 1.1,81,Chen Zhao,
-506,End-To-End Interpretable Neural Motion Planner,,,,,,Thursday,Oral 3.1A,9:52,Thursday,Poster 3.1,204,Wenyuan Zeng,
+505,NM-Net: Mining Reliable Neighbors for Robust Feature Correspondences,,,,,,Tuesday,Oral 1.1B,09:54,Tuesday,Poster 1.1,81,Chen Zhao,
+506,End-To-End Interpretable Neural Motion Planner,,,,,,Thursday,Oral 3.1A,09:52,Thursday,Poster 3.1,204,Wenyuan Zeng,
 507,Learning Spatial Common Sense With Geometry-Aware Recurrent Networks,,,,,,Tuesday,Oral 1.2C,14:29,Tuesday,Poster 1.2,176,Hsiao-Yu Fish Tung,
-508,Self-Supervised 3D Hand Pose Estimation Through Training by Fitting,,,,,,Thursday,Oral 3.2B,13:58,Thursday,Poster 3.2,97,Chengde Wan,
+508,Self-Supervised 3D Hand Pose Estimation Through Training by Fitting,,https://github.com/melonwan/sphereHand,,,,Thursday,Oral 3.2B,13:58,Thursday,Poster 3.2,97,Chengde Wan,
 509,Deep Reinforcement Learning of Volume-Guided Progressive View Inpainting for 3D Point Scene Completion From a Single Depth Image,,,,,,Tuesday,Oral 1.1B,10:04,Tuesday,Poster 1.1,83,Xiaoguang Han,
-510,H+O: Unified Egocentric Recognition of 3D Hand-Object Poses and Interactions,,,,,,Wednesday,Oral 2.1B,9:24,Wednesday,Poster 2.1,115,Bugra Tekin,
+510,H+O: Unified Egocentric Recognition of 3D Hand-Object Poses and Interactions,,,,,,Wednesday,Oral 2.1B,09:24,Wednesday,Poster 2.1,115,Bugra Tekin,
 511,d-SNE: Domain Adaptation Using Stochastic Neighborhood Embedding,,,,,,Tuesday,Oral 1.2C,13:30,Tuesday,Poster 1.2,166,Xiang Xu,
 512,A Sufficient Condition for Convergences of Adam and RMSProp,,,,,,Thursday,Oral 3.2C,14:52,Thursday,Poster 3.2,161,Fangyu Zou,
-513,Gait Recognition via Disentangled Representation Learning,,,,,,Wednesday,Oral 2.1C,9:52,Wednesday,Poster 2.1,149,Ziyuan Zhang,
+513,Gait Recognition via Disentangled Representation Learning,,,,,,Wednesday,Oral 2.1C,09:52,Wednesday,Poster 2.1,149,Ziyuan Zhang,
 514,Constrained Generative Adversarial Networks for Interactive Image Generation,,,,,,Thursday,Oral 3.2A,14:47,Thursday,Poster 3.2,14,Eric Heim,
 515,Unprocessing Images for Learned Raw Denoising,,,,http://timothybrooks.com/tech/unprocessing/,,Thursday,Oral 3.2C,13:58,Thursday,Poster 3.2,152,Tim Brooks,"Tim Brooks, Ben Mildenhall, Tianfan Xue, Jiawen Chen, Dillon Sharlet, Jonathan T. Barron"
-516,Efficient Online Multi-Person 2D Pose Tracking With Recurrent Spatio-Temporal Affinity Fields,,,,,,Wednesday,Oral 2.1C,8:58,Wednesday,Poster 2.1,140,Yaadhav Raaj,
+516,Efficient Online Multi-Person 2D Pose Tracking With Recurrent Spatio-Temporal Affinity Fields,,,,,,Wednesday,Oral 2.1C,08:58,Wednesday,Poster 2.1,140,Yaadhav Raaj,
 517,Cross-Modality Personalization for Retrieval,,,,,,Wednesday,Oral 2.2A,13:48,Wednesday,Poster 2.2,28,Nils Murrugarra-Llerena,
 518,FML: Face Model Learning From Videos,,,https://mp.weixin.qq.com/s/wxZXVtzgxzBKqWOyt9Godw,http://gvv.mpi-inf.mpg.de/projects/FML19/,,Thursday,Oral 3.2B,13:35,Thursday,Poster 3.2,93,Ayush Tewari,A. Tewari F. Bernard P. Garrido G. Bharaj M. Elgharib H-P. Seidel P. Perez M. Zollh?fer C.Theobalt
-519,Learning Joint Gait Representation via Quintuplet Loss Minimization,,,,,,Wednesday,Oral 2.1C,9:47,Wednesday,Poster 2.1,148,Kaihao Zhang,
+519,Learning Joint Gait Representation via Quintuplet Loss Minimization,,,,,,Wednesday,Oral 2.1C,09:47,Wednesday,Poster 2.1,148,Kaihao Zhang,
 520,Weakly-Supervised Discovery of Geometry-Aware Representation for 3D Human Pose Estimation,,,,,,Thursday,Oral 3.2B,14:24,Thursday,Poster 3.2,101,Xipeng Chen,
 521,DeepVoxels: Learning Persistent 3D Feature Embeddings,,,,,,Tuesday,Oral 1.2B,14:42,Tuesday,Poster 1.2,130,Vincent Sitzmann,
 522,Mutual Learning of Complementary Networks via Residual Correction for Improving Semi-Supervised Classification,,,,,,Wednesday,Oral 2.2A,14:29,Wednesday,Poster 2.2,35,Si Wu,
-523,Causes and Corrections for Bimodal Multi-Path Scanning With Structured Light,,,,,,Wednesday,Oral 2.1B,8:35,Wednesday,Poster 2.1,107,Yu Zhang,
+523,Causes and Corrections for Bimodal Multi-Path Scanning With Structured Light,,,,,,Wednesday,Oral 2.1B,08:35,Wednesday,Poster 2.1,107,Yu Zhang,
 524,Neural RGB(r)D Sensing: Depth and Uncertainty From a Video Camera,,,,,,Thursday,Oral 3.2C,13:30,Thursday,Poster 3.2,147,Chao Liu,
 525,Towards Scene Understanding: Unsupervised Monocular Depth Estimation With Semantic-Aware Representation,,,,,,Tuesday,Oral 1.2C,14:47,Tuesday,Poster 1.2,179,Po-Yi Chen,
 526,Slim DensePose: Thrifty Learning From Sparse Annotations and Motion Cues,,,,,,Thursday,Oral 3.2B,14:34,Thursday,Poster 3.2,103,Natalia Neverova,
-527,Inverse Procedural Modeling of Knitwear,,,,,,Thursday,Oral 3.1A,9:34,Thursday,Poster 3.1,201,Elena Trunz,
-528,Online High Rank Matrix Completion,,,,,,Thursday,Oral 3.1B,8:40,Thursday,Poster 3.1,79,Jicong Fan,
+527,Inverse Procedural Modeling of Knitwear,,,,,,Thursday,Oral 3.1A,09:34,Thursday,Poster 3.1,201,Elena Trunz,
+528,Online High Rank Matrix Completion,,,,,,Thursday,Oral 3.1B,08:40,Thursday,Poster 3.1,79,Jicong Fan,
 529,Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation,,,https://mp.weixin.qq.com/s/LsHWkdwqqrOPFgCNNcBdpg,,,Wednesday,Oral 2.2B,13:58,Wednesday,Poster 2.2,182,Xin Wang,"Xin Wang, Qiuyuan Huang, Asli Celikyilmaz, Jianfeng Gao, Dinghan Shen, Yuan-Fang Wang, William Yang Wang, Lei Zhang"
 530,SDC - Stacked Dilated Convolution: A Unified Descriptor Network for Dense Matching Tasks,,,,,,Tuesday,Oral 1.2C,14:06,Tuesday,Poster 1.2,172,Rene Schuster,
 531,Guaranteed Matrix Completion Under Multiple Linear Transformations,,,,,,Thursday,Oral 3.2C,15:00,Thursday,Poster 3.2,162,Chao Li,
@@ -541,79 +541,79 @@
 540,Homomorphic Latent Space Interpolation for Unpaired Image-To-Image Translation,,,,,,Tuesday,Oral 1.2B,14:24,Tuesday,Poster 1.2,127,Ying-Cong Chen,
 541,Deep Sky Modeling for Single Image Outdoor Lighting Estimation,,,,,,Wednesday,Oral 2.2C,15:10,Wednesday,Poster 2.2,147,Yannick Hold-Geoffroy,
 542,Transferrable Prototypical Networks for Unsupervised Domain Adaptation,,,,,,Tuesday,Oral 1.2A,14:29,Tuesday,Poster 1.2,28,Yingwei Pan,
-543,Learning the Depths of Moving People by Watching Frozen People,,,,,,Wednesday,Oral 2.1B,9:29,Wednesday,Poster 2.1,116,Zhengqi Li,
+543,Learning the Depths of Moving People by Watching Frozen People,,,,,,Wednesday,Oral 2.1B,09:29,Wednesday,Poster 2.1,116,Zhengqi Li,
 544,Blending-Target Domain Adaptation by Adversarial Meta-Adaptation Networks,,,,,,Tuesday,Oral 1.2A,14:34,Tuesday,Poster 1.2,29,Ziliang Chen,
-545,Semantic Correlation Promoted Shape-Variant Context for Segmentation,,,,,,Thursday,Oral 3.1C,9:11,Thursday,Poster 3.1,62,Henghui Ding,
-546,Pushing the Boundaries of View Extrapolation With Multiplane Images,,,,,,Tuesday,Oral 1.1B,9:28,Tuesday,Poster 1.1,77,Pratul P. Srinivasan,
-547,Revealing Scenes by Inverting Structure From Motion Reconstructions,,,,,,Tuesday,Oral 1.1B,9:10,Tuesday,Poster 1.1,74,Francesco Pittaluga,
+545,Semantic Correlation Promoted Shape-Variant Context for Segmentation,,,,,,Thursday,Oral 3.1C,09:11,Thursday,Poster 3.1,62,Henghui Ding,
+546,Pushing the Boundaries of View Extrapolation With Multiplane Images,,,,,,Tuesday,Oral 1.1B,09:28,Tuesday,Poster 1.1,77,Pratul P. Srinivasan,
+547,Revealing Scenes by Inverting Structure From Motion Reconstructions,,,,,,Tuesday,Oral 1.1B,09:10,Tuesday,Poster 1.1,74,Francesco Pittaluga,
 548,Probabilistic Permutation Synchronization Using the Riemannian Structure of the Birkhoff Polytope,,,,,,Thursday,Oral 3.2C,14:42,Thursday,Poster 3.2,159,Tolga Birdal,
-549,Holistic and Comprehensive Annotation of Clinically Significant Findings on Diverse CT Images: Learning From Radiology Reports and Label Ontology,,,,,,Thursday,Oral 3.1A,8:30,Thursday,Poster 3.1,190,Ke Yan,
+549,Holistic and Comprehensive Annotation of Clinically Significant Findings on Diverse CT Images: Learning From Radiology Reports and Label Ontology,,,,,,Thursday,Oral 3.1A,08:30,Thursday,Poster 3.1,190,Ke Yan,
 550,"Point in, Box Out: Beyond Counting Persons in Crowds",,,,,,Wednesday,Oral 2.2A,14:11,Wednesday,Poster 2.2,32,Yuting Liu,
-551,Striking the Right Balance With Uncertainty,,,,,,Tuesday,Oral 1.1A,9:59,Tuesday,Poster 1.1,11,Salman Khan,
-552,Strand-Accurate Multi-View Hair Capture,,,,,,Tuesday,Oral 1.1B,9:18,Tuesday,Poster 1.1,75,Giljoo Nam,
+551,Striking the Right Balance With Uncertainty,,,,,,Tuesday,Oral 1.1A,09:59,Tuesday,Poster 1.1,11,Salman Khan,
+552,Strand-Accurate Multi-View Hair Capture,,,,,,Tuesday,Oral 1.1B,09:18,Tuesday,Poster 1.1,75,Giljoo Nam,
 553,In the Wild Human Pose Estimation Using Explicit 2D Features and Intermediate 3D Representations,,,,,,Thursday,Oral 3.2B,14:29,Thursday,Poster 3.2,102,Ikhsanul Habibie,
 554,Blind Visual Motif Removal From a Single Image,,,,,,Wednesday,Oral 2.2C,14:29,Wednesday,Poster 2.2,140,Amir Hertz,
 555,Label-Noise Robust Generative Adversarial Networks,,,,,,Tuesday,Oral 1.2B,15:00,Tuesday,Poster 1.2,133,Takuhiro Kaneko,
 556,Boosting Local Shape Matching for Dense 3D Face Correspondence,,,,,,Thursday,Oral 3.2B,14:52,Thursday,Poster 3.2,106,Zhenfeng Fan,
 557,A Convex Relaxation for Multi-Graph Matching,,,,,,Thursday,Oral 3.2C,15:10,Thursday,Poster 3.2,164,Paul Swoboda,
 558,Learning Correspondence From the Cycle-Consistency of Time,,,,https://ajabri.github.io/timecycle/,,Tuesday,Oral 1.2C,14:11,Tuesday,Poster 1.2,173,Xiaolong Wang,"Xiaolong Wang, Allan Jabri, Alexei A. Efros"
-559,Which Way Are You Going? Imitative Decision Learning for Path Forecasting in Dynamic Scenes,,,,,,Tuesday,Oral 1.1C,9:28,Tuesday,Poster 1.1,114,Yuke Li,
-560,What Correspondences Reveal About Unknown Camera and Motion Models?,,,,,,Thursday,Oral 3.1B,9:06,Thursday,Poster 3.1,83,Thomas Probst,
-561,Long-Term Feature Banks for Detailed Video Understanding,,,,,,Tuesday,Oral 1.1C,9:23,Tuesday,Poster 1.1,113,Chao-Yuan Wu,
+559,Which Way Are You Going? Imitative Decision Learning for Path Forecasting in Dynamic Scenes,,,,,,Tuesday,Oral 1.1C,09:28,Tuesday,Poster 1.1,114,Yuke Li,
+560,What Correspondences Reveal About Unknown Camera and Motion Models?,,,,,,Thursday,Oral 3.1B,09:06,Thursday,Poster 3.1,83,Thomas Probst,
+561,Long-Term Feature Banks for Detailed Video Understanding,,,,,,Tuesday,Oral 1.1C,09:23,Tuesday,Poster 1.1,113,Chao-Yuan Wu,
 562,Deep Metric Learning Beyond Binary Supervision,,,,,,Tuesday,Oral 1.2A,15:00,Tuesday,Poster 1.2,33,Sungyeon Kim,
 563,GeoNet: Deep Geodesic Networks for Point Cloud Analysis,,,https://mp.weixin.qq.com/s/2dqw6__2k51B4SSkLYRTfw?,,,Wednesday,Oral 2.2C,14:47,Wednesday,Poster 2.2,143,Tong He,"Tong He, Haibin Huang, Li Yi, Yuqian Zhou, Chihao Wu, Jue Wang, Stefano Soatto"
-564,Coordinate-Free Carlsson-Weinshall Duality and Relative Multi-View Geometry,,,,,,Tuesday,Oral 1.1B,9:59,Tuesday,Poster 1.1,82,Matthew Trager,
-565,Learning Video Representations From Correspondence Proposals,,,,,,Wednesday,Oral 2.1A,8:30,Wednesday,Poster 2.1,1,Xingyu Liu,
-566,Evading Defenses to Transferable Adversarial Examples by Translation-Invariant Attacks,,,,,,Wednesday,Oral 2.1A,8:53,Wednesday,Poster 2.1,5,Yinpeng Dong,
-567,Robust Subspace Clustering With Independent and Piecewise Identically Distributed Noise Modeling,,,,,,Thursday,Oral 3.1B,8:58,Thursday,Poster 3.1,82,Yuanman Li,
+564,Coordinate-Free Carlsson-Weinshall Duality and Relative Multi-View Geometry,,,,,,Tuesday,Oral 1.1B,09:59,Tuesday,Poster 1.1,82,Matthew Trager,
+565,Learning Video Representations From Correspondence Proposals,,,,,,Wednesday,Oral 2.1A,08:30,Wednesday,Poster 2.1,1,Xingyu Liu,
+566,Evading Defenses to Transferable Adversarial Examples by Translation-Invariant Attacks,,,,,,Wednesday,Oral 2.1A,08:53,Wednesday,Poster 2.1,5,Yinpeng Dong,
+567,Robust Subspace Clustering With Independent and Piecewise Identically Distributed Noise Modeling,,,,,,Thursday,Oral 3.1B,08:58,Thursday,Poster 3.1,82,Yuanman Li,
 568,HoloPose: Holistic 3D Human Reconstruction In-The-Wild,,,,,,Thursday,Oral 3.2B,14:16,Thursday,Poster 3.2,100,Riza Alp Guler,
-569,CityFlow: A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification,,,https://mp.weixin.qq.com/s/68OW_7EIkzCF4HnBVcz6qg,,,Thursday,Oral 3.1B,9:47,Thursday,Poster 3.1,90,Zheng Tang,"Zheng Tang, Milind Naphade, Ming-Yu Liu, Xiaodong Yang, Stan Birchfield, Shuo Wang, Ratnesh Kumar, David Anastasiu, Jenq-Neng Hwang"
-570,Neural Task Graphs: Generalizing to Unseen Tasks From a Single Video Demonstration,,,,,,Thursday,Oral 3.1A,8:53,Thursday,Poster 3.1,194,De-An Huang,
-571,On the Structural Sensitivity of Deep Convolutional Networks to the Directions of Fourier Basis Functions,,,,,,Tuesday,Oral 1.1A,9:28,Tuesday,Poster 1.1,6,Yusuke Tsuzuku,
+569,CityFlow: A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification,,,https://mp.weixin.qq.com/s/68OW_7EIkzCF4HnBVcz6qg,,,Thursday,Oral 3.1B,09:47,Thursday,Poster 3.1,90,Zheng Tang,"Zheng Tang, Milind Naphade, Ming-Yu Liu, Xiaodong Yang, Stan Birchfield, Shuo Wang, Ratnesh Kumar, David Anastasiu, Jenq-Neng Hwang"
+570,Neural Task Graphs: Generalizing to Unseen Tasks From a Single Video Demonstration,,,,,,Thursday,Oral 3.1A,08:53,Thursday,Poster 3.1,194,De-An Huang,
+571,On the Structural Sensitivity of Deep Convolutional Networks to the Directions of Fourier Basis Functions,,,,,,Tuesday,Oral 1.1A,09:28,Tuesday,Poster 1.1,6,Yusuke Tsuzuku,
 572,Structured Knowledge Distillation for Semantic Segmentation,,,https://mp.weixin.qq.com/s/WvYPf7xHu4TtuDan_Hh_pQ,,,Tuesday,Oral 1.2C,14:34,Tuesday,Poster 1.2,177,Yifan Liu,"Yifan Liu, Ke Chen, Chris Liu, Zengchang Qin, Zhenbo Luo, Jingdong Wang "
-573,Eliminating Exposure Bias and Metric Mismatch in Multiple Object Tracking,,,,,,Wednesday,Oral 2.1C,9:11,Wednesday,Poster 2.1,142,Andrii Maksai,
-574,Balanced Self-Paced Learning for Generative Adversarial Clustering Network,,,,,,Wednesday,Oral 2.1A,9:42,Wednesday,Poster 2.1,13,Kamran Ghasedi,
-575,LAF-Net: Locally Adaptive Fusion Networks for Stereo Confidence Estimation,,,,,,Tuesday,Oral 1.1B,9:46,Tuesday,Poster 1.1,80,Sunok Kim,
+573,Eliminating Exposure Bias and Metric Mismatch in Multiple Object Tracking,,,,,,Wednesday,Oral 2.1C,09:11,Wednesday,Poster 2.1,142,Andrii Maksai,
+574,Balanced Self-Paced Learning for Generative Adversarial Clustering Network,,,,,,Wednesday,Oral 2.1A,09:42,Wednesday,Poster 2.1,13,Kamran Ghasedi,
+575,LAF-Net: Locally Adaptive Fusion Networks for Stereo Confidence Estimation,,,,,,Tuesday,Oral 1.1B,09:46,Tuesday,Poster 1.1,80,Sunok Kim,
 576,AdaCos: Adaptively Scaling Cosine Logits for Effectively Learning Deep Face Representations,,,,,,Thursday,Oral 3.2B,13:40,Thursday,Poster 3.2,94,Xiao Zhang,
-577,Not All Areas Are Equal: Transfer Learning for Semantic Segmentation via Hierarchical Region Selection,,,,,,Wednesday,Oral 2.1A,9:24,Wednesday,Poster 2.1,10,Ruoqi Sun,
-578,STEP: Spatio-Temporal Progressive Learning for Video Action Detection,,,,,,Tuesday,Oral 1.1C,9:10,Tuesday,Poster 1.1,111,Xitong Yang,
+577,Not All Areas Are Equal: Transfer Learning for Semantic Segmentation via Hierarchical Region Selection,,,,,,Wednesday,Oral 2.1A,09:24,Wednesday,Poster 2.1,10,Ruoqi Sun,
+578,STEP: Spatio-Temporal Progressive Learning for Video Action Detection,,,,,,Tuesday,Oral 1.1C,09:10,Tuesday,Poster 1.1,111,Xitong Yang,
 579,Tangent-Normal Adversarial Regularization for Semi-Supervised Learning,,,,,,Thursday,Oral 3.2A,13:58,Thursday,Poster 3.2,6,Bing Yu,
 580,Underexposed Photo Enhancement Using Deep Illumination Estimation,,,,,,Wednesday,Oral 2.2C,14:24,Wednesday,Poster 2.2,139,Ruixing Wang,
-581,Deep Tree Learning for Zero-Shot Face Anti-Spoofing,,,,,,Wednesday,Oral 2.1C,9:34,Wednesday,Poster 2.1,146,Yaojie Liu,
-582,Multimodal Explanations by Predicting Counterfactuality in Videos,,,,,,Thursday,Oral 3.1A,9:11,Thursday,Poster 3.1,197,Atsushi Kanehira,
+581,Deep Tree Learning for Zero-Shot Face Anti-Spoofing,,,,,,Wednesday,Oral 2.1C,09:34,Wednesday,Poster 2.1,146,Yaojie Liu,
+582,Multimodal Explanations by Predicting Counterfactuality in Videos,,,,,,Thursday,Oral 3.1A,09:11,Thursday,Poster 3.1,197,Atsushi Kanehira,
 583,The Visual Centrifuge: Model-Free Layered Video Representations,,,,,,Tuesday,Oral 1.2B,14:52,Tuesday,Poster 1.2,132,Jean-Baptiste Alayrac,
 584,AdaGraph: Unifying Predictive and Continuous Domain Adaptation Through Graphs,,,,,,Wednesday,Oral 2.2A,15:10,Wednesday,Poster 2.2,42,Massimiliano Mancini,
 585,MeshAdv: Adversarial Meshes for Visual Recognition,,,,,,Wednesday,Oral 2.2C,14:52,Wednesday,Poster 2.2,144,Chaowei Xiao,
-586,Incremental Object Learning From Contiguous Views,,,,,,Thursday,Oral 3.1B,9:34,Thursday,Poster 3.1,88,Stefan Stojanov,
+586,Incremental Object Learning From Contiguous Views,,,,,,Thursday,Oral 3.1B,09:34,Thursday,Poster 3.1,88,Stefan Stojanov,
 587,Mitigating Information Leakage in Image Representations: A Maximum Entropy Approach,,,,,,Tuesday,Oral 1.2C,14:24,Tuesday,Poster 1.2,175,Proteek Chandan Roy,
-588,Learning to Quantize Deep Networks by Optimizing Quantization Intervals With Task Loss,,,,,,Wednesday,Oral 2.1A,9:16,Wednesday,Poster 2.1,9,Sangil Jung,
-589,Estimating 3D Motion and Forces of Person-Object Interactions From Monocular Video,,,,,,Thursday,Oral 3.1A,9:42,Thursday,Poster 3.1,202,Zongmian Li,
-590,Robust Histopathology Image Analysis: To Label or to Synthesize?,,,,,,Thursday,Oral 3.1A,8:35,Thursday,Poster 3.1,191,Le Hou,
-591,BAD SLAM: Bundle Adjusted Direct RGB-D SLAM,,,,,,Tuesday,Oral 1.1B,9:05,Tuesday,Poster 1.1,73,Thomas Schops,
-592,Learning Personalized Modular Network Guided by Structured Knowledge,,,,,,Thursday,Oral 3.1C,9:47,Thursday,Poster 3.1,68,Xiaodan Liang,
+588,Learning to Quantize Deep Networks by Optimizing Quantization Intervals With Task Loss,,,,,,Wednesday,Oral 2.1A,09:16,Wednesday,Poster 2.1,9,Sangil Jung,
+589,Estimating 3D Motion and Forces of Person-Object Interactions From Monocular Video,,,,,,Thursday,Oral 3.1A,09:42,Thursday,Poster 3.1,202,Zongmian Li,
+590,Robust Histopathology Image Analysis: To Label or to Synthesize?,,,,,,Thursday,Oral 3.1A,08:35,Thursday,Poster 3.1,191,Le Hou,
+591,BAD SLAM: Bundle Adjusted Direct RGB-D SLAM,,,,,,Tuesday,Oral 1.1B,09:05,Tuesday,Poster 1.1,73,Thomas Schops,
+592,Learning Personalized Modular Network Guided by Structured Knowledge,,,,,,Thursday,Oral 3.1C,09:47,Thursday,Poster 3.1,68,Xiaodan Liang,
 593,Embodied Question Answering in Photorealistic Environments With Point Cloud Perception,,,,,,Wednesday,Oral 2.2B,14:16,Wednesday,Poster 2.2,185,Erik Wijmans,
-594,What and How Well You Performed? A Multitask Learning Approach to Action Quality Assessment,,,,,,Tuesday,Oral 1.1C,9:36,Tuesday,Poster 1.1,115,Paritosh Parmar,
-595,A Skeleton-Bridged Deep Learning Approach for Generating Meshes of Complex Topologies From Single RGB Images,,,,,,Wednesday,Oral 2.1B,9:42,Wednesday,Poster 2.1,118,Jiapeng Tang,
+594,What and How Well You Performed? A Multitask Learning Approach to Action Quality Assessment,,,,,,Tuesday,Oral 1.1C,09:36,Tuesday,Poster 1.1,115,Paritosh Parmar,
+595,A Skeleton-Bridged Deep Learning Approach for Generating Meshes of Complex Topologies From Single RGB Images,,,,,,Wednesday,Oral 2.1B,09:42,Wednesday,Poster 2.1,118,Jiapeng Tang,
 596,ContextDesc: Local Descriptor Augmentation With Cross-Modality Context,,,,,,Tuesday,Oral 1.2C,13:48,Tuesday,Poster 1.2,169,Zixin Luo,
 597,Adaptive NMS: Refining Pedestrian Detection in a Crowd,,,,,,Wednesday,Oral 2.2A,14:06,Wednesday,Poster 2.2,31,Songtao Liu,
-598,Instance Segmentation by Jointly Optimizing Spatial Embeddings and Clustering Bandwidth,,,,,,Thursday,Oral 3.1C,8:40,Thursday,Poster 3.1,57,Davy Neven,
+598,Instance Segmentation by Jointly Optimizing Spatial Embeddings and Clustering Bandwidth,,,,,,Thursday,Oral 3.1C,08:40,Thursday,Poster 3.1,57,Davy Neven,
 599,Inverse Path Tracing for Joint Material and Lighting Estimation,,,,,,Tuesday,Oral 1.2B,14:47,Tuesday,Poster 1.2,131,Dejan Azinovic,
-600,Adversarial Attacks Beyond the Image Space,,,,,,Wednesday,Oral 2.1A,8:48,Wednesday,Poster 2.1,4,Xiaohui Zeng,
-601,Accel: A Corrective Fusion Network for Efficient Semantic Segmentation on Video,,,,,,Thursday,Oral 3.1C,8:58,Thursday,Poster 3.1,60,Samvit Jain,
-602,Language-Driven Temporal Activity Localization: A Semantic Matching Reinforcement Learning Model,,,,,,Tuesday,Oral 1.1C,9:54,Tuesday,Poster 1.1,118,Weining Wang,
+600,Adversarial Attacks Beyond the Image Space,,,,,,Wednesday,Oral 2.1A,08:48,Wednesday,Poster 2.1,4,Xiaohui Zeng,
+601,Accel: A Corrective Fusion Network for Efficient Semantic Segmentation on Video,,,,,,Thursday,Oral 3.1C,08:58,Thursday,Poster 3.1,60,Samvit Jain,
+602,Language-Driven Temporal Activity Localization: A Semantic Matching Reinforcement Learning Model,,,,,,Tuesday,Oral 1.1C,09:54,Tuesday,Poster 1.1,118,Weining Wang,
 603,High-Quality Face Capture Using Anatomical Muscles,,,,,,Thursday,Oral 3.2B,13:30,Thursday,Poster 3.2,92,Michael Bao,
 604,APDrawingGAN: Generating Artistic Portrait Drawings From Face Photos With Hierarchical GANs,,,,,,Thursday,Oral 3.2A,14:42,Thursday,Poster 3.2,13,Ran Yi,
 605,GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering,,,,,,Wednesday,Oral 2.2B,14:42,Wednesday,Poster 2.2,189,Drew A. Hudson,
 606,Panoptic Feature Pyramid Networks,,,,,,Wednesday,Oral 2.2A,13:30,Wednesday,Poster 2.2,25,Alexander Kirillov,
-607,Image Deformation Meta-Networks for One-Shot Learning,,,,,,Thursday,Oral 3.1B,8:35,Thursday,Poster 3.1,78,Zitian Chen,
-608,Learning Loss for Active Learning,,,,,,Tuesday,Oral 1.1A,9:54,Tuesday,Poster 1.1,10,Donggeun Yoo,
-609,Graph Convolutional Tracking,,,,,,Wednesday,Oral 2.1C,9:16,Wednesday,Poster 2.1,143,Junyu Gao,
+607,Image Deformation Meta-Networks for One-Shot Learning,,,,,,Thursday,Oral 3.1B,08:35,Thursday,Poster 3.1,78,Zitian Chen,
+608,Learning Loss for Active Learning,,,,,,Tuesday,Oral 1.1A,09:54,Tuesday,Poster 1.1,10,Donggeun Yoo,
+609,Graph Convolutional Tracking,,,,,,Wednesday,Oral 2.1C,09:16,Wednesday,Poster 2.1,143,Junyu Gao,
 610,Tell Me Where I Am: Object-Level Scene Context Prediction,,,,,,Tuesday,Oral 1.2C,14:52,Tuesday,Poster 1.2,180,Xiaotian Qiao,
 611,Max-Sliced Wasserstein Distance and Its Use for GANs,,,,,,Thursday,Oral 3.2A,13:40,Thursday,Poster 3.2,3,Ishan Deshpande,
 612,Composing Text and Image for Image Retrieval - an Empirical Odyssey,,,,,,Wednesday,Oral 2.2A,13:53,Wednesday,Poster 2.2,29,Nam Vo,
 613,Residual Networks for Light Field Image Super-Resolution,,,,,,Thursday,Oral 3.2C,14:06,Thursday,Poster 3.2,153,Shuo Zhang,
 614,Explainability Methods for Graph Convolutional Neural Networks,,,,,,Thursday,Oral 3.2A,15:00,Thursday,Poster 3.2,16,Phillip E. Pope,
-615,Argoverse: 3D Tracking and Forecasting With Rich Maps,,,,,,Thursday,Oral 3.1B,9:16,Thursday,Poster 3.1,85,Ming-Fang Chang,
+615,Argoverse: 3D Tracking and Forecasting With Rich Maps,,,,,,Thursday,Oral 3.1B,09:16,Thursday,Poster 3.1,85,Ming-Fang Chang,
 616,SoDeep: A Sorting Deep Net to Learn Ranking Loss Surrogates,,,,,,Thursday,Oral 3.2A,15:10,Thursday,Poster 3.2,18,Martin Engilberge,
 617,"""Double-DIP"": Unsupervised Image Decomposition via Coupled Deep-Image-Priors",,,,,,Thursday,Oral 3.2C,13:53,Thursday,Poster 3.2,151,Yosef Gandelsman,
 618,Doodle to Search: Practical Zero-Shot Sketch-Based Image Retrieval,,,,,,Tuesday,Oral 1.2A,13:53,Tuesday,Poster 1.2,22,Sounak Dey,
@@ -628,14 +628,14 @@
 627,CollaGAN: Collaborative GAN for Missing Image Data Imputation,,,,,,Tuesday,Oral 1.2B,15:10,Tuesday,Poster 1.2,135,Dongwook Lee,
 628,Semantics Disentangling for Text-To-Image Generation,,,,,,Tuesday,Oral 1.2B,13:35,Tuesday,Poster 1.2,119,Guojun Yin,
 629,Two Body Problem: Collaborative Visual Task Completion,,,https://prior.allenai.org/projects/two-body-problem,,,Wednesday,Oral 2.2B,14:34,Wednesday,Poster 2.2,188,Unnat Jain,"Unnat Jain, Luca Weihs, Eric Kolve, Mohammad Rastegari, Svetlana Lazebnik, Ali Farhadi, Alexander Schwing, Aniruddha Kembhavi"
-630,3D Shape Reconstruction From Images in the Frequency Domain,,,,,,Wednesday,Oral 2.1B,8:58,Wednesday,Poster 2.1,111,Weichao Shen,
+630,3D Shape Reconstruction From Images in the Frequency Domain,,,,,,Wednesday,Oral 2.1B,08:58,Wednesday,Poster 2.1,111,Weichao Shen,
 631,Fast Spatially-Varying Indoor Lighting Estimation,,,,,,Wednesday,Oral 2.2C,15:00,Wednesday,Poster 2.2,145,Mathieu Garon,
 632,Steady-State Non-Line-Of-Sight Imaging,,,,,,Wednesday,Oral 2.2C,13:48,Wednesday,Poster 2.2,133,Wenzheng Chen,
 633,Attention-Based Dropout Layer for Weakly Supervised Object Localization,,,,,,Tuesday,Oral 1.2A,14:16,Tuesday,Poster 1.2,26,Junsuk Choe,
 634,SFNet: Learning Object-Aware Semantic Correspondence,,,,,,Tuesday,Oral 1.2A,14:52,Tuesday,Poster 1.2,32,Junghyup Lee,
 635,Geometry-Consistent Generative Adversarial Networks for One-Sided Unsupervised Domain Mapping,,,,,,Tuesday,Oral 1.2B,14:34,Tuesday,Poster 1.2,129,Huan Fu,
 636,Gradient Matching Generative Networks for Zero-Shot Learning,,,,,,Tuesday,Oral 1.2A,13:48,Tuesday,Poster 1.2,21,Mert Bulent Sariyildiz,
-637,Finding Task-Relevant Features for Few-Shot Learning by Category Traversal,,,,,,Tuesday,Oral 1.1A,9:00,Tuesday,Poster 1.1,1,Hongyang Li,
+637,Finding Task-Relevant Features for Few-Shot Learning by Category Traversal,,,,,,Tuesday,Oral 1.1A,09:00,Tuesday,Poster 1.1,1,Hongyang Li,
 638,Look Back and Predict Forward in Image Captioning,,,,,,,,,Wednesday,Poster 2.2,201,Yu Qin,
 639,Assisted Excitation of Activations: A Learning Technique to Improve Object Detectors,,,,,,,,,Thursday,Poster 3.1,26,Mohammad Mahdi Derakhshani,
 640,Group Sampling for Scale Invariant Face Detection,,,,,,,,,Tuesday,Poster 1.2,97,Xiang Ming,
@@ -758,7 +758,7 @@
 757,Assessing Personally Perceived Image Quality via Image Features and Collaborative Filtering,,,,,,,,,Wednesday,Poster 2.2,163,Jari Korhonen,
 758,Layout-Graph Reasoning for Fashion Landmark Detection,,,,,,,,,Tuesday,Poster 1.2,46,Weijiang Yu,
 759,RES-PCA: A Scalable Approach to Recovering Low-Rank Matrices,,,,,,,,,Wednesday,Poster 2.2,58,Chong Peng,
-760,Two-Stream Adaptive Graph Convolutional Networks for Skeleton-Based Action Recognition,,,,,,,,,Thursday,Poster 3.2,125,Lei Shi,
+760,Two-Stream Adaptive Graph Convolutional Networks for Skeleton-Based Action Recognition,,https://github.com/lshiwjx/2s-AGCN,,,,,,,Thursday,Poster 3.2,125,Lei Shi,
 761,Using Unknown Occluders to Recover Hidden Scenes,,,,,,,,,Thursday,Poster 3.2,146,Adam B. Yedidia,
 762,Learning Unsupervised Video Object Segmentation Through Visual Attention,,,,,,,,,Tuesday,Poster 1.2,59,Wenguan Wang,
 763,Turn a Silicon Camera Into an InGaAs Camera,,,,,,,,,Wednesday,Poster 2.1,175,Feifan Lv,
@@ -1164,7 +1164,7 @@
 1163,LBS Autoencoder: Self-Supervised Fitting of Articulated Meshes to Point Clouds,,,,,,,,,Thursday,Poster 3.2,119,Chun-Liang Li,
 1164,All-Weather Deep Outdoor Lighting Estimation,,,,,,,,,Thursday,Poster 3.1,154,Jinsong Zhang,
 1165,Pyramidal Person Re-IDentification via Multi-Loss Dynamic Training,,,,,,,,,Wednesday,Poster 2.2,216,Feng Zheng,
-1166,MOTS: Multi-Object Tracking and Segmentation,,,,,,,,,Wednesday,Poster 2.2,122,Paul Voigtlaender,
+1166,MOTS: Multi-Object Tracking and Segmentation,,https://github.com/VisualComputingInstitute/mots_tools,,,,,,,Wednesday,Poster 2.2,122,Paul Voigtlaender,
 1167,Not Using the Car to See the Sidewalk -- Quantifying and Controlling the Effects of Context in Classification and Segmentation,,,,,,,,,Wednesday,Poster 2.2,168,Rakshith Shetty,
 1168,Iterative Projection and Matching: Finding Structure-Preserving Representatives and Its Application to Computer Vision,,,,,,,,,Wednesday,Poster 2.1,87,Alireza Zaeemzadeh,
 1169,Hyperspectral Image Reconstruction Using a Deep Spatial-Spectral Prior,,,,,,,,,Wednesday,Poster 2.2,149,Lizhi Wang,

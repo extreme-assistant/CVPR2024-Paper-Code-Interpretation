@@ -2,6 +2,9 @@
 Source：https://mp.weixin.qq.com/s/SmS-guwg6oUqPYwfeC6iiw<br>
 论文解读汇总：http://bbs.cvmart.net/topics/287/cvpr2019 <br>
 论文分类汇总：http://bbs.cvmart.net/topics/302/cvpr2019paper<br>
+* [CVPR 2019 论文大盘点-超分辨率篇](http://bbs.cvmart.net/topics/452/cvpr-2019-lun-wen-da-pan-dian-chao-fen-bian-lv-pian)<br>
+* [CVPR 2019 论文大盘点-人脸技术篇](http://bbs.cvmart.net/topics/451/cvpr-2019-lun-wen-da-pan-dian-ren-lian-ji-shu-pian)<br>
+* [CVPR2019模型剪枝论文汇总](http://bbs.cvmart.net/topics/464/cvpr-2019-gong-bu-mo-xing-jian-zhi-lun-wen-hui-zong)<br><br>
 CVPR2019论文直播分享计划：<br>
 * 3/28晚点云分割分享回放<br>[王鑫龙：联合分割点云中的实例和语义（开源，列表id 27)](<http://bbs.cvmart.net/topics/351/%E8%81%94%E5%90%88%E5%88%86%E5%89%B2%E7%82%B9%E4%BA%91%E4%B8%AD%E7%9A%84%E5%AE%9E%E4%BE%8B%E5%92%8C%E8%AF%AD%E4%B9%89>)<br>
 * 4月18日晚目标检测分享回放<br>
