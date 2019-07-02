@@ -3,12 +3,6 @@ Source：https://mp.weixin.qq.com/s/SmS-guwg6oUqPYwfeC6iiw<br>
 论文解读汇总：http://bbs.cvmart.net/topics/287/cvpr2019 <br>
 论文分类汇总：http://bbs.cvmart.net/topics/302/cvpr2019paper<br><br>
 
-* [**1.CVPR2019论文下载**](#1.CVPR2019全部论文PDF百度云下载)
-* [**2.CVPR2019论文分类盘点**](#2.CVPR2019论文盘点)
-* [**3.CVPR2019论文直播分享**](#3.CVPR2019论文直播分享计划)
-* [**4.CVPR2019最佳论文**](#4.Best Paper)
-* [**5.CVPR2018/CVPR2017论文下载**](#5.CVPR2018/CVPR2017)
-* [**6.参考链接**](#6.参考链接)
 
 # 1.CVPR2019全部论文PDF百度云下载<br>
 
@@ -17,10 +11,8 @@ Source：https://mp.weixin.qq.com/s/SmS-guwg6oUqPYwfeC6iiw<br>
 * 全部链接：http://openaccess.thecvf.com/CVPR2019.py <br>
 * 下载链接:https://pan.baidu.com/s/1J6qRJgVXWIg4hsLpGRfAiw  
 密码:bei7 
-<br>
-*  [**CVPR 2019全部论文开源源码汇总Excel点这里**](https://github.com/extreme-assistant/cvpr2019/blob/master/cvpr_2019_githublinks.csv)<br><br>
-
-
+* [CVPR 2019全部论文开源源码汇总Excel点这里](https://github.com/extreme-assistant/cvpr2019/blob/master/cvpr_2019_githublinks.csv)
+<br><br>
 # 2.CVPR2019论文盘点<br>
 * [CVPR 2019 论文大盘点-超分辨率篇](http://bbs.cvmart.net/topics/452/cvpr-2019-lun-wen-da-pan-dian-chao-fen-bian-lv-pian)<br>
 * [CVPR 2019 论文大盘点-人脸技术篇](http://bbs.cvmart.net/topics/451/cvpr-2019-lun-wen-da-pan-dian-ren-lian-ji-shu-pian)<br>
