@@ -16,6 +16,7 @@ Source：https://mp.weixin.qq.com/s/SmS-guwg6oUqPYwfeC6iiw<br>
 # 2.CVPR2019论文盘点<br>
 * [CVPR 2019 论文大盘点-超分辨率篇](http://bbs.cvmart.net/topics/452/cvpr-2019-lun-wen-da-pan-dian-chao-fen-bian-lv-pian)<br>
 * [CVPR 2019 论文大盘点-人脸技术篇](http://bbs.cvmart.net/topics/451/cvpr-2019-lun-wen-da-pan-dian-ren-lian-ji-shu-pian)<br>
+* [CVPR 2019 论文大盘点—目标检测篇](https://mp.weixin.qq.com/s/l8Cfi3CIt2gqVC9i3LV6hw)<br>
 * [CVPR2019模型剪枝论文汇总](http://bbs.cvmart.net/topics/464/cvpr-2019-gong-bu-mo-xing-jian-zhi-lun-wen-hui-zong)<br><br>
 
 
