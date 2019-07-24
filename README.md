@@ -9,8 +9,8 @@ Source：https://mp.weixin.qq.com/s/SmS-guwg6oUqPYwfeC6iiw<br>
 全部1294篇<br>
 
 * 全部链接：http://openaccess.thecvf.com/CVPR2019.py <br>
-* 下载链接:https://pan.baidu.com/s/1J6qRJgVXWIg4hsLpGRfAiw  
-密码:bei7 
+* 下载链接:<br>
+链接:https://pan.baidu.com/s/1dhXrWFHeKeJ1kFsKBxQzVg  密码:f53l
 * [CVPR 2019全部论文开源源码汇总Excel点这里](https://github.com/extreme-assistant/cvpr2019/blob/master/cvpr_2019_githublinks.csv)
 <br><br>
 # 2.CVPR2019论文盘点<br>
