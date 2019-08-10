@@ -14,13 +14,16 @@ Source：https://mp.weixin.qq.com/s/SmS-guwg6oUqPYwfeC6iiw<br>
 * [CVPR 2019全部论文开源源码汇总Excel点这里](https://github.com/extreme-assistant/cvpr2019/blob/master/cvpr_2019_githublinks.csv)
 <br><br>
 # 2.CVPR2019论文盘点<br>
+* [CVPR 2019 论文大盘点-目标跟踪篇](http://bbs.cvmart.net/articles/523/cvpr-2019-lun-wen-da-pan-dian-mu-biao-gen-zong-pian)<br>
 * [CVPR 2019 论文大盘点-超分辨率篇](http://bbs.cvmart.net/topics/452/cvpr-2019-lun-wen-da-pan-dian-chao-fen-bian-lv-pian)<br>
 * [CVPR 2019 论文大盘点-人脸技术篇](http://bbs.cvmart.net/topics/451/cvpr-2019-lun-wen-da-pan-dian-ren-lian-ji-shu-pian)<br>
 * [CVPR 2019 论文大盘点—目标检测篇](https://mp.weixin.qq.com/s/l8Cfi3CIt2gqVC9i3LV6hw)<br>
+* [CVPR 2019 论文大盘点—文本图像篇](http://bbs.cvmart.net/topics/535/CVPR2019-Text)<br>
 * [CVPR2019模型剪枝论文汇总](http://bbs.cvmart.net/topics/464/cvpr-2019-gong-bu-mo-xing-jian-zhi-lun-wen-hui-zong)<br><br>
 
 
 # 3.CVPR2019论文直播分享计划<br>
+* [微软亚研院CVPR2019线下分享会视频回放及PPT下载](http://bbs.cvmart.net/topics/609/CVPR-2019)
 * 3/28晚点云分割分享回放<br>[王鑫龙：联合分割点云中的实例和语义（开源，列表id 27)](<http://bbs.cvmart.net/topics/351/%E8%81%94%E5%90%88%E5%88%86%E5%89%B2%E7%82%B9%E4%BA%91%E4%B8%AD%E7%9A%84%E5%AE%9E%E4%BE%8B%E5%92%8C%E8%AF%AD%E4%B9%89>)<br>
 * 4月18日晚目标检测分享回放<br>
 [CMU诸宸辰:基于Anchor-free特征选择模块的单阶目标检测(CVPR2019，列表id 88)](https://mp.weixin.qq.com/s/CvzFG63c1bTuWFSIzNSxBA) <br>
