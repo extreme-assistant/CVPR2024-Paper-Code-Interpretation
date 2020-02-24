@@ -6,7 +6,7 @@ Source：https://mp.weixin.qq.com/s/SmS-guwg6oUqPYwfeC6iiw<br>
 <br>
 
 # 1.CVPR2020最新信息及论文下载贴
-* [Papers/Codes/Project/PaperReading／Demos/直播分享／论文分享会等）](https://github.com/extreme-assistant/cvpr2020/blob/master/CVPR2020.md#cvpr2020最新信息及论文下载贴paperscodesprojectpaperreadingdemos直播分享论文分享会等<br><br>
+* [Papers/Codes/Project/PaperReading／Demos/直播分享／论文分享会等](https://github.com/extreme-assistant/cvpr2020/blob/master/CVPR2020.md#cvpr2020最新信息及论文下载贴paperscodesprojectpaperreadingdemos直播分享论文分享会等)<br><br>
 
 # 2.CVPR2019全部论文PDF百度云下载<br>
 
