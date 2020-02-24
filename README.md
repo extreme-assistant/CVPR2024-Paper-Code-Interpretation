@@ -5,7 +5,8 @@ Source：https://mp.weixin.qq.com/s/SmS-guwg6oUqPYwfeC6iiw<br>
 2000~2019年历届CVPR最佳论文代码，解读等汇总：http://bbs.cvmart.net/topics/665/CVPR-Best-Paper<br>
 <br>
 
-# 1.[CVPR2020最新信息及论文下载贴（Papers/Codes/Project/PaperReading／Demos/直播分享／论文分享会等）](https://github.com/extreme-assistant/cvpr2020/blob/master/CVPR2020.md#cvpr2020最新信息及论文下载贴paperscodesprojectpaperreadingdemos直播分享论文分享会等)<br>
+# 1.CVPR2020最新信息及论文下载贴
+* [Papers/Codes/Project/PaperReading／Demos/直播分享／论文分享会等）](https://github.com/extreme-assistant/cvpr2020/blob/master/CVPR2020.md#cvpr2020最新信息及论文下载贴paperscodesprojectpaperreadingdemos直播分享论文分享会等)<br>
 
 # 2.CVPR2019全部论文PDF百度云下载<br>
 
