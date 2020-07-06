@@ -7,7 +7,7 @@ Source：https://mp.weixin.qq.com/s/SmS-guwg6oUqPYwfeC6iiw<br>
 
 # 8.CVPR2020最新信息及论文下载贴
 * [Papers/Codes/Project/PaperReading／Demos/直播分享／论文分享会等](https://github.com/extreme-assistant/cvpr2020/blob/master/CVPR2020.md#cvpr2020最新信息及论文下载贴paperscodesprojectpaperreadingdemos直播分享论文分享会等)<br>
-* [CVPR2020全部论文下载（共1467篇）](https://pan.baidu.com/s/1T9cs9VLeLvLdVHwhW3Z6pw)<br>
+* [CVPR2020全部论文下载（共1467篇）](链接: https://pan.baidu.com/s/1LJ_-ckpKwXQCCgx6IcDZQg 提取码: t69g)<br>
 密码：lyv5
 
 
