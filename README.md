@@ -1,7 +1,7 @@
 # cvpr2020/cvpr2019/cvpr2018/cvpr2017（Papers/Codes/Project/Paper reading）
 Source：https://mp.weixin.qq.com/s/SmS-guwg6oUqPYwfeC6iiw<br>
-论文解读汇总：http://bbs.cvmart.net/topics/287/cvpr2019 <br>
-论文分类汇总：http://bbs.cvmart.net/topics/302/cvpr2019paper<br><br>
+论文解读汇总：https://bbs.cvmart.net/articles/3031 <br>
+论文分类汇总：https://bbs.cvmart.net/articles/1538<br><br>
 2000~2019年历届CVPR最佳论文代码，解读等汇总：http://bbs.cvmart.net/topics/665/CVPR-Best-Paper<br>
 <br>
 
@@ -12,9 +12,26 @@ Source：https://mp.weixin.qq.com/s/SmS-guwg6oUqPYwfeC6iiw<br>
 
 
 # 7.CVPR2020论文大盘点<br>
-* [CVPR 2020 论文大盘点-人脸技术篇](https://bbs.cvmart.net/topics/2720)
-* [CVPR 2020 论文大盘点-超分辨率篇](https://bbs.cvmart.net/topics/2725)
-* [CVPR 2020 论文大盘点-目标检测篇](https://bbs.cvmart.net/topics/2732)
+*   [20.CVPR 2020 论文大盘点-动作检测与动作分割篇](https://bbs.cvmart.net/topics/3028)<br>
+*   [19.CVPR 2020 论文大盘点-动作识别篇](https://bbs.cvmart.net/topics/3000)<br>
+*   [18.CVPR 2020 论文大盘点-光流篇](https://bbs.cvmart.net/topics/2992)<br>
+*   [17.CVPR 2020 论文大盘点-图像与视频检索篇](https://bbs.cvmart.net/topics/2964)<br>
+*   [16.CVPR 2020 论文大盘点-遥感与航拍影像处理识别篇](https://bbs.cvmart.net/topics/2953)<br>
+*   [15.CVPR 2020 论文大盘点-图像质量评价篇](https://bbs.cvmart.net/topics/2923)<br>
+*   [14.CVPR 2020 论文大盘点-图像修复 Inpainting 篇](https://bbs.cvmart.net/topics/2903) <br>
+*   [13.CVPR 2020 论文大盘点-图像增强与图像恢复篇](https://bbs.cvmart.net/topics/2902)<br>
+*   [12.CVPR 2020 论文大盘点-去雨去雾去模糊篇](https://bbs.cvmart.net/topics/2876)<br>
+*   [11.CVPR 2020 论文大盘点-医学影像处理识别篇](https://bbs.cvmart.net/topics/2855)<br>
+*   [10.CVPR 2020 论文大盘点-抠图 Matting 篇](https://bbs.cvmart.net/topics/2854)<br>
+*   [9.CVPR 2020 论文大盘点-图像分割完整篇](https://bbs.cvmart.net/topics/2829)<br>
+*   [8.CVPR 2020 论文大盘点-全景分割与视频目标分割篇](https://bbs.cvmart.net/topics/2818)<br>
+*   [7.CVPR 2020 论文大盘点-超分辨篇](https://bbs.cvmart.net/topics/2725)<br>
+*   [6.CVPR 2020 论文大盘点-目标检测篇](https://bbs.cvmart.net/topics/2732)<br>
+*   [5.CVPR 2020 论文大盘点-人脸技术篇](https://bbs.cvmart.net/topics/2720 )<br>
+*   [4.CVPR 2020 论文大盘点-目标跟踪篇](https://bbs.cvmart.net/topics/2733 )<br>
+*   [3.CVPR 2020 论文大盘点-文本图像篇](https://bbs.cvmart.net/topics/2778 )<br>
+*   [2.CVPR 2020 论文大盘点-行人检测与重识别篇](https://bbs.cvmart.net/topics/2751)<br>
+*   [1.CVPR 2020 论文大盘点-实例分割篇](https://bbs.cvmart.net/topics/2806)<br><br>
 
 
 <br><br>
