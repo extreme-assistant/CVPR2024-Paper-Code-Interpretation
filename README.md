@@ -1,3 +1,10 @@
+>插个广告：[2020极市计算机视觉开发者榜单](https://mp.weixin.qq.com/s/nWi40G2kb0dl7YZw79SURw)已于7月20日开赛，8月31日截止提交，基于火焰识别、电动车头盔识别、后厨老鼠识别、摔倒识别四个赛道，47000+数据集，30万奖励等你挑战！[点击这里报名](https://m.cvmart.net/?source=GitHub.net)
+
+* 推荐阅读：[2019-2020年目标跟踪资源全汇总（论文、模型代码、优秀实验室）](https://github.com/extreme-assistant/Object-Tracking-Paper-Benchmark-Team)
+
+
+------
+
 # cvpr2020/cvpr2019/cvpr2018/cvpr2017（Papers/Codes/Project/Paper reading）
 Source：https://mp.weixin.qq.com/s/SmS-guwg6oUqPYwfeC6iiw<br>
 论文解读汇总：https://bbs.cvmart.net/articles/3031 <br>
