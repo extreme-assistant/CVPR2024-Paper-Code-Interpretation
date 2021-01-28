@@ -1,7 +1,7 @@
 
 * 推荐阅读：<br>
-  * [2019-2020年目标跟踪资源全汇总（论文、模型代码、优秀实验室）](https://github.com/extreme-assistant/Object-Tracking-Paper-Benchmark-Team)<br>
-  * [2020-2021年计算机视觉综述论文汇总](https://github.com/extreme-assistant/survey-computer-vision)
+  * [2020-2021年计算机视觉综述论文汇总](https://github.com/extreme-assistant/survey-computer-vision)<br>
+  * [2019-2020年目标跟踪资源全汇总（论文、模型代码、优秀实验室）](https://github.com/extreme-assistant/Object-Tracking-Paper-Benchmark-Team)
   
 ------
 
