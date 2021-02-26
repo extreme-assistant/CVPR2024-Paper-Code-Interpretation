@@ -1,12 +1,9 @@
 
 * 推荐阅读：<br>
   * [2020-2021年计算机视觉综述论文汇总](https://github.com/extreme-assistant/survey-computer-vision)<br>
-  * [2019-2020年目标跟踪资源全汇总（论文、模型代码、优秀实验室）](https://github.com/extreme-assistant/Object-Tracking-Paper-Benchmark-Team)
-  
 ------
 
 # cvpr2021/cvpr2020/cvpr2019/cvpr2018/cvpr2017（Papers/Codes/Project/Paper reading）
-Source：https://mp.weixin.qq.com/s/SmS-guwg6oUqPYwfeC6iiw<br>
 论文解读汇总：https://bbs.cvmart.net/articles/3031 <br>
 论文分类汇总：https://bbs.cvmart.net/articles/1538<br><br>
 2000~2020年历届CVPR最佳论文代码，解读等汇总：http://bbs.cvmart.net/topics/665/CVPR-Best-Paper<br>
@@ -18,7 +15,7 @@ Source：https://mp.weixin.qq.com/s/SmS-guwg6oUqPYwfeC6iiw<br>
 3.[CVPR2019论文分方向盘点](#3)<br>
 4.[CVPR2019全部论下载/开源代码](#4)<br>
 5.[CVPR2020论文分方向盘点](#5)<br>
-6.[CVPR2020论文下载/代码/解读](#6)<br>
+6.[CVPR2020论文下载/代码/解读/直播](#6)<br>
 7.[CVPR2021最新信息及论文下载](#7)<br>
 
 <br>
@@ -30,10 +27,11 @@ Source：https://mp.weixin.qq.com/s/SmS-guwg6oUqPYwfeC6iiw<br>
 <br>
 <a name="6"/> 
 
-# 6.CVPR2020论文下载/代码/解读
+# 6.CVPR2020论文下载/代码/解读/直播
 * [Papers/Codes/Project/PaperReading／Demos/直播分享／论文分享会等](https://github.com/extreme-assistant/cvpr2020/blob/master/CVPR2020.md#cvpr2020最新信息及论文下载贴paperscodesprojectpaperreadingdemos直播分享论文分享会等)<br>
-* [CVPR2020全部论文下载（共1467篇）](链接: https://pan.baidu.com/s/1LJ_-ckpKwXQCCgx6IcDZQg 提取码: t69g)<br>
-密码：lyv5<br><br>
+* [CVPR2020全部论文下载（共1467篇）](https://pan.baidu.com/s/1LJ_-ckpKwXQCCgx6IcDZQg)<br>
+密码：t69g<br><br>
+* [CVPR2020 论文解读汇总 + 技术直播汇总](https://bbs.cvmart.net/articles/3031)<br>
 
 <br>
 <a name="5"/> 
