@@ -1,0 +1,31 @@
+# CVPR2021最新信息及论文下载贴（Papers/Codes/Project/PaperReading／Demos/直播分享／论文分享会等）
+
+官网链接：http://cvpr2021.thecvf.com<br>
+时间：Seattle, Washington，2020年6月14日-6月19日<br>
+论文接收公布时间：2021年2月28日<br>
+
+相关问题：<br>
+
+* [如何评价CVPR 2021的论文接收结果？](https://www.zhihu.com/question/446299297)
+
+<br><br>
+
+# 目录
+
+[1.CVPR2021接受论文/代码（持续更新）](#1)
+
+2.To do list
+
+<br>
+
+<a name="1"/> 
+
+# 1.CVPR2021接受论文/代码（持续更新）
+
+<br>
+
+<a name="2"/> 
+
+* CVPR2021论文解读
+* CVPR2021 Oral
+* CVPR2021论文分享
