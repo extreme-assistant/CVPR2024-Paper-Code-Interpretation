@@ -1,6 +1,7 @@
 
 * 推荐阅读：<br>
   * [2020-2021年计算机视觉综述论文汇总](https://github.com/extreme-assistant/survey-computer-vision)<br>
+  * [国内外优秀的计算机视觉团队汇总](https://github.com/extreme-assistant/Awesome-CV-Team)
 ------
 
 # cvpr2021/cvpr2020/cvpr2019/cvpr2018/cvpr2017（Papers/Codes/Project/Paper reading）
