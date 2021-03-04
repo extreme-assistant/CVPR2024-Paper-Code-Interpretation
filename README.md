@@ -23,7 +23,7 @@
 <br>
 <a name="7"/> 
 
-# 7.CVPR2021最新信息及论文下载(持续更新)
+# 7.CVPR2021最新论文分类汇总(持续更新)
 * [Papers/Codes/Project/PaperReading／Demos/直播分享／论文分享会等](https://github.com/extreme-assistant/CVPR2021-Paper-Code-Interpretation/blob/master/CVPR2021.md)
 
 <br>
