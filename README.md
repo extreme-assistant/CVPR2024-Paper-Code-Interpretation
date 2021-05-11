@@ -33,8 +33,8 @@
 
 # 6.CVPR2020论文下载/代码/解读/直播
 * [Papers/Codes/Project/PaperReading／Demos/直播分享／论文分享会等](https://github.com/extreme-assistant/cvpr2020/blob/master/CVPR2020.md#cvpr2020最新信息及论文下载贴paperscodesprojectpaperreadingdemos直播分享论文分享会等)<br>
-* [CVPR2020全部论文下载（共1467篇）](https://pan.baidu.com/s/1LJ_-ckpKwXQCCgx6IcDZQg)<br>
-密码：t69g<br><br>
+* [CVPR2020全部论文下载（共1467篇）](https://pan.baidu.com/s/1UXW6iviZ_d3wpdujNgWJSQ)<br>
+密码：pun7<br><br>
 * [CVPR2020 论文解读汇总 + 技术直播汇总](https://bbs.cvmart.net/articles/3031)<br>
 
 <br>
@@ -110,7 +110,7 @@
 # 1.CVPR2018/CVPR2017<br>
 * CVPR 2018全部论文下载百度云链接：https://pan.baidu.com/s/1bhYzNz2TGijUdfPIdyEGtg <br> 密码:gyk2
 * [**CVPR 2018论文解读汇总**](http://bbs.cvmart.net/articles/56/cvpr-2018-lun-wen-jie-du-ji-jin-190326-geng-xin)
-* CVPR 2017全部论文下载百度云链接：https://pan.baidu.com/s/1Gx7Kg2GSobVxmq8PH3lzCQ <br> 密码:7jkx
+* CVPR 2017全部论文下载百度云链接：https://pan.baidu.com/s/1p_If8S_AAgnTlZxfzBya2w  <br> 密码:o6tu
 * [**CVPR 2017论文解读集锦**](https://zhuanlan.zhihu.com/p/27651707)
 
 
