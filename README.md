@@ -25,6 +25,7 @@
 
 # 7.CVPR2021最新论文分类汇总(持续更新)
 * [Papers/Codes/Project/PaperReading／Demos/直播分享／论文分享会等](https://github.com/extreme-assistant/CVPR2021-Paper-Code-Interpretation/blob/master/CVPR2021.md)<br>
+  * [一文看尽 27 篇 CVPR2021 2D 目标检测论文](https://mp.weixin.qq.com/s/Ho7qtrpF9FhHGaamkQo6Lw)<br>
 * [CVPR2021 论文解读汇总 + 技术直播汇总](https://bbs.cvmart.net/articles/4368)<br>
 * [CVPR2021 Oral论文汇总/解读](https://bbs.cvmart.net/articles/4366)<br>
 
