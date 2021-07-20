@@ -6,7 +6,7 @@
 
 # cvpr2021/cvpr2020/cvpr2019/cvpr2018/cvpr2017（Papers/Codes/Project/Paper reading）
 论文解读汇总：https://bbs.cvmart.net/articles/3031 <br>
-论文分类汇总：https://bbs.cvmart.net/articles/1538<br><br>
+论文分类汇总：https://bbs.cvmart.net/articles/4267<br><br>
 2000~2020年历届CVPR最佳论文代码，解读等汇总：http://bbs.cvmart.net/topics/665/CVPR-Best-Paper<br>
 <br>
 
