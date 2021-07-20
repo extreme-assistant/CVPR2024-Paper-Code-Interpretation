@@ -25,7 +25,8 @@
 
 # 7.CVPR2021最新论文分类汇总(持续更新)
 * [Papers/Codes/Project/PaperReading／Demos/直播分享／论文分享会等](https://github.com/extreme-assistant/CVPR2021-Paper-Code-Interpretation/blob/master/CVPR2021.md)<br>
-  * [一文看尽 27 篇 CVPR2021 2D 目标检测论文](https://mp.weixin.qq.com/s/Ho7qtrpF9FhHGaamkQo6Lw)<br>
+  * [CVPR2021全部论文下载（共1661篇）](https://pan.baidu.com/s/1TWPkRukz9JC4Br-g_Ws5OA) 提取码：su7e
+  * [一文看尽 27 篇 CVPR2021 2D 目标检测论文](https://mp.weixin.qq.com/s/Ho7qtrpF9FhHGaamkQo6Lw)
   * [一文看尽 6篇 CVPR2021 图像异常检测论文](https://mp.weixin.qq.com/s/ysfwYQ3sVvXINPzBR91S7A)
 * [CVPR2021 论文解读汇总 + 技术直播汇总](https://bbs.cvmart.net/articles/4368)<br>
 * [CVPR2021 Oral论文汇总/解读](https://bbs.cvmart.net/articles/4366)<br>
@@ -36,7 +37,7 @@
 # 6.CVPR2020论文下载/代码/解读/直播
 * [Papers/Codes/Project/PaperReading／Demos/直播分享／论文分享会等](https://github.com/extreme-assistant/cvpr2020/blob/master/CVPR2020.md#cvpr2020最新信息及论文下载贴paperscodesprojectpaperreadingdemos直播分享论文分享会等)<br>
 * [CVPR2020全部论文下载（共1467篇）](https://pan.baidu.com/s/1UXW6iviZ_d3wpdujNgWJSQ)<br>
-密码：pun7<br><br>
+提取码：pun7<br><br>
 * [CVPR2020 论文解读汇总 + 技术直播汇总](https://bbs.cvmart.net/articles/3031)<br>
 
 <br>
