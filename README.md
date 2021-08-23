@@ -29,6 +29,8 @@
   * [CVPR2021全部论文下载（共1661篇）](https://pan.baidu.com/s/1TWPkRukz9JC4Br-g_Ws5OA) 提取码：su7e
   * [一文看尽CVPR2021 2D 目标检测论文（27篇）](https://mp.weixin.qq.com/s/Ho7qtrpF9FhHGaamkQo6Lw)
   * [一文看尽CVPR2021 图像异常检测论文（6篇）](https://mp.weixin.qq.com/s/ysfwYQ3sVvXINPzBR91S7A)
+  * [一文看尽CVPR2021 伪装目标检测+旋转目标检测论文（6篇）](https://mp.weixin.qq.com/s/w1jPD2AbxnENUBgfdFLFSg)
+  * [CVPR2021 论文大盘点：全景分割论文汇总（共15篇）](https://mp.weixin.qq.com/s/_a0UmZSSxvVUFUGOnMrMhw)
 * [CVPR2021 论文解读汇总 + 技术直播汇总](https://bbs.cvmart.net/articles/4368)<br>
 * [CVPR2021 Oral论文汇总/解读](https://bbs.cvmart.net/articles/4366)<br>
 
