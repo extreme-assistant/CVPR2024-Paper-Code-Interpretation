@@ -13,7 +13,8 @@
 
 # 目录
 
-[7. CVPR2021最新信息及论文下载](#7)<br>
+[8. CVPR2021最新信息及论文下载](#8)<br>
+[7. CVPR2020论文分方向盘点](#7)<br>
 [6. CVPR2020论文下载/代码/解读/直播](#6)<br>
 [5. CVPR2020论文分方向盘点](#5)<br>
 [4. CVPR2019全部论文下载/开源代码](#4)<br>
@@ -22,30 +23,36 @@
 [1. CVPR2018/CVPR2017](#1)<br>
 
 <br>
-<a name="7"/> 
+<a name="8"/> 
 
-# 7.CVPR2021最新论文分类汇总(持续更新)
+# 8.CVPR2021最新论文分类汇总(持续更新)
 * [Papers/Codes/Project/PaperReading／Demos/直播分享／论文分享会等](https://github.com/extreme-assistant/CVPR2021-Paper-Code-Interpretation/blob/master/CVPR2021.md)<br>
   * [CVPR2021全部论文下载（共1661篇）](https://pan.baidu.com/s/1TWPkRukz9JC4Br-g_Ws5OA) 提取码：su7e
-  * [一文看尽CVPR2021 2D 目标检测论文（27篇）](https://mp.weixin.qq.com/s/Ho7qtrpF9FhHGaamkQo6Lw)
-  * [一文看尽CVPR2021 图像异常检测论文（6篇）](https://mp.weixin.qq.com/s/ysfwYQ3sVvXINPzBR91S7A)
-  * [一文看尽CVPR2021 伪装目标检测+旋转目标检测论文（6篇）](https://mp.weixin.qq.com/s/w1jPD2AbxnENUBgfdFLFSg)
-  * [CVPR2021 论文大盘点：全景分割论文汇总（共15篇）](https://mp.weixin.qq.com/s/_a0UmZSSxvVUFUGOnMrMhw)
-  * [CVPR2021 论文大盘点：人员重识别汇总（共26篇）](https://bbs.cvmart.net/articles/5832)
-  * [CVPR2021 论文大盘点：行人技术汇总（共7篇）](https://bbs.cvmart.net/articles/5831)
-  * [CVPR2021 论文大盘点：医学影像汇总（共22篇）](https://bbs.cvmart.net/articles/5829)
-  * [CVPR2021 论文大盘点：超分辨率汇总（共32篇）](https://bbs.cvmart.net/articles/5560)
-  * [CVPR2021 论文大盘点：图像修复汇总（共20篇）](https://bbs.cvmart.net/articles/5824)
-  * [CVPR2021 论文大盘点：图像去噪汇总（共14篇）](https://bbs.cvmart.net/articles/5828)
-  * [CVPR2021 论文大盘点：去雾去模糊汇总（共14篇）](https://bbs.cvmart.net/articles/5827)
-  * [CVPR2021 论文大盘点：图像视频去雨汇总（共10篇）](https://bbs.cvmart.net/articles/5826)
-  * [CVPR2021 论文大盘点：文本图像汇总（共17篇）](https://bbs.cvmart.net/articles/5562)
-  * [CVPR2021 论文大盘点：人脸识别汇总（共15篇）](https://bbs.cvmart.net/articles/5811)
-  * [CVPR2021 论文大盘点：人脸造假检测汇总（共9篇）](https://bbs.cvmart.net/articles/5810)
-  * [CVPR2021 论文大盘点：图像压缩汇总（共5篇）](https://bbs.cvmart.net/articles/5809)
-  * [CVPR2021 论文大盘点：遥感与航拍影像汇总（共7篇）](https://bbs.cvmart.net/articles/5830)
 * [CVPR2021 论文解读汇总 + 技术直播汇总](https://bbs.cvmart.net/articles/4368)<br>
 * [CVPR2021 Oral论文汇总/解读](https://bbs.cvmart.net/articles/4366)<br>
+
+<br>
+<a name="7"/> 
+
+# 7.CVPR2021论文分方向盘点<br>
+
+* [一文看尽CVPR2021 2D 目标检测论文（27篇）](https://mp.weixin.qq.com/s/Ho7qtrpF9FhHGaamkQo6Lw)
+* [一文看尽CVPR2021 图像异常检测论文（6篇）](https://mp.weixin.qq.com/s/ysfwYQ3sVvXINPzBR91S7A)
+* [一文看尽CVPR2021 伪装目标检测+旋转目标检测论文（6篇）](https://mp.weixin.qq.com/s/w1jPD2AbxnENUBgfdFLFSg)
+* [CVPR2021 论文大盘点：全景分割论文汇总（共15篇）](https://mp.weixin.qq.com/s/_a0UmZSSxvVUFUGOnMrMhw)
+* [CVPR2021 论文大盘点：人员重识别汇总（共26篇）](https://bbs.cvmart.net/articles/5832)
+* [CVPR2021 论文大盘点：行人技术汇总（共7篇）](https://bbs.cvmart.net/articles/5831)
+* [CVPR2021 论文大盘点：医学影像汇总（共22篇）](https://bbs.cvmart.net/articles/5829)
+* [CVPR2021 论文大盘点：超分辨率汇总（共32篇）](https://bbs.cvmart.net/articles/5560)
+* [CVPR2021 论文大盘点：图像修复汇总（共20篇）](https://bbs.cvmart.net/articles/5824)
+* [CVPR2021 论文大盘点：图像去噪汇总（共14篇）](https://bbs.cvmart.net/articles/5828)
+* [CVPR2021 论文大盘点：去雾去模糊汇总（共14篇）](https://bbs.cvmart.net/articles/5827)
+* [CVPR2021 论文大盘点：图像视频去雨汇总（共10篇）](https://bbs.cvmart.net/articles/5826)
+* [CVPR2021 论文大盘点：文本图像汇总（共17篇）](https://bbs.cvmart.net/articles/5562)
+* [CVPR2021 论文大盘点：人脸识别汇总（共15篇）](https://bbs.cvmart.net/articles/5811)
+* [CVPR2021 论文大盘点：人脸造假检测汇总（共9篇）](https://bbs.cvmart.net/articles/5810)
+* [CVPR2021 论文大盘点：图像压缩汇总（共5篇）](https://bbs.cvmart.net/articles/5809)
+* [CVPR2021 论文大盘点：遥感与航拍影像汇总（共7篇）](https://bbs.cvmart.net/articles/5830)
 
 <br>
 <a name="6"/> 
