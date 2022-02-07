@@ -6,14 +6,15 @@
 ------
 
 # cvpr2021/cvpr2020/cvpr2019/cvpr2018/cvpr2017（Papers/Codes/Project/Paper reading）
-论文解读汇总：https://bbs.cvmart.net/articles/3031 <br>
+论文解读+技术直播汇总：https://bbs.cvmart.net/articles/4368 <br>
 论文分类汇总：https://bbs.cvmart.net/articles/4267<br><br>
-2000~2020年历届CVPR最佳论文代码，解读等汇总：http://bbs.cvmart.net/topics/665/CVPR-Best-Paper<br>
+2000~2021年历届CVPR最佳论文代码，解读等汇总：http://bbs.cvmart.net/topics/665/CVPR-Best-Paper<br>
 <br>
 
 # 目录
 
-[8. CVPR2021最新信息及论文下载](#8)<br>
+[9. CVPR2022最新信息及论文下载](#9)<br>
+[8. CVPR2021论文下载/代码/解读/直播](#8)<br>
 [7. CVPR2021论文分方向盘点](#7)<br>
 [6. CVPR2020论文下载/代码/解读/直播](#6)<br>
 [5. CVPR2020论文分方向盘点](#5)<br>
@@ -25,7 +26,7 @@
 <br>
 <a name="8"/> 
 
-# 8.CVPR2021最新论文分类汇总(持续更新)
+# 8.CVPR2021论文下载/代码/解读/直播(持续更新)
 * [Papers/Codes/Project/PaperReading／Demos/直播分享／论文分享会等](https://github.com/extreme-assistant/CVPR2021-Paper-Code-Interpretation/blob/master/CVPR2021.md)<br>
   * [CVPR2021全部论文下载（共1661篇）](https://pan.baidu.com/s/1TWPkRukz9JC4Br-g_Ws5OA) 提取码：su7e
 * [CVPR2021 论文解读汇总 + 技术直播汇总](https://bbs.cvmart.net/articles/4368)<br>
