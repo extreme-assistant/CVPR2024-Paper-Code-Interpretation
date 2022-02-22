@@ -23,6 +23,15 @@
 [2. CVPR2019论文直播分享](#2)<br>
 [1. CVPR2018/CVPR2017](#1)<br>
 
+
+<br>
+<a name="9"/> 
+
+# 8.CVPR2022论文下载/代码/解读/直播(持续更新)
+* [Papers/Codes/Project/PaperReading／Demos/直播分享／论文分享会等](https://github.com/extreme-assistant/CVPR2022-Paper-Code-Interpretation/blob/master/CVPR2022.md)<br>
+* CVPR2022 论文解读汇总 + 技术直播汇总（待更新）<br>
+* CVPR2022 Oral论文汇总/解读（待更新）<br>
+
 <br>
 <a name="8"/> 
 
