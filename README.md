@@ -5,7 +5,7 @@
   * [国内外优秀的计算机视觉团队汇总](https://github.com/extreme-assistant/Awesome-CV-Team)
 ------
 
-# cvpr2021/cvpr2020/cvpr2019/cvpr2018/cvpr2017（Papers/Codes/Project/Paper reading）
+# cvpr2022/cvpr2021/cvpr2020/cvpr2019/cvpr2018/cvpr2017（Papers/Codes/Project/Paper reading）
 论文解读+技术直播汇总：https://bbs.cvmart.net/articles/4368 <br>
 论文分类汇总：https://bbs.cvmart.net/articles/4267<br><br>
 2000~2021年历届CVPR最佳论文代码，解读等汇总：http://bbs.cvmart.net/topics/665/CVPR-Best-Paper<br>
