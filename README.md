@@ -2040,6 +2040,22 @@ PINA: Learning a Personalized Implicit Neural Avatar from a Single RGB-D Video S
 
 # 3. CVPR2022 论文解读汇总
 
+【22】[MLP才是无监督学习比监督学习迁移性能好的关键因素](https://bbs.cvmart.net/articles/6191)<br><br>
+
+【21】[精准高效估计多人3D姿态，美图&北航联合提出分布感知式单阶段模型](https://mp.weixin.qq.com/s/UAtqZezVddSetn6Y_YFq9Q)<br><br>
+
+【20】[利用域自适应思想，北大、字节跳动提出新型弱监督物体定位框架](https://bbs.cvmart.net/articles/6197)<br><br>
+
+【19】[只用一张图+相机走位，AI就能脑补周围环境](https://mp.weixin.qq.com/s/wPiZ5N1bVxFgayej6LbJwQ)<br><br>
+
+【18】[Point-BERT: 基于掩码建模的点云自注意力模型预训练](https://bbs.cvmart.net/articles/6200)<br><br>
+
+【17】[Swin Transformer迎来30亿参数的v2.0，我们应该拥抱视觉大模型吗？](https://bbs.cvmart.net/articles/6202)<br><br>
+
+【16】[Adobe把GAN搞成了缝合怪，凭空P出一张1024分辨率全身人像](https://bbs.cvmart.net/articles/6205)<br><br>
+
+【15】[中国科大等提出点云连续隐式表示 Neural Points：上采样任务效果惊艳](https://bbs.cvmart.net/articles/6201)<br><br>
+
 【14】[马普所开源 ICON：显著提高单张图像重建三维数字人的姿势水平](https://bbs.cvmart.net/articles/6186)<br><br>
 
 【13】[图像也是德布罗意波！华为诺亚&北大提出量子启发 MLP，性能超越 Swin Transfomer](https://bbs.cvmart.net/articles/6182)<br><br>
@@ -2056,8 +2072,10 @@ PINA: Learning a Personalized Implicit Neural Avatar from a Single RGB-D Video S
 
 【7】[百变发型！中科大等提出HairCLIP：基于文本和参考图像的头发编辑方法](https://mp.weixin.qq.com/s/v9rExQBXCd3qEbmzb5XKjQ)<br><br>
 
-【6】[凭什么 31x31 大小卷积核的耗时可以和 9x9 卷积差不多？](https://zhuanlan.zhihu.com/p/479182218)<br>
+
+【6】[凭什么 31x31 大小卷积核的耗时可以和 9x9 卷积差不多？](https://zhuanlan.zhihu.com/p/479182218)
 [RepLKNet: 大核卷积+结构重参数让CNN再次伟大](https://zhuanlan.zhihu.com/p/480935774)<br><br>
+
 
 【5】[U2PL: 使用不可靠伪标签的半监督语义分割](https://bbs.cvmart.net/articles/6163)<br><br>
 
@@ -2068,12 +2086,11 @@ PINA: Learning a Personalized Implicit Neural Avatar from a Single RGB-D Video S
 【3】[即插即用！助力自监督涨点的ContrastiveCrop开源了！](https://bbs.cvmart.net/articles/6157)<br><br>
 
 
-【2】[从原理和代码详解FAIR的惊艳之作：全新的纯卷积模型ConvNeXt](https://bbs.cvmart.net/articles/6113)<br>
+【2】[从原理和代码详解FAIR的惊艳之作：全新的纯卷积模型ConvNeXt](https://bbs.cvmart.net/articles/6113)
 [“文艺复兴” ConvNet卷土重来，压过Transformer！FAIR重新设计纯卷积新架构](https://bbs.cvmart.net/articles/6008)<br><br>
 
 
 【1】[南开程明明团队和天大提出LD：目标检测的定位蒸馏](https://zhuanlan.zhihu.com/p/474955539)<br><br>
-
 
 
 
