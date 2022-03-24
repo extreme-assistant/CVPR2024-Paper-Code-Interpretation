@@ -28,7 +28,7 @@
 >2022/3/18 [更新 25 篇](https://bbs.cvmart.net/articles/6192)<br>
 >2022/3/22 [更新 52 篇](https://bbs.cvmart.net/articles/6204)<br>
 >2022/3/23 [更新 29 篇](https://bbs.cvmart.net/articles/6206)<br>
->2022/3/24 [更新 21 篇](https://bbs.cvmart.net/articles/6209)
+>2022/3/24 [更新 22 篇](https://bbs.cvmart.net/articles/6209)
 
 <br><br>
 
@@ -505,6 +505,9 @@ keywords: Semi-supervised learning, Semantic segmentation, Uncertainty estimatio
 <a name="InstanceSegmentation"/> 
 
 ### 实例分割(Instance Segmentation)
+
+[6] Mask Transfiner for High-Quality Instance Segmentation(用于高质量实例分割的 Mask Transfiner)<br>
+[paper](https://arxiv.org/abs/2111.13673) | [code](https://github.com/SysCV/transfiner)<br><br>
 
 [5] ContrastMask: Contrastive Learning to Segment Every Thing(对比学习分割每件事)<br>
 [paper](https://arxiv.org/abs/2203.09775)<br><br>
