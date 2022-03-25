@@ -459,11 +459,8 @@ keywords: Semantic- and panoramic segmentation, Unsupervised domain adaptation, 
 
 ### 语义分割(Semantic Segmentation)
 
-[17] Perturbed and Strict Mean Teachers for Semi-supervised Semantic Segmentation(半监督语义分割的扰动和严格均值教师)<br>
+[16] Perturbed and Strict Mean Teachers for Semi-supervised Semantic Segmentation(半监督语义分割的扰动和严格均值教师)<br>
 [paper](https://arxiv.org/abs/2111.12903)<br><br>
-
-[16] DynamicEarthNet: Daily Multi-Spectral Satellite Dataset for Semantic Change Segmentation(用于语义变化分割的每日多光谱卫星数据集)<br>
-[paper](https://arxiv.org/abs/2203.12560) | [data](https://mediatum.ub.tum.de/1650201) | [website](https://codalab.lisn.upsaclay.fr/competitions/2882)<br><br>
 
 [15] Class-Balanced Pixel-Level Self-Labeling for Domain Adaptive Semantic Segmentation(用于域自适应语义分割的类平衡像素级自标记)<br>
 [paper](https://arxiv.org/abs/2203.09744) | [code](https://github.com/lslrh/CPSL)<br><br>
@@ -1717,6 +1714,9 @@ keywords: Knowledge Distillation, trajectory forecasting<br>
 <a name="Dataset"/> 
 
 ## 数据集(Dataset)
+
+[8] DynamicEarthNet: Daily Multi-Spectral Satellite Dataset for Semantic Change Segmentation(用于语义变化分割的每日多光谱卫星数据集)<br>
+[paper](https://arxiv.org/abs/2203.12560) | [data](https://mediatum.ub.tum.de/1650201) | [website](https://codalab.lisn.upsaclay.fr/competitions/2882)<br><br>
 
 [7] Egocentric Prediction of Action Target in 3D(以自我为中心的 3D 行动目标预测)(**机器人**)<br>
 [paper](https://arxiv.org/abs/2203.13116)<br><br>
