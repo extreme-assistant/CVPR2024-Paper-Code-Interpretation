@@ -28,7 +28,8 @@
 >2022/3/18 [更新 25 篇](https://bbs.cvmart.net/articles/6192)<br>
 >2022/3/22 [更新 52 篇](https://bbs.cvmart.net/articles/6204)<br>
 >2022/3/23 [更新 29 篇](https://bbs.cvmart.net/articles/6206)<br>
->2022/3/24 [更新 22 篇](https://bbs.cvmart.net/articles/6209)
+>2022/3/24 [更新 22 篇](https://bbs.cvmart.net/articles/6209)<br>
+>2022/3/25 [更新 29 篇](https://bbs.cvmart.net/articles/6213)
 
 <br><br>
 
@@ -212,11 +213,18 @@
 ## 检测
 
 
+
 <br>
 
 <a name="IOD"/> 
 
 ### 2D目标检测(2D Object Detection)
+
+[14] QueryDet: Cascaded Sparse Query for Accelerating High-Resolution Small Object Detection(用于加速高分辨率小目标检测的级联稀疏查询)<br>
+[paper](https://arxiv.org/abs/2103.09136) | [code](https://github.com/ChenhongyiYang/QueryDet-PyTorch)<br><br>
+
+[13] End-to-End Human-Gaze-Target Detection with Transformers(使用 Transformer 进行端到端的人眼目标检测)<br>
+[paper](https://arxiv.org/abs/2203.10433)<br><br>
 
 [12] Progressive End-to-End Object Detection in Crowded Scenes(拥挤场景中的渐进式端到端对象检测)<br>
 [paper](https://arxiv.org/abs/2203.07669) | [code](https://github.com/megvii-model/Iter-E2EDET)<br><br>
@@ -451,6 +459,9 @@ keywords: Semantic- and panoramic segmentation, Unsupervised domain adaptation, 
 
 ### 语义分割(Semantic Segmentation)
 
+[17] Perturbed and Strict Mean Teachers for Semi-supervised Semantic Segmentation(半监督语义分割的扰动和严格均值教师)<br>
+[paper](https://arxiv.org/abs/2111.12903)<br><br>
+
 [16] DynamicEarthNet: Daily Multi-Spectral Satellite Dataset for Semantic Change Segmentation(用于语义变化分割的每日多光谱卫星数据集)<br>
 [paper](https://arxiv.org/abs/2203.12560) | [data](https://mediatum.ub.tum.de/1650201) | [website](https://codalab.lisn.upsaclay.fr/competitions/2882)<br><br>
 
@@ -505,6 +516,9 @@ keywords: Semi-supervised learning, Semantic segmentation, Uncertainty estimatio
 <a name="InstanceSegmentation"/> 
 
 ### 实例分割(Instance Segmentation)
+
+[7] Sparse Instance Activation for Real-Time Instance Segmentation(实时实例分割的稀疏实例激活)<br>
+[paper](https://arxiv.org/abs/2203.12827) | [code](https://github.com/hustvl/SparseInst)<br><br>
 
 [6] Mask Transfiner for High-Quality Instance Segmentation(用于高质量实例分割的 Mask Transfiner)<br>
 [paper](https://arxiv.org/abs/2111.13673) | [code](https://github.com/SysCV/transfiner)<br><br>
@@ -710,6 +724,9 @@ keywords：3D Human Pose Estimation, Transformer<br>
 
 ### 超分辨率(Super Resolution)
 
+[10] High-Resolution Image Harmonization via Collaborative Dual Transformations(通过协作双变换实现高分辨率图像协调)<br>
+[paper](https://arxiv.org/abs/2109.06671) | [code](https://github.com/bcmi/CDTNet-High-Resolution-Image-Harmonization)<br><br>
+
 [9] Deep Constrained Least Squares for Blind Image Super-Resolution(用于盲图像超分辨率的深度约束最小二乘)<br>
 [paper](https://arxiv.org/abs/2202.07508)<br><br>
 
@@ -774,6 +791,12 @@ keywords: HSI Reconstruction, Self-Attention Mechanism,  Image Frequency Spectru
 
 ### 图像去噪/去模糊/去雨去雾(Image Denoising)
 
+[6] CVF-SID: Cyclic multi-Variate Function for Self-Supervised Image Denoising by Disentangling Noise from Image(通过从图像中分离噪声的自监督图像去噪的循环多变量函数)<br>
+[paper](https://arxiv.org/abs/2203.13009) | [code](https://github.com/Reyhanehne/CVF-SID_PyTorch)<br><br>
+
+[5] Unpaired Deep Image Deraining Using Dual Contrastive Learning(使用双重对比学习的非配对深度图像去雨)<br>
+[paper](https://arxiv.org/abs/2109.02973) | [code](https://cxtalk.github.io/projects/DCD-GAN.html)<br><br>
+
 [4] AP-BSN: Self-Supervised Denoising for Real-World Images via Asymmetric PD and Blind-Spot Network(通过非对称 PD 和盲点网络对真实世界图像进行自监督去噪)<br>
 [paper](https://arxiv.org/abs/2203.11799) | [code](https://github.com/wooseoklee4/AP-BSN)<br><br>
 
@@ -816,6 +839,9 @@ keywords: Image Inpainting, Transformer, Image Generation<br><br>
 
 ### 图像翻译(Image Translation)
 
+[5] Maximum Spatial Perturbation Consistency for Unpaired Image-to-Image Translation(未配对图像到图像翻译的最大空间扰动一致性)<br>
+[paper](https://arxiv.org/abs/2203.12707) | [code](https://github.com/batmanlab/MSPC)<br><br>
+
 [4] Globetrotter: Connecting Languages by Connecting Images(通过连接图像连接语言)<br>
 [paper](https://arxiv.org/abs/2012.04631)<br><br>
 
@@ -840,6 +866,12 @@ keywords: image translation, knowledge transfer,Contrastive learning<br>
 <a name="StyleTransfer"/> 
 
 ### 风格迁移(Style Transfer)
+
+[5] Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer(基于示例的高分辨率肖像风格转移)<br>
+[paper](https://arxiv.org/abs/2203.13248) | [code](https://github.com/williamyang1991/DualStyleGAN) | [project](https://www.mmlab-ntu.com/project/dualstylegan/)<br><br>
+
+[4] Industrial Style Transfer with Large-scale Geometric Warping and Content Preservation(具有大规模几何变形和内容保留的工业风格迁移)<br>
+[paper](https://arxiv.org/abs/2203.12835) | [project](https://jcyang98.github.io/InST/home.html) | [code](https://github.com/jcyang98/InST)<br><br>
 
 [3] Exact Feature Distribution Matching for Arbitrary Style Transfer and Domain Generalization(任意风格迁移和域泛化的精确特征分布匹配)<br>
 [paper](https://arxiv.org/abs/2203.07740) | [code](https://github.com/YBZh/EFDM)<br><br>
@@ -928,6 +960,9 @@ keywords: Facial expression generation, 4D face generation, 3D face modeling<br>
 <a name="ObjectTracking"/> 
 
 ## 目标跟踪(Object Tracking)
+
+[8] Global Tracking Transformers<br>
+[paper](https://arxiv.org/abs/2203.13250) | [code](https://github.com/xingyizhou/GTR)<br><br>
 
 [7] Transforming Model Prediction for Tracking(转换模型预测以进行跟踪)<br>
 [paper](https://arxiv.org/abs/2203.11192) | [code](https://github.com/visionml/pytracking)<br><br>
@@ -1187,6 +1222,12 @@ keywords: Self-supervised Transformer, Temporal modeling of disease progression<
 
 ### 点云(Point Cloud)
 
+[12] AziNorm: Exploiting the Radial Symmetry of Point Cloud for Azimuth-Normalized 3D Perception(利用点云的径向对称性进行方位归一化 3D 感知)<br>
+[paper](https://arxiv.org/abs/2203.13090) | [code](https://github.com/hustvl/AziNorm)<br><br>
+
+[11] WarpingGAN: Warping Multiple Uniform Priors for Adversarial 3D Point Cloud Generation(为对抗性 3D 点云生成扭曲多个均匀先验)<br>
+[paper](https://arxiv.org/abs/2203.12917) | [code](https://github.com/yztang4/WarpingGAN.git)<br><br>
+
 [10] IDEA-Net: Dynamic 3D Point Cloud Interpolation via Deep Embedding Alignment(通过深度嵌入对齐的动态 3D 点云插值)<br>
 [paper](https://arxiv.org/abs/2203.11590) | [code](https://github.com/ZENGYIMING-EAMON/IDEA-Net.git)<br><br>
 
@@ -1224,6 +1265,9 @@ keywords: Self-Supervised Learning, Contrastive Learning, 3D Point Cloud, Repres
 <a name="3DReconstruction"/> 
 
 ### 三维重建(3D Reconstruction)
+
+[11] Neural Reflectance for Shape Recovery with Shadow Handling(使用阴影处理进行形状恢复的神经反射)<br>
+[paper](https://arxiv.org/abs/2203.12909) | [code](https://github.com/junxuan-li/Neural-Reflectance-PS)<br><br>
 
 [10] PLAD: Learning to Infer Shape Programs with Pseudo-Labels and Approximate Distributions(学习用伪标签和近似分布推断形状程序)<br>
 [paper](https://arxiv.org/abs/2011.13045) | [code](https://github.com/rkjones4/PLAD)<br><br>
@@ -1334,6 +1378,9 @@ keywords: Object Detection, Knowledge Distillation<br>
 <a name="NNS"/> 
 
 ## 神经网络结构设计(Neural Network Structure Design)
+
+[2] DyRep: Bootstrapping Training with Dynamic Re-parameterization(使用动态重新参数化的引导训练)<br>
+[paper](https://arxiv.org/abs/2203.12868) | [code](https://github.com/hunto/DyRep)<br><br>
 
 [1] BatchFormer: Learning to Explore Sample Relationships for Robust Representation Learning(学习探索样本关系以进行鲁棒表征学习)<br>
 keywords: sample relationship, data scarcity learning, Contrastive Self-Supervised Learning, long-tailed recognition, zero-shot learning, domain generalization, self-supervised learning<br>
@@ -1587,12 +1634,27 @@ keywords: Long-Tailed Recognition(长尾识别), Contrastive Learning(对比学�
 
 ### 视听学习(Audio-visual Learning)
 
+[2] Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation(用于协同语音手势生成的学习分层跨模式关联)<br>
+[paper](https://arxiv.org/abs/2203.13161) | [project](https://alvinliu0.github.io/projects/HA2G)<br><br>
+
+[1] UMT: Unified Multi-modal Transformers for Joint Video Moment Retrieval and Highlight Detection(用于联合视频时刻检索和高光检测的统一多模态transformer)<br>
+[paper](https://arxiv.org/abs/2203.12745) | [code](https://github.com/TencentARC/UMT)<br><br>
+
 
 <br>
 
 <a name="VLRL"/> 
 
 ### 视觉-语言（Vision-language）
+
+[11] VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks(视觉和语言任务的参数高效迁移学习)<br>
+[paper](https://arxiv.org/abs/2112.06825) | [code](https://github.com/ylsung/VL_adapter)<br><br>
+
+[10] Predict, Prevent, and Evaluate: Disentangled Text-Driven Image Manipulation Empowered by Pre-Trained Vision-Language Model(预测、预防和评估：由预训练的视觉语言模型支持的解耦的文本驱动图像处理)<br>
+[paper](https://arxiv.org/abs/2111.13333) | [code](https://github.com/zipengxuc/PPE)<br><br>
+
+[9] LAFITE: Towards Language-Free Training for Text-to-Image Generation(面向文本到图像生成的无语言培训)<br>
+[paper](https://arxiv.org/abs/2111.13792) | [code](https://github.com/drboog/Lafite)<br><br>
 
 [8] An Empirical Study of Training End-to-End Vision-and-Language Transformers(培训端到端视觉和语言transformer的实证研究)<br>
 [paper](https://arxiv.org/abs/2111.02387) | [code](https://github.com/zdou0830/METER)<br><br>
@@ -1655,6 +1717,9 @@ keywords: Knowledge Distillation, trajectory forecasting<br>
 <a name="Dataset"/> 
 
 ## 数据集(Dataset)
+
+[7] Egocentric Prediction of Action Target in 3D(以自我为中心的 3D 行动目标预测)(**机器人**)<br>
+[paper](https://arxiv.org/abs/2203.13116)<br><br>
 
 [6] M5Product: Self-harmonized Contrastive Learning for E-commercial Multi-modal Pretraining(电子商务多模态预训练的自协调对比学习)(多模态预训练数据集)<br>
 [paper](https://arxiv.org/abs/2109.04275)<br><br>
@@ -1756,6 +1821,11 @@ keywords: Video Scene Graph Generation, Transformer, Video Grounding<br>
 
 ## 视觉定位/位姿估计(Visual Localization/Pose Estimation)
 
+[10] EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation(用于单目物体姿态估计的广义端到端概率透视-n-点)<br>
+[paper](https://arxiv.org/abs/2203.13254)<br><br>
+
+[9] RNNPose: Recurrent 6-DoF Object Pose Refinement with Robust Correspondence Field Estimation and Pose Optimization(具有鲁棒对应场估计和姿态优化的递归 6-DoF 对象姿态细化)<br>
+[paper](https://arxiv.org/abs/2203.12870) | [code](https://github.com/DecaYale/RNNPose)<br><br>
 
 [8] DiffPoseNet: Direct Differentiable Camera Pose Estimation(直接可微分相机位姿估计)<br>
 [paper](https://arxiv.org/abs/2203.11174)<br><br>
@@ -1810,6 +1880,9 @@ keywords: multi-label classification<br>
 <a name="domain"/> 
 
 ## 迁移学习/domain/自适应(Transfer Learning/Domain Adaptation)
+
+[7] Compound Domain Generalization via Meta-Knowledge Encoding(基于元知识编码的复合域泛化)<br>
+[paper](https://arxiv.org/abs/2203.13006)<br><br>
 
 [6] Learning Affordance Grounding from Exocentric Images(从离中心图像中学习可供性基础)<br>
 [paper](https://arxiv.org/abs/2203.09905) | [code](http://github.com/lhc1224/Cross-View-AG)<br><br>
@@ -1886,11 +1959,17 @@ keywords: Self-supervised Representation Learning, Deep Clustering, Contrastive 
 
 ## 强化学习(Reinforcement Learning)
 
+[1] Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory(具有编排记忆的演员评论家 GPT 的 3D 舞蹈生成)<br>
+[paper](https://arxiv.org/abs/2203.13055) | [code](https://github.com/lisiyao21/Bailando/)<br><br>
+
 <br>
 
 <a name="MetaLearning"/> 
 
 ## 元学习(Meta Learning)
+
+[2] Multidimensional Belief Quantification for Label-Efficient Meta-Learning(标签高效元学习的多维信念量化)<br>
+[paper](https://arxiv.org/abs/2203.12768)<br><br>
 
 [1] What Matters For Meta-Learning Vision Regression Tasks?(元学习视觉回归任务的重要性是什么？)<br>
 [paper](https://arxiv.org/abs/2203.04905)<br><br>
@@ -1964,6 +2043,9 @@ keywords: Semi-Supervised Learning, Self-Supervised Learning, Real-World Unlabel
 
 ## 联邦学习(Federated Learning)
 
+[5] FedCor: Correlation-Based Active Client Selection Strategy for Heterogeneous Federated Learning(用于异构联邦学习的基于相关性的主动客户端选择策略)<br>
+[paper](https://arxiv.org/abs/2103.13822)<br><br>
+
 [4] FedDC: Federated Learning with Non-IID Data via Local Drift Decoupling and Correction(通过局部漂移解耦和校正与非 IID 数据进行联邦学习)<br>
 [paper](https://arxiv.org/abs/2203.11751) | [code](https://github.com/gaoliang13/FedDC)<br><br>
 
@@ -1981,6 +2063,12 @@ keywords: Semi-Supervised Learning, Self-Supervised Learning, Real-World Unlabel
 <a name="100"/> 
 
 ## 其他
+
+Moving Window Regression: A Novel Approach to Ordinal Regression(序数回归的一种新方法)<br>
+[paper](https://arxiv.org/abs/2203.13122) | [code](https://github.com/nhshin-mcl/MWR)<br><br>
+
+Hierarchical Nearest Neighbor Graph Embedding for Efficient Dimensionality Reduction(用于有效降维的分层最近邻图嵌入)<br>
+[paper](https://arxiv.org/abs/2203.12997) | [code](https://github.com/koulakis/h-nne)<br><br>
 
 TransVPR: Transformer-based place recognition with multi-level attention aggregation(具有多级注意力聚合的基于 Transformer 的**位置识别**)(**图像匹配**)<br>
 [paper](https://arxiv.org/abs/2201.02001)<br><br>
