@@ -1719,7 +1719,7 @@ keywords: Knowledge Distillation, trajectory forecasting<br>
 [paper](https://arxiv.org/abs/2203.12560) | [data](https://mediatum.ub.tum.de/1650201) | [website](https://codalab.lisn.upsaclay.fr/competitions/2882)<br><br>
 
 [7] Egocentric Prediction of Action Target in 3D(以自我为中心的 3D 行动目标预测)(**机器人**)<br>
-[paper](https://arxiv.org/abs/2203.13116)<br><br>
+[paper](https://arxiv.org/abs/2203.13116) | [project](https://ai4ce.github.io/EgoPAT3D/)<br><br>
 
 [6] M5Product: Self-harmonized Contrastive Learning for E-commercial Multi-modal Pretraining(电子商务多模态预训练的自协调对比学习)(多模态预训练数据集)<br>
 [paper](https://arxiv.org/abs/2109.04275)<br><br>
