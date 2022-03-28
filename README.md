@@ -29,7 +29,8 @@
 >2022/3/22 [更新 52 篇](https://bbs.cvmart.net/articles/6204)<br>
 >2022/3/23 [更新 29 篇](https://bbs.cvmart.net/articles/6206)<br>
 >2022/3/24 [更新 22 篇](https://bbs.cvmart.net/articles/6209)<br>
->2022/3/25 [更新 29 篇](https://bbs.cvmart.net/articles/6213)
+>2022/3/25 [更新 29 篇](https://bbs.cvmart.net/articles/6213)<br>
+>2022/3/28 [更新 29 篇](https://bbs.cvmart.net/articles/6222)
 
 <br><br>
 
@@ -281,6 +282,13 @@ keywords: Bounding Box Regression, Localization Quality Estimation, Knowledge Di
 
 ### 3D目标检测(3D object detection)
 
+
+[15] Point2Seq: Detecting 3D Objects as Sequences(将 3D 对象检测为序列)<br>
+[paper](https://arxiv.org/abs/2203.13394) | [code](https://github.com/ocNflag/point2seq)<br><br>
+
+[14] MonoDETR: Depth-aware Transformer for Monocular 3D Object Detection(用于单目 3D 对象检测的深度感知transformer)<br>
+[paper](https://arxiv.org/abs/2203.13310) | [code](https://github.com/ZrrSkywalker/MonoDETR.git)<br><br>
+
 [13] TransFusion: Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers(用于 3D 对象检测的稳健 LiDAR-Camera Fusion 与 Transformer)<br>
 [paper](https://arxiv.org/abs/2203.11496) | [code](https://github.com/XuyangBai/TransFusion)<br><br>
 
@@ -514,6 +522,12 @@ keywords: Semi-supervised learning, Semantic segmentation, Uncertainty estimatio
 
 ### 实例分割(Instance Segmentation)
 
+[9] Noisy Boundaries: Lemon or Lemonade for Semi-supervised Instance Segmentation?(嘈杂的边界：半监督实例分割的柠檬还是柠檬水？)<br>
+[paper](https://arxiv.org/abs/2203.13427)<br><br>
+
+[8] SharpContour: A Contour-based Boundary Refinement Approach for Efficient and Accurate Instance Segmentation(一种用于高效准确实例分割的基于轮廓的边界细化方法)<br>
+[paper](https://arxiv.org/abs/2203.13312) | [project](https://xyzhang17.github.io/SharpContour/)<br><br>
+
 [7] Sparse Instance Activation for Real-Time Instance Segmentation(实时实例分割的稀疏实例激活)<br>
 [paper](https://arxiv.org/abs/2203.12827) | [code](https://github.com/hustvl/SparseInst)<br><br>
 
@@ -606,7 +620,6 @@ keywords: 3D Vision, Point Clouds, Instance Segmentation<br>
 ## 估计(Estimation)
 
 
-
 <br>
 
 <a name="Flow/Pose/MotionEstimation"/> 
@@ -624,6 +637,9 @@ keywords: 3D Vision, Point Clouds, Instance Segmentation<br>
 <a name="DepthEstimation"/> 
 
 ### 深度估计(Depth Estimation)
+
+[13] LGT-Net: Indoor Panoramic Room Layout Estimation with Geometry-Aware Transformer Network(具有几何感知变压器网络的室内全景房间布局估计)(布局估计)<br>
+[paper](https://arxiv.org/abs/2203.01824) | [code](https://github.com/zhigangjiang/LGT-Net)<br><br>
 
 [12] Practical Stereo Matching via Cascaded Recurrent Network with Adaptive Correlation(基于自适应相关的级联循环网络的实用立体匹配)<br>
 [paper](https://arxiv.org/abs/2203.11483) | [project](https://github.com/megvii-research/CREStereo)<br><br>
@@ -706,6 +722,9 @@ keywords：3D Human Pose Estimation, Transformer<br>
 <a name="GestureEstimation"/> 
 
 ### 手势估计(Gesture Estimation)
+
+[1] ArtiBoost: Boosting Articulated 3D Hand-Object Pose Estimation via Online Exploration and Synthesis(通过在线探索和合成提升关节式 3D 手对象姿势估计)<br>
+[paper](https://arxiv.org/abs/2109.05488) | [code](https://github.com/lixiny/ArtiBoost)<br><br>
 
 
 <br>
@@ -908,6 +927,9 @@ keywords: Style Transfer, Text-guided synthesis, Language-Image Pre-Training (CL
 
 ### 人脸识别/检测(Facial Recognition/Detection)
 
+[4] DeepFace-EMD: Re-ranking Using Patch-wise Earth Mover's Distance Improves Out-Of-Distribution Face Identification(使用 Patch-wise Earth Mover 的距离重新排序改进了分布外人脸识别)<br>
+[paper](https://arxiv.org/abs/2112.04016) | [code](https://github.com/anguyen8/deepface-emd)<br><br>
+
 [3] Towards Semi-Supervised Deep Facial Expression Recognition with An Adaptive Confidence Margin(具有自适应置信度的半监督深度面部表情识别)<br>
 [paper](https://arxiv.org/abs/2203.12341) | [code](https://github.com/hangyu94/Ada-CM)<br><br>
 
@@ -1001,6 +1023,12 @@ keywords: Video understanding, Vision transformers, Self-supervised representati
 <a name="ActionRecognition"/> 
 
 ### 行为识别/动作识别/检测/分割/定位(Action/Activity Recognition)
+
+[14] Unsupervised Pre-training for Temporal Action Localization Tasks(时间动作定位任务的无监督预训练)<br>
+[paper](https://arxiv.org/abs/2203.13609) | [code](https://github.com/zhang-can/UP-TAL)<br><br>
+
+[13] Weakly-Supervised Online Action Segmentation in Multi-View Instructional Videos(多视图教学视频中的弱监督在线动作分割)<br>
+[paper](https://arxiv.org/abs/2203.13309)<br><br>
 
 [12] How Do You Do It? Fine-Grained Action Understanding with Pseudo-Adverbs(你怎么做呢？ 使用伪副词进行细粒度的动作理解)<br>
 [paper](https://arxiv.org/abs/2203.12344)<br><br>
@@ -1113,6 +1141,14 @@ keywords: Self-supervised Transformer, Temporal modeling of disease progression<
 <a name="GAN"/> 
 
 ## GAN/生成式/对抗式(GAN/Generative/Adversarial)
+
+
+
+[14] Understanding and Increasing Efficiency of Frank-Wolfe Adversarial Training(了解 Frank-Wolfe 对抗训练并提高效率)<br>
+[paper](https://arxiv.org/abs/2012.12368) | [code](https://github.com/TheoT1/FW-AT-Adapt)<br><br>
+
+[13] Feature Statistics Mixing Regularization for Generative Adversarial Networks(生成对抗网络的特征统计混合正则化)<br>
+[paper](https://arxiv.org/abs/2112.04120) | [code](https://github.com/naver-ai/FSMR)<br><br>
 
 [12] Subspace Adversarial Training(子空间对抗训练)<br>
 [paper](https://arxiv.org/abs/2111.12229) | [code](https://github.com/nblt/Sub-AT)<br><br>
@@ -1303,6 +1339,9 @@ keywords: 4D Representation(4D 表征),Human Body Estimation(人体姿态估计)
 
 ### 场景重建/视图合成/新视角合成(Novel View Synthesis)
 
+[9] NPBG++: Accelerating Neural Point-Based Graphics(加速基于神经点的图形)<br>
+[paper](https://arxiv.org/abs/2203.13318) | [project](https://rakhimovv.github.io/npbgpp/)<br><br>
+
 [8] PlaneMVS: 3D Plane Reconstruction from Multi-View Stereo(从多视图立体重建 3D 平面)<br>
 [paper](https://arxiv.org/abs/2203.12082)<br><br>
 
@@ -1413,6 +1452,12 @@ keywords: sparse convolutional neural network, video inference accelerating<br>
 <a name="Transformer"/> 
 
 ### Transformer
+
+[7] MSG-Transformer: Exchanging Local Spatial Information by Manipulating Messenger Tokens(通过操作信使token交换本地空间信息)<br>
+[paper](https://arxiv.org/abs/2105.15168) | [code](https://github.com/hustvl/MSG-Transformer)<br><br>
+
+[6] BoxeR: Box-Attention for 2D and 3D Transformers(用于 2D 和 3D tranformer的 Box-Attention)<br>
+[paper](https://arxiv.org/abs/2111.13087) | [code](https://github.com/kienduynguyen/BoxeR)<br><br>
 
 [5] Bootstrapping ViTs: Towards Liberating Vision Transformers from Pre-training(引导 ViT：从预训练中解放视觉transformer)<br>
 [paper](https://arxiv.org/abs/2112.03552) | [code](https://github.com/zhfeing/Bootstrapping-ViTs-pytorch)<br><br>
@@ -1534,6 +1579,12 @@ keywords: Data Augmentation, Image restoration, Photorealistic image synthesis<b
 
 ## 模型训练/泛化(Model Training/Generalization)
 
+[8] GradViT: Gradient Inversion of Vision Transformers(视觉transformer的梯度反转)<br>
+[paper](https://arxiv.org/abs/2203.11894) | [project](https://gradvit.github.io/)<br><br>
+
+[7] Recall@k Surrogate Loss with Large Batches and Similarity Mixup(大批量和相似性混合的 Recall@k 代理损失)<br>
+[paper](https://arxiv.org/abs/2108.11179)<br><br>
+
 [6] Out-of-distribution Generalization with Causal Invariant Transformations(具有因果不变变换的分布外泛化)<br>
 [paper](https://arxiv.org/abs/2203.11528)<br><br>
 
@@ -1631,6 +1682,9 @@ keywords: Long-Tailed Recognition(长尾识别), Contrastive Learning(对比学�
 
 ### 视听学习(Audio-visual Learning)
 
+[3] Self-Supervised Predictive Learning: A Negative-Free Method for Sound Source Localization in Visual Scenes(自监督预测学习：视觉场景中声源定位的无负法方法)(**视觉定位**)<br>
+[paper](https://arxiv.org/abs/2203.13412) | [code](https://github.com/zjsong/SSPL)<br><br>
+
 [2] Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation(用于协同语音手势生成的学习分层跨模式关联)<br>
 [paper](https://arxiv.org/abs/2203.13161) | [project](https://alvinliu0.github.io/projects/HA2G)<br><br>
 
@@ -1643,6 +1697,9 @@ keywords: Long-Tailed Recognition(长尾识别), Contrastive Learning(对比学�
 <a name="VLRL"/> 
 
 ### 视觉-语言（Vision-language）
+
+[12] LiT: Zero-Shot Transfer with Locked-image text Tuning(带锁定图像文本调整的零样本迁移)<br>
+[paper](https://arxiv.org/abs/2111.07991)<br><br>
 
 [11] VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks(视觉和语言任务的参数高效迁移学习)<br>
 [paper](https://arxiv.org/abs/2112.06825) | [code](https://github.com/ylsung/VL_adapter)<br><br>
@@ -1686,6 +1743,12 @@ keywords: Vision-language representation learning, Contrastive Learning
 
 ## 视觉预测(Vision-based Prediction)
 
+[9] Stochastic Trajectory Prediction via Motion Indeterminacy Diffusion(基于运动不确定性扩散的随机轨迹预测)<br>
+[paper](https://arxiv.org/abs/2203.13777) | [code](https://github.com/gutianpei/MID)<br><br>
+
+[8] Non-Probability Sampling Network for Stochastic Human Trajectory Prediction(用于随机人体轨迹预测的非概率采样网络)<br>
+[paper](https://arxiv.org/abs/2203.13471) | [code](https://github.com/inhwanbae/NPSN)<br><br>
+
 [7] Remember Intentions: Retrospective-Memory-based Trajectory Prediction(记住意图：基于回顾性记忆的轨迹预测)<br>
 [paper](https://arxiv.org/abs/2203.11474) | [code](https://github.com/MediaBrain-SJTU/MemoNet)<br><br>
 
@@ -1714,6 +1777,9 @@ keywords: Knowledge Distillation, trajectory forecasting<br>
 <a name="Dataset"/> 
 
 ## 数据集(Dataset)
+
+[9] Rope3D: TheRoadside Perception Dataset for Autonomous Driving and Monocular 3D Object Detection Task(用于自动驾驶和单目 3D 目标检测任务的路边感知数据集)<br>
+[paper](https://arxiv.org/abs/2203.13608) | [dataset](https://thudair.baai.ac.cn/rope)<br><br>
 
 [8] DynamicEarthNet: Daily Multi-Spectral Satellite Dataset for Semantic Change Segmentation(用于语义变化分割的每日多光谱卫星数据集)<br>
 [paper](https://arxiv.org/abs/2203.12560) | [data](https://mediatum.ub.tum.de/1650201) | [website](https://codalab.lisn.upsaclay.fr/competitions/2882)<br><br>
@@ -1776,6 +1842,9 @@ keywords: Zero-Shot Learning,  Knowledge Distillation<br>
 <a name="ContinualLearning"/> 
 
 ## 持续学习(Continual Learning/Life-long Learning)
+
+[4] Probing Representation Forgetting in Supervised and Unsupervised Continual Learning(探索有监督和无监督持续学习中的表征遗忘)<br>
+[paper](https://arxiv.org/abs/2203.13381)<br><br>
 
 [3] Meta-attention for ViT-backed Continual Learning(ViT 支持的持续学习的元注意力)<br>
 [paper](https://arxiv.org/abs/2203.11684) | [code](https://github.com/zju-vipa/MEAT-TIL)<br><br>
@@ -1869,7 +1938,8 @@ keywords: Video Scene Graph Generation, Transformer, Video Grounding<br>
 
 ## 图像分类(Image Classification)
 
-
+[2] CAD: Co-Adapting Discriminative Features for Improved Few-Shot Classification(共同适应判别特征以改进小样本分类)<br>
+[paper](https://arxiv.org/abs/2203.13465)<br><br>
 
 [1] GlideNet: Global, Local and Intrinsic based Dense Embedding NETwork for Multi-category Attributes Prediction(用于多类别属性预测的基于全局、局部和内在的密集嵌入网络)<br>
 keywords: multi-label classification<br>
@@ -1880,6 +1950,9 @@ keywords: multi-label classification<br>
 <a name="domain"/> 
 
 ## 迁移学习/domain/自适应(Transfer Learning/Domain Adaptation)
+
+[8] Continual Test-Time Domain Adaptation(持续测试时域适应)<br>
+[paper](https://arxiv.org/abs/2203.13591) | [code](https://qin.ee/cotta)<br><br>
 
 [7] Compound Domain Generalization via Meta-Knowledge Encoding(基于元知识编码的复合域泛化)<br>
 [paper](https://arxiv.org/abs/2203.13006)<br><br>
@@ -1928,6 +2001,12 @@ keywords: Adversarial Attack, Adversarial Defense, Deep Metric Learning<br>
 
 ## 对比学习(Contrastive Learning)
 
+[6] Versatile Multi-Modal Pre-Training for Human-Centric Perception(用于以人为中心的感知的多功能多模态预训练)<br>
+[paper](https://arxiv.org/abs/2203.13815) | [project](https://hongfz16.github.io/projects/HCMoCo.html;) | [code](https://github.com/hongfz16/HCMoCo)<br><br>
+
+[5] Contrastive learning of Class-agnostic Activation Map for Weakly Supervised Object Localization and Semantic Segmentation(用于弱监督对象定位和语义分割的类不可知激活图的对比学习)<br>
+[paper](https://arxiv.org/abs/2203.13505) | [code](https://github.com/CVI- SZU/CCAM)<br><br>
+
 [4] Rethinking Minimal Sufficient Representation in Contrastive Learning(重新思考对比学习中的最小充分表示)<br>
 [paper](https://arxiv.org/abs/2203.07004) | [code](https://github.com/Haoqing-Wang/InfoCL)<br><br>
 
@@ -1946,6 +2025,9 @@ keywords: Self-supervised Representation Learning, Deep Clustering, Contrastive 
 <a name="IncrementalLearning"/> 
 
 ## 增量学习(Incremental Learning)
+
+[3] Mimicking the Oracle: An Initial Phase Decorrelation Approach for Class Incremental Learning(类增量学习的初始阶段去相关方法)<br>
+[paper](https://arxiv.org/abs/2112.04731) | [code](https://github.com/Yujun-Shi/CwD)<br><br>
 
 [2] Forward Compatible Few-Shot Class-Incremental Learning(前后兼容的小样本类增量学习)<br>
 [paper](https://arxiv.org/abs/2203.06953) | [code](https://github.com/zhoudw-zdw/CVPR22-Fact)<br><br>
@@ -1967,6 +2049,9 @@ keywords: Self-supervised Representation Learning, Deep Clustering, Contrastive 
 <a name="MetaLearning"/> 
 
 ## 元学习(Meta Learning)
+
+[3] A Structured Dictionary Perspective on Implicit Neural Representations(隐式神经表示的结构化字典视角)<br>
+[paper](https://arxiv.org/abs/2112.01917) | [code](https://github.com/gortizji/inr_dictionaries)<br><br>
 
 [2] Multidimensional Belief Quantification for Label-Efficient Meta-Learning(标签高效元学习的多维信念量化)<br>
 [paper](https://arxiv.org/abs/2203.12768)<br><br>
@@ -2063,6 +2148,9 @@ keywords: Semi-Supervised Learning, Self-Supervised Learning, Real-World Unlabel
 <a name="100"/> 
 
 ## 其他
+
+MDAN: Multi-level Dependent Attention Network for Visual Emotion Analysis(用于视觉情感分析的多级依赖注意网络)<br>
+[paper](https://arxiv.org/abs/2203.13443)<br><br>
 
 Moving Window Regression: A Novel Approach to Ordinal Regression(序数回归的一种新方法)<br>
 [paper](https://arxiv.org/abs/2203.13122) | [code](https://github.com/nhshin-mcl/MWR)<br><br>
