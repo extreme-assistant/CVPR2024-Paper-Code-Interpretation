@@ -31,6 +31,7 @@
 >2022/3/24 [更新 22 篇](https://bbs.cvmart.net/articles/6209)<br>
 >2022/3/25 [更新 29 篇](https://bbs.cvmart.net/articles/6213)<br>
 >2022/3/28 [更新 29 篇](https://bbs.cvmart.net/articles/6222)<br>
+>2022/3/29 [更新 35 篇](https://bbs.cvmart.net/articles/6223)
 
 <br><br>
 
@@ -89,6 +90,7 @@
 ### [4. 视频处理(Video Processing)](#VideoProcessing)
 * [视频编辑(Video Editing)](#VideoEditing)
 * [视频生成/视频合成(Video Generation/Video Synthesis)](#VideoGeneration)
+* [视频超分(Video Super-Resolution)](#VideoSR)
 
 ### [5. 估计(Estimation)](#Estimation)
 * [光流/运动估计(Flow/Motion Estimation)](#Flow/Pose/MotionEstimation)
@@ -339,6 +341,9 @@ keywords: Autonomous Driving, Monocular 3D Object Detection<br>
 
 ### 人物交互检测(HOI Detection)
 
+[2] MSTR: Multi-Scale Transformer for End-to-End Human-Object Interaction Detection(用于端到端人-物交互检测的多尺度 Transformer)<br>
+[paper](https://arxiv.org/abs/2203.14709)<br><br>
+
 [1] Efficient Two-Stage Detection of Human-Object Interactions with a Novel Unary-Pairwise Transformer(使用新型一元对变换器的人与物体交互的两阶段检测)<br>
 [paper](https://arxiv.org/abs/2112.01838) | [project](https://fredzzhang.com/unary-pairwise-transformers)<br><br>
 
@@ -476,6 +481,9 @@ keywords: Semantic- and panoramic segmentation, Unsupervised domain adaptation, 
 
 ### 语义分割(Semantic Segmentation)
 
+[17] Towards Fewer Annotations: Active Learning via Region Impurity and Prediction Uncertainty for Domain Adaptive Semantic Segmentation(朝向更少的注释：通过区域不纯度和预测不确定性进行域自适应语义分割的主动学习)<br>
+[paper](https://arxiv.org/abs/2111.12940) | [code](https://github.com/BIT-DA/RIPU)<br><br>
+
 [16] Perturbed and Strict Mean Teachers for Semi-supervised Semantic Segmentation(半监督语义分割的扰动和严格均值教师)<br>
 [paper](https://arxiv.org/abs/2111.12903)<br><br>
 
@@ -586,6 +594,8 @@ keywords: 3D Vision, Point Clouds, Instance Segmentation<br>
 
 ### 密集预测(Dense Prediction)
 
+
+
 [1] DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting(具有上下文感知提示的语言引导密集预测)<br>
 [paper](https://arxiv.org/abs/2112.01518) | [code](https://github.com/raoyongming/DenseCLIP)<br><br>
 
@@ -621,6 +631,15 @@ keywords: 3D Vision, Point Clouds, Instance Segmentation<br>
 
 [1] Show Me What and Tell Me How: Video Synthesis via Multimodal Conditioning(告诉我什么并告诉我如何：通过多模式调节进行视频合成)<br>
 [paper](https://arxiv.org/abs/2203.02573) | [code](https://github.com/snap-research/MMVID)<br><br>
+
+<br>
+
+<a name="VideoSR"/> 
+
+### 视频超分(Video Super-Resolution)
+
+[1] Reference-based Video Super-Resolution Using Multi-Camera Video Triplets(使用多摄像机视频三元组的基于参考的视频超分辨率)<br>
+[paper](https://arxiv.org/abs/2203.14537) | [code](https://github.com/codeslake/RefVSR)<br><br>
 
 <br>
 
@@ -696,6 +715,9 @@ keywords: monocular depth estimation(单目深度估计),transformer<br>
 <a name="HumanPoseEstimation"/> 
 
 ### 人体解析/人体姿态估计(Human Parsing/Human Pose Estimation)
+
+[10] Learning to Estimate Robust 3D Human Mesh from In-the-Wild Crowded Scenes(从野外拥挤的场景中学习估计稳健的 3D 人体网格)<br>
+[paper](https://arxiv.org/abs/2104.07300) | [code](https://github.com/hongsukchoi/3DCrowdNet_RELEASE)<br><br>
 
 [9] Ray3D: ray-based 3D human pose estimation for monocular absolute 3D localization(用于单目绝对 3D 定位的基于射线的 3D 人体姿态估计)<br>
 [paper](https://arxiv.org/abs/2203.11471) | [code](https://github.com/YxZhxn/Ray3D)<br><br>
@@ -785,6 +807,9 @@ keywords: HSI Reconstruction, Self-Attention Mechanism,  Image Frequency Spectru
 <a name="ImageRestoration"/> 
 
 ###  图像复原/图像增强/图像重建(Image Restoration/Image Reconstruction)
+
+[6] Diverse Plausible 360-Degree Image Outpainting for Efficient 3DCG Background Creation(用于高效 3DCG 背景创建的多样化合理 360 度图像外绘)<br>
+[paper](https://arxiv.org/abs/2203.14668) | [project](https://akmtn.github.io/omni-dreamer/)<br><br>
 
 [5] Exploring and Evaluating Image Restoration Potential in Dynamic Scenes(探索和评估动态场景中的图像复原潜力)<br>
 [paper](https://arxiv.org/abs/2203.11754)<br><br>
@@ -915,6 +940,9 @@ keywords: Style Transfer, Text-guided synthesis, Language-Image Pre-Training (CL
 
 ## 人脸(Face)
 
+[6] ImFace: A Nonlinear 3D Morphable Face Model with Implicit Neural Representations(具有隐式神经表示的非线性 3D 可变形人脸模型)<br>
+[paper](https://arxiv.org/abs/2203.14510)<br><br>
+
 [5] Cross-Modal Perceptionist: Can Face Geometry be Gleaned from Voices?(跨模态感知者：可以从声音中收集面部几何形状吗？)<br>
 [paper](https://arxiv.org/abs/2203.09824) | [project](https://choyingw.github.io/works/Voice2Mesh/index.html)<br><br>
 
@@ -935,6 +963,7 @@ keywords: Style Transfer, Text-guided synthesis, Language-Image Pre-Training (CL
 <a name="FacialRecognition"/> 
 
 ### 人脸识别/检测(Facial Recognition/Detection)
+
 
 [4] DeepFace-EMD: Re-ranking Using Patch-wise Earth Mover's Distance Improves Out-Of-Distribution Face Identification(使用 Patch-wise Earth Mover 的距离重新排序改进了分布外人脸识别)<br>
 [paper](https://arxiv.org/abs/2112.04016) | [code](https://github.com/anguyen8/deepface-emd)<br><br>
@@ -1020,6 +1049,15 @@ keywords: Single Object Tracking, 3D Multi-object Tracking / Detection, Spatial-
 
 ## 图像&视频检索/视频理解(Image&Video Retrieval/Video Understanding)
 
+[5] Sketching without Worrying: Noise-Tolerant Sketch-Based Image Retrieval(无忧素描：基于素描的抗噪图像检索)<br>
+[paper](https://arxiv.org/abs/2203.14817) | [code](https://github.com/AyanKumarBhunia/Stroke_Subset_Selector-for-FGSBIR)<br><br>
+
+[4] Partially Does It: Towards Scene-Level FG-SBIR with Partial Input(走向带有部分输入的场景级 FG-SBIR)<br>
+[paper](https://arxiv.org/abs/2203.14804)<br><br>
+
+[3] Sketch3T: Test-Time Training for Zero-Shot SBIR(零样本 SBIR 的测试时间训练)<br>
+[paper](https://arxiv.org/abs/2203.14691)<br><br>
+
 [2] Bridging Video-text Retrieval with Multiple Choice Questions(桥接视频文本检索与多项选择题)<br>
 [paper](https://arxiv.org/abs/2201.04850) | [code](https://github.com/TencentARC/MCQ)<br><br>
 
@@ -1080,12 +1118,21 @@ keywords:Online action detection(在线动作检测)<br>
 
 ### 行人重识别/检测(Re-Identification/Detection)
 
+[2] Part-based Pseudo Label Refinement for Unsupervised Person Re-identification(用于无监督人员重新识别的基于部分的伪标签细化)<br>
+[paper](https://arxiv.org/abs/2203.14675) | [code](https://github.com/yoonkicho/PPLR)<br><br>
+
 [1] Cascade Transformers for End-to-End Person Search(用于端到端人员搜索的级联transformer)<br>
 [paper](https://arxiv.org/abs/2203.09642) | [code](https://github.com/Kitware/COAT)<br><br>
 
 <a name="VideoCaption"/> 
 
 ### 图像/视频字幕(Image/Video Caption)
+
+[5] NOC-REK: Novel Object Captioning with Retrieved Vocabulary from External Knowledge(从外部知识中检索词汇的新颖对象字幕)<br>
+[paper](https://arxiv.org/abs/2203.14499)<br><br>
+
+[4] SwinBERT: End-to-End Transformers with Sparse Attention for Video Captioning(用于视频字幕的具有稀疏注意力的端到端transformer)<br>
+[paper](https://arxiv.org/abs/2111.13196) | [code](https://github.com/microsoft/SwinBERT)<br><br>
 
 [3] Open-Domain, Content-based, Multi-modal Fact-checking of Out-of-Context Images via Online Resources(通过在线资源对上下文外图像进行开放域、基于内容、多模式的事实检查)<br>
 [paper](https://arxiv.org/abs/2112.00061) | [code](https://s-abdelnabi.github.io/OoC-multi-modal-fc/)<br><br>
@@ -1134,6 +1181,8 @@ keywords: Self-supervised Transformer, Temporal modeling of disease progression<
 
 ## 文本检测/识别/理解(Text Detection/Recognition/Understanding)
 
+[4] Syntax-Aware Network for Handwritten Mathematical Expression Recognition(用于手写数学表达式识别的语法感知网络)<br>
+[paper](https://arxiv.org/abs/2203.01601)<br><br>
 
 [3] SwinTextSpotter: Scene Text Spotting via Better Synergy between Text Detection and Text Recognition(通过文本检测和文本识别之间更好的协同作用进行场景文本定位)<br>
 [paper](https://arxiv.org/abs/2203.10209) | [code](https://github.com/mxin262/SwinTextSpotter)<br><br>
@@ -1322,6 +1371,9 @@ keywords: Self-Supervised Learning, Contrastive Learning, 3D Point Cloud, Repres
 <a name="3DReconstruction"/> 
 
 ### 三维重建(3D Reconstruction)
+
+[12] Uncertainty-Aware Deep Multi-View Photometric Stereo(不确定性感知深度多视图光度立体)<br>
+[paper](https://arxiv.org/abs/2202.13071)<br><br>
 
 [11] Neural Reflectance for Shape Recovery with Shadow Handling(使用阴影处理进行形状恢复的神经反射)<br>
 [paper](https://arxiv.org/abs/2203.12909) | [code](https://github.com/junxuan-li/Neural-Reflectance-PS)<br><br>
@@ -1522,6 +1574,9 @@ keywords: Light-weight convolutional neural networks(轻量卷积神经网络),C
 
 ### 神经网络架构搜索(NAS)
 
+[4] Demystifying the Neural Tangent Kernel from a Practical Perspective: Can it be trusted for Neural Architecture Search without training?(从实用的角度揭开神经切线内核的神秘面纱：无需训练就可以信任神经架构搜索吗？)<br>
+[paper](https://arxiv.org/abs/2203.14577) | [code](https://github.com/nutellamok/DemystifyingNTK)<br><br>
+
 [3] Training-free Transformer Architecture Search(免训练transformer架构搜索)<br>
 [paper](https://arxiv.org/abs/2203.12217)<br><br>
 
@@ -1534,6 +1589,9 @@ keywords: Light-weight convolutional neural networks(轻量卷积神经网络),C
 <a name="MLP"/> 
 
 ### MLP
+
+[4] Brain-inspired Multilayer Perceptron with Spiking Neurons(具有尖峰神经元的类脑多层感知器)<br>
+[paper](https://arxiv.org/abs/2203.14679) | [code](https://gitee.com/mindspore/models/tree/master/research/cv/snnmlp)<br><br>
 
 [3] Dynamic MLP for Fine-Grained Image Classification by Leveraging Geographical and Temporal Information(利用地理和时间信息进行细粒度图像分类的动态 MLP)<br>
 [paper](https://arxiv.org/abs/2203.03253) | [code](https://github.com/ylingfeng/DynamicMLP.git)<br><br>
@@ -1611,6 +1669,9 @@ keywords: Data Augmentation, Image restoration, Photorealistic image synthesis<b
 <a name="ModelTraining"/> 
 
 ## 模型训练/泛化(Model Training/Generalization)
+
+[9] Automated Progressive Learning for Efficient Training of Vision Transformers(用于高效训练视觉transformer的自动渐进式学习)<br>
+[paper](https://arxiv.org/abs/2203.14509) | [code](https://github.com/changlin31/AutoProg)<br><br>
 
 [8] GradViT: Gradient Inversion of Vision Transformers(视觉transformer的梯度反转)<br>
 [paper](https://arxiv.org/abs/2203.11894) | [project](https://gradvit.github.io/)<br><br>
@@ -1811,6 +1872,9 @@ keywords: Knowledge Distillation, trajectory forecasting<br>
 
 ## 数据集(Dataset)
 
+[10] Assembly101: A Large-Scale Multi-View Video Dataset for Understanding Procedural Activities(用于理解程序活动的大规模多视图视频数据集)<br>
+[paper](https://arxiv.org/abs/2203.14712) | [project](https://assembly101.github.io/)<br><br>
+
 [9] Rope3D: TheRoadside Perception Dataset for Autonomous Driving and Monocular 3D Object Detection Task(用于自动驾驶和单目 3D 目标检测任务的路边感知数据集)<br>
 [paper](https://arxiv.org/abs/2203.13608) | [dataset](https://thudair.baai.ac.cn/rope)<br><br>
 
@@ -1922,6 +1986,9 @@ keywords: Video Scene Graph Generation, Transformer, Video Grounding<br>
 <a name="VisualLocalization"/> 
 
 ## 视觉定位/位姿估计(Visual Localization/Pose Estimation)
+
+[12] FS6D: Few-Shot 6D Pose Estimation of Novel Objects(新物体的小样本 6D 姿态估计)<br>
+[paper](https://arxiv.org/abs/2203.14628) | [project](https://fs6d.github.io/)<br><br>
 
 [11] Uni6D: A Unified CNN Framework without Projection Breakdown for 6D Pose Estimation(用于 6D 姿势估计的无投影分解的统一 CNN 框架)<br>
 [paper](https://arxiv.org/abs/2203.14531)<br><br>
@@ -2193,6 +2260,11 @@ keywords: Semi-Supervised Learning, Self-Supervised Learning, Real-World Unlabel
 <a name="100"/> 
 
 ## 其他
+
+
+
+ZZ-Net: A Universal Rotation Equivariant Architecture for 2D Point Clouds(二维点云的通用旋转等变架构)<br>
+[paper](https://arxiv.org/abs/2111.15341)<br><br>
 
 MDAN: Multi-level Dependent Attention Network for Visual Emotion Analysis(用于视觉情感分析的多级依赖注意网络)<br>
 [paper](https://arxiv.org/abs/2203.13443)<br><br>
