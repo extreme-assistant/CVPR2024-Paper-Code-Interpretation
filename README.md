@@ -30,7 +30,7 @@
 >2022/3/23 [更新 29 篇](https://bbs.cvmart.net/articles/6206)<br>
 >2022/3/24 [更新 22 篇](https://bbs.cvmart.net/articles/6209)<br>
 >2022/3/25 [更新 29 篇](https://bbs.cvmart.net/articles/6213)<br>
->2022/3/28 [更新 29 篇](https://bbs.cvmart.net/articles/6222)
+>2022/3/28 [更新 29 篇](https://bbs.cvmart.net/articles/6222)<br>
 
 <br><br>
 
@@ -172,7 +172,7 @@
 
 ### [30. 机器人(Robotic)](#Robotic)
 
-### [31. 自监督学习/半监督学习/无监督学习(Self-supervised Learning/Semi-supervised Learning)](#self-supervisedlearning)
+### [31. 半监督学习/弱监督学习/无监督学习/自监督学习(Self-supervised Learning/Semi-supervised Learning)](#self-supervisedlearning)
 
 ### [32. 多模态学习(Multi-Modal Learning)](#MMLearning)
 * [视听学习(Audio-visual Learning)](#Audio-VisualLearning)
@@ -220,6 +220,9 @@
 <a name="IOD"/> 
 
 ### 2D目标检测(2D Object Detection)
+
+[15] Sylph: A Hypernetwork Framework for Incremental Few-shot Object Detection(用于增量少样本目标检测的超网络框架)<br>
+[paper](https://arxiv.org/abs/2203.13903)<br><br>
 
 [14] QueryDet: Cascaded Sparse Query for Accelerating High-Resolution Small Object Detection(用于加速高分辨率小目标检测的级联稀疏查询)<br>
 [paper](https://arxiv.org/abs/2103.09136) | [code](https://github.com/ChenhongyiYang/QueryDet-PyTorch)<br><br>
@@ -336,6 +339,9 @@ keywords: Autonomous Driving, Monocular 3D Object Detection<br>
 
 ### 人物交互检测(HOI Detection)
 
+[1] Efficient Two-Stage Detection of Human-Object Interactions with a Novel Unary-Pairwise Transformer(使用新型一元对变换器的人与物体交互的两阶段检测)<br>
+[paper](https://arxiv.org/abs/2112.01838) | [project](https://fredzzhang.com/unary-pairwise-transformers)<br><br>
+
 <br>
 
 <a name="COD"/> 
@@ -412,6 +418,9 @@ keywords: Segmentation-based Lane Detection, Point Detection-based Lane Detectio
 <a name="AnomalyDetection"/> 
 
 ### 异常检测(Anomaly Detection)
+
+[5] Catching Both Gray and Black Swans: Open-set Supervised Anomaly Detection(捕捉灰天鹅和黑天鹅：开放集监督异常检测)<br>
+[paper](https://arxiv.org/abs/2203.14506) | [code](https://github.com/choubo/DRA)<br><br>
 
 [4] UBnormal: New Benchmark for Supervised Open-Set Video Anomaly Detection(监督开放集视频异常检测的新基准)<br>
 [paper](https://arxiv.org/abs/2111.08644) | [code](https://github.com/lilygeorgescu/UBnormal)<br><br>
@@ -1093,6 +1102,12 @@ keywords：Image Captioning and Dense Captioning(图像字幕/密集字幕)；Kn
 
 ## 医学影像(Medical Imaging)
 
+[8] Self-Supervised Pre-Training of Swin Transformers for 3D Medical Image Analysis(用于 3D 医学图像分析的 Swin Transformers 的自监督预训练)<br>
+[paper](https://arxiv.org/abs/2111.14791) | [code](https://monai.io/research/swin-unetr)<br><br>
+
+[7] Incremental Cross-view Mutual Distillation for Self-supervised Medical CT Synthesis(用于自监督医学 CT 合成的增量交叉视图相互蒸馏)<br>
+[paper](https://arxiv.org/abs/2112.10325)<br><br>
+
 [6] DTFD-MIL: Double-Tier Feature Distillation Multiple Instance Learning for Histopathology Whole Slide Image Classification(用于组织病理学全幻灯片图像分类的双层特征蒸馏多实例学习)<br>
 [paper](https://arxiv.org/abs/2203.12081) | [code](https://github.com/hrzhang1123/DTFD-MIL)<br><br>
 
@@ -1239,6 +1254,9 @@ keywords: Self-supervised Transformer, Temporal modeling of disease progression<
 
 ## 三维视觉(3D Vision)
 
+[4] Towards Implicit Text-Guided 3D Shape Generation(迈向隐式文本引导的 3D 形状生成)<br>
+[paper](https://arxiv.org/abs/2203.14622) | [code](https://github.com/liuzhengzhe/Towards-Implicit)<br><br>
+
 [3] The Neurally-Guided Shape Parser: Grammar-based Labeling of 3D Shape Regions with Approximate Inference(神经引导的形状解析器：具有近似推理的 3D 形状区域的基于语法的标记)<br>
 [paper](https://arxiv.org/abs/2106.12026) | [code](https://github.com/rkjones4/NGSP)<br><br>
 
@@ -1254,6 +1272,12 @@ keywords: Self-supervised Transformer, Temporal modeling of disease progression<
 <a name="3DPC"/> 
 
 ### 点云(Point Cloud)
+
+[14] REGTR: End-to-end Point Cloud Correspondences with Transformers(与 Transformer 的端到端点云匹配)<br>
+[paper](https://arxiv.org/abs/2203.14517) | [code](https://github.com/yewzijian/RegTR)<br><br>
+
+[13] Stratified Transformer for 3D Point Cloud Segmentation(用于 3D 点云分割的分层transformer)<br>
+[paper](https://arxiv.org/abs/2203.14508) | [code](https://github.com/dvlab-research/Stratified-Transformer)<br><br>
 
 [12] AziNorm: Exploiting the Radial Symmetry of Point Cloud for Azimuth-Normalized 3D Perception(利用点云的径向对称性进行方位归一化 3D 感知)<br>
 [paper](https://arxiv.org/abs/2203.13090) | [code](https://github.com/hustvl/AziNorm)<br><br>
@@ -1338,6 +1362,12 @@ keywords: 4D Representation(4D 表征),Human Body Estimation(人体姿态估计)
 <a name="NeRF"/> 
 
 ### 场景重建/视图合成/新视角合成(Novel View Synthesis)
+
+[11] Neural Rays for Occlusion-aware Image-based Rendering(用于遮挡感知的基于图像的渲染的神经射线)<br>
+[paper](https://arxiv.org/abs/2107.13421) | [project](https://liuyuan-pal.github.io/NeuRay/) | [code](https://github.com/liuyuan-pal/NeuRay)<br><br>
+
+[10] Deblur-NeRF: Neural Radiance Fields from Blurry Images(来自模糊图像的神经辐射场)<br>
+[paper](https://arxiv.org/abs/2111.14292) | [code](https://limacv.github.io/deblurnerf/)<br><br>
 
 [9] NPBG++: Accelerating Neural Point-Based Graphics(加速基于神经点的图形)<br>
 [paper](https://arxiv.org/abs/2203.13318) | [project](https://rakhimovv.github.io/npbgpp/)<br><br>
@@ -1452,6 +1482,9 @@ keywords: sparse convolutional neural network, video inference accelerating<br>
 <a name="Transformer"/> 
 
 ### Transformer
+
+[8] CodedVTR: Codebook-based Sparse Voxel Transformer with Geometric Guidance(具有几何制导的基于码本的稀疏体素transformer)<br>
+[paper](https://arxiv.org/abs/2203.09887)<br><br>
 
 [7] MSG-Transformer: Exchanging Local Spatial Information by Manipulating Messenger Tokens(通过操作信使token交换本地空间信息)<br>
 [paper](https://arxiv.org/abs/2105.15168) | [code](https://github.com/hustvl/MSG-Transformer)<br><br>
@@ -1890,6 +1923,9 @@ keywords: Video Scene Graph Generation, Transformer, Video Grounding<br>
 
 ## 视觉定位/位姿估计(Visual Localization/Pose Estimation)
 
+[11] Uni6D: A Unified CNN Framework without Projection Breakdown for 6D Pose Estimation(用于 6D 姿势估计的无投影分解的统一 CNN 框架)<br>
+[paper](https://arxiv.org/abs/2203.14531)<br><br>
+
 [10] EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation(用于单目物体姿态估计的广义端到端概率透视-n-点)<br>
 [paper](https://arxiv.org/abs/2203.13254)<br><br>
 
@@ -1925,6 +1961,12 @@ keywords: Video Scene Graph Generation, Transformer, Video Grounding<br>
 <a name="VisualReasoning"/> 
 
 ## 视觉推理/视觉问答(Visual Reasoning/VQA)
+
+[4] Learning to Answer Questions in Dynamic Audio-Visual Scenarios(学习在动态视听场景中回答问题)(视听学习)<br>
+[paper](https://arxiv.org/abs/2203.14072) | [code](http://gewu-lab.github.io/MUSIC-AVQA/)<br><br>
+
+[3] Visual Abductive Reasoning(视觉溯因推理)<br>
+[paper](https://arxiv.org/abs/2203.14040) | [code](https://github.com/leonnnop/VAR)<br><br>
 
 [2] MuKEA: Multimodal Knowledge Extraction and Accumulation for Knowledge-based Visual Question Answering(基于知识的视觉问答的多模态知识提取与积累)<br>
 [paper](https://arxiv.org/abs/2203.09138) | [code](https://github.com/AndersonStra/MuKEA)<br><br>
@@ -2075,7 +2117,10 @@ keywords: Self-supervised Representation Learning, Deep Clustering, Contrastive 
 
 <a name="self-supervisedlearning"/> 
 
-## 自监督学习/半监督学习/无监督学习(Self-supervised Learning/Semi-supervised Learning)
+## 半监督学习/弱监督学习/无监督学习/自监督学习(Self-supervised Learning/Semi-supervised Learning)
+
+[6] Decoupling Makes Weakly Supervised Local Feature Better(解耦使弱监督的局部特征更好)<br>
+[paper](https://arxiv.org/abs/2201.02861) | [code](https://github.com/The-Learning-And-Vision-Atelier-LAVA/PoSFeat)<br><br>
 
 [5] SimMatch: Semi-supervised Learning with Similarity Matching(具有相似性匹配的半监督学习)<br>
 [paper](https://arxiv.org/abs/2203.06915) | [code](https://github.com/KyleZheng1997/simmatch)<br><br>
