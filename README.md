@@ -31,7 +31,8 @@
 >2022/3/24 [更新 22 篇](https://bbs.cvmart.net/articles/6209)<br>
 >2022/3/25 [更新 29 篇](https://bbs.cvmart.net/articles/6213)<br>
 >2022/3/28 [更新 29 篇](https://bbs.cvmart.net/articles/6222)<br>
->2022/3/29 [更新 35 篇](https://bbs.cvmart.net/articles/6223)
+>2022/3/29 [更新 35 篇](https://bbs.cvmart.net/articles/6223)<br>
+>2022/3/30 [更新 28 篇](https://bbs.cvmart.net/articles/6231)
 
 <br><br>
 
@@ -223,6 +224,12 @@
 
 ### 2D目标检测(2D Object Detection)
 
+[17] Interactron: Embodied Adaptive Object Detection(体现自适应目标检测)<br>
+[paper](https://arxiv.org/abs/2202.00660) | [code](https://github.com/allenai/interactron)<br><br>
+
+[16] Label, Verify, Correct: A Simple Few Shot Object Detection Method(标签、验证、正确：一种简单的小样本物体检测方法)<br>
+[paper](https://arxiv.org/abs/2112.05749) | [project](https://www.robots.ox.ac.uk/~vgg/research/lvc/)<br><br>
+
 [15] Sylph: A Hypernetwork Framework for Incremental Few-shot Object Detection(用于增量少样本目标检测的超网络框架)<br>
 [paper](https://arxiv.org/abs/2203.13903)<br><br>
 
@@ -340,6 +347,7 @@ keywords: Autonomous Driving, Monocular 3D Object Detection<br>
 <a name="HOI"/> 
 
 ### 人物交互检测(HOI Detection)
+
 
 [2] MSTR: Multi-Scale Transformer for End-to-End Human-Object Interaction Detection(用于端到端人-物交互检测的多尺度 Transformer)<br>
 [paper](https://arxiv.org/abs/2203.14709)<br><br>
@@ -481,6 +489,9 @@ keywords: Semantic- and panoramic segmentation, Unsupervised domain adaptation, 
 
 ### 语义分割(Semantic Segmentation)
 
+[18] DAFormer: Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation(改进域自适应语义分割的网络架构和训练策略)<br>
+[paper](https://arxiv.org/abs/2111.14887) | [code](https://github.com/lhoyer/DAFormer)<br><br>
+
 [17] Towards Fewer Annotations: Active Learning via Region Impurity and Prediction Uncertainty for Domain Adaptive Semantic Segmentation(朝向更少的注释：通过区域不纯度和预测不确定性进行域自适应语义分割的主动学习)<br>
 [paper](https://arxiv.org/abs/2111.12940) | [code](https://github.com/BIT-DA/RIPU)<br><br>
 
@@ -539,6 +550,9 @@ keywords: Semi-supervised learning, Semantic segmentation, Uncertainty estimatio
 
 ### 实例分割(Instance Segmentation)
 
+[10] Beyond Semantic to Instance Segmentation: Weakly-Supervised Instance Segmentation via Semantic Knowledge Transfer and Self-Refinement(超越语义到实例分割：通过语义知识转移和自我完善的弱监督实例分割)<br>
+[paper](https://arxiv.org/abs/2109.09477) | [code](https://github.com/clovaai/BESTIE)<br><br>
+
 [9] Noisy Boundaries: Lemon or Lemonade for Semi-supervised Instance Segmentation?(嘈杂的边界：半监督实例分割的柠檬还是柠檬水？)<br>
 [paper](https://arxiv.org/abs/2203.13427)<br><br>
 
@@ -594,8 +608,6 @@ keywords: 3D Vision, Point Clouds, Instance Segmentation<br>
 
 ### 密集预测(Dense Prediction)
 
-
-
 [1] DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting(具有上下文感知提示的语言引导密集预测)<br>
 [paper](https://arxiv.org/abs/2112.01518) | [code](https://github.com/raoyongming/DenseCLIP)<br><br>
 
@@ -604,6 +616,9 @@ keywords: 3D Vision, Point Clouds, Instance Segmentation<br>
 <a name="VideoProcessing"/> 
 
 ## 视频处理(Video Processing)
+
+[3] Long-term Video Frame Interpolation via Feature Propagation(通过特征传播的长期视频帧插值)<br>
+[paper](https://arxiv.org/abs/2203.15427)<br><br>
 
 [2] Unifying Motion Deblurring and Frame Interpolation with Events(将运动去模糊和帧插值与事件统一起来)<br>
 [paper](https://arxiv.org/abs/2203.12178)<br><br>
@@ -666,6 +681,12 @@ keywords: 3D Vision, Point Clouds, Instance Segmentation<br>
 
 ### 深度估计(Depth Estimation)
 
+[15] Multi-View Depth Estimation by Fusing Single-View Depth Probability with Multi-View Geometry(通过融合单视图深度概率与多视图几何进行多视图深度估计)(**Oral**)<br>
+[paper](https://arxiv.org/abs/2112.08177) | [code](https://github.com/baegwangbin/MaGNet)<br><br>
+
+[14] Learning Structured Gaussians to Approximate Deep Ensembles(学习结构化高斯函数以逼近深度集成)<br>
+[paper](https://arxiv.org/abs/2203.15485)<br><br>
+
 [13] LGT-Net: Indoor Panoramic Room Layout Estimation with Geometry-Aware Transformer Network(具有几何感知变压器网络的室内全景房间布局估计)(布局估计)<br>
 [paper](https://arxiv.org/abs/2203.01824) | [code](https://github.com/zhigangjiang/LGT-Net)<br><br>
 
@@ -715,6 +736,9 @@ keywords: monocular depth estimation(单目深度估计),transformer<br>
 <a name="HumanPoseEstimation"/> 
 
 ### 人体解析/人体姿态估计(Human Parsing/Human Pose Estimation)
+
+[11] PoseTriplet: Co-evolving 3D Human Pose Estimation, Imitation, and Hallucination under Self-supervision(自我监督下共同进化的 3D 人体姿势估计、模仿和幻觉)<br>
+[paper](https://arxiv.org/abs/2203.15625) | [code](https://github.com/Garfield-kh/PoseTriplet)<br><br>
 
 [10] Learning to Estimate Robust 3D Human Mesh from In-the-Wild Crowded Scenes(从野外拥挤的场景中学习估计稳健的 3D 人体网格)<br>
 [paper](https://arxiv.org/abs/2104.07300) | [code](https://github.com/hongsukchoi/3DCrowdNet_RELEASE)<br><br>
@@ -865,6 +889,9 @@ keywords: Event-Enhanced Deblurring, Video Representation<br>
 <a name="ImageEdit"/> 
 
 ### 图像编辑/图像修复(Image Edit/Inpainting)
+
+[6] HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing(用于真实图像编辑的超网络 StyleGAN 反演)<br>
+[paper](https://arxiv.org/abs/2111.15666) | [project](http://yuval-alaluf.github.io/hyperstyle/)<br><br>
 
 [5] High-Fidelity GAN Inversion for Image Attribute Editing(用于图像属性编辑的高保真 GAN 反演)<br>
 [paper](https://arxiv.org/abs/2109.06590) | [code](https://github.com/Tengfei-Wang/HFGI) | [project](https://tengfei-wang.github.io/HFGI/)<br><br>
@@ -1071,6 +1098,9 @@ keywords: Video understanding, Vision transformers, Self-supervised representati
 
 ### 行为识别/动作识别/检测/分割/定位(Action/Activity Recognition)
 
+[15] MS-TCT: Multi-Scale Temporal ConvTransformer for Action Detection(用于动作检测的多尺度时间 ConvTransformer)<br>
+[paper](https://arxiv.org/abs/2112.03902) | [code](https://github.com/dairui01/MS-TCT)<br><br>
+
 [14] Unsupervised Pre-training for Temporal Action Localization Tasks(时间动作定位任务的无监督预训练)<br>
 [paper](https://arxiv.org/abs/2203.13609) | [code](https://github.com/zhang-can/UP-TAL)<br><br>
 
@@ -1127,6 +1157,9 @@ keywords:Online action detection(在线动作检测)<br>
 <a name="VideoCaption"/> 
 
 ### 图像/视频字幕(Image/Video Caption)
+
+[6] Quantifying Societal Bias Amplification in Image Captioning(量化图像字幕中的社会偏见放大)<br>
+[paper](https://arxiv.org/abs/2203.15395)<br><br>
 
 [5] NOC-REK: Novel Object Captioning with Retrieved Vocabulary from External Knowledge(从外部知识中检索词汇的新颖对象字幕)<br>
 [paper](https://arxiv.org/abs/2203.14499)<br><br>
@@ -1372,6 +1405,9 @@ keywords: Self-Supervised Learning, Contrastive Learning, 3D Point Cloud, Repres
 
 ### 三维重建(3D Reconstruction)
 
+[13] BARC: Learning to Regress 3D Dog Shape from Images by Exploiting Breed Information(通过利用品种信息学习从图像中回归 3D 狗形状)<br>
+[paper](https://arxiv.org/abs/2203.15536) | [code](https://barc.is.tue.mpg.de/)<br><br>
+
 [12] Uncertainty-Aware Deep Multi-View Photometric Stereo(不确定性感知深度多视图光度立体)<br>
 [paper](https://arxiv.org/abs/2202.13071)<br><br>
 
@@ -1414,6 +1450,15 @@ keywords: 4D Representation(4D 表征),Human Body Estimation(人体姿态估计)
 <a name="NeRF"/> 
 
 ### 场景重建/视图合成/新视角合成(Novel View Synthesis)
+
+[14] MonoScene: Monocular 3D Semantic Scene Completion(单目 3D 语义场景完成)<br>
+[paper](https://arxiv.org/abs/2112.00726) | [code](https://github.com/cv-rits/MonoScene) | [project](https://cv-rits.github.io/MonoScene/)<br><br>
+
+[13] Stereo Magnification with Multi-Layer Images(具有多层图像的立体放大)<br>
+[paper](https://arxiv.org/abs/2201.05023) | [code](https://samsunglabs.github.io/StereoLayers)<br><br>
+
+[12] Scene Representation Transformer: Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations(通过集合潜在场景表示的无几何新颖视图合成)<br>
+[paper](https://arxiv.org/abs/2111.13152) | [project](https://srt-paper.github.io/)<br><br>
 
 [11] Neural Rays for Occlusion-aware Image-based Rendering(用于遮挡感知的基于图像的渲染的神经射线)<br>
 [paper](https://arxiv.org/abs/2107.13421) | [project](https://liuyuan-pal.github.io/NeuRay/) | [code](https://github.com/liuyuan-pal/NeuRay)<br><br>
@@ -1475,6 +1520,9 @@ keywords: Object Detection, Knowledge Distillation<br>
 <a name="Pruning"/> 
 
 ### 剪枝(Pruning)
+
+[2] CHEX: CHannel EXploration for CNN Model Compression(CNN模型压缩的通道探索)<br>
+[paper](https://arxiv.org/abs/2203.15794) | [code](https://github.com/zejiangh/Filter-GaP)<br><br>
 
 [1] Interspace Pruning: Using Adaptive Filter Representations to Improve Training of Sparse CNNs(空间剪枝：使用自适应滤波器表示来改进稀疏 CNN 的训练)<br>
 [paper](https://arxiv.org/abs/2203.07808)<br><br>
@@ -1615,6 +1663,9 @@ keywords: Light-weight convolutional neural networks(轻量卷积神经网络),C
 <a name="DataAugmentation"/> 
 
 ### 数据增广(Data Augmentation)
+
+[3] EnvEdit: Environment Editing for Vision-and-Language Navigation(视觉语言导航的环境编辑)<br>
+[paper](https://arxiv.org/abs/2203.15685) | [code](https://github.com/jialuli-luka/EnvEdit)<br><br>
 
 [2] TeachAugment: Data Augmentation Optimization Using Teacher Knowledge(使用教师知识进行数据增强优化)<br>
 [paper](https://arxiv.org/abs/2202.12513) ｜ [code](https://github.com/DensoITLab/TeachAugment)<br><br>
@@ -1792,6 +1843,9 @@ keywords: Long-Tailed Recognition(长尾识别), Contrastive Learning(对比学�
 
 ### 视觉-语言（Vision-language）
 
+[13] StyleT2I: Toward Compositional and High-Fidelity Text-to-Image Synthesis(走向合成和高保真文本到图像的合成)<br>
+[paper](https://arxiv.org/abs/2203.15799)<br><br>
+
 [12] LiT: Zero-Shot Transfer with Locked-image text Tuning(带锁定图像文本调整的零样本迁移)<br>
 [paper](https://arxiv.org/abs/2111.07991)<br><br>
 
@@ -1837,6 +1891,9 @@ keywords: Vision-language representation learning, Contrastive Learning
 
 ## 视觉预测(Vision-based Prediction)
 
+[10] Vehicle trajectory prediction works, but not everywhere(车辆轨迹预测有效，但并非无处不在)<br>
+[paper](https://arxiv.org/abs/2112.03909) | [code](https://s-attack.github.io/)<br><br>
+
 [9] Stochastic Trajectory Prediction via Motion Indeterminacy Diffusion(基于运动不确定性扩散的随机轨迹预测)<br>
 [paper](https://arxiv.org/abs/2203.13777) | [code](https://github.com/gutianpei/MID)<br><br>
 
@@ -1871,6 +1928,12 @@ keywords: Knowledge Distillation, trajectory forecasting<br>
 <a name="Dataset"/> 
 
 ## 数据集(Dataset)
+
+[12] OakInk: A Large-scale Knowledge Repository for Understanding Hand-Object Interaction(理解手物交互的大规模知识库)<br>
+[paper](https://arxiv.org/abs/2203.15709) | [datasets&code](https://github.com/lixiny/OakInk)<br><br>
+
+[11] Instance-wise Occlusion and Depth Orders in Natural Scenes(自然场景中的实例遮挡和深度顺序)<br>
+[paper](https://arxiv.org/abs/2111.14562) | [code](https://github.com/POSTECH-CVLab/InstaOrder)<br><br>
 
 [10] Assembly101: A Large-Scale Multi-View Video Dataset for Understanding Procedural Activities(用于理解程序活动的大规模多视图视频数据集)<br>
 [paper](https://arxiv.org/abs/2203.14712) | [project](https://assembly101.github.io/)<br><br>
@@ -1922,6 +1985,9 @@ VCSL (Video Copy Segment Localization) dataset<br>
 
 ## 小样本学习/零样本学习(Few-shot Learning/Zero-shot Learning)
 
+[4] Integrative Few-Shot Learning for Classification and Segmentation(用于分类和分割的集成小样本学习)<br>
+[paper](https://arxiv.org/abs/2203.15712)<br><br>
+
 [3] Ranking Distance Calibration for Cross-Domain Few-Shot Learning(跨域小样本学习的排名距离校准)<br>
 [paper](https://arxiv.org/abs/2112.00260)<br><br>
 
@@ -1939,6 +2005,9 @@ keywords: Zero-Shot Learning,  Knowledge Distillation<br>
 <a name="ContinualLearning"/> 
 
 ## 持续学习(Continual Learning/Life-long Learning)
+
+[5] GCR: Gradient Coreset Based Replay Buffer Selection For Continual Learning(用于持续学习的基于梯度核心集的重放缓冲区选择)<br>
+[paper](https://arxiv.org/abs/2111.11210)<br><br>
 
 [4] Probing Representation Forgetting in Supervised and Unsupervised Continual Learning(探索有监督和无监督持续学习中的表征遗忘)<br>
 [paper](https://arxiv.org/abs/2203.13381)<br><br>
@@ -1986,6 +2055,12 @@ keywords: Video Scene Graph Generation, Transformer, Video Grounding<br>
 <a name="VisualLocalization"/> 
 
 ## 视觉定位/位姿估计(Visual Localization/Pose Estimation)
+
+[14] OSOP: A Multi-Stage One Shot Object Pose Estimation Framework(多阶段 One Shot 对象姿态估计框架)<br>
+[paper](https://arxiv.org/abs/2203.15533)<br><br>
+
+[13] Putting People in their Place: Monocular Regression of 3D People in Depth(3D 人物深度的单目回归)<br>
+[paper](https://arxiv.org/abs/2112.08274) | [code](https://github.com/Arthur151/ROMP;) | [Dataset](https://github.com/Arthur151/Relative_Human)<br><br>
 
 [12] FS6D: Few-Shot 6D Pose Estimation of Novel Objects(新物体的小样本 6D 姿态估计)<br>
 [paper](https://arxiv.org/abs/2203.14628) | [project](https://fs6d.github.io/)<br><br>
@@ -2174,6 +2249,7 @@ keywords: Self-supervised Representation Learning, Deep Clustering, Contrastive 
 
 ## 机器人(Robotic)
 
+
 [2] Coarse-to-Fine Q-attention: Efficient Learning for Visual Robotic Manipulation via Discretisation(通过离散化实现视觉机器人操作的高效学习)<br>
 [paper](https://arxiv.org/abs/2106.12534) | [code](https://github.com/stepjam/ARM) | [project](https://sites.google.com/view/c2f-q-attention)<br><br>
 
@@ -2261,7 +2337,11 @@ keywords: Semi-Supervised Learning, Self-Supervised Learning, Real-World Unlabel
 
 ## 其他
 
+Interactive Disentanglement: Learning Concepts by Interacting with their Prototype Representations(通过与原型表示交互来学习概念)<br>
+[paper](https://arxiv.org/abs/2112.02290) | [code](https://github.com/ml-research/XIConceptLearning)<br><br>
 
+Clean Implicit 3D Structure from Noisy 2D STEM Images(从嘈杂的 2D STEM 图像中清除隐式 3D 结构)<br>
+[paper](https://arxiv.org/abs/2203.15434)<br><br>
 
 ZZ-Net: A Universal Rotation Equivariant Architecture for 2D Point Clouds(二维点云的通用旋转等变架构)<br>
 [paper](https://arxiv.org/abs/2111.15341)<br><br>
@@ -2320,7 +2400,8 @@ PINA: Learning a Personalized Implicit Neural Avatar from a Single RGB-D Video S
 
 # 2. CVPR2022 Oral
 
-
+[2] Multi-View Depth Estimation by Fusing Single-View Depth Probability with Multi-View Geometry(通过融合单视图深度概率与多视图几何进行多视图深度估计)(**Oral**)<br>
+[paper](https://arxiv.org/abs/2112.08177) | [code](https://github.com/baegwangbin/MaGNet)<br><br>
 
 [1] L-Verse: Bidirectional Generation Between Image and Text(图像和文本之间的双向生成) **(视觉语言表征学习)**<br>
 [paper](https://arxiv.org/abs/2111.11133)<br><br>
