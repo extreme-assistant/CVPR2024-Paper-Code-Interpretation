@@ -32,7 +32,8 @@
 >2022/3/25 [更新 29 篇](https://bbs.cvmart.net/articles/6213)<br>
 >2022/3/28 [更新 29 篇](https://bbs.cvmart.net/articles/6222)<br>
 >2022/3/29 [更新 35 篇](https://bbs.cvmart.net/articles/6223)<br>
->2022/3/30 [更新 28 篇](https://bbs.cvmart.net/articles/6231)
+>2022/3/30 [更新 28 篇](https://bbs.cvmart.net/articles/6231)<br>
+>2022/4/2 [更新 15 篇](https://bbs.cvmart.net/articles/6240)
 
 <br><br>
 
@@ -224,6 +225,12 @@
 
 ### 2D目标检测(2D Object Detection)
 
+[19] AdaMixer: A Fast-Converging Query-Based Object Detector(一种快速收敛的基于查询的对象检测器)(**Oral**)<br>
+[paper](https://arxiv.org/abs/2203.16507) | [code](https://github.com/MCG-NJU/AdaMixer)<br><br>
+
+[18] Multi-Granularity Alignment Domain Adaptation for Object Detection(用于目标检测的多粒度对齐域自适应)<br>
+[paper](https://arxiv.org/abs/2203.16897) | [code](https://github.com/tiankongzhang/MGADA)<br><br>
+
 [17] Interactron: Embodied Adaptive Object Detection(体现自适应目标检测)<br>
 [paper](https://arxiv.org/abs/2202.00660) | [code](https://github.com/allenai/interactron)<br><br>
 
@@ -294,6 +301,8 @@ keywords: Bounding Box Regression, Localization Quality Estimation, Knowledge Di
 
 ### 3D目标检测(3D object detection)
 
+[20] Forecasting from LiDAR via Future Object Detection(通过未来目标检测从 LiDAR 进行预测)<br>
+[paper](https://arxiv.org/abs/2203.16297) | [code](https://github.com/neeharperi/FutureDet)<br><br>
 
 [15] Point2Seq: Detecting 3D Objects as Sequences(将 3D 对象检测为序列)<br>
 [paper](https://arxiv.org/abs/2203.13394) | [code](https://github.com/ocNflag/point2seq)<br><br>
@@ -616,6 +625,12 @@ keywords: 3D Vision, Point Clouds, Instance Segmentation<br>
 <a name="VideoProcessing"/> 
 
 ## 视频处理(Video Processing)
+
+[5] Bringing Old Films Back to Life(让老电影焕然一新)<br>
+[paper](https://arxiv.org/abs/2203.17276) | [code](https://github.com/raywzy/Bringing-Old-Films-Back-to-Life)<br><br>
+
+[4] Time Lens++: Event-based Frame Interpolation with Parametric Non-linear Flow and Multi-scale Fusion(具有参数非线性流和多尺度融合的基于事件的帧插值)<br>
+[paper](https://arxiv.org/abs/2203.17191) | [project](https://uzh-rpg.github.io/timelens-pp/) | [video](https://youtu.be/AsRKQRWHbVs) | [dataset](https://github.com/uzh-rpg/timelens-pp/)<br><br>
 
 [3] Long-term Video Frame Interpolation via Feature Propagation(通过特征传播的长期视频帧插值)<br>
 [paper](https://arxiv.org/abs/2203.15427)<br><br>
@@ -1010,6 +1025,9 @@ keywords: Style Transfer, Text-guided synthesis, Language-Image Pre-Training (CL
 
 ### 人脸生成/合成/重建/编辑(Face Generation/Face Synthesis/Face Reconstruction/Face Editing)
 
+[4] TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing(基于 Transformer 的双空间 GAN 用于高度可控的面部编辑)<br>
+[paper](https://arxiv.org/abs/2203.17266) | [code](https://github.com/BillyXYB/TransEditor) | [project](https://billyxyb.github.io/TransEditor/)<br><br>
+
 [3] FENeRF: Face Editing in Neural Radiance Fields(神经辐射场中的人脸编辑)<br>
 [paper](https://arxiv.org/abs/2111.15490) | [project](https://mrtornado24.github.io/FENeRF/)<br><br>
 
@@ -1239,7 +1257,8 @@ keywords: Self-supervised Transformer, Temporal modeling of disease progression<
 
 ## GAN/生成式/对抗式(GAN/Generative/Adversarial)
 
-
+[15] Towards Robust Rain Removal Against Adversarial Attacks: A Comprehensive Benchmark Analysis and Beyond(迈向强大的雨水清除对抗对抗性攻击：综合基准分析及其他)<br>
+[paper](https://arxiv.org/abs/2203.16931) | [code](https://github.com/yuyi-sd/Robust_Rain_Removal)<br><br>
 
 [14] Understanding and Increasing Efficiency of Frank-Wolfe Adversarial Training(了解 Frank-Wolfe 对抗训练并提高效率)<br>
 [paper](https://arxiv.org/abs/2012.12368) | [code](https://github.com/TheoT1/FW-AT-Adapt)<br><br>
@@ -1531,6 +1550,9 @@ keywords: Object Detection, Knowledge Distillation<br>
 
 ### 量化(Quantization)
 
+[3] It's All In the Teacher: Zero-Shot Quantization Brought Closer to the Teacher(一切尽在老师身上：零样本量化更贴近老师)(**Oral**)<br>
+[paper](https://arxiv.org/abs/2203.17008)<br><br>
+
 [2] Implicit Feature Decoupling with Depthwise Quantization(使用深度量化的隐式特征解耦)<br>
 [paper](https://arxiv.org/abs/2203.08080)<br><br>
 
@@ -1615,6 +1637,8 @@ keywords: Light-weight convolutional neural networks(轻量卷积神经网络),C
 
 ### 图神经网络(GNN)
 
+[1] AEGNN: Asynchronous Event-based Graph Neural Networks(基于异步事件的图神经网络)<br>
+[paper](https://arxiv.org/abs/2203.17149) | [project](https://uzh-rpg.github.io/aegnn/)<br><br>
 
 <br>
 
@@ -1656,6 +1680,9 @@ keywords: Light-weight convolutional neural networks(轻量卷积神经网络),C
 <a name="DataProcessing"/> 
 
 ## 数据处理(Data Processing)
+
+[2] Generating High Fidelity Data from Low-density Regions using Diffusion Models(使用扩散模型从低密度区域生成高保真数据)<br>
+[paper](https://arxiv.org/abs/2203.17260)<br><br>
 
 [1] Dataset Distillation by Matching Training Trajectories(通过匹配训练轨迹进行数据集蒸馏)(**数据集蒸馏**)<br>
 [paper](https://arxiv.org/abs/2203.11932) | [code](https://github.com/GeorgeCazenavette/mtt-distillation) | [project](https://georgecazenavette.github.io/mtt-distillation/)<br><br>
@@ -1720,6 +1747,7 @@ keywords: Data Augmentation, Image restoration, Photorealistic image synthesis<b
 <a name="ModelTraining"/> 
 
 ## 模型训练/泛化(Model Training/Generalization)
+
 
 [9] Automated Progressive Learning for Efficient Training of Vision Transformers(用于高效训练视觉transformer的自动渐进式学习)<br>
 [paper](https://arxiv.org/abs/2203.14509) | [code](https://github.com/changlin31/AutoProg)<br><br>
@@ -2027,9 +2055,13 @@ keywords: Zero-Shot Learning,  Knowledge Distillation<br>
 
 ## 场景图(Scene Graph)
 
+[1] Continuous Scene Representations for Embodied AI(具身 AI 的连续场景表示)<br>
+[paper](https://arxiv.org/abs/2203.17251) | [project](https://prior.allenai.org/projects/csr) | [code](https://github.com/allenai/CSR) | [video](https://youtu.be/XdNIcEz_8Tw)<br><br>
+
 <a name="SGG"/> 
 
 ### 场景图生成(Scene Graph Generation)
+
 
 [2] Stacked Hybrid-Attention and Group Collaborative Learning for Unbiased Scene Graph Generation(用于无偏场景图生成的堆叠混合注意力和组协作学习)<br>
 [paper](https://arxiv.org/abs/2203.09811) | [code](https://github.com/dongxingning/SHA-GCL-for-SGG)<br><br>
@@ -2055,6 +2087,9 @@ keywords: Video Scene Graph Generation, Transformer, Video Grounding<br>
 <a name="VisualLocalization"/> 
 
 ## 视觉定位/位姿估计(Visual Localization/Pose Estimation)
+
+[15] Templates for 3D Object Pose Estimation Revisited: Generalization to New Objects and Robustness to Occlusions(重新审视 3D 对象姿态估计的模板：对新对象的泛化和对遮挡的鲁棒性)<br>
+[paper](https://arxiv.org/abs/2203.17234) | [code](https://github.com/nv-nguyen/template-pose)<br><br>
 
 [14] OSOP: A Multi-Stage One Shot Object Pose Estimation Framework(多阶段 One Shot 对象姿态估计框架)<br>
 [paper](https://arxiv.org/abs/2203.15533)<br><br>
@@ -2103,6 +2138,9 @@ keywords: Video Scene Graph Generation, Transformer, Video Grounding<br>
 <a name="VisualReasoning"/> 
 
 ## 视觉推理/视觉问答(Visual Reasoning/VQA)
+
+[5] SimVQA: Exploring Simulated Environments for Visual Question Answering(探索视觉问答的模拟环境)<br>
+[paper](https://arxiv.org/abs/2203.17219) | [project](https://simvqa.github.io/)<br><br>
 
 [4] Learning to Answer Questions in Dynamic Audio-Visual Scenarios(学习在动态视听场景中回答问题)(视听学习)<br>
 [paper](https://arxiv.org/abs/2203.14072) | [code](http://gewu-lab.github.io/MUSIC-AVQA/)<br><br>
@@ -2262,6 +2300,9 @@ keywords: Self-supervised Representation Learning, Deep Clustering, Contrastive 
 
 ## 半监督学习/弱监督学习/无监督学习/自监督学习(Self-supervised Learning/Semi-supervised Learning)
 
+[7] Leverage Your Local and Global Representations: A New Self-Supervised Learning Strategy(利用局部和全局表征：一种新的自我监督学习策略)<br>
+[paper](https://arxiv.org/abs/2203.17205)<br><br>
+
 [6] Decoupling Makes Weakly Supervised Local Feature Better(解耦使弱监督的局部特征更好)<br>
 [paper](https://arxiv.org/abs/2201.02861) | [code](https://github.com/The-Learning-And-Vision-Atelier-LAVA/PoSFeat)<br><br>
 
@@ -2337,6 +2378,9 @@ keywords: Semi-Supervised Learning, Self-Supervised Learning, Real-World Unlabel
 
 ## 其他
 
+Fast, Accurate and Memory-Efficient Partial Permutation Synchronization(快速、准确和内存高效的部分置换同步)<br>
+[paper](https://arxiv.org/abs/2203.16505)<br><br>
+
 Interactive Disentanglement: Learning Concepts by Interacting with their Prototype Representations(通过与原型表示交互来学习概念)<br>
 [paper](https://arxiv.org/abs/2112.02290) | [code](https://github.com/ml-research/XIConceptLearning)<br><br>
 
@@ -2399,6 +2443,12 @@ PINA: Learning a Personalized Implicit Neural Avatar from a Single RGB-D Video S
 
 
 # 2. CVPR2022 Oral
+
+[4] It's All In the Teacher: Zero-Shot Quantization Brought Closer to the Teacher(一切尽在老师身上：零样本量化更贴近老师)(**Oral**)<br>
+[paper](https://arxiv.org/abs/2203.17008)<br><br>
+
+[3] AdaMixer: A Fast-Converging Query-Based Object Detector(一种快速收敛的基于查询的对象检测器)(**Oral**)<br>
+[paper](https://arxiv.org/abs/2203.16507) | [code](https://github.com/MCG-NJU/AdaMixer)<br><br>
 
 [2] Multi-View Depth Estimation by Fusing Single-View Depth Probability with Multi-View Geometry(通过融合单视图深度概率与多视图几何进行多视图深度估计)(**Oral**)<br>
 [paper](https://arxiv.org/abs/2112.08177) | [code](https://github.com/baegwangbin/MaGNet)<br><br>
