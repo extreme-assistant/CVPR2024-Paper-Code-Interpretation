@@ -33,7 +33,8 @@
 >2022/3/28 [更新 29 篇](https://bbs.cvmart.net/articles/6222)<br>
 >2022/3/29 [更新 35 篇](https://bbs.cvmart.net/articles/6223)<br>
 >2022/3/30 [更新 28 篇](https://bbs.cvmart.net/articles/6231)<br>
->2022/4/2 [更新 15 篇](https://bbs.cvmart.net/articles/6240)
+>2022/4/2 [更新 15 篇](https://bbs.cvmart.net/articles/6240)<br>
+>2022/4/6 [更新 26 篇](https://bbs.cvmart.net/articles/6248)
 
 <br><br>
 
@@ -224,6 +225,9 @@
 <a name="IOD"/> 
 
 ### 2D目标检测(2D Object Detection)
+
+[20] Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation(通过弹性响应蒸馏克服增量目标检测中的灾难性遗忘)<br>
+[paper](https://arxiv.org/abs/2204.02136) | [code](https://github.com/Hi-FT/ERD)<br><br>
 
 [19] AdaMixer: A Fast-Converging Query-Based Object Detector(一种快速收敛的基于查询的对象检测器)(**Oral**)<br>
 [paper](https://arxiv.org/abs/2203.16507) | [code](https://github.com/MCG-NJU/AdaMixer)<br><br>
@@ -470,6 +474,12 @@ keywords: Segmentation-based Lane Detection, Point Detection-based Lane Detectio
 
 ### 图像分割(Image Segmentation)
 
+[5] Progressive Minimal Path Method with Embedded CNN(具有嵌入式 CNN 的渐进最小路径方法)<br>
+[paper](https://arxiv.org/abs/2204.00944)<br><br>
+
+[4] Revisiting Near/Remote Sensing with Geospatial Attention(用地理空间注意力重新审视近/遥感)<br>
+[paper](https://arxiv.org/abs/2204.01807)<br><br>
+
 [3] Learning What Not to Segment: A New Perspective on Few-Shot Segmentation(学习不分割的内容：关于小样本分割的新视角)<br>
 [paper](https://arxiv.org/abs/2203.07615) | [code](http://github.com/chunbolang/BAM)<br><br>
 
@@ -696,6 +706,9 @@ keywords: 3D Vision, Point Clouds, Instance Segmentation<br>
 
 ### 深度估计(Depth Estimation)
 
+[16] P3Depth: Monocular Depth Estimation with a Piecewise Planarity Prior(具有分段平面先验的单目深度估计)<br>
+[paper](https://arxiv.org/abs/2204.02091) | [code](https://github.com/SysCV/P3Depth)<br><br>
+
 [15] Multi-View Depth Estimation by Fusing Single-View Depth Probability with Multi-View Geometry(通过融合单视图深度概率与多视图几何进行多视图深度估计)(**Oral**)<br>
 [paper](https://arxiv.org/abs/2112.08177) | [code](https://github.com/baegwangbin/MaGNet)<br><br>
 
@@ -846,6 +859,9 @@ keywords: HSI Reconstruction, Self-Attention Mechanism,  Image Frequency Spectru
 <a name="ImageRestoration"/> 
 
 ###  图像复原/图像增强/图像重建(Image Restoration/Image Reconstruction)
+
+[7] HyperInverter: Improving StyleGAN Inversion via Hypernetwork(通过超网络改进 StyleGAN 反转)<br>
+[paper](https://arxiv.org/abs/2112.00719)  | [project](https://di-mi-ta.github.io/HyperInverter/)<br><br>
 
 [6] Diverse Plausible 360-Degree Image Outpainting for Efficient 3DCG Background Creation(用于高效 3DCG 背景创建的多样化合理 360 度图像外绘)<br>
 [paper](https://arxiv.org/abs/2203.14668) | [project](https://akmtn.github.io/omni-dreamer/)<br><br>
@@ -1044,6 +1060,7 @@ keywords: Facial expression generation, 4D face generation, 3D face modeling<br>
 
 ### 人脸伪造/反欺骗(Face Forgery/Face Anti-Spoofing)
 
+
 [4] Self-supervised Learning of Adversarial Example: Towards Good Generalizations for Deepfake Detection(对抗样本的自监督学习：迈向 Deepfake 检测的良好泛化)<br>
 [paper](https://arxiv.org/abs/2203.12208) | [code](https://github.com/liangchen527/SLADD)<br><br>
 
@@ -1053,8 +1070,8 @@ keywords: Facial expression generation, 4D face generation, 3D face modeling<br>
 [2] Voice-Face Homogeneity Tells Deepfake<br>
 [paper](https://arxiv.org/abs/2203.02195) | [code](https://github.com/xaCheng1996/VFD)<br><br>
 
-[1] Protecting Celebrities with Identity Consistency Transformer(使用身份一致性transformer保护名人)<br>
-[paper](https://arxiv.org/abs/2203.01318)<br><br>
+[1] Protecting Celebrities from DeepFake with Identity Consistency Transformer(使用身份一致性转换器保护名人免受 DeepFake 的影响)<br>
+[paper](https://arxiv.org/abs/2203.01318) | [code](https://github.com/LightDXY/ICT_DeepFake)<br><br>
 
 
 <br>
@@ -1116,6 +1133,12 @@ keywords: Video understanding, Vision transformers, Self-supervised representati
 
 ### 行为识别/动作识别/检测/分割/定位(Action/Activity Recognition)
 
+[17] Dual-AI: Dual-path Action Interaction Learning for Group Activity Recognition(用于群体动作识别的双路径动作交互学习)(**Oral**)<br>
+[paper](https://arxiv.org/abs/2204.02148) | [project](https://arxiv.org/pdf/2204.02148)<br><br>
+
+[16] Detector-Free Weakly Supervised Group Activity Recognition(无检测器弱监督群体动作识别)<br>
+[paper](https://arxiv.org/abs/2204.02139)<br><br>
+
 [15] MS-TCT: Multi-Scale Temporal ConvTransformer for Action Detection(用于动作检测的多尺度时间 ConvTransformer)<br>
 [paper](https://arxiv.org/abs/2112.03902) | [code](https://github.com/dairui01/MS-TCT)<br><br>
 
@@ -1165,6 +1188,9 @@ keywords:Online action detection(在线动作检测)<br>
 <a name="Re-Identification"/> 
 
 ### 行人重识别/检测(Re-Identification/Detection)
+
+[3] Large-Scale Pre-training for Person Re-identification with Noisy Labels(带有噪声标签的人员重新识别的大规模预训练)<br>
+[paper](https://arxiv.org/abs/2203.16533) | [code](https://github.com/DengpanFu/LUPerson-NL)<br><br>
 
 [2] Part-based Pseudo Label Refinement for Unsupervised Person Re-identification(用于无监督人员重新识别的基于部分的伪标签细化)<br>
 [paper](https://arxiv.org/abs/2203.14675) | [code](https://github.com/yoonkicho/PPLR)<br><br>
@@ -1232,6 +1258,9 @@ keywords: Self-supervised Transformer, Temporal modeling of disease progression<
 
 ## 文本检测/识别/理解(Text Detection/Recognition/Understanding)
 
+[5] Text Spotting Transformers(文本识别transformer)<br>
+[paper](https://arxiv.org/abs/2204.01918) | [code](https://github.com/mlpc- ucsd/TESTR)<br><br>
+
 [4] Syntax-Aware Network for Handwritten Mathematical Expression Recognition(用于手写数学表达式识别的语法感知网络)<br>
 [paper](https://arxiv.org/abs/2203.01601)<br><br>
 
@@ -1256,6 +1285,9 @@ keywords: Self-supervised Transformer, Temporal modeling of disease progression<
 <a name="GAN"/> 
 
 ## GAN/生成式/对抗式(GAN/Generative/Adversarial)
+
+[16] GAN-Supervised Dense Visual Alignment(GAN监督的密集视觉对齐)(**Oral**)<br>
+[paper](https://arxiv.org/abs/2112.05143) | [code](https://www.github.com/wpeebles/gangealing) | [project](https://www.wpeebles.com/gangealing)<br><br>
 
 [15] Towards Robust Rain Removal Against Adversarial Attacks: A Comprehensive Benchmark Analysis and Beyond(迈向强大的雨水清除对抗对抗性攻击：综合基准分析及其他)<br>
 [paper](https://arxiv.org/abs/2203.16931) | [code](https://github.com/yuyi-sd/Robust_Rain_Removal)<br><br>
@@ -1308,6 +1340,9 @@ keywords: Self-supervised Transformer, Temporal modeling of disease progression<
 <a name="IGIS"/> 
 
 ## 图像生成/图像合成(Image Generation/Image Synthesis)
+
+[12] Styleformer: Transformer based Generative Adversarial Networks with Style Vector(具有样式向量的基于 Transformer 的生成对抗网络)<br>
+[paper](https://arxiv.org/abs/2106.07023) | [code](https://github.com/Jeeseung-Park/Styleformer)<br><br>
 
 [11] Modulated Contrast for Versatile Image Synthesis(用于多功能图像合成的调制对比度)<br>
 [paper](https://arxiv.org/abs/2203.09333) | [code](https://github.com/fnzhan/MoNCE)<br><br>
@@ -1424,6 +1459,12 @@ keywords: Self-Supervised Learning, Contrastive Learning, 3D Point Cloud, Repres
 
 ### 三维重建(3D Reconstruction)
 
+[15] SelfRecon: Self Reconstruction Your Digital Avatar from Monocular Video(从单目视频自我重建你的数字化身)(**Oral**)<br>
+[paper](https://arxiv.org/abs/2201.12792) | [code](https://github.com/jby1993/SelfReconCode)<br><br>
+
+[14] LISA: Learning Implicit Shape and Appearance of Hands(学习手的隐式形状和外观)<br>
+[paper](https://arxiv.org/abs/2204.01695) | [project](https://www.iri.upc.edu/people/ecorona/lisa/)<br><br>
+
 [13] BARC: Learning to Regress 3D Dog Shape from Images by Exploiting Breed Information(通过利用品种信息学习从图像中回归 3D 狗形状)<br>
 [paper](https://arxiv.org/abs/2203.15536) | [code](https://barc.is.tue.mpg.de/)<br><br>
 
@@ -1469,6 +1510,9 @@ keywords: 4D Representation(4D 表征),Human Body Estimation(人体姿态估计)
 <a name="NeRF"/> 
 
 ### 场景重建/视图合成/新视角合成(Novel View Synthesis)
+
+[15] IRON: Inverse Rendering by Optimizing Neural SDFs and Materials from Photometric Images(通过优化来自光度图像的神经 SDF 和材料进行反向渲染)<br>
+[paper](https://arxiv.org/abs/2204.02232) | [project](https://kai-46.github.io/IRON-website/)<br><br>
 
 [14] MonoScene: Monocular 3D Semantic Scene Completion(单目 3D 语义场景完成)<br>
 [paper](https://arxiv.org/abs/2112.00726) | [code](https://github.com/cv-rits/MonoScene) | [project](https://cv-rits.github.io/MonoScene/)<br><br>
@@ -1691,6 +1735,9 @@ keywords: Light-weight convolutional neural networks(轻量卷积神经网络),C
 
 ### 数据增广(Data Augmentation)
 
+[4] 3D Common Corruptions and Data Augmentation(3D 常见损坏和数据增强)(**Oral**)<br>
+[paper](https://arxiv.org/abs/2203.01441) | [project](https://3dcommoncorruptions.epfl.ch/)<br><br>
+
 [3] EnvEdit: Environment Editing for Vision-and-Language Navigation(视觉语言导航的环境编辑)<br>
 [paper](https://arxiv.org/abs/2203.15685) | [code](https://github.com/jialuli-luka/EnvEdit)<br><br>
 
@@ -1748,6 +1795,8 @@ keywords: Data Augmentation, Image restoration, Photorealistic image synthesis<b
 
 ## 模型训练/泛化(Model Training/Generalization)
 
+[10] SNUG: Self-Supervised Neural Dynamic Garments(自我监督的神经动态服装)(**Oral**)<br>
+[paper](https://arxiv.org/abs/2204.02219) | [project](http://mslab.es/projects/SNUG/)<br><br>
 
 [9] Automated Progressive Learning for Efficient Training of Vision Transformers(用于高效训练视觉transformer的自动渐进式学习)<br>
 [paper](https://arxiv.org/abs/2203.14509) | [code](https://github.com/changlin31/AutoProg)<br><br>
@@ -1784,6 +1833,9 @@ keywords: Detection Transformer<br>
 <a name="NoisyLabel"/> 
 
 ### 噪声标签(Noisy Label)
+
+[3] UNICON: Combating Label Noise Through Uniform Selection and Contrastive Learning(通过统一选择和对比学习来对抗标签噪声)<br>
+[paper](https://arxiv.org/abs/2203.14542) | [code](https://github.com/nazmul-karim170/UNICON-Noisy-Label)<br><br>
 
 [2] Scalable Penalized Regression for Noise Detection in Learning with Noisy Labels(带有噪声标签的学习中噪声检测的可扩展惩罚回归)<br>
 [paper](https://arxiv.org/abs/2203.07788) | [code](https://github.com/Yikai-Wang/SPR-LNL)<br><br>
@@ -1871,6 +1923,9 @@ keywords: Long-Tailed Recognition(长尾识别), Contrastive Learning(对比学�
 
 ### 视觉-语言（Vision-language）
 
+[14] DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation(用于鲁棒图像处理的文本引导扩散模型)<br>
+[paper](https://arxiv.org/abs/2110.02711) | [code](https://github.com/gwang-kim/DiffusionCLIP.git)<br><br>
+
 [13] StyleT2I: Toward Compositional and High-Fidelity Text-to-Image Synthesis(走向合成和高保真文本到图像的合成)<br>
 [paper](https://arxiv.org/abs/2203.15799)<br><br>
 
@@ -1919,6 +1974,9 @@ keywords: Vision-language representation learning, Contrastive Learning
 
 ## 视觉预测(Vision-based Prediction)
 
+[11] Joint Hand Motion and Interaction Hotspots Prediction from Egocentric Videos(以自我为中心的视频的联合手部运动和交互热点预测)<br>
+[paper](https://arxiv.org/abs/2204.01696) | [project](https://stevenlsw.github.io/hoi-forecast)<br><br>
+
 [10] Vehicle trajectory prediction works, but not everywhere(车辆轨迹预测有效，但并非无处不在)<br>
 [paper](https://arxiv.org/abs/2112.03909) | [code](https://s-attack.github.io/)<br><br>
 
@@ -1956,6 +2014,15 @@ keywords: Knowledge Distillation, trajectory forecasting<br>
 <a name="Dataset"/> 
 
 ## 数据集(Dataset)
+
+[15] ObjectFolder 2.0: A Multisensory Object Dataset for Sim2Real Transfer(用于 Sim2Real 传输的多感官对象数据集)<br>
+[paper](https://arxiv.org/abs/2204.02389) | [project](https://ai.stanford.edu/~rhgao/objectfolder2.0/) | [dataset](https://github.com/rhgao/ObjectFolder)<br><br>
+
+[14] Rethinking Visual Geo-localization for Large-Scale Applications(重新思考大规模应用程序的视觉地理定位)<br>
+[paper](https://arxiv.org/abs/2204.02287) | [Dataset, code and trained models](https://github.com/gmberton/CosPlace)<br><br>
+
+[13] Deep Image-based Illumination Harmonization(基于深度图像的照明协调)<br>
+[paper](https://arxiv.org/abs/2108.00150) | [dataset](https://github.com/zhongyunbao/Dataset)<br><br>
 
 [12] OakInk: A Large-scale Knowledge Repository for Understanding Hand-Object Interaction(理解手物交互的大规模知识库)<br>
 [paper](https://arxiv.org/abs/2203.15709) | [datasets&code](https://github.com/lixiny/OakInk)<br><br>
@@ -2173,6 +2240,9 @@ keywords: multi-label classification<br>
 
 ## 迁移学习/domain/自适应(Transfer Learning/Domain Adaptation)
 
+[9] The Norm Must Go On: Dynamic Unsupervised Domain Adaptation by Normalization(通过归一化进行动态无监督域自适应)<br>
+[paper](https://arxiv.org/abs/2112.00463) | [code](https://github.com/jmiemirza/DUA)<br><br>
+
 [8] Continual Test-Time Domain Adaptation(持续测试时域适应)<br>
 [paper](https://arxiv.org/abs/2203.13591) | [code](https://qin.ee/cotta)<br><br>
 
@@ -2300,6 +2370,9 @@ keywords: Self-supervised Representation Learning, Deep Clustering, Contrastive 
 
 ## 半监督学习/弱监督学习/无监督学习/自监督学习(Self-supervised Learning/Semi-supervised Learning)
 
+[8] When Does Contrastive Visual Representation Learning Work?(对比视觉表征学习何时起作用)<br>
+[paper](https://arxiv.org/abs/2105.05837)<br><br>
+
 [7] Leverage Your Local and Global Representations: A New Self-Supervised Learning Strategy(利用局部和全局表征：一种新的自我监督学习策略)<br>
 [paper](https://arxiv.org/abs/2203.17205)<br><br>
 
@@ -2378,6 +2451,9 @@ keywords: Semi-Supervised Learning, Self-Supervised Learning, Real-World Unlabel
 
 ## 其他
 
+Less is More: Generating Grounded Navigation Instructions from Landmarks(从地标生成接地导航指令)(视觉导航)<br>
+[paper](https://arxiv.org/abs/2111.12872)<br><br>
+
 Fast, Accurate and Memory-Efficient Partial Permutation Synchronization(快速、准确和内存高效的部分置换同步)<br>
 [paper](https://arxiv.org/abs/2203.16505)<br><br>
 
@@ -2443,6 +2519,21 @@ PINA: Learning a Personalized Implicit Neural Avatar from a Single RGB-D Video S
 
 
 # 2. CVPR2022 Oral
+
+[9] SNUG: Self-Supervised Neural Dynamic Garments(自我监督的神经动态服装)(**Oral**)<br>
+[paper](https://arxiv.org/abs/2204.02219) | [project](http://mslab.es/projects/SNUG/)<br><br>
+
+[8] SelfRecon: Self Reconstruction Your Digital Avatar from Monocular Video(从单目视频自我重建你的数字化身)(**Oral**)<br>
+[paper](https://arxiv.org/abs/2201.12792) | [code](https://github.com/jby1993/SelfReconCode)<br><br>
+
+[7] Dual-AI: Dual-path Action Interaction Learning for Group Activity Recognition(用于群体动作识别的双路径动作交互学习)(**Oral**)<br>
+[paper](https://arxiv.org/abs/2204.02148) | [project](https://arxiv.org/pdf/2204.02148)<br><br>
+
+[6] 3D Common Corruptions and Data Augmentation(3D 常见损坏和数据增强)(**Oral**)<br>
+[paper](https://arxiv.org/abs/2203.01441) | [project](https://3dcommoncorruptions.epfl.ch/)<br><br>
+
+[5] GAN-Supervised Dense Visual Alignment(GAN监督的密集视觉对齐)(**Oral**)<br>
+[paper](https://arxiv.org/abs/2112.05143) | [code](https://www.github.com/wpeebles/gangealing) | [project](https://www.wpeebles.com/gangealing)<br><br>
 
 [4] It's All In the Teacher: Zero-Shot Quantization Brought Closer to the Teacher(一切尽在老师身上：零样本量化更贴近老师)(**Oral**)<br>
 [paper](https://arxiv.org/abs/2203.17008)<br><br>
