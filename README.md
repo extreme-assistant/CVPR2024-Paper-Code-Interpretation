@@ -1735,8 +1735,6 @@ keywords: Light-weight convolutional neural networks(轻量卷积神经网络),C
 
 ### 数据增广(Data Augmentation)
 
-[4] 3D Common Corruptions and Data Augmentation(3D 常见损坏和数据增强)(**Oral**)<br>
-[paper](https://arxiv.org/abs/2203.01441) | [project](https://3dcommoncorruptions.epfl.ch/)<br><br>
 
 [3] EnvEdit: Environment Editing for Vision-and-Language Navigation(视觉语言导航的环境编辑)<br>
 [paper](https://arxiv.org/abs/2203.15685) | [code](https://github.com/jialuli-luka/EnvEdit)<br><br>
@@ -1744,7 +1742,7 @@ keywords: Light-weight convolutional neural networks(轻量卷积神经网络),C
 [2] TeachAugment: Data Augmentation Optimization Using Teacher Knowledge(使用教师知识进行数据增强优化)<br>
 [paper](https://arxiv.org/abs/2202.12513) ｜ [code](https://github.com/DensoITLab/TeachAugment)<br><br>
 
-[1] 3D Common Corruptions and Data Augmentation(3D 常见损坏和数据增强)<br>
+[1] 3D Common Corruptions and Data Augmentation(3D 常见损坏和数据增强)(**Oral**)<br>
 keywords: Data Augmentation, Image restoration, Photorealistic image synthesis<br>
 [paper](https://arxiv.org/abs/2203.01441) | [projecr](https://3dcommoncorruptions.epfl.ch/)<br><br>
 
