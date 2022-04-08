@@ -368,6 +368,8 @@ keywords: Autonomous Driving, Monocular 3D Object Detection<br>
 
 ### 人物交互检测(HOI Detection)
 
+[3] What to look at and where: Semantic and Spatial Refined Transformer for detecting human-object interactions(看什么和在哪里看：语义和空间精炼transformer，用于检测人与物体的交互)(**Oral**)<br>
+[paper](https://arxiv.org/abs/2204.00746)<br><br>
 
 [2] MSTR: Multi-Scale Transformer for End-to-End Human-Object Interaction Detection(用于端到端人-物交互检测的多尺度 Transformer)<br>
 [paper](https://arxiv.org/abs/2203.14709)<br><br>
@@ -481,6 +483,9 @@ keywords: Segmentation-based Lane Detection, Point Detection-based Lane Detectio
 
 ### 图像分割(Image Segmentation)
 
+[6] Learning Part Segmentation through Unsupervised Domain Adaptation from Synthetic Vehicles(通过合成车辆的无监督域适应学习零件分割)(**Oral**)<br>
+[paper](https://arxiv.org/abs/2103.14098) | [dataset](https://qliu24.github.io/udapart)<br><br>
+
 [5] Progressive Minimal Path Method with Embedded CNN(具有嵌入式 CNN 的渐进最小路径方法)<br>
 [paper](https://arxiv.org/abs/2204.00944)<br><br>
 
@@ -514,6 +519,9 @@ keywords: Semantic- and panoramic segmentation, Unsupervised domain adaptation, 
 <a name="SemanticSegmentation"/> 
 
 ### 语义分割(Semantic Segmentation)
+
+[22] Semantic-Aware Domain Generalized Segmentation(语义感知领域广义分割)(**Oral**)<br>
+[paper](https://arxiv.org/abs/2204.00822) | [code](https://github.com/leolyj/SAN-SAW)<br><br>
 
 [21] FIFO: Learning Fog-invariant Features for Foggy Scene Segmentation(学习雾景分割的雾不变特征)(**Oral**)<br>
 [paper](https://arxiv.org/abs/2204.01587) | [project](http://cvlab.postech.ac.kr/research/FIFO/)<br><br>
@@ -972,6 +980,9 @@ keywords: Image Inpainting, Transformer, Image Generation<br><br>
 
 ### 图像翻译(Image Translation)
 
+[6] Marginal Contrastive Correspondence for Guided Image Generation(引导图像生成的边际对比对应)(**Oral**)<br>
+[paper](https://arxiv.org/abs/2204.00442)<br><br>
+
 [5] Maximum Spatial Perturbation Consistency for Unpaired Image-to-Image Translation(未配对图像到图像翻译的最大空间扰动一致性)<br>
 [paper](https://arxiv.org/abs/2203.12707) | [code](https://github.com/batmanlab/MSPC)<br><br>
 
@@ -1166,6 +1177,9 @@ keywords: Video understanding, Vision transformers, Self-supervised representati
 <a name="ActionRecognition"/> 
 
 ### 行为识别/动作识别/检测/分割/定位(Action/Activity Recognition)
+
+[19] Revisiting Skeleton-based Action Recognition(重新审视基于骨架的动作识别)(**Oral**)<br>
+[paper](https://arxiv.org/abs/2104.13586) | [code](https://github.com/kennymckormick/pyskl)<br><br>
 
 [18] UnweaveNet: Unweaving Activity Stories(解开活动故事)<br>
 [paper](https://arxiv.org/abs/2112.10194) | [code](https://github.com/willprice/activity- stories)<br><br>
@@ -1771,6 +1785,9 @@ keywords: Light-weight convolutional neural networks(轻量卷积神经网络),C
 
 ### MLP
 
+[5] MAXIM: Multi-Axis MLP for Image Processing(用于图像处理的多轴 MLP)(**Oral**)<br>
+[papar](https://arxiv.org/abs/2201.02973) | [code](https://github.com/google-research/maxim)<br><br>
+
 [4] Brain-inspired Multilayer Perceptron with Spiking Neurons(具有尖峰神经元的类脑多层感知器)<br>
 [paper](https://arxiv.org/abs/2203.14679) | [code](https://gitee.com/mindspore/models/tree/master/research/cv/snnmlp)<br><br>
 
@@ -2087,6 +2104,9 @@ keywords: Knowledge Distillation, trajectory forecasting<br>
 
 ## 数据集(Dataset)
 
+[17] TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting(使用 Transformer 编码多尺度时间相关性以进行重复动作计数)(**Oral**)<br>
+[paper](https://arxiv.org/abs/2204.01018) | [dataset](https://svip-lab.github.io/dataset/RepCount_dataset.html) | [code](https://github.com/SvipRepetitionCounting/TransRAC)<br><br>
+
 [16] Multi-Person Extreme Motion Prediction(多人极限运动预测)(人体交互数据集)<br>
 [paper](https://arxiv.org/abs/2105.08825) | [code and dataset](https://team.inria.fr/robotlearn/multi-person-extreme-motion- prediction/)<br><br>
 
@@ -2380,7 +2400,7 @@ keywords: Adversarial Attack, Adversarial Defense, Deep Metric Learning<br>
 [5] Contrastive learning of Class-agnostic Activation Map for Weakly Supervised Object Localization and Semantic Segmentation(用于弱监督对象定位和语义分割的类不可知激活图的对比学习)<br>
 [paper](https://arxiv.org/abs/2203.13505) | [code](https://github.com/CVI- SZU/CCAM)<br><br>
 
-[4] Rethinking Minimal Sufficient Representation in Contrastive Learning(重新思考对比学习中的最小充分表示)<br>
+[4] Rethinking Minimal Sufficient Representation in Contrastive Learning(重新思考对比学习中的最小充分表示)(**Oral**)<br>
 [paper](https://arxiv.org/abs/2203.07004) | [code](https://github.com/Haoqing-Wang/InfoCL)<br><br>
 
 [3] Selective-Supervised Contrastive Learning with Noisy Labels(带有噪声标签的选择性监督对比学习)<br>
@@ -2600,6 +2620,27 @@ PINA: Learning a Personalized Implicit Neural Avatar from a Single RGB-D Video S
 
 
 # 2. CVPR2022 Oral
+
+[20] Marginal Contrastive Correspondence for Guided Image Generation(引导图像生成的边际对比对应)(**Oral**)<br>
+[paper](https://arxiv.org/abs/2204.00442)<br><br>
+
+[19] TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting(使用 Transformer 编码多尺度时间相关性以进行重复动作计数)(**Oral**)<br>
+[paper](https://arxiv.org/abs/2204.01018) | [dataset](https://svip-lab.github.io/dataset/RepCount_dataset.html) | [code](https://github.com/SvipRepetitionCounting/TransRAC)<br><br>
+
+[18] Learning Part Segmentation through Unsupervised Domain Adaptation from Synthetic Vehicles(通过合成车辆的无监督域适应学习局部分割)(**Oral**)<br>
+[paper](https://arxiv.org/abs/2103.14098) | [dataset](https://qliu24.github.io/udapart)<br><br>
+
+[17] Semantic-Aware Domain Generalized Segmentation(语义感知领域广义分割)(**Oral**)<br>
+[paper](https://arxiv.org/abs/2204.00822) | [code](https://github.com/leolyj/SAN-SAW)<br><br>
+
+[16] Revisiting Skeleton-based Action Recognition(重新审视基于骨架的动作识别)(**Oral**)<br>
+[paper](https://arxiv.org/abs/2104.13586) | [code](https://github.com/kennymckormick/pyskl)<br><br>
+
+[15] MAXIM: Multi-Axis MLP for Image Processing(用于图像处理的多轴 MLP)(**Oral**)<br>
+[papar](https://arxiv.org/abs/2201.02973) | [code](https://github.com/google-research/maxim)<br><br>
+
+[14] Rethinking Minimal Sufficient Representation in Contrastive Learning(重新思考对比学习中的最小充分表示)(**Oral**)<br>
+[paper](https://arxiv.org/abs/2203.07004) | [code](https://github.com/Haoqing-Wang/InfoCL)<br><br>
 
 [13] I M Avatar: Implicit Morphable Head Avatars from Videos(视频中的隐式可变形头部头像)(**Oral**)<br>
 [paper](https://arxiv.org/abs/2112.07471) | [project](https://ait.ethz.ch/projects/2022/IMavatar/)<br><br>
