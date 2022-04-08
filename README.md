@@ -2621,6 +2621,9 @@ PINA: Learning a Personalized Implicit Neural Avatar from a Single RGB-D Video S
 
 # 2. CVPR2022 Oral
 
+[21] What to look at and where: Semantic and Spatial Refined Transformer for detecting human-object interactions(看什么和在哪里看：语义和空间精炼transformer，用于检测人与物体的交互)(**Oral**)<br>
+[paper](https://arxiv.org/abs/2204.00746)<br><br>
+
 [20] Marginal Contrastive Correspondence for Guided Image Generation(引导图像生成的边际对比对应)(**Oral**)<br>
 [paper](https://arxiv.org/abs/2204.00442)<br><br>
 
