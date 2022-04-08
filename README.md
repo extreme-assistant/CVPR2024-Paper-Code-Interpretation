@@ -34,7 +34,8 @@
 >2022/3/29 [更新 35 篇](https://bbs.cvmart.net/articles/6223)<br>
 >2022/3/30 [更新 28 篇](https://bbs.cvmart.net/articles/6231)<br>
 >2022/4/2 [更新 15 篇](https://bbs.cvmart.net/articles/6240)<br>
->2022/4/6 [更新 26 篇](https://bbs.cvmart.net/articles/6248)
+>2022/4/6 [更新 26 篇](https://cvmart.net/community/detail/6250)<br>
+>2022/4/7 [更新 26 篇](https://cvmart.net/community/detail/6251)
 
 <br><br>
 
@@ -226,6 +227,9 @@
 
 ### 2D目标检测(2D Object Detection)
 
+[21] OW-DETR: Open-world Detection Transformer(开放世界检测transformer)<br>
+[paper](https://arxiv.org/abs/2112.01513) | [code](https://github.com/akshitac8/OW-DETR)<br><br>
+
 [20] Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation(通过弹性响应蒸馏克服增量目标检测中的灾难性遗忘)<br>
 [paper](https://arxiv.org/abs/2204.02136) | [code](https://github.com/Hi-FT/ERD)<br><br>
 
@@ -304,6 +308,9 @@ keywords: Bounding Box Regression, Localization Quality Estimation, Knowledge Di
 <a name="3DOD"/> 
 
 ### 3D目标检测(3D object detection)
+
+[21] CAT-Det: Contrastively Augmented Transformer for Multi-modal 3D Object Detection(用于多模态 3D 对象检测的对比增强transformer)<br>
+[paper](https://arxiv.org/abs/2204.00325)<br><br>
 
 [20] Forecasting from LiDAR via Future Object Detection(通过未来目标检测从 LiDAR 进行预测)<br>
 [paper](https://arxiv.org/abs/2203.16297) | [code](https://github.com/neeharperi/FutureDet)<br><br>
@@ -508,6 +515,15 @@ keywords: Semantic- and panoramic segmentation, Unsupervised domain adaptation, 
 
 ### 语义分割(Semantic Segmentation)
 
+[21] FIFO: Learning Fog-invariant Features for Foggy Scene Segmentation(学习雾景分割的雾不变特征)(**Oral**)<br>
+[paper](https://arxiv.org/abs/2204.01587) | [project](http://cvlab.postech.ac.kr/research/FIFO/)<br><br>
+
+[20] WildNet: Learning Domain Generalized Semantic Segmentation from the Wild(从野外学习领域广义语义分割)<br>
+[paper](https://arxiv.org/abs/2204.01446) | [code](https://github.com/suhyeonlee/WildNet)<br><br>
+
+[19] Rethinking Semantic Segmentation: A Prototype View(重新思考语义分割：原型视图)(**Oral**)<br>
+[paper](https://arxiv.org/abs/2203.15102) | [code](https://github.com/tfzhou/ProtoSeg)<br><br>
+
 [18] DAFormer: Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation(改进域自适应语义分割的网络架构和训练策略)<br>
 [paper](https://arxiv.org/abs/2111.14887) | [code](https://github.com/lhoyer/DAFormer)<br><br>
 
@@ -568,6 +584,12 @@ keywords: Semi-supervised learning, Semantic segmentation, Uncertainty estimatio
 <a name="InstanceSegmentation"/> 
 
 ### 实例分割(Instance Segmentation)
+
+[12] Sparse Object-level Supervision for Instance Segmentation with Pixel Embeddings(具有像素嵌入的实例分割的稀疏对象级监督)<br>
+[paper](https://arxiv.org/abs/2103.14572) | [code](https://github.com/kreshuklab/spoco)<br><br>
+
+[11] Relieving Long-tailed Instance Segmentation via Pairwise Class Balance(通过 Pairwise Class Balance 减轻长尾实例分割)<br>
+[paper](https://arxiv.org/abs/2201.02784) | [code](https://github.com/megvii-research/PCB)<br><br>
 
 [10] Beyond Semantic to Instance Segmentation: Weakly-Supervised Instance Segmentation via Semantic Knowledge Transfer and Self-Refinement(超越语义到实例分割：通过语义知识转移和自我完善的弱监督实例分割)<br>
 [paper](https://arxiv.org/abs/2109.09477) | [code](https://github.com/clovaai/BESTIE)<br><br>
@@ -705,6 +727,9 @@ keywords: 3D Vision, Point Clouds, Instance Segmentation<br>
 <a name="DepthEstimation"/> 
 
 ### 深度估计(Depth Estimation)
+
+[17] Degradation-agnostic Correspondence from Resolution-asymmetric Stereo(来自分辨率非对称立体声的与退化无关的对应)<br>
+[paper](https://arxiv.org/abs/2204.01429)<br><br>
 
 [16] P3Depth: Monocular Depth Estimation with a Piecewise Planarity Prior(具有分段平面先验的单目深度估计)<br>
 [paper](https://arxiv.org/abs/2204.02091) | [code](https://github.com/SysCV/P3Depth)<br><br>
@@ -1080,6 +1105,9 @@ keywords: Facial expression generation, 4D face generation, 3D face modeling<br>
 
 ## 目标跟踪(Object Tracking)
 
+[9] Unsupervised Learning of Accurate Siamese Tracking(准确连体跟踪的无监督学习)<br>
+[paper](https://arxiv.org/abs/2204.01475) | [code](https://github.com/FlorinShum/ULAST)<br><br>
+
 [8] Global Tracking Transformers<br>
 [paper](https://arxiv.org/abs/2203.13250) | [code](https://github.com/xingyizhou/GTR)<br><br>
 
@@ -1111,6 +1139,12 @@ keywords: Single Object Tracking, 3D Multi-object Tracking / Detection, Spatial-
 
 ## 图像&视频检索/视频理解(Image&Video Retrieval/Video Understanding)
 
+[7] Correlation Verification for Image Retrieval(图像检索的相关性验证)(**Oral**)<br>
+[paper](https://arxiv.org/abs/2204.01458) | [code](https://github.com/sungonce/CVNet)<br><br>
+
+[6] It's About Time: Analog Clock Reading in the Wild(时间到了：野外模拟时钟读数)<br>
+[paper](https://arxiv.org/abs/2111.09162) | [project](https://www.robots.ox.ac.uk/~vgg/research/time)<br><br>
+
 [5] Sketching without Worrying: Noise-Tolerant Sketch-Based Image Retrieval(无忧素描：基于素描的抗噪图像检索)<br>
 [paper](https://arxiv.org/abs/2203.14817) | [code](https://github.com/AyanKumarBhunia/Stroke_Subset_Selector-for-FGSBIR)<br><br>
 
@@ -1132,6 +1166,9 @@ keywords: Video understanding, Vision transformers, Self-supervised representati
 <a name="ActionRecognition"/> 
 
 ### 行为识别/动作识别/检测/分割/定位(Action/Activity Recognition)
+
+[18] UnweaveNet: Unweaving Activity Stories(解开活动故事)<br>
+[paper](https://arxiv.org/abs/2112.10194) | [code](https://github.com/willprice/activity- stories)<br><br>
 
 [17] Dual-AI: Dual-path Action Interaction Learning for Group Activity Recognition(用于群体动作识别的双路径动作交互学习)(**Oral**)<br>
 [paper](https://arxiv.org/abs/2204.02148) | [project](https://arxiv.org/pdf/2204.02148)<br><br>
@@ -1188,6 +1225,9 @@ keywords:Online action detection(在线动作检测)<br>
 <a name="Re-Identification"/> 
 
 ### 行人重识别/检测(Re-Identification/Detection)
+
+[4] Camera-Conditioned Stable Feature Generation for Isolated Camera Supervised Person Re-IDentification(用于孤立摄像机监督行人重识别的摄像机条件稳定特征生成)<br>
+[paper](https://arxiv.org/abs/2203.15210) | [code](https://github.com/ftd- Wuchao/CCSFG)<br><br>
 
 [3] Large-Scale Pre-training for Person Re-identification with Noisy Labels(带有噪声标签的人员重新识别的大规模预训练)<br>
 [paper](https://arxiv.org/abs/2203.16533) | [code](https://github.com/DengpanFu/LUPerson-NL)<br><br>
@@ -1279,7 +1319,8 @@ keywords: Self-supervised Transformer, Temporal modeling of disease progression<
 
 ## 遥感图像(Remote Sensing Image)
 
-
+[1] Exploiting Temporal Relations on Radar Perception for Autonomous Driving(利用自动驾驶雷达感知的时间关系)<br>
+[paper](https://arxiv.org/abs/2204.01184)<br><br>
 
 
 <a name="GAN"/> 
@@ -1341,6 +1382,9 @@ keywords: Self-supervised Transformer, Temporal modeling of disease progression<
 
 ## 图像生成/图像合成(Image Generation/Image Synthesis)
 
+[13] Exemplar-bsaed Pattern Synthesis with Implicit Periodic Field Network(具有隐式周期场网络的示例模式合成)<br>
+[paper](https://arxiv.org/abs/2204.01671)<br><br>
+
 [12] Styleformer: Transformer based Generative Adversarial Networks with Style Vector(具有样式向量的基于 Transformer 的生成对抗网络)<br>
 [paper](https://arxiv.org/abs/2106.07023) | [code](https://github.com/Jeeseung-Park/Styleformer)<br><br>
 
@@ -1389,6 +1433,9 @@ keywords: Self-supervised Transformer, Temporal modeling of disease progression<
 <a name="3DVision"/> 
 
 ## 三维视觉(3D Vision)
+
+[5] Fast Point Transformer<br>
+[paper](https://arxiv.org/abs/2112.04702) | [project](http://cvlab.postech.ac.kr/research/FPT)<br><br>
 
 [4] Towards Implicit Text-Guided 3D Shape Generation(迈向隐式文本引导的 3D 形状生成)<br>
 [paper](https://arxiv.org/abs/2203.14622) | [code](https://github.com/liuzhengzhe/Towards-Implicit)<br><br>
@@ -1459,6 +1506,12 @@ keywords: Self-Supervised Learning, Contrastive Learning, 3D Point Cloud, Repres
 
 ### 三维重建(3D Reconstruction)
 
+[17] I M Avatar: Implicit Morphable Head Avatars from Videos(视频中的隐式可变形头部头像)(**Oral**)<br>
+[paper](https://arxiv.org/abs/2112.07471) | [project](https://ait.ethz.ch/projects/2022/IMavatar/)<br><br>
+
+[16] BNV-Fusion: Dense 3D Reconstruction using Bi-level Neural Volume Fusion(使用双层神经体积融合的密集 3D 重建)<br>
+[paper](https://arxiv.org/abs/2204.01139)<br><br>
+
 [15] SelfRecon: Self Reconstruction Your Digital Avatar from Monocular Video(从单目视频自我重建你的数字化身)(**Oral**)<br>
 [paper](https://arxiv.org/abs/2201.12792) | [code](https://github.com/jby1993/SelfReconCode)<br><br>
 
@@ -1510,6 +1563,12 @@ keywords: 4D Representation(4D 表征),Human Body Estimation(人体姿态估计)
 <a name="NeRF"/> 
 
 ### 场景重建/视图合成/新视角合成(Novel View Synthesis)
+
+[17] RayMVSNet: Learning Ray-based 1D Implicit Fields for Accurate Multi-View Stereo(学习基于光线的 1D 隐式场以实现准确的多视图立体)<br>
+[paper](https://arxiv.org/abs/2204.01320)<br><br>
+
+[16] Surface-Aligned Neural Radiance Fields for Controllable 3D Human Synthesis(用于可控 3D 人体合成的表面对齐神经辐射场)<br>
+[paper](https://arxiv.org/abs/2201.01683) | [project](https://pfnet-research.github.io/surface-aligned-nerf/)<br><br>
 
 [15] IRON: Inverse Rendering by Optimizing Neural SDFs and Materials from Photometric Images(通过优化来自光度图像的神经 SDF 和材料进行反向渲染)<br>
 [paper](https://arxiv.org/abs/2204.02232) | [project](https://kai-46.github.io/IRON-website/)<br><br>
@@ -1649,6 +1708,9 @@ keywords: sparse convolutional neural network, video inference accelerating<br>
 
 ### Transformer
 
+[9] Patch Slimming for Efficient Vision Transformers(高效视觉transformer的补丁瘦身)<br>
+[paper](https://arxiv.org/abs/2106.02852)<br><br>
+
 [8] CodedVTR: Codebook-based Sparse Voxel Transformer with Geometric Guidance(具有几何制导的基于码本的稀疏体素transformer)<br>
 [paper](https://arxiv.org/abs/2203.09887)<br><br>
 
@@ -1680,6 +1742,9 @@ keywords: Light-weight convolutional neural networks(轻量卷积神经网络),C
 <a name="GNN"/> 
 
 ### 图神经网络(GNN)
+
+[2] Improving Subgraph Recognition with Variational Graph Information Bottleneck(利用变分图信息瓶颈改进子图识别)<br>
+[paper](https://arxiv.org/abs/2112.09899) | [code](https://github.com/Samyu0304/VGIB)<br><br>
 
 [1] AEGNN: Asynchronous Event-based Graph Neural Networks(基于异步事件的图神经网络)<br>
 [paper](https://arxiv.org/abs/2203.17149) | [project](https://uzh-rpg.github.io/aegnn/)<br><br>
@@ -1793,6 +1858,9 @@ keywords: Data Augmentation, Image restoration, Photorealistic image synthesis<b
 
 ## 模型训练/泛化(Model Training/Generalization)
 
+[11] Parameter-free Online Test-time Adaptation(无参数在线测试时间自适应)(**Oral**)<br>
+[paper](https://arxiv.org/abs/2201.05718) | [code](https://github.com/fiveai/LAME)<br><br>
+
 [10] SNUG: Self-Supervised Neural Dynamic Garments(自我监督的神经动态服装)(**Oral**)<br>
 [paper](https://arxiv.org/abs/2204.02219) | [project](http://mslab.es/projects/SNUG/)<br><br>
 
@@ -1905,6 +1973,9 @@ keywords: Long-Tailed Recognition(长尾识别), Contrastive Learning(对比学�
 
 ### 视听学习(Audio-visual Learning)
 
+[4] Audio-visual Generalised Zero-shot Learning with Cross-modal Attention and Language(具有跨模态注意力和语言的视听广义零样本学习)<br>
+[paper](https://arxiv.org/abs/2203.03598) | [code](https://github.com/ExplainableML/AVCA-GZSL)<br><br>
+
 [3] Self-Supervised Predictive Learning: A Negative-Free Method for Sound Source Localization in Visual Scenes(自监督预测学习：视觉场景中声源定位的无负法方法)(**视觉定位**)<br>
 [paper](https://arxiv.org/abs/2203.13412) | [code](https://github.com/zjsong/SSPL)<br><br>
 
@@ -1972,6 +2043,9 @@ keywords: Vision-language representation learning, Contrastive Learning
 
 ## 视觉预测(Vision-based Prediction)
 
+[12] Multi-Person Extreme Motion Prediction(多人极限运动预测)<br>
+[paper](https://arxiv.org/abs/2105.08825) | [code and dataset](https://team.inria.fr/robotlearn/multi-person-extreme-motion- prediction/)<br><br>
+
 [11] Joint Hand Motion and Interaction Hotspots Prediction from Egocentric Videos(以自我为中心的视频的联合手部运动和交互热点预测)<br>
 [paper](https://arxiv.org/abs/2204.01696) | [project](https://stevenlsw.github.io/hoi-forecast)<br><br>
 
@@ -2012,6 +2086,9 @@ keywords: Knowledge Distillation, trajectory forecasting<br>
 <a name="Dataset"/> 
 
 ## 数据集(Dataset)
+
+[16] Multi-Person Extreme Motion Prediction(多人极限运动预测)(人体交互数据集)<br>
+[paper](https://arxiv.org/abs/2105.08825) | [code and dataset](https://team.inria.fr/robotlearn/multi-person-extreme-motion- prediction/)<br><br>
 
 [15] ObjectFolder 2.0: A Multisensory Object Dataset for Sim2Real Transfer(用于 Sim2Real 传输的多感官对象数据集)<br>
 [paper](https://arxiv.org/abs/2204.02389) | [project](https://ai.stanford.edu/~rhgao/objectfolder2.0/) | [dataset](https://github.com/rhgao/ObjectFolder)<br><br>
@@ -2153,6 +2230,9 @@ keywords: Video Scene Graph Generation, Transformer, Video Grounding<br>
 
 ## 视觉定位/位姿估计(Visual Localization/Pose Estimation)
 
+[16] ES6D: A Computation Efficient and Symmetry-Aware 6D Pose Regression Framework(一种计算效率高且具有对称性的 6D 姿势回归框架)<br>
+[paper](https://arxiv.org/abs/2204.01080) | [code](https://github.com/GANWANSHUI/ES6D.git)<br><br>
+
 [15] Templates for 3D Object Pose Estimation Revisited: Generalization to New Objects and Robustness to Occlusions(重新审视 3D 对象姿态估计的模板：对新对象的泛化和对遮挡的鲁棒性)<br>
 [paper](https://arxiv.org/abs/2203.17234) | [code](https://github.com/nv-nguyen/template-pose)<br><br>
 
@@ -2237,6 +2317,9 @@ keywords: multi-label classification<br>
 <a name="domain"/> 
 
 ## 迁移学习/domain/自适应(Transfer Learning/Domain Adaptation)
+
+[10] Transferability Estimation using Bhattacharyya Class Separability(使用 Bhattacharyya 类可分离性的可迁移性估计)<br>
+[paper](https://arxiv.org/abs/2111.12780)<br><br>
 
 [9] The Norm Must Go On: Dynamic Unsupervised Domain Adaptation by Normalization(通过归一化进行动态无监督域自适应)<br>
 [paper](https://arxiv.org/abs/2112.00463) | [code](https://github.com/jmiemirza/DUA)<br><br>
@@ -2517,6 +2600,18 @@ PINA: Learning a Personalized Implicit Neural Avatar from a Single RGB-D Video S
 
 
 # 2. CVPR2022 Oral
+
+[13] I M Avatar: Implicit Morphable Head Avatars from Videos(视频中的隐式可变形头部头像)(**Oral**)<br>
+[paper](https://arxiv.org/abs/2112.07471) | [project](https://ait.ethz.ch/projects/2022/IMavatar/)<br><br>
+
+[12] Parameter-free Online Test-time Adaptation(无参数在线测试时间自适应)(**Oral**)<br>
+[paper](https://arxiv.org/abs/2201.05718) | [code](https://github.com/fiveai/LAME)<br><br>
+
+[11] Correlation Verification for Image Retrieval(图像检索的相关性验证)(**Oral**)<br>
+[paper](https://arxiv.org/abs/2204.01458) | [code](https://github.com/sungonce/CVNet)<br><br>
+
+[10] Rethinking Semantic Segmentation: A Prototype View(重新思考语义分割：原型视图)(**Oral**)<br>
+[paper](https://arxiv.org/abs/2203.15102) | [code](https://github.com/tfzhou/ProtoSeg)<br><br>
 
 [9] SNUG: Self-Supervised Neural Dynamic Garments(自我监督的神经动态服装)(**Oral**)<br>
 [paper](https://arxiv.org/abs/2204.02219) | [project](http://mslab.es/projects/SNUG/)<br><br>
