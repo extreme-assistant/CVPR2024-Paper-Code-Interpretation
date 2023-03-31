@@ -30,6 +30,7 @@
 
 # 10.CVPR2023论文下载/代码/解读/直播(持续更新)
 * [Papers/Codes/Project/PaperReading／Demos/直播分享／论文分享会等](https://github.com/extreme-assistant/CVPR2023-Paper-Code-Interpretation/blob/master/CVPR2023.md)<br><br>
+* [CVPR2022 论文解读汇总 + 技术直播汇总](https://www.cvmart.net/community/detail/7423)<br>
 
 
 
