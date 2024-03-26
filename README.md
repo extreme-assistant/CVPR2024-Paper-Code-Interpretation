@@ -13,6 +13,7 @@
 
 # 目录
 
+[11. CVPR2024论文解读汇总](#10)<br>
 [10. CVPR2023最新信息及论文下载](#10)<br>
 [9. CVPR2022最新信息及论文下载](#9)<br>
 [8. CVPR2021论文下载/代码/解读/直播](#8)<br>
@@ -23,6 +24,14 @@
 [3. CVPR2019论文分方向盘点](#3)<br>
 [2. CVPR2019论文直播分享](#2)<br>
 [1. CVPR2018/CVPR2017](#1)<br>
+
+
+
+<br>
+<a name="11"/> 
+
+# 11. CVPR2024论文解读汇总
+* [CVPR2024论文解读汇总](https://github.com/extreme-assistant/CVPR2023-Paper-Code-Interpretation/blob/master/CVPR%202024)
 
 
 <br>
