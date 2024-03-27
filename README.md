@@ -31,7 +31,7 @@
 <a name="11"/> 
 
 # 11. CVPR2024论文解读汇总
-* [CVPR2024论文解读汇总](https://github.com/extreme-assistant/CVPR2023-Paper-Code-Interpretation/blob/master/CVPR%202024)
+* [CVPR2024论文解读汇总](https://www.cvmart.net/community/detail/8557)
 
 
 <br>
