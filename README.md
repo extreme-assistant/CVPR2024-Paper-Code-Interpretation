@@ -32,6 +32,7 @@
 
 # 11. CVPR2024论文解读汇总
 * [CVPR2024论文解读汇总](https://www.cvmart.net/community/detail/8557)
+* [CVPR2024工作直播分享汇总](https://github.com/extreme-assistant/CVPR2024-Paper-Code-Interpretation/blob/master/CVPR2024.md)
 
 
 <br>
